@@ -1,6 +1,6 @@
-# TechiDaily
+# Ai Voice Clone Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://ai-voice-clone.techidaily.com](https://ai-voice-clone.techidaily.com)
 
 ## Publish
 
