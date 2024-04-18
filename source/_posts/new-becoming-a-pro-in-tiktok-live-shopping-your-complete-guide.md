@@ -1,7 +1,7 @@
 ---
 title: New Becoming a Pro in TikTok Live Shopping Your Complete Guide
-date: 2024-04-17T00:28:18.199Z
-updated: 2024-04-18T00:28:18.199Z
+date: 2024-04-17T01:30:08.420Z
+updated: 2024-04-18T01:30:08.420Z
 tags: 
   - ai voice clone
   - voice cloning

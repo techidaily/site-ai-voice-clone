@@ -1,7 +1,7 @@
 ---
 title: New In 2024, A Brief Review of CapCut Translate With Alternative
-date: 2024-04-17T00:30:57.854Z
-updated: 2024-04-18T00:30:57.854Z
+date: 2024-04-17T01:30:11.830Z
+updated: 2024-04-18T01:30:11.830Z
 tags: 
   - ai voice clone
   - voice cloning

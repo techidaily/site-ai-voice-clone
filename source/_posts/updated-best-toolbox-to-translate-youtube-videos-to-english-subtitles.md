@@ -1,7 +1,7 @@
 ---
 title: Updated Best Toolbox to Translate YouTube Videos to English Subtitles
-date: 2024-04-17T00:30:03.567Z
-updated: 2024-04-18T00:30:03.567Z
+date: 2024-04-17T01:30:10.567Z
+updated: 2024-04-18T01:30:10.567Z
 tags: 
   - ai voice clone
   - voice cloning

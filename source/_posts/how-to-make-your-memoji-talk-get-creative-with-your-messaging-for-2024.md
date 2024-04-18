@@ -1,7 +1,7 @@
 ---
 title: How To Make Your Memoji Talk? Get Creative With Your Messaging for 2024
-date: 2024-04-17T00:28:24.904Z
-updated: 2024-04-18T00:28:24.904Z
+date: 2024-04-17T01:30:08.573Z
+updated: 2024-04-18T01:30:08.573Z
 tags: 
   - ai voice clone
   - voice cloning

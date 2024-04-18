@@ -1,7 +1,7 @@
 ---
 title: Updated Translate Video From Japanese to English Online for Free for 2024
-date: 2024-04-17T00:36:46.220Z
-updated: 2024-04-18T00:36:46.220Z
+date: 2024-04-17T01:30:17.539Z
+updated: 2024-04-18T01:30:17.539Z
 tags: 
   - ai voice clone
   - voice cloning

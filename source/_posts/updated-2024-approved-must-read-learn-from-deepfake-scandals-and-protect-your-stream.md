@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Must-Read Learn From Deepfake Scandals & Protect Your Stream
-date: 2024-04-17T00:34:37.753Z
-updated: 2024-04-18T00:34:37.753Z
+date: 2024-04-17T01:30:15.174Z
+updated: 2024-04-18T01:30:15.174Z
 tags: 
   - ai voice clone
   - voice cloning

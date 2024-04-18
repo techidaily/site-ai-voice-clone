@@ -1,7 +1,7 @@
 ---
 title: How to Define AI Video for 2024
-date: 2024-04-17T00:27:40.497Z
-updated: 2024-04-18T00:27:40.497Z
+date: 2024-04-17T01:30:07.705Z
+updated: 2024-04-18T01:30:07.705Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New Top 10 Robotic Voice Generators (with Comparison Table) for 2024
-date: 2024-04-17T00:32:28.736Z
-updated: 2024-04-18T00:32:28.736Z
+date: 2024-04-17T01:30:12.881Z
+updated: 2024-04-18T01:30:12.881Z
 tags: 
   - ai voice clone
   - voice cloning

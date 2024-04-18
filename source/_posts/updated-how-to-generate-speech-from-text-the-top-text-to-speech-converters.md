@@ -1,7 +1,7 @@
 ---
 title: Updated How To Generate Speech From Text | The Top Text-to-Speech Converters
-date: 2024-04-17T00:29:51.070Z
-updated: 2024-04-18T00:29:51.070Z
+date: 2024-04-17T01:30:10.291Z
+updated: 2024-04-18T01:30:10.291Z
 tags: 
   - ai voice clone
   - voice cloning

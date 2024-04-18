@@ -1,7 +1,7 @@
 ---
 title: New Handling Exceptions for 2024
-date: 2024-04-17T00:33:51.480Z
-updated: 2024-04-18T00:33:51.480Z
+date: 2024-04-17T01:30:14.317Z
+updated: 2024-04-18T01:30:14.317Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps for 2024
-date: 2024-04-17T00:32:42.371Z
-updated: 2024-04-18T00:32:42.371Z
+date: 2024-04-17T01:30:13.136Z
+updated: 2024-04-18T01:30:13.136Z
 tags: 
   - ai voice clone
   - voice cloning

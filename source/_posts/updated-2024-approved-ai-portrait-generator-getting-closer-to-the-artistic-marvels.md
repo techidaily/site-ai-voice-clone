@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved AI Portrait Generator Getting Closer to the Artistic Marvels
-date: 2024-04-17T00:31:22.949Z
-updated: 2024-04-18T00:31:22.949Z
+date: 2024-04-17T01:30:12.021Z
+updated: 2024-04-18T01:30:12.021Z
 tags: 
   - ai voice clone
   - voice cloning

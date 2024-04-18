@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?
-date: 2024-04-17T00:27:53.752Z
-updated: 2024-04-18T00:27:53.752Z
+date: 2024-04-17T01:30:07.890Z
+updated: 2024-04-18T01:30:07.890Z
 tags: 
   - ai voice clone
   - voice cloning

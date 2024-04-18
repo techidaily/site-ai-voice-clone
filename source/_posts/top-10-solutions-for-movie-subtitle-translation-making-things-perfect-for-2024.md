@@ -1,7 +1,7 @@
 ---
 title: Top 10 Solutions for Movie Subtitle Translation Making Things Perfect for 2024
-date: 2024-04-17T00:29:25.750Z
-updated: 2024-04-18T00:29:25.750Z
+date: 2024-04-17T01:30:09.704Z
+updated: 2024-04-18T01:30:09.704Z
 tags: 
   - ai voice clone
   - voice cloning

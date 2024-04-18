@@ -1,7 +1,7 @@
 ---
 title: Updated Cloning Voices With Hugging Face An In-Depth Review for 2024
-date: 2024-04-17T00:32:50.915Z
-updated: 2024-04-18T00:32:50.915Z
+date: 2024-04-17T01:30:13.297Z
+updated: 2024-04-18T01:30:13.297Z
 tags: 
   - ai voice clone
   - voice cloning

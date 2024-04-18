@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved What Is an AI Video Generator?
-date: 2024-04-17T00:37:37.070Z
-updated: 2024-04-18T00:37:37.070Z
+date: 2024-04-17T01:30:18.291Z
+updated: 2024-04-18T01:30:18.291Z
 tags: 
   - ai voice clone
   - voice cloning

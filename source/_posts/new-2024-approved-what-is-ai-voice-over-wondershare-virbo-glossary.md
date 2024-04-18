@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved What Is AI Voice Over? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:54.536Z
-updated: 2024-04-18T00:31:54.536Z
+date: 2024-04-17T01:30:12.356Z
+updated: 2024-04-18T01:30:12.356Z
 tags: 
   - ai voice clone
   - voice cloning

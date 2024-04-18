@@ -1,7 +1,7 @@
 ---
 title: New What Is an AI Voice Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:55.956Z
-updated: 2024-04-18T00:25:55.956Z
+date: 2024-04-17T01:30:05.909Z
+updated: 2024-04-18T01:30:05.909Z
 tags: 
   - ai voice clone
   - voice cloning

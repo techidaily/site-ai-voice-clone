@@ -1,7 +1,7 @@
 ---
 title: In 2024, Design Cartoon Images With the Best Tools
-date: 2024-04-17T00:26:59.547Z
-updated: 2024-04-18T00:26:59.547Z
+date: 2024-04-17T01:30:07.204Z
+updated: 2024-04-18T01:30:07.204Z
 tags: 
   - ai voice clone
   - voice cloning

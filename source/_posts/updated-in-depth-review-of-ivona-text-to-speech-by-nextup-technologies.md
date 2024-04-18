@@ -1,7 +1,7 @@
 ---
 title: Updated In-Depth Review of Ivona Text to Speech by NextUp Technologies
-date: 2024-04-17T00:28:01.362Z
-updated: 2024-04-18T00:28:01.362Z
+date: 2024-04-17T01:30:08.041Z
+updated: 2024-04-18T01:30:08.041Z
 tags: 
   - ai voice clone
   - voice cloning

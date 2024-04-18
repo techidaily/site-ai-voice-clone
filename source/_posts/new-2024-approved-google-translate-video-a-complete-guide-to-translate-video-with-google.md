@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Google Translate Video A Complete Guide To Translate Video With Google
-date: 2024-04-17T00:33:46.722Z
-updated: 2024-04-18T00:33:46.722Z
+date: 2024-04-17T01:30:14.243Z
+updated: 2024-04-18T01:30:14.243Z
 tags: 
   - ai voice clone
   - voice cloning

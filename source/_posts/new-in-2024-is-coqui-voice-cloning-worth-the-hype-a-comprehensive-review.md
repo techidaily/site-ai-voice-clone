@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review
-date: 2024-04-17T00:32:53.858Z
-updated: 2024-04-18T00:32:53.858Z
+date: 2024-04-17T01:30:13.348Z
+updated: 2024-04-18T01:30:13.348Z
 tags: 
   - ai voice clone
   - voice cloning

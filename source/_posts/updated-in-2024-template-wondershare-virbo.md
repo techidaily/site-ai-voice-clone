@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Template | Wondershare Virbo
-date: 2024-04-17T00:35:35.830Z
-updated: 2024-04-18T00:35:35.830Z
+date: 2024-04-17T01:30:16.295Z
+updated: 2024-04-18T01:30:16.295Z
 tags: 
   - ai voice clone
   - voice cloning

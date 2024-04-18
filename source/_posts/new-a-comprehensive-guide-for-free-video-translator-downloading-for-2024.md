@@ -1,7 +1,7 @@
 ---
 title: New A Comprehensive Guide for Free Video Translator Downloading for 2024
-date: 2024-04-17T00:30:59.796Z
-updated: 2024-04-18T00:30:59.796Z
+date: 2024-04-17T01:30:11.875Z
+updated: 2024-04-18T01:30:11.875Z
 tags: 
   - ai voice clone
   - voice cloning

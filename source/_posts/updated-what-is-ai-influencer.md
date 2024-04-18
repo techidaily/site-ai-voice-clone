@@ -1,7 +1,7 @@
 ---
 title: Updated What Is AI Influencer?
-date: 2024-04-17T00:30:24.225Z
-updated: 2024-04-18T00:30:24.225Z
+date: 2024-04-17T01:30:10.969Z
+updated: 2024-04-18T01:30:10.969Z
 tags: 
   - ai voice clone
   - voice cloning

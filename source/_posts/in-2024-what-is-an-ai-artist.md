@@ -1,7 +1,7 @@
 ---
 title: In 2024, What Is an AI Artist?
-date: 2024-04-17T00:30:30.953Z
-updated: 2024-04-18T00:30:30.953Z
+date: 2024-04-17T01:30:11.067Z
+updated: 2024-04-18T01:30:11.067Z
 tags: 
   - ai voice clone
   - voice cloning

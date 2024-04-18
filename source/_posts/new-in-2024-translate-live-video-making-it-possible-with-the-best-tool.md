@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Translate Live Video Making It Possible With The Best Tool
-date: 2024-04-17T00:36:42.424Z
-updated: 2024-04-18T00:36:42.424Z
+date: 2024-04-17T01:30:17.492Z
+updated: 2024-04-18T01:30:17.492Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated Best 5 Udemy Subtitle Translator (Auto Translation)
-date: 2024-04-17T00:30:07.046Z
-updated: 2024-04-18T00:30:07.046Z
+date: 2024-04-17T01:30:10.659Z
+updated: 2024-04-18T01:30:10.659Z
 tags: 
   - ai voice clone
   - voice cloning

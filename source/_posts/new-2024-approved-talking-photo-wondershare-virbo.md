@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Talking Photo | Wondershare Virbo
-date: 2024-04-17T00:35:33.440Z
-updated: 2024-04-18T00:35:33.440Z
+date: 2024-04-17T01:30:16.275Z
+updated: 2024-04-18T01:30:16.275Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Power of AI Thumbnail Generators
-date: 2024-04-17T00:29:13.239Z
-updated: 2024-04-18T00:29:13.239Z
+date: 2024-04-17T01:30:09.472Z
+updated: 2024-04-18T01:30:09.472Z
 tags: 
   - ai voice clone
   - voice cloning

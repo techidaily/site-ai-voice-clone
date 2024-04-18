@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How to Translate TikTok Videos Top 5 Auto Translate Tools
-date: 2024-04-17T00:34:17.850Z
-updated: 2024-04-18T00:34:17.850Z
+date: 2024-04-17T01:30:14.819Z
+updated: 2024-04-18T01:30:14.819Z
 tags: 
   - ai voice clone
   - voice cloning

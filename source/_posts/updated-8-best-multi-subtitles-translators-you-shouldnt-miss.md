@@ -1,7 +1,7 @@
 ---
 title: Updated 8 Best Multi-Subtitles Translators You Shouldnt Miss
-date: 2024-04-17T00:25:07.676Z
-updated: 2024-04-18T00:25:07.676Z
+date: 2024-04-17T01:30:05.055Z
+updated: 2024-04-18T01:30:05.055Z
 tags: 
   - ai voice clone
   - voice cloning

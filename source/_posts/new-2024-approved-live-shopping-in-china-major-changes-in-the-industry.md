@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Live Shopping in China Major Changes in the Industry
-date: 2024-04-17T00:34:45.427Z
-updated: 2024-04-18T00:34:45.427Z
+date: 2024-04-17T01:30:15.285Z
+updated: 2024-04-18T01:30:15.285Z
 tags: 
   - ai voice clone
   - voice cloning

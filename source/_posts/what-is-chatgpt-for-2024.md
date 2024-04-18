@@ -1,7 +1,7 @@
 ---
 title: What Is ChatGPT for 2024
-date: 2024-04-17T00:30:41.452Z
-updated: 2024-04-18T00:30:41.452Z
+date: 2024-04-17T01:30:11.223Z
+updated: 2024-04-18T01:30:11.223Z
 tags: 
   - ai voice clone
   - voice cloning

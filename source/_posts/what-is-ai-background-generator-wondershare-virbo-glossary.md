@@ -1,7 +1,7 @@
 ---
 title: What Is AI Background Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:23:55.679Z
-updated: 2024-04-18T00:23:55.679Z
+date: 2024-04-17T01:30:04.061Z
+updated: 2024-04-18T01:30:04.061Z
 tags: 
   - ai voice clone
   - voice cloning

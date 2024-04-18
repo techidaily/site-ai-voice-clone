@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Create Videos with an AI Script Generator
-date: 2024-04-17T00:33:11.656Z
-updated: 2024-04-18T00:33:11.656Z
+date: 2024-04-17T01:30:13.648Z
+updated: 2024-04-18T01:30:13.648Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Narakeet Review Convenient Text to Speech Voice Maker
-date: 2024-04-17T00:24:34.008Z
-updated: 2024-04-18T00:24:34.008Z
+date: 2024-04-17T01:30:04.431Z
+updated: 2024-04-18T01:30:04.431Z
 tags: 
   - ai voice clone
   - voice cloning

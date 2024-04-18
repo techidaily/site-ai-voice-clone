@@ -1,7 +1,7 @@
 ---
 title: New AI Avatars | Online for 2024
-date: 2024-04-17T00:31:13.260Z
-updated: 2024-04-18T00:31:13.260Z
+date: 2024-04-17T01:30:11.965Z
+updated: 2024-04-18T01:30:11.965Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make Explainer Videos—Step by Step Guide
-date: 2024-04-17T00:27:48.327Z
-updated: 2024-04-18T00:27:48.327Z
+date: 2024-04-17T01:30:07.823Z
+updated: 2024-04-18T01:30:07.823Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Speech-to-Speech Voice Cloning A Breakthrough in AI Voice Industry
-date: 2024-04-17T00:24:37.241Z
-updated: 2024-04-18T00:24:37.241Z
+date: 2024-04-17T01:30:04.490Z
+updated: 2024-04-18T01:30:04.490Z
 tags: 
   - ai voice clone
   - voice cloning

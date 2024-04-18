@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Launching Your Live Room
-date: 2024-04-17T00:34:35.942Z
-updated: 2024-04-18T00:34:35.942Z
+date: 2024-04-17T01:30:15.160Z
+updated: 2024-04-18T01:30:15.160Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Device/Network/Browser Requirements
-date: 2024-04-17T00:27:11.290Z
-updated: 2024-04-18T00:27:11.290Z
+date: 2024-04-17T01:30:07.277Z
+updated: 2024-04-18T01:30:07.277Z
 tags: 
   - ai voice clone
   - voice cloning

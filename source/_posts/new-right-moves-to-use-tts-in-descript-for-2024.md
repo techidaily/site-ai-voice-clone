@@ -1,7 +1,7 @@
 ---
 title: New Right Moves to Use TTS in Descript for 2024
-date: 2024-04-17T00:33:21.945Z
-updated: 2024-04-18T00:33:21.945Z
+date: 2024-04-17T01:30:13.830Z
+updated: 2024-04-18T01:30:13.830Z
 tags: 
   - ai voice clone
   - voice cloning

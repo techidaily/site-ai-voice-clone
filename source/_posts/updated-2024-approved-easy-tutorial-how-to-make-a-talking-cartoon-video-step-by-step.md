@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step
-date: 2024-04-17T00:34:52.287Z
-updated: 2024-04-18T00:34:52.287Z
+date: 2024-04-17T01:30:15.459Z
+updated: 2024-04-18T01:30:15.459Z
 tags: 
   - ai voice clone
   - voice cloning

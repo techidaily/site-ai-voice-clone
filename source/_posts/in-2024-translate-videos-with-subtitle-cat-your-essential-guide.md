@@ -1,7 +1,7 @@
 ---
 title: In 2024, Translate Videos with Subtitle Cat Your Essential Guide
-date: 2024-04-17T00:28:53.896Z
-updated: 2024-04-18T00:28:53.896Z
+date: 2024-04-17T01:30:09.082Z
+updated: 2024-04-18T01:30:09.082Z
 tags: 
   - ai voice clone
   - voice cloning

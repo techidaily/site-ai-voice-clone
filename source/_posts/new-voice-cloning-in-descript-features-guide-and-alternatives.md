@@ -1,7 +1,7 @@
 ---
 title: New Voice Cloning in Descript Features, Guide & Alternatives
-date: 2024-04-17T00:27:09.633Z
-updated: 2024-04-18T00:27:09.633Z
+date: 2024-04-17T01:30:07.268Z
+updated: 2024-04-18T01:30:07.268Z
 tags: 
   - ai voice clone
   - voice cloning

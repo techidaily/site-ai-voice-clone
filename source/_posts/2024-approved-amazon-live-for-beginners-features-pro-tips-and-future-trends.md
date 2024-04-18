@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Amazon Live for Beginners Features, Pro Tips & Future Trends
-date: 2024-04-17T00:26:00.824Z
-updated: 2024-04-18T00:26:00.824Z
+date: 2024-04-17T01:30:05.989Z
+updated: 2024-04-18T01:30:05.989Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Live Deepfakes Made Easy How to Download and Make Your Own Live Model
-date: 2024-04-17T00:33:17.285Z
-updated: 2024-04-18T00:33:17.285Z
+date: 2024-04-17T01:30:13.727Z
+updated: 2024-04-18T01:30:13.727Z
 tags: 
   - ai voice clone
   - voice cloning

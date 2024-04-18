@@ -1,7 +1,7 @@
 ---
 title: Updated Get To Know OpenAIs Sora and How To Use It
-date: 2024-04-17T00:30:43.277Z
-updated: 2024-04-18T00:30:43.277Z
+date: 2024-04-17T01:30:11.257Z
+updated: 2024-04-18T01:30:11.257Z
 tags: 
   - ai voice clone
   - voice cloning

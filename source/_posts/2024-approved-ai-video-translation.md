@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved AI Video Translation
-date: 2024-04-17T00:25:46.214Z
-updated: 2024-04-18T00:25:46.214Z
+date: 2024-04-17T01:30:05.749Z
+updated: 2024-04-18T01:30:05.749Z
 tags: 
   - ai voice clone
   - voice cloning

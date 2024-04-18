@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is an AI Headshot Generator?
-date: 2024-04-17T00:37:29.336Z
-updated: 2024-04-18T00:37:29.336Z
+date: 2024-04-17T01:30:18.144Z
+updated: 2024-04-18T01:30:18.144Z
 tags: 
   - ai voice clone
   - voice cloning

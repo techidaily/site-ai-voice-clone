@@ -1,7 +1,7 @@
 ---
 title: Ready To Dive Into Photo Talking Videos? Heres What You Need To Know
-date: 2024-04-17T00:24:14.683Z
-updated: 2024-04-18T00:24:14.683Z
+date: 2024-04-17T01:30:04.180Z
+updated: 2024-04-18T01:30:04.180Z
 tags: 
   - ai voice clone
   - voice cloning

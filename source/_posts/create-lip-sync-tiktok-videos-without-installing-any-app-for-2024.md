@@ -1,7 +1,7 @@
 ---
 title: Create Lip Sync TikTok Videos Without Installing Any App for 2024
-date: 2024-04-17T00:26:57.615Z
-updated: 2024-04-18T00:26:57.615Z
+date: 2024-04-17T01:30:07.192Z
+updated: 2024-04-18T01:30:07.192Z
 tags: 
   - ai voice clone
   - voice cloning

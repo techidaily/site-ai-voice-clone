@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Netflix Subtitle Translation Methods Comprehensive Guide
-date: 2024-04-17T00:35:06.089Z
-updated: 2024-04-18T00:35:06.089Z
+date: 2024-04-17T01:30:15.731Z
+updated: 2024-04-18T01:30:15.731Z
 tags: 
   - ai voice clone
   - voice cloning

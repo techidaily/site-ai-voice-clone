@@ -1,7 +1,7 @@
 ---
 title: Best 12 AI Voice Cloning Tools Online & Offline for 2024
-date: 2024-04-17T00:26:07.207Z
-updated: 2024-04-18T00:26:07.207Z
+date: 2024-04-17T01:30:06.163Z
+updated: 2024-04-18T01:30:06.163Z
 tags: 
   - ai voice clone
   - voice cloning

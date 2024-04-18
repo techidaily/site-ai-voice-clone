@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Top 5 TikTok Voice Generators You Should Try
-date: 2024-04-17T00:36:16.177Z
-updated: 2024-04-18T00:36:16.177Z
+date: 2024-04-17T01:30:17.109Z
+updated: 2024-04-18T01:30:17.109Z
 tags: 
   - ai voice clone
   - voice cloning

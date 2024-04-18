@@ -1,7 +1,7 @@
 ---
 title: What Is Talking Avatar? | Wondershare Virbo Glossary for 2024
-date: 2024-04-17T00:28:57.503Z
-updated: 2024-04-18T00:28:57.503Z
+date: 2024-04-17T01:30:09.164Z
+updated: 2024-04-18T01:30:09.164Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Chrome Video Translators Top 5 Video Translation Chrome Extensions
-date: 2024-04-17T00:32:48.122Z
-updated: 2024-04-18T00:32:48.122Z
+date: 2024-04-17T01:30:13.246Z
+updated: 2024-04-18T01:30:13.246Z
 tags: 
   - ai voice clone
   - voice cloning

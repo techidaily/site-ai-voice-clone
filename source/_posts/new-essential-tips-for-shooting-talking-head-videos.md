@@ -1,7 +1,7 @@
 ---
 title: New Essential Tips for Shooting Talking Head Videos
-date: 2024-04-17T00:28:27.974Z
-updated: 2024-04-18T00:28:27.974Z
+date: 2024-04-17T01:30:08.627Z
+updated: 2024-04-18T01:30:08.627Z
 tags: 
   - ai voice clone
   - voice cloning

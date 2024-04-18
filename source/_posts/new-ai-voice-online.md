@@ -1,7 +1,7 @@
 ---
 title: New AI Voice | Online
-date: 2024-04-17T00:25:56.670Z
-updated: 2024-04-18T00:25:56.670Z
+date: 2024-04-17T01:30:05.938Z
+updated: 2024-04-18T01:30:05.938Z
 tags: 
   - ai voice clone
   - voice cloning

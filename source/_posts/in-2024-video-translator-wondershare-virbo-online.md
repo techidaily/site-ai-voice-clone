@@ -1,7 +1,7 @@
 ---
 title: In 2024, Video Translator | Wondershare Virbo Online
-date: 2024-04-17T00:30:15.114Z
-updated: 2024-04-18T00:30:15.114Z
+date: 2024-04-17T01:30:10.792Z
+updated: 2024-04-18T01:30:10.792Z
 tags: 
   - ai voice clone
   - voice cloning

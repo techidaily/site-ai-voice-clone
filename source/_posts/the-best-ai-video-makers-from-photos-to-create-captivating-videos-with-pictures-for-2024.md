@@ -1,7 +1,7 @@
 ---
 title: The Best AI Video Makers From Photos to Create Captivating Videos with Pictures for 2024
-date: 2024-04-17T00:29:06.050Z
-updated: 2024-04-18T00:29:06.050Z
+date: 2024-04-17T01:30:09.355Z
+updated: 2024-04-18T01:30:09.355Z
 tags: 
   - ai voice clone
   - voice cloning

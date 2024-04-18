@@ -1,7 +1,7 @@
 ---
 title: New Top 4 Hatsune Miku Voice AI Generators for All Times for 2024
-date: 2024-04-17T00:36:10.572Z
-updated: 2024-04-18T00:36:10.572Z
+date: 2024-04-17T01:30:17.047Z
+updated: 2024-04-18T01:30:17.047Z
 tags: 
   - ai voice clone
   - voice cloning

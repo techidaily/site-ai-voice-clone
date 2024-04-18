@@ -1,7 +1,7 @@
 ---
 title: What Is an AI Video Editor for 2024
-date: 2024-04-17T00:30:37.956Z
-updated: 2024-04-18T00:30:37.956Z
+date: 2024-04-17T01:30:11.174Z
+updated: 2024-04-18T01:30:11.174Z
 tags: 
   - ai voice clone
   - voice cloning

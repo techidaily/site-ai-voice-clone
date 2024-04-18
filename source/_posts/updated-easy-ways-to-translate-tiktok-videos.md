@@ -1,7 +1,7 @@
 ---
 title: Updated Easy Ways to Translate TikTok Videos
-date: 2024-04-17T00:29:19.139Z
-updated: 2024-04-18T00:29:19.139Z
+date: 2024-04-17T01:30:09.595Z
+updated: 2024-04-18T01:30:09.595Z
 tags: 
   - ai voice clone
   - voice cloning

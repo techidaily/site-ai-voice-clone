@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is an AI Art Generator?
-date: 2024-04-17T00:37:24.624Z
-updated: 2024-04-18T00:37:24.624Z
+date: 2024-04-17T01:30:18.072Z
+updated: 2024-04-18T01:30:18.072Z
 tags: 
   - ai voice clone
   - voice cloning

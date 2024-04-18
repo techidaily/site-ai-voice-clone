@@ -1,7 +1,7 @@
 ---
 title: New 8 Types of Explainer Videos with Best Examples
-date: 2024-04-17T00:30:06.207Z
-updated: 2024-04-18T00:30:06.207Z
+date: 2024-04-17T01:30:10.643Z
+updated: 2024-04-18T01:30:10.643Z
 tags: 
   - ai voice clone
   - voice cloning

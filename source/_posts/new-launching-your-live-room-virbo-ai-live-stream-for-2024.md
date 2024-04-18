@@ -1,7 +1,7 @@
 ---
 title: New Launching Your Live Room | Virbo AI Live Stream for 2024
-date: 2024-04-17T00:34:34.829Z
-updated: 2024-04-18T00:34:34.829Z
+date: 2024-04-17T01:30:15.145Z
+updated: 2024-04-18T01:30:15.145Z
 tags: 
   - ai voice clone
   - voice cloning

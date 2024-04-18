@@ -1,7 +1,7 @@
 ---
 title: In 2024, Material Preparation | Virbo AI Live Stream
-date: 2024-04-17T00:28:29.654Z
-updated: 2024-04-18T00:28:29.654Z
+date: 2024-04-17T01:30:08.643Z
+updated: 2024-04-18T01:30:08.643Z
 tags: 
   - ai voice clone
   - voice cloning

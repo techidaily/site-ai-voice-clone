@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Use CapCut Translate to Transform Video Content
-date: 2024-04-17T00:26:39.444Z
-updated: 2024-04-18T00:26:39.444Z
+date: 2024-04-17T01:30:07.031Z
+updated: 2024-04-18T01:30:07.031Z
 tags: 
   - ai voice clone
   - voice cloning

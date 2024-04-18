@@ -1,7 +1,7 @@
 ---
 title: New Translate Videos Like a Pro with Subtitle Cat Your Essential Guide
-date: 2024-04-17T00:30:02.731Z
-updated: 2024-04-18T00:30:02.731Z
+date: 2024-04-17T01:30:10.558Z
+updated: 2024-04-18T01:30:10.558Z
 tags: 
   - ai voice clone
   - voice cloning

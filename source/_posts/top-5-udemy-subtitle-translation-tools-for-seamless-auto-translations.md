@@ -1,7 +1,7 @@
 ---
 title: Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations
-date: 2024-04-17T00:24:46.419Z
-updated: 2024-04-18T00:24:46.419Z
+date: 2024-04-17T01:30:04.676Z
+updated: 2024-04-18T01:30:04.676Z
 tags: 
   - ai voice clone
   - voice cloning

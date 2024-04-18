@@ -1,7 +1,7 @@
 ---
 title: Top 10 Talking Photo Online Tools You Have To Try for 2024
-date: 2024-04-17T00:29:27.141Z
-updated: 2024-04-18T00:29:27.141Z
+date: 2024-04-17T01:30:09.772Z
+updated: 2024-04-18T01:30:09.772Z
 tags: 
   - ai voice clone
   - voice cloning

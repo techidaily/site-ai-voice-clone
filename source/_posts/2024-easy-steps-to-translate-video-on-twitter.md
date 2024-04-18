@@ -1,7 +1,7 @@
 ---
 title: 2024 Easy Steps to Translate Video on Twitter
-date: 2024-04-17T00:23:51.245Z
-updated: 2024-04-18T00:23:51.245Z
+date: 2024-04-17T01:30:04.034Z
+updated: 2024-04-18T01:30:04.034Z
 tags: 
   - ai voice clone
   - voice cloning

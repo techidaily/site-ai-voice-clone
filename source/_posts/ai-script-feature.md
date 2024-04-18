@@ -1,7 +1,7 @@
 ---
 title: AI Script Feature
-date: 2024-04-17T00:23:57.517Z
-updated: 2024-04-18T00:23:57.517Z
+date: 2024-04-17T01:30:04.072Z
+updated: 2024-04-18T01:30:04.072Z
 tags: 
   - ai voice clone
   - voice cloning

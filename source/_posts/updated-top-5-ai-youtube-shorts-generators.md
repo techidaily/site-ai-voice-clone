@@ -1,7 +1,7 @@
 ---
 title: Updated Top 5 AI YouTube Shorts Generators
-date: 2024-04-17T00:26:00.401Z
-updated: 2024-04-18T00:26:00.401Z
+date: 2024-04-17T01:30:05.986Z
+updated: 2024-04-18T01:30:05.986Z
 tags: 
   - ai voice clone
   - voice cloning

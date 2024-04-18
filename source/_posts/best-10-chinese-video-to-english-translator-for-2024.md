@@ -1,7 +1,7 @@
 ---
 title: Best 10 Chinese Video to English Translator for 2024
-date: 2024-04-17T00:29:54.111Z
-updated: 2024-04-18T00:29:54.111Z
+date: 2024-04-17T01:30:10.376Z
+updated: 2024-04-18T01:30:10.376Z
 tags: 
   - ai voice clone
   - voice cloning

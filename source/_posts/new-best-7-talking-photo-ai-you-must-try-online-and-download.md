@@ -1,7 +1,7 @@
 ---
 title: New Best 7 Talking Photo AI You Must Try (Online & Download)
-date: 2024-04-17T00:25:38.561Z
-updated: 2024-04-18T00:25:38.561Z
+date: 2024-04-17T01:30:05.618Z
+updated: 2024-04-18T01:30:05.618Z
 tags: 
   - ai voice clone
   - voice cloning

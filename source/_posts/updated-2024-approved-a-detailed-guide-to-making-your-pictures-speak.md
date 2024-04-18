@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved A Detailed Guide to Making Your Pictures Speak
-date: 2024-04-17T00:33:49.381Z
-updated: 2024-04-18T00:33:49.381Z
+date: 2024-04-17T01:30:14.300Z
+updated: 2024-04-18T01:30:14.300Z
 tags: 
   - ai voice clone
   - voice cloning

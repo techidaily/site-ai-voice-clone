@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved What Is an AI Text Generator?
-date: 2024-04-17T00:37:33.565Z
-updated: 2024-04-18T00:37:33.565Z
+date: 2024-04-17T01:30:18.229Z
+updated: 2024-04-18T01:30:18.229Z
 tags: 
   - ai voice clone
   - voice cloning

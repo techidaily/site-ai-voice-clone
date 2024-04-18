@@ -1,7 +1,7 @@
 ---
 title: New Registration and Login | Virbo AI Live Stream
-date: 2024-04-17T00:28:45.035Z
-updated: 2024-04-18T00:28:45.035Z
+date: 2024-04-17T01:30:08.933Z
+updated: 2024-04-18T01:30:08.933Z
 tags: 
   - ai voice clone
   - voice cloning

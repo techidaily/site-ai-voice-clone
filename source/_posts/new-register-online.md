@@ -1,7 +1,7 @@
 ---
 title: New Register | Online
-date: 2024-04-17T00:28:44.332Z
-updated: 2024-04-18T00:28:44.332Z
+date: 2024-04-17T01:30:08.925Z
+updated: 2024-04-18T01:30:08.925Z
 tags: 
   - ai voice clone
   - voice cloning

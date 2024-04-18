@@ -1,7 +1,7 @@
 ---
 title: Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024
-date: 2024-04-17T00:30:10.244Z
-updated: 2024-04-18T00:30:10.244Z
+date: 2024-04-17T01:30:10.683Z
+updated: 2024-04-18T01:30:10.683Z
 tags: 
   - ai voice clone
   - voice cloning

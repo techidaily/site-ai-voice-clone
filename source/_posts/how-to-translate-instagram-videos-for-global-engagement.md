@@ -1,7 +1,7 @@
 ---
 title: How to Translate Instagram Videos for Global Engagement
-date: 2024-04-17T00:24:26.213Z
-updated: 2024-04-18T00:24:26.213Z
+date: 2024-04-17T01:30:04.318Z
+updated: 2024-04-18T01:30:04.318Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Make a Talking AI Avatar From Photos Easy Guide
-date: 2024-04-17T00:27:44.828Z
-updated: 2024-04-18T00:27:44.828Z
+date: 2024-04-17T01:30:07.784Z
+updated: 2024-04-18T01:30:07.784Z
 tags: 
   - ai voice clone
   - voice cloning

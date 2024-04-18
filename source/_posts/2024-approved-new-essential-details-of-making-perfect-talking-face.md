@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved New Essential Details of Making Perfect Talking Face
-date: 2024-04-17T00:28:37.605Z
-updated: 2024-04-18T00:28:37.605Z
+date: 2024-04-17T01:30:08.809Z
+updated: 2024-04-18T01:30:08.809Z
 tags: 
   - ai voice clone
   - voice cloning

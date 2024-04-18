@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Translate Videos and Subtitles with Veed.io
-date: 2024-04-17T00:30:01.895Z
-updated: 2024-04-18T00:30:01.895Z
+date: 2024-04-17T01:30:10.518Z
+updated: 2024-04-18T01:30:10.518Z
 tags: 
   - ai voice clone
   - voice cloning

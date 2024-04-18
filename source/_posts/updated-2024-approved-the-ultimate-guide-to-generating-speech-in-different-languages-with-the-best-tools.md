@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved The Ultimate Guide to Generating Speech in Different Languages With the Best Tools
-date: 2024-04-17T00:35:53.369Z
-updated: 2024-04-18T00:35:53.369Z
+date: 2024-04-17T01:30:16.934Z
+updated: 2024-04-18T01:30:16.934Z
 tags: 
   - ai voice clone
   - voice cloning

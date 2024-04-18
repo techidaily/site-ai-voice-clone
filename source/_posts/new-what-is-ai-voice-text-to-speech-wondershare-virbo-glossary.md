@@ -1,7 +1,7 @@
 ---
 title: New What Is AI Voice Text to Speech? | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:58.092Z
-updated: 2024-04-18T00:25:58.092Z
+date: 2024-04-17T01:30:05.948Z
+updated: 2024-04-18T01:30:05.948Z
 tags: 
   - ai voice clone
   - voice cloning

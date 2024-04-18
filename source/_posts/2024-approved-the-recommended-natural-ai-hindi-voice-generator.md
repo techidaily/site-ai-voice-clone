@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Recommended Natural AI Hindi Voice Generator
-date: 2024-04-17T00:26:12.276Z
-updated: 2024-04-18T00:26:12.276Z
+date: 2024-04-17T01:30:06.271Z
+updated: 2024-04-18T01:30:06.271Z
 tags: 
   - ai voice clone
   - voice cloning

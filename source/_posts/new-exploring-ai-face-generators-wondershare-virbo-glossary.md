@@ -1,7 +1,7 @@
 ---
 title: New Exploring AI Face Generators | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:25.152Z
-updated: 2024-04-18T00:25:25.152Z
+date: 2024-04-17T01:30:05.369Z
+updated: 2024-04-18T01:30:05.369Z
 tags: 
   - ai voice clone
   - voice cloning

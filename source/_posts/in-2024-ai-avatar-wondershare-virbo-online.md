@@ -1,7 +1,7 @@
 ---
 title: In 2024, AI Avatar | Wondershare Virbo Online
-date: 2024-04-17T00:25:20.506Z
-updated: 2024-04-18T00:25:20.506Z
+date: 2024-04-17T01:30:05.304Z
+updated: 2024-04-18T01:30:05.304Z
 tags: 
   - ai voice clone
   - voice cloning

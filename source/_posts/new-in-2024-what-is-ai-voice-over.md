@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is AI Voice Over?
-date: 2024-04-17T00:37:21.165Z
-updated: 2024-04-18T00:37:21.165Z
+date: 2024-04-17T01:30:18.011Z
+updated: 2024-04-18T01:30:18.011Z
 tags: 
   - ai voice clone
   - voice cloning

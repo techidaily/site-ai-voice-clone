@@ -1,7 +1,7 @@
 ---
 title: Updated The Best Text Voice Generators for All Platforms
-date: 2024-04-17T00:26:29.283Z
-updated: 2024-04-18T00:26:29.283Z
+date: 2024-04-17T01:30:06.958Z
+updated: 2024-04-18T01:30:06.958Z
 tags: 
   - ai voice clone
   - voice cloning

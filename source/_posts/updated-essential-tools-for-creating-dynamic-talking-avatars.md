@@ -1,7 +1,7 @@
 ---
 title: Updated Essential Tools for Creating Dynamic Talking Avatars
-date: 2024-04-17T00:28:56.536Z
-updated: 2024-04-18T00:28:56.536Z
+date: 2024-04-17T01:30:09.153Z
+updated: 2024-04-18T01:30:09.153Z
 tags: 
   - ai voice clone
   - voice cloning

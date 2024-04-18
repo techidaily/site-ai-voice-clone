@@ -1,7 +1,7 @@
 ---
 title: New Top List Best 5 Tools for Creating Talking Avatars for 2024
-date: 2024-04-17T00:36:30.951Z
-updated: 2024-04-18T00:36:30.951Z
+date: 2024-04-17T01:30:17.338Z
+updated: 2024-04-18T01:30:17.338Z
 tags: 
   - ai voice clone
   - voice cloning

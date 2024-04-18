@@ -1,7 +1,7 @@
 ---
 title: Live Commerce Next Chapter Can AI Unlock Its True Potential, In 2024
-date: 2024-04-17T00:28:15.700Z
-updated: 2024-04-18T00:28:15.700Z
+date: 2024-04-17T01:30:08.343Z
+updated: 2024-04-18T01:30:08.343Z
 tags: 
   - ai voice clone
   - voice cloning

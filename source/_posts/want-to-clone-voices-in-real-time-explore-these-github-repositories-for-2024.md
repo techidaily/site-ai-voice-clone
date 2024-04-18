@@ -1,7 +1,7 @@
 ---
 title: Want to Clone Voices in Real-Time? Explore These GitHub Repositories for 2024
-date: 2024-04-17T00:30:18.754Z
-updated: 2024-04-18T00:30:18.754Z
+date: 2024-04-17T01:30:10.846Z
+updated: 2024-04-18T01:30:10.846Z
 tags: 
   - ai voice clone
   - voice cloning

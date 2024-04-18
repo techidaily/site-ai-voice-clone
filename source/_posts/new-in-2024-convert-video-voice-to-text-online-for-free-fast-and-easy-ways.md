@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Convert Video Voice to Text Online for Free Fast and Easy Ways
-date: 2024-04-17T00:37:07.584Z
-updated: 2024-04-18T00:37:07.584Z
+date: 2024-04-17T01:30:17.819Z
+updated: 2024-04-18T01:30:17.819Z
 tags: 
   - ai voice clone
   - voice cloning

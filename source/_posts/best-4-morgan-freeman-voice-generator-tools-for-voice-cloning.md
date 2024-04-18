@@ -1,7 +1,7 @@
 ---
 title: Best 4 Morgan Freeman Voice Generator Tools for Voice Cloning
-date: 2024-04-17T00:24:04.590Z
-updated: 2024-04-18T00:24:04.590Z
+date: 2024-04-17T01:30:04.114Z
+updated: 2024-04-18T01:30:04.114Z
 tags: 
   - ai voice clone
   - voice cloning

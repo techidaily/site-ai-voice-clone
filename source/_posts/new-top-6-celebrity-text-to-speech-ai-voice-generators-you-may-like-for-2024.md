@@ -1,7 +1,7 @@
 ---
 title: New Top 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024
-date: 2024-04-17T00:36:18.144Z
-updated: 2024-04-18T00:36:18.144Z
+date: 2024-04-17T01:30:17.150Z
+updated: 2024-04-18T01:30:17.150Z
 tags: 
   - ai voice clone
   - voice cloning

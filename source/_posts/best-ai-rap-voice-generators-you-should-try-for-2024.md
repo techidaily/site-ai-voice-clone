@@ -1,7 +1,7 @@
 ---
 title: Best AI Rap Voice Generators You Should Try for 2024
-date: 2024-04-17T00:26:25.399Z
-updated: 2024-04-18T00:26:25.399Z
+date: 2024-04-17T01:30:06.507Z
+updated: 2024-04-18T01:30:06.507Z
 tags: 
   - ai voice clone
   - voice cloning

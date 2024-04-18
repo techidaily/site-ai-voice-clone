@@ -1,7 +1,7 @@
 ---
 title: In 2024, Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled
-date: 2024-04-17T00:25:27.552Z
-updated: 2024-04-18T00:25:27.552Z
+date: 2024-04-17T01:30:05.412Z
+updated: 2024-04-18T01:30:05.412Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Download/Install/Register/Uninstall | Wondershare Virbo
-date: 2024-04-17T00:33:26.749Z
-updated: 2024-04-18T00:33:26.749Z
+date: 2024-04-17T01:30:13.887Z
+updated: 2024-04-18T01:30:13.887Z
 tags: 
   - ai voice clone
   - voice cloning

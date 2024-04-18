@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Must-Read Top 10 AI Realistic Avatar Generators
-date: 2024-04-17T00:29:40.602Z
-updated: 2024-04-18T00:29:40.602Z
+date: 2024-04-17T01:30:10.085Z
+updated: 2024-04-18T01:30:10.085Z
 tags: 
   - ai voice clone
   - voice cloning

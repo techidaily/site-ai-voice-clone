@@ -1,7 +1,7 @@
 ---
 title: Guide on How to Enable the Text to Speech Function on iPhone
-date: 2024-04-17T00:24:18.740Z
-updated: 2024-04-18T00:24:18.740Z
+date: 2024-04-17T01:30:04.224Z
+updated: 2024-04-18T01:30:04.224Z
 tags: 
   - ai voice clone
   - voice cloning

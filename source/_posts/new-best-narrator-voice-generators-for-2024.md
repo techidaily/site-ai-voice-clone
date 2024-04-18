@@ -1,7 +1,7 @@
 ---
 title: New Best Narrator Voice Generators for 2024
-date: 2024-04-17T00:35:05.387Z
-updated: 2024-04-18T00:35:05.387Z
+date: 2024-04-17T01:30:15.721Z
+updated: 2024-04-18T01:30:15.721Z
 tags: 
   - ai voice clone
   - voice cloning

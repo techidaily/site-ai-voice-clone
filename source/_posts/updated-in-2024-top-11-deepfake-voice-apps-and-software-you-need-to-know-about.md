@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top 11 Deepfake Voice Apps and Software You Need to Know About
-date: 2024-04-17T00:33:15.879Z
-updated: 2024-04-18T00:33:15.879Z
+date: 2024-04-17T01:30:13.713Z
+updated: 2024-04-18T01:30:13.713Z
 tags: 
   - ai voice clone
   - voice cloning

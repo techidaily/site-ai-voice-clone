@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Top 10 Hindi Video Translators with Step-by-Step Guidance
-date: 2024-04-17T00:29:56.338Z
-updated: 2024-04-18T00:29:56.338Z
+date: 2024-04-17T01:30:10.435Z
+updated: 2024-04-18T01:30:10.435Z
 tags: 
   - ai voice clone
   - voice cloning

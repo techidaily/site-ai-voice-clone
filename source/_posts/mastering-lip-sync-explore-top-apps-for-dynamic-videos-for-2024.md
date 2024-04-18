@@ -1,7 +1,7 @@
 ---
 title: Mastering Lip Sync Explore Top Apps for Dynamic Videos for 2024
-date: 2024-04-17T00:28:13.592Z
-updated: 2024-04-18T00:28:13.592Z
+date: 2024-04-17T01:30:08.317Z
+updated: 2024-04-18T01:30:08.317Z
 tags: 
   - ai voice clone
   - voice cloning

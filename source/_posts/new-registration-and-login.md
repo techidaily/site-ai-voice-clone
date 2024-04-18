@@ -1,7 +1,7 @@
 ---
 title: New Registration and Login
-date: 2024-04-17T00:25:54.522Z
-updated: 2024-04-18T00:25:54.522Z
+date: 2024-04-17T01:30:05.898Z
+updated: 2024-04-18T01:30:05.898Z
 tags: 
   - ai voice clone
   - voice cloning

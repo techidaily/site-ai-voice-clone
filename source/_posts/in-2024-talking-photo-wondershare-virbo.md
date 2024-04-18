@@ -1,7 +1,7 @@
 ---
 title: In 2024, Talking Photo | Wondershare Virbo
-date: 2024-04-17T00:28:58.749Z
-updated: 2024-04-18T00:28:58.749Z
+date: 2024-04-17T01:30:09.173Z
+updated: 2024-04-18T01:30:09.173Z
 tags: 
   - ai voice clone
   - voice cloning

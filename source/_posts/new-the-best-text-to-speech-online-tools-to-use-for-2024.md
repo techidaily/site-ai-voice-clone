@@ -1,7 +1,7 @@
 ---
 title: New The Best Text-to-Speech Online Tools To Use for 2024
-date: 2024-04-17T00:32:24.516Z
-updated: 2024-04-18T00:32:24.516Z
+date: 2024-04-17T01:30:12.833Z
+updated: 2024-04-18T01:30:12.833Z
 tags: 
   - ai voice clone
   - voice cloning

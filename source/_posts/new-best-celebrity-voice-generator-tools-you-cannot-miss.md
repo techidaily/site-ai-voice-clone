@@ -1,7 +1,7 @@
 ---
 title: New Best Celebrity Voice Generator Tools You Cannot Miss
-date: 2024-04-17T00:26:19.438Z
-updated: 2024-04-18T00:26:19.438Z
+date: 2024-04-17T01:30:06.420Z
+updated: 2024-04-18T01:30:06.420Z
 tags: 
   - ai voice clone
   - voice cloning

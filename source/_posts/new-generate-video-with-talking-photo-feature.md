@@ -1,7 +1,7 @@
 ---
 title: New Generate Video with Talking Photo Feature
-date: 2024-04-17T00:27:30.047Z
-updated: 2024-04-18T00:27:30.047Z
+date: 2024-04-17T01:30:07.554Z
+updated: 2024-04-18T01:30:07.554Z
 tags: 
   - ai voice clone
   - voice cloning

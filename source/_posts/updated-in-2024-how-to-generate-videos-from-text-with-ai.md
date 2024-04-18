@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Generate Videos From Text with AI
-date: 2024-04-17T00:34:01.134Z
-updated: 2024-04-18T00:34:01.134Z
+date: 2024-04-17T01:30:14.502Z
+updated: 2024-04-18T01:30:14.502Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: What Is AI Voice for 2024
-date: 2024-04-17T00:30:29.552Z
-updated: 2024-04-18T00:30:29.552Z
+date: 2024-04-17T01:30:11.057Z
+updated: 2024-04-18T01:30:11.057Z
 tags: 
   - ai voice clone
   - voice cloning

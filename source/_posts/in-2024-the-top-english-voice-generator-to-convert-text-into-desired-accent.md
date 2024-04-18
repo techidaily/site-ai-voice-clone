@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Top English Voice Generator To Convert Text Into Desired Accent
-date: 2024-04-17T00:29:44.566Z
-updated: 2024-04-18T00:29:44.566Z
+date: 2024-04-17T01:30:10.145Z
+updated: 2024-04-18T01:30:10.145Z
 tags: 
   - ai voice clone
   - voice cloning

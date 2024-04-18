@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved What Is an AI Video Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:39.816Z
-updated: 2024-04-18T00:31:39.816Z
+date: 2024-04-17T01:30:12.118Z
+updated: 2024-04-18T01:30:12.118Z
 tags: 
   - ai voice clone
   - voice cloning

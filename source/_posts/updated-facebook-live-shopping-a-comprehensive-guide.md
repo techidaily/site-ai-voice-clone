@@ -1,7 +1,7 @@
 ---
 title: Updated Facebook Live Shopping A Comprehensive Guide
-date: 2024-04-17T00:27:22.945Z
-updated: 2024-04-18T00:27:22.945Z
+date: 2024-04-17T01:30:07.424Z
+updated: 2024-04-18T01:30:07.424Z
 tags: 
   - ai voice clone
   - voice cloning

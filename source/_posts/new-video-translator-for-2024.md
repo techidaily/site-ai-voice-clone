@@ -1,7 +1,7 @@
 ---
 title: New Video Translator for 2024
-date: 2024-04-17T00:37:06.176Z
-updated: 2024-04-18T00:37:06.176Z
+date: 2024-04-17T01:30:17.811Z
+updated: 2024-04-18T01:30:17.811Z
 tags: 
   - ai voice clone
   - voice cloning

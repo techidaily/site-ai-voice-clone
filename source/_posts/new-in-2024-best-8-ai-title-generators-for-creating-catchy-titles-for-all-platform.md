@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform
-date: 2024-04-17T00:32:14.940Z
-updated: 2024-04-18T00:32:14.940Z
+date: 2024-04-17T01:30:12.692Z
+updated: 2024-04-18T01:30:12.692Z
 tags: 
   - ai voice clone
   - voice cloning

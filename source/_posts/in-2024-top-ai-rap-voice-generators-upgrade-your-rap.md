@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top AI Rap Voice Generators Upgrade Your Rap
-date: 2024-04-17T00:29:42.447Z
-updated: 2024-04-18T00:29:42.447Z
+date: 2024-04-17T01:30:10.100Z
+updated: 2024-04-18T01:30:10.100Z
 tags: 
   - ai voice clone
   - voice cloning

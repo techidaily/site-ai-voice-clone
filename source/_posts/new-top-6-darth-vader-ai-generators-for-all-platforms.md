@@ -1,7 +1,7 @@
 ---
 title: New Top 6 Darth Vader AI Generators for All Platforms
-date: 2024-04-17T00:29:37.228Z
-updated: 2024-04-18T00:29:37.228Z
+date: 2024-04-17T01:30:10.029Z
+updated: 2024-04-18T01:30:10.029Z
 tags: 
   - ai voice clone
   - voice cloning

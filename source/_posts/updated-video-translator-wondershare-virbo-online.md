@@ -1,7 +1,7 @@
 ---
 title: Updated Video Translator | Wondershare Virbo Online
-date: 2024-04-17T00:30:15.673Z
-updated: 2024-04-18T00:30:15.673Z
+date: 2024-04-17T01:30:10.799Z
+updated: 2024-04-18T01:30:10.799Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: What Are AI Tools, In 2024
-date: 2024-04-17T00:30:19.452Z
-updated: 2024-04-18T00:30:19.452Z
+date: 2024-04-17T01:30:10.875Z
+updated: 2024-04-18T01:30:10.875Z
 tags: 
   - ai voice clone
   - voice cloning

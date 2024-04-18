@@ -1,7 +1,7 @@
 ---
 title: New Build Your AI Twitch Streamer with Animated Avatars for 2024
-date: 2024-04-17T00:32:44.059Z
-updated: 2024-04-18T00:32:44.059Z
+date: 2024-04-17T01:30:13.154Z
+updated: 2024-04-18T01:30:13.154Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New AI Script | Online
-date: 2024-04-17T00:25:34.327Z
-updated: 2024-04-18T00:25:34.327Z
+date: 2024-04-17T01:30:05.560Z
+updated: 2024-04-18T01:30:05.560Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated Detailed Guide on Video Speech to Text Conversion
-date: 2024-04-17T00:29:51.758Z
-updated: 2024-04-18T00:29:51.758Z
+date: 2024-04-17T01:30:10.298Z
+updated: 2024-04-18T01:30:10.298Z
 tags: 
   - ai voice clone
   - voice cloning

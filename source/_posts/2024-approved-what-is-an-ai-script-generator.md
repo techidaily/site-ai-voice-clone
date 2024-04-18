@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is an AI Script Generator?
-date: 2024-04-17T00:30:35.573Z
-updated: 2024-04-18T00:30:35.573Z
+date: 2024-04-17T01:30:11.155Z
+updated: 2024-04-18T01:30:11.155Z
 tags: 
   - ai voice clone
   - voice cloning

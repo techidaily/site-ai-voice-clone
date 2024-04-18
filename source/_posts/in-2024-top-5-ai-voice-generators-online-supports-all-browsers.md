@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)
-date: 2024-04-17T00:29:31.913Z
-updated: 2024-04-18T00:29:31.913Z
+date: 2024-04-17T01:30:09.876Z
+updated: 2024-04-18T01:30:09.876Z
 tags: 
   - ai voice clone
   - voice cloning

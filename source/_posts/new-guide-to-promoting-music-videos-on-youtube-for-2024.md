@@ -1,7 +1,7 @@
 ---
 title: New Guide to Promoting Music Videos on YouTube for 2024
-date: 2024-04-17T00:33:49.802Z
-updated: 2024-04-18T00:33:49.802Z
+date: 2024-04-17T01:30:14.304Z
+updated: 2024-04-18T01:30:14.304Z
 tags: 
   - ai voice clone
   - voice cloning

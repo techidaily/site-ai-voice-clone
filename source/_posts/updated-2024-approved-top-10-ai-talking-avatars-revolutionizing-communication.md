@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Top 10 AI-Talking Avatars Revolutionizing Communication
-date: 2024-04-17T00:36:02.587Z
-updated: 2024-04-18T00:36:02.587Z
+date: 2024-04-17T01:30:16.994Z
+updated: 2024-04-18T01:30:16.994Z
 tags: 
   - ai voice clone
   - voice cloning

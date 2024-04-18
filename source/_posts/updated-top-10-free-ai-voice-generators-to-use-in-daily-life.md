@@ -1,7 +1,7 @@
 ---
 title: Updated Top 10 Free AI Voice Generators to Use in Daily Life
-date: 2024-04-17T00:29:24.076Z
-updated: 2024-04-18T00:29:24.076Z
+date: 2024-04-17T01:30:09.692Z
+updated: 2024-04-18T01:30:09.692Z
 tags: 
   - ai voice clone
   - voice cloning

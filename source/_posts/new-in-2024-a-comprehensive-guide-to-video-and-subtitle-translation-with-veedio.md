@@ -1,7 +1,7 @@
 ---
 title: New In 2024, A Comprehensive Guide to Video and Subtitle Translation with Veed.io
-date: 2024-04-17T00:31:00.357Z
-updated: 2024-04-18T00:31:00.357Z
+date: 2024-04-17T01:30:11.881Z
+updated: 2024-04-18T01:30:11.881Z
 tags: 
   - ai voice clone
   - voice cloning

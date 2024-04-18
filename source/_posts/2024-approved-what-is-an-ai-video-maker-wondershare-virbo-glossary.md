@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is an AI Video Maker? | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:45.505Z
-updated: 2024-04-18T00:25:45.505Z
+date: 2024-04-17T01:30:05.742Z
+updated: 2024-04-18T01:30:05.742Z
 tags: 
   - ai voice clone
   - voice cloning

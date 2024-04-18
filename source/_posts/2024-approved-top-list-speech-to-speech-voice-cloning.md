@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Top List Speech-to-Speech Voice Cloning
-date: 2024-04-17T00:28:50.650Z
-updated: 2024-04-18T00:28:50.650Z
+date: 2024-04-17T01:30:09.028Z
+updated: 2024-04-18T01:30:09.028Z
 tags: 
   - ai voice clone
   - voice cloning

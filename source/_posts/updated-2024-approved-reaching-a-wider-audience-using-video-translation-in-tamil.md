@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Reaching a Wider Audience Using Video Translation in Tamil
-date: 2024-04-17T00:36:47.371Z
-updated: 2024-04-18T00:36:47.371Z
+date: 2024-04-17T01:30:17.581Z
+updated: 2024-04-18T01:30:17.581Z
 tags: 
   - ai voice clone
   - voice cloning

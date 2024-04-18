@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Best Video Translator App for PC Cannot Miss
-date: 2024-04-17T00:30:05.367Z
-updated: 2024-04-18T00:30:05.367Z
+date: 2024-04-17T01:30:10.629Z
+updated: 2024-04-18T01:30:10.629Z
 tags: 
   - ai voice clone
   - voice cloning

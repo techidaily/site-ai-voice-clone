@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Translating YouTube Videos Without CC for 2024
-date: 2024-04-17T00:30:08.854Z
-updated: 2024-04-18T00:30:08.854Z
+date: 2024-04-17T01:30:10.674Z
+updated: 2024-04-18T01:30:10.674Z
 tags: 
   - ai voice clone
   - voice cloning

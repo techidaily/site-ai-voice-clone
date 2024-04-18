@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is an AI Art Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:08.738Z
-updated: 2024-04-18T00:31:08.738Z
+date: 2024-04-17T01:30:11.939Z
+updated: 2024-04-18T01:30:11.939Z
 tags: 
   - ai voice clone
   - voice cloning

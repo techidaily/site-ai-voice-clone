@@ -1,7 +1,7 @@
 ---
 title: Tips for Perfecting Your Talking Face Content A Complete Guide for 2024
-date: 2024-04-17T00:28:26.997Z
-updated: 2024-04-18T00:28:26.997Z
+date: 2024-04-17T01:30:08.591Z
+updated: 2024-04-18T01:30:08.591Z
 tags: 
   - ai voice clone
   - voice cloning

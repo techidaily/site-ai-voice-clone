@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Top 9 Choices for Video Auto Translate
-date: 2024-04-17T00:37:03.203Z
-updated: 2024-04-18T00:37:03.203Z
+date: 2024-04-17T01:30:17.775Z
+updated: 2024-04-18T01:30:17.775Z
 tags: 
   - ai voice clone
   - voice cloning

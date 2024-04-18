@@ -1,7 +1,7 @@
 ---
 title: Updated Text to Speech
-date: 2024-04-17T00:29:05.080Z
-updated: 2024-04-18T00:29:05.080Z
+date: 2024-04-17T01:30:09.343Z
+updated: 2024-04-18T01:30:09.343Z
 tags: 
   - ai voice clone
   - voice cloning

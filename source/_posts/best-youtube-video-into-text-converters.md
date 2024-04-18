@@ -1,7 +1,7 @@
 ---
 title: Best YouTube Video Into Text Converters
-date: 2024-04-17T00:25:00.064Z
-updated: 2024-04-18T00:25:00.064Z
+date: 2024-04-17T01:30:04.909Z
+updated: 2024-04-18T01:30:04.909Z
 tags: 
   - ai voice clone
   - voice cloning

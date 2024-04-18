@@ -1,7 +1,7 @@
 ---
 title: Creating AI Videos With AI Avatars
-date: 2024-04-17T00:24:15.663Z
-updated: 2024-04-18T00:24:15.663Z
+date: 2024-04-17T01:30:04.186Z
+updated: 2024-04-18T01:30:04.186Z
 tags: 
   - ai voice clone
   - voice cloning

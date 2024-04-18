@@ -1,7 +1,7 @@
 ---
 title: Updated Translate Video From English to Arabic with Ease
-date: 2024-04-17T00:29:59.385Z
-updated: 2024-04-18T00:29:59.385Z
+date: 2024-04-17T01:30:10.463Z
+updated: 2024-04-18T01:30:10.463Z
 tags: 
   - ai voice clone
   - voice cloning

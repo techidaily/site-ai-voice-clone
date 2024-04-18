@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Translate Video Speech to Text with Speech-to-Text Converters
-date: 2024-04-17T00:36:47.657Z
-updated: 2024-04-18T00:36:47.657Z
+date: 2024-04-17T01:30:17.584Z
+updated: 2024-04-18T01:30:17.584Z
 tags: 
   - ai voice clone
   - voice cloning

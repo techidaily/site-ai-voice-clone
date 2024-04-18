@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Descript Overdub Controlling the Audio in Video
-date: 2024-04-17T00:33:20.679Z
-updated: 2024-04-18T00:33:20.679Z
+date: 2024-04-17T01:30:13.791Z
+updated: 2024-04-18T01:30:13.791Z
 tags: 
   - ai voice clone
   - voice cloning

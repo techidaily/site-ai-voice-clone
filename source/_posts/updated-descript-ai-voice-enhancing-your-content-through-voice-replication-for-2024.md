@@ -1,7 +1,7 @@
 ---
 title: Updated Descript AI Voice Enhancing Your Content Through Voice Replication for 2024
-date: 2024-04-17T00:33:18.700Z
-updated: 2024-04-18T00:33:18.700Z
+date: 2024-04-17T01:30:13.773Z
+updated: 2024-04-18T01:30:13.773Z
 tags: 
   - ai voice clone
   - voice cloning

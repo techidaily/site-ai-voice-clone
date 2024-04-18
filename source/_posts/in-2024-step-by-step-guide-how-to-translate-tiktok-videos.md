@@ -1,7 +1,7 @@
 ---
 title: In 2024, Step-by-Step Guide How to Translate TikTok Videos
-date: 2024-04-17T00:28:51.774Z
-updated: 2024-04-18T00:28:51.774Z
+date: 2024-04-17T01:30:09.063Z
+updated: 2024-04-18T01:30:09.063Z
 tags: 
   - ai voice clone
   - voice cloning

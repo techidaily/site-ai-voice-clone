@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Installation and Registration
-date: 2024-04-17T00:31:48.974Z
-updated: 2024-04-18T00:31:48.974Z
+date: 2024-04-17T01:30:12.225Z
+updated: 2024-04-18T01:30:12.225Z
 tags: 
   - ai voice clone
   - voice cloning

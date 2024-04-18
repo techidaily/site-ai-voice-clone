@@ -1,7 +1,7 @@
 ---
 title: Updated Realistic AI Avatars for 2024
-date: 2024-04-17T00:35:13.918Z
-updated: 2024-04-18T00:35:13.918Z
+date: 2024-04-17T01:30:15.878Z
+updated: 2024-04-18T01:30:15.878Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New AI Script Generator | Virbo Guide for 2024
-date: 2024-04-17T00:31:29.285Z
-updated: 2024-04-18T00:31:29.285Z
+date: 2024-04-17T01:30:12.055Z
+updated: 2024-04-18T01:30:12.055Z
 tags: 
   - ai voice clone
   - voice cloning

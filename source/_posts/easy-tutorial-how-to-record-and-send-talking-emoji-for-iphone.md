@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial How to Record and Send Talking Emoji for iPhone
-date: 2024-04-17T00:24:32.460Z
-updated: 2024-04-18T00:24:32.460Z
+date: 2024-04-17T01:30:04.420Z
+updated: 2024-04-18T01:30:04.420Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Chrome Video Translator Select the Perfect Platform
-date: 2024-04-17T00:24:11.325Z
-updated: 2024-04-18T00:24:11.325Z
+date: 2024-04-17T01:30:04.158Z
+updated: 2024-04-18T01:30:04.158Z
 tags: 
   - ai voice clone
   - voice cloning

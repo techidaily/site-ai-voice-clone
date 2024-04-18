@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Voice Translation English to Bangla Online and Offline Apps
-date: 2024-04-17T00:33:33.475Z
-updated: 2024-04-18T00:33:33.475Z
+date: 2024-04-17T01:30:13.996Z
+updated: 2024-04-18T01:30:13.996Z
 tags: 
   - ai voice clone
   - voice cloning

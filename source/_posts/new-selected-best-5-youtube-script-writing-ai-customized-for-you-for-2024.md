@@ -1,7 +1,7 @@
 ---
 title: New Selected Best 5 YouTube Script Writing AI Customized for You for 2024
-date: 2024-04-17T00:32:17.749Z
-updated: 2024-04-18T00:32:17.749Z
+date: 2024-04-17T01:30:12.721Z
+updated: 2024-04-18T01:30:12.721Z
 tags: 
   - ai voice clone
   - voice cloning

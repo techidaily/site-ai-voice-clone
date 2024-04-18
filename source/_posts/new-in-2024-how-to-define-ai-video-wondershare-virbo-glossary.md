@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Define AI Video? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:43.418Z
-updated: 2024-04-18T00:31:43.418Z
+date: 2024-04-17T01:30:12.138Z
+updated: 2024-04-18T01:30:12.138Z
 tags: 
   - ai voice clone
   - voice cloning

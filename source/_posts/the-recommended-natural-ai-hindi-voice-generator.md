@@ -1,7 +1,7 @@
 ---
 title: The Recommended Natural AI Hindi Voice Generator
-date: 2024-04-17T00:24:05.295Z
-updated: 2024-04-18T00:24:05.295Z
+date: 2024-04-17T01:30:04.121Z
+updated: 2024-04-18T01:30:04.121Z
 tags: 
   - ai voice clone
   - voice cloning

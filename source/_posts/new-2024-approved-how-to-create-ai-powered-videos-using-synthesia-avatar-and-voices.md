@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved How To Create AI-Powered Videos Using Synthesia Avatar and Voices
-date: 2024-04-17T00:33:56.230Z
-updated: 2024-04-18T00:33:56.230Z
+date: 2024-04-17T01:30:14.410Z
+updated: 2024-04-18T01:30:14.410Z
 tags: 
   - ai voice clone
   - voice cloning

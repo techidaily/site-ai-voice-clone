@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Create Video From Text Easily Step-by-Step
-date: 2024-04-17T00:34:21.359Z
-updated: 2024-04-18T00:34:21.359Z
+date: 2024-04-17T01:30:14.890Z
+updated: 2024-04-18T01:30:14.890Z
 tags: 
   - ai voice clone
   - voice cloning

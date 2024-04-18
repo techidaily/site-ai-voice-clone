@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is an AI Tool? | Wondershare Virbo Glossary
-date: 2024-04-17T00:30:27.165Z
-updated: 2024-04-18T00:30:27.165Z
+date: 2024-04-17T01:30:11.019Z
+updated: 2024-04-18T01:30:11.019Z
 tags: 
   - ai voice clone
   - voice cloning

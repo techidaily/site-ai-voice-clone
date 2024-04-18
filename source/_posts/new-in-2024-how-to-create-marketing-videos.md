@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Create Marketing Videos?
-date: 2024-04-17T00:31:46.749Z
-updated: 2024-04-18T00:31:46.749Z
+date: 2024-04-17T01:30:12.187Z
+updated: 2024-04-18T01:30:12.187Z
 tags: 
   - ai voice clone
   - voice cloning

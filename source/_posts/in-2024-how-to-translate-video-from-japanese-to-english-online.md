@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Translate Video From Japanese to English Online?
-date: 2024-04-17T00:28:07.742Z
-updated: 2024-04-18T00:28:07.742Z
+date: 2024-04-17T01:30:08.187Z
+updated: 2024-04-18T01:30:08.187Z
 tags: 
   - ai voice clone
   - voice cloning

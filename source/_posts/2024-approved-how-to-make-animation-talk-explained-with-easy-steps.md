@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Make Animation Talk? Explained with Easy Steps
-date: 2024-04-17T00:27:47.628Z
-updated: 2024-04-18T00:27:47.628Z
+date: 2024-04-17T01:30:07.819Z
+updated: 2024-04-18T01:30:07.819Z
 tags: 
   - ai voice clone
   - voice cloning

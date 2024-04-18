@@ -1,7 +1,7 @@
 ---
 title: New Top 5 AI-Integrated AI Cartoon Video Generators to Use
-date: 2024-04-17T00:29:42.160Z
-updated: 2024-04-18T00:29:42.160Z
+date: 2024-04-17T01:30:10.098Z
+updated: 2024-04-18T01:30:10.098Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:29.948Z
-updated: 2024-04-18T00:25:29.948Z
+date: 2024-04-17T01:30:05.469Z
+updated: 2024-04-18T01:30:05.469Z
 tags: 
   - ai voice clone
   - voice cloning

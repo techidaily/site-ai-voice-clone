@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool
-date: 2024-04-17T00:25:13.770Z
-updated: 2024-04-18T00:25:13.770Z
+date: 2024-04-17T01:30:05.186Z
+updated: 2024-04-18T01:30:05.186Z
 tags: 
   - ai voice clone
   - voice cloning

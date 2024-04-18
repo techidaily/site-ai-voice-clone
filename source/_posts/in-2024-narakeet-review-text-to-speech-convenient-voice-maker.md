@@ -1,7 +1,7 @@
 ---
 title: In 2024, Narakeet Review Text to Speech Convenient Voice Maker
-date: 2024-04-17T00:28:34.532Z
-updated: 2024-04-18T00:28:34.532Z
+date: 2024-04-17T01:30:08.752Z
+updated: 2024-04-18T01:30:08.752Z
 tags: 
   - ai voice clone
   - voice cloning

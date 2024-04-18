@@ -1,7 +1,7 @@
 ---
 title: Common Platforms for 2024
-date: 2024-04-17T00:25:49.645Z
-updated: 2024-04-18T00:25:49.645Z
+date: 2024-04-17T01:30:05.823Z
+updated: 2024-04-18T01:30:05.823Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy Guide How To Make Talking Head Videos
-date: 2024-04-17T00:27:15.442Z
-updated: 2024-04-18T00:27:15.442Z
+date: 2024-04-17T01:30:07.302Z
+updated: 2024-04-18T01:30:07.302Z
 tags: 
   - ai voice clone
   - voice cloning

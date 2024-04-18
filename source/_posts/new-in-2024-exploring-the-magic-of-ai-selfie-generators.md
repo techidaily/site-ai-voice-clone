@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Exploring the Magic of AI Selfie Generators
-date: 2024-04-17T00:31:29.847Z
-updated: 2024-04-18T00:31:29.847Z
+date: 2024-04-17T01:30:12.060Z
+updated: 2024-04-18T01:30:12.060Z
 tags: 
   - ai voice clone
   - voice cloning

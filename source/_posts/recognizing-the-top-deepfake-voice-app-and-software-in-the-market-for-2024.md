@@ -1,7 +1,7 @@
 ---
 title: Recognizing The Top Deepfake Voice App and Software in the Market for 2024
-date: 2024-04-17T00:28:43.348Z
-updated: 2024-04-18T00:28:43.348Z
+date: 2024-04-17T01:30:08.917Z
+updated: 2024-04-18T01:30:08.917Z
 tags: 
   - ai voice clone
   - voice cloning

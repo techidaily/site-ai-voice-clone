@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Best 7 Whiteboard Explainer Videos to Inspire You
-date: 2024-04-17T00:37:43.514Z
-updated: 2024-04-18T00:37:43.514Z
+date: 2024-04-17T01:30:18.409Z
+updated: 2024-04-18T01:30:18.409Z
 tags: 
   - ai voice clone
   - voice cloning

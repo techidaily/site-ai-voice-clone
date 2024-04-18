@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best 10 Animated Explainer Video Examples
-date: 2024-04-17T00:32:02.342Z
-updated: 2024-04-18T00:32:02.342Z
+date: 2024-04-17T01:30:12.475Z
+updated: 2024-04-18T01:30:12.475Z
 tags: 
   - ai voice clone
   - voice cloning

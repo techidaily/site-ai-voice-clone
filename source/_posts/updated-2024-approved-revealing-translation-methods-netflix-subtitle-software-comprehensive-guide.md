@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide
-date: 2024-04-17T00:35:07.490Z
-updated: 2024-04-18T00:35:07.490Z
+date: 2024-04-17T01:30:15.744Z
+updated: 2024-04-18T01:30:15.744Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Generate Video with Talking Photo Feature
-date: 2024-04-17T00:33:46.022Z
-updated: 2024-04-18T00:33:46.022Z
+date: 2024-04-17T01:30:14.239Z
+updated: 2024-04-18T01:30:14.239Z
 tags: 
   - ai voice clone
   - voice cloning

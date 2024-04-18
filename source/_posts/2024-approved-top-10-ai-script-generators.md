@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Top 10 AI Script Generators
-date: 2024-04-17T00:29:20.978Z
-updated: 2024-04-18T00:29:20.978Z
+date: 2024-04-17T01:30:09.606Z
+updated: 2024-04-18T01:30:09.606Z
 tags: 
   - ai voice clone
   - voice cloning

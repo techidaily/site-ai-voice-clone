@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Ultimate Guide to B2B Video Marketing
-date: 2024-04-17T00:29:14.361Z
-updated: 2024-04-18T00:29:14.361Z
+date: 2024-04-17T01:30:09.517Z
+updated: 2024-04-18T01:30:09.517Z
 tags: 
   - ai voice clone
   - voice cloning

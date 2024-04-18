@@ -1,7 +1,7 @@
 ---
 title: In 2024, What Is an AI Voice Generator?
-date: 2024-04-17T00:30:40.193Z
-updated: 2024-04-18T00:30:40.193Z
+date: 2024-04-17T01:30:11.217Z
+updated: 2024-04-18T01:30:11.217Z
 tags: 
   - ai voice clone
   - voice cloning

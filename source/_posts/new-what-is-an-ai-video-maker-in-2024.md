@@ -1,7 +1,7 @@
 ---
 title: New What Is an AI Video Maker, In 2024
-date: 2024-04-17T00:37:37.487Z
-updated: 2024-04-18T00:37:37.487Z
+date: 2024-04-17T01:30:18.295Z
+updated: 2024-04-18T01:30:18.295Z
 tags: 
   - ai voice clone
   - voice cloning

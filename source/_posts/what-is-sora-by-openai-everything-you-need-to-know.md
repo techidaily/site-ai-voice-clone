@@ -1,7 +1,7 @@
 ---
 title: What Is Sora by OpenAI Everything You Need To Know
-date: 2024-04-17T00:24:59.207Z
-updated: 2024-04-18T00:24:59.207Z
+date: 2024-04-17T01:30:04.901Z
+updated: 2024-04-18T01:30:04.901Z
 tags: 
   - ai voice clone
   - voice cloning

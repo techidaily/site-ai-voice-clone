@@ -1,7 +1,7 @@
 ---
 title: What Is AI Advertising?
-date: 2024-04-17T00:24:55.505Z
-updated: 2024-04-18T00:24:55.505Z
+date: 2024-04-17T01:30:04.841Z
+updated: 2024-04-18T01:30:04.841Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New Clone Your Voice Harness the Potential of AI
-date: 2024-04-17T00:26:43.072Z
-updated: 2024-04-18T00:26:43.072Z
+date: 2024-04-17T01:30:07.055Z
+updated: 2024-04-18T01:30:07.055Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation
-date: 2024-04-17T00:26:01.368Z
-updated: 2024-04-18T00:26:01.368Z
+date: 2024-04-17T01:30:05.992Z
+updated: 2024-04-18T01:30:05.992Z
 tags: 
   - ai voice clone
   - voice cloning

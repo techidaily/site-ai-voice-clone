@@ -1,7 +1,7 @@
 ---
 title: New Create Talking Cartoon Images Using Top Tools
-date: 2024-04-17T00:26:59.269Z
-updated: 2024-04-18T00:26:59.269Z
+date: 2024-04-17T01:30:07.202Z
+updated: 2024-04-18T01:30:07.202Z
 tags: 
   - ai voice clone
   - voice cloning

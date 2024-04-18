@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top 8 Text-to-Video AI Generators to Produce Video Easily
-date: 2024-04-17T00:36:22.234Z
-updated: 2024-04-18T00:36:22.234Z
+date: 2024-04-17T01:30:17.181Z
+updated: 2024-04-18T01:30:17.181Z
 tags: 
   - ai voice clone
   - voice cloning

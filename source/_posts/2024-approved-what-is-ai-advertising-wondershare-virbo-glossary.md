@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is AI Advertising? | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:17.983Z
-updated: 2024-04-18T00:25:17.983Z
+date: 2024-04-17T01:30:05.250Z
+updated: 2024-04-18T01:30:05.250Z
 tags: 
   - ai voice clone
   - voice cloning

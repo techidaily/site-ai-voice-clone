@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Text To Speech | Online
-date: 2024-04-17T00:35:38.781Z
-updated: 2024-04-18T00:35:38.781Z
+date: 2024-04-17T01:30:16.353Z
+updated: 2024-04-18T01:30:16.353Z
 tags: 
   - ai voice clone
   - voice cloning

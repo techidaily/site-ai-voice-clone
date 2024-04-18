@@ -1,7 +1,7 @@
 ---
 title: New Create AI Avatar Video with AI Avatar | Wondershare Virbo Online
-date: 2024-04-17T00:26:49.363Z
-updated: 2024-04-18T00:26:49.363Z
+date: 2024-04-17T01:30:07.092Z
+updated: 2024-04-18T01:30:07.092Z
 tags: 
   - ai voice clone
   - voice cloning

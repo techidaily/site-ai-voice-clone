@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Voicemod AI Review Transforming Your Voice in Real Time
-date: 2024-04-17T00:37:09.133Z
-updated: 2024-04-18T00:37:09.133Z
+date: 2024-04-17T01:30:17.828Z
+updated: 2024-04-18T01:30:17.828Z
 tags: 
   - ai voice clone
   - voice cloning

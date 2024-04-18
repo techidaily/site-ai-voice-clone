@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Creating AI Videos With Templates
-date: 2024-04-17T00:33:14.613Z
-updated: 2024-04-18T00:33:14.613Z
+date: 2024-04-17T01:30:13.702Z
+updated: 2024-04-18T01:30:13.702Z
 tags: 
   - ai voice clone
   - voice cloning

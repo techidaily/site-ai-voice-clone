@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved 5 Best Realistic Text to Speech AI Voice Generators You May Like
-date: 2024-04-17T00:25:02.928Z
-updated: 2024-04-18T00:25:02.928Z
+date: 2024-04-17T01:30:04.969Z
+updated: 2024-04-18T01:30:04.969Z
 tags: 
   - ai voice clone
   - voice cloning

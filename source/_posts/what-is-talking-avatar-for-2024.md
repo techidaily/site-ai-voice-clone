@@ -1,7 +1,7 @@
 ---
 title: What Is Talking Avatar for 2024
-date: 2024-04-17T00:30:43.691Z
-updated: 2024-04-18T00:30:43.691Z
+date: 2024-04-17T01:30:11.264Z
+updated: 2024-04-18T01:30:11.264Z
 tags: 
   - ai voice clone
   - voice cloning

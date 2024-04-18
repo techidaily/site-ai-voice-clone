@@ -1,7 +1,7 @@
 ---
 title: New In-Depth Review of Ivona Text to Speech Converter for 2024
-date: 2024-04-17T00:34:31.202Z
-updated: 2024-04-18T00:34:31.202Z
+date: 2024-04-17T01:30:15.076Z
+updated: 2024-04-18T01:30:15.076Z
 tags: 
   - ai voice clone
   - voice cloning

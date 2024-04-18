@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved 10 Best Text-to-Video AI Generators to Create Engaging Videos
-date: 2024-04-17T00:32:31.568Z
-updated: 2024-04-18T00:32:31.568Z
+date: 2024-04-17T01:30:12.957Z
+updated: 2024-04-18T01:30:12.957Z
 tags: 
   - ai voice clone
   - voice cloning

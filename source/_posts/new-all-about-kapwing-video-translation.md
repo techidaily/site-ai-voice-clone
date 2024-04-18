@@ -1,7 +1,7 @@
 ---
 title: New All About Kapwing Video Translation
-date: 2024-04-17T00:28:08.998Z
-updated: 2024-04-18T00:28:08.998Z
+date: 2024-04-17T01:30:08.208Z
+updated: 2024-04-18T01:30:08.208Z
 tags: 
   - ai voice clone
   - voice cloning

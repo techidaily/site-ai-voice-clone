@@ -1,7 +1,7 @@
 ---
 title: What Is an AI Video Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:23:59.897Z
-updated: 2024-04-18T00:23:59.897Z
+date: 2024-04-17T01:30:04.085Z
+updated: 2024-04-18T01:30:04.085Z
 tags: 
   - ai voice clone
   - voice cloning

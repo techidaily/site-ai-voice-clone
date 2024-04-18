@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How To Reach More Users by Using Instagram Live Shopping
-date: 2024-04-17T00:27:52.648Z
-updated: 2024-04-18T00:27:52.648Z
+date: 2024-04-17T01:30:07.880Z
+updated: 2024-04-18T01:30:07.880Z
 tags: 
   - ai voice clone
   - voice cloning

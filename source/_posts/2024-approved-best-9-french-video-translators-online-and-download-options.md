@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Best 9 French Video Translators Online and Download Options
-date: 2024-04-17T00:29:54.943Z
-updated: 2024-04-18T00:29:54.943Z
+date: 2024-04-17T01:30:10.388Z
+updated: 2024-04-18T01:30:10.388Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated AI Video Translator | Online
-date: 2024-04-17T00:25:47.213Z
-updated: 2024-04-18T00:25:47.213Z
+date: 2024-04-17T01:30:05.758Z
+updated: 2024-04-18T01:30:05.758Z
 tags: 
   - ai voice clone
   - voice cloning

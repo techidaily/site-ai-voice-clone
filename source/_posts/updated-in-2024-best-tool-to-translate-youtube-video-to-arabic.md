@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Best Tool to Translate YouTube Video to Arabic
-date: 2024-04-17T00:32:33.677Z
-updated: 2024-04-18T00:32:33.677Z
+date: 2024-04-17T01:30:13.008Z
+updated: 2024-04-18T01:30:13.008Z
 tags: 
   - ai voice clone
   - voice cloning

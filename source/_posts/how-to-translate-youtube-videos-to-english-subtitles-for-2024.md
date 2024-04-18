@@ -1,7 +1,7 @@
 ---
 title: How to Translate YouTube Videos to English Subtitles for 2024
-date: 2024-04-17T00:27:57.486Z
-updated: 2024-04-18T00:27:57.486Z
+date: 2024-04-17T01:30:07.977Z
+updated: 2024-04-18T01:30:07.977Z
 tags: 
   - ai voice clone
   - voice cloning

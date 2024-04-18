@@ -1,7 +1,7 @@
 ---
 title: Updated Top 5 AI-Powered Script to Video Makers for 2024
-date: 2024-04-17T00:36:12.396Z
-updated: 2024-04-18T00:36:12.396Z
+date: 2024-04-17T01:30:17.060Z
+updated: 2024-04-18T01:30:17.060Z
 tags: 
   - ai voice clone
   - voice cloning

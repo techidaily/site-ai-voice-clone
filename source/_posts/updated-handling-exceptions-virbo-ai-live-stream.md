@@ -1,7 +1,7 @@
 ---
 title: Updated Handling Exceptions | Virbo AI Live Stream
-date: 2024-04-17T00:27:34.361Z
-updated: 2024-04-18T00:27:34.361Z
+date: 2024-04-17T01:30:07.614Z
+updated: 2024-04-18T01:30:07.614Z
 tags: 
   - ai voice clone
   - voice cloning

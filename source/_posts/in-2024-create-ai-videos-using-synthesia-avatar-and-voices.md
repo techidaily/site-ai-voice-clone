@@ -1,7 +1,7 @@
 ---
 title: In 2024, Create AI Videos Using Synthesia Avatar and Voices
-date: 2024-04-17T00:28:55.292Z
-updated: 2024-04-18T00:28:55.292Z
+date: 2024-04-17T01:30:09.125Z
+updated: 2024-04-18T01:30:09.125Z
 tags: 
   - ai voice clone
   - voice cloning

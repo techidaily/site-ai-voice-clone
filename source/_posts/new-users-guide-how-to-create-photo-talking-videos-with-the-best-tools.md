@@ -1,7 +1,7 @@
 ---
 title: New Users Guide How To Create Photo Talking Videos With the Best Tools?
-date: 2024-04-17T00:30:12.746Z
-updated: 2024-04-18T00:30:12.746Z
+date: 2024-04-17T01:30:10.742Z
+updated: 2024-04-18T01:30:10.742Z
 tags: 
   - ai voice clone
   - voice cloning

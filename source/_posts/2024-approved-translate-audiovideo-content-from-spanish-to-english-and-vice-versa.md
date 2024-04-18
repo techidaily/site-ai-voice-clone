@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Translate Audio/Video Content From Spanish to English and Vice Versa
-date: 2024-04-17T00:29:57.721Z
-updated: 2024-04-18T00:29:57.721Z
+date: 2024-04-17T01:30:10.451Z
+updated: 2024-04-18T01:30:10.451Z
 tags: 
   - ai voice clone
   - voice cloning

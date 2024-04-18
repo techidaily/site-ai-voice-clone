@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top 5 Tools to Convert Text to Audio Online for Free
-date: 2024-04-17T00:32:34.639Z
-updated: 2024-04-18T00:32:34.639Z
+date: 2024-04-17T01:30:13.014Z
+updated: 2024-04-18T01:30:13.014Z
 tags: 
   - ai voice clone
   - voice cloning

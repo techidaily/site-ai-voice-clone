@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved What Is an AI Avatar?
-date: 2024-04-17T00:37:28.065Z
-updated: 2024-04-18T00:37:28.065Z
+date: 2024-04-17T01:30:18.132Z
+updated: 2024-04-18T01:30:18.132Z
 tags: 
   - ai voice clone
   - voice cloning

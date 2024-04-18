@@ -1,7 +1,7 @@
 ---
 title: Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide
-date: 2024-04-17T00:24:34.568Z
-updated: 2024-04-18T00:24:34.568Z
+date: 2024-04-17T01:30:04.436Z
+updated: 2024-04-18T01:30:04.436Z
 tags: 
   - ai voice clone
   - voice cloning

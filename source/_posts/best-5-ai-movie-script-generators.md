@@ -1,7 +1,7 @@
 ---
 title: Best 5 AI Movie Script Generators
-date: 2024-04-17T00:24:05.436Z
-updated: 2024-04-18T00:24:05.436Z
+date: 2024-04-17T01:30:04.122Z
+updated: 2024-04-18T01:30:04.122Z
 tags: 
   - ai voice clone
   - voice cloning

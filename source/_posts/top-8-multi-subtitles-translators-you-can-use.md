@@ -1,7 +1,7 @@
 ---
 title: Top 8 Multi-Subtitles Translators You Can Use
-date: 2024-04-17T00:24:33.725Z
-updated: 2024-04-18T00:24:33.725Z
+date: 2024-04-17T01:30:04.429Z
+updated: 2024-04-18T01:30:04.429Z
 tags: 
   - ai voice clone
   - voice cloning

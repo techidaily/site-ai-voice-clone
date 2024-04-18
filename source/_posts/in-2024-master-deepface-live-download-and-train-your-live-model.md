@@ -1,7 +1,7 @@
 ---
 title: In 2024, Master Deepface Live Download and Train Your Live Model
-date: 2024-04-17T00:28:28.951Z
-updated: 2024-04-18T00:28:28.951Z
+date: 2024-04-17T01:30:08.635Z
+updated: 2024-04-18T01:30:08.635Z
 tags: 
   - ai voice clone
   - voice cloning

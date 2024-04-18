@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need?
-date: 2024-04-17T00:29:00.563Z
-updated: 2024-04-18T00:29:00.563Z
+date: 2024-04-17T01:30:09.232Z
+updated: 2024-04-18T01:30:09.232Z
 tags: 
   - ai voice clone
   - voice cloning

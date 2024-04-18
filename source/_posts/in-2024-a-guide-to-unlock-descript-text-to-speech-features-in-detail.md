@@ -1,7 +1,7 @@
 ---
 title: In 2024, A Guide to Unlock Descript Text-to-Speech Features in Detail
-date: 2024-04-17T00:25:15.599Z
-updated: 2024-04-18T00:25:15.599Z
+date: 2024-04-17T01:30:05.200Z
+updated: 2024-04-18T01:30:05.200Z
 tags: 
   - ai voice clone
   - voice cloning

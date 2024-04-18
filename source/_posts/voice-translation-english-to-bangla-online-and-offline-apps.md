@@ -1,7 +1,7 @@
 ---
 title: Voice Translation English to Bangla Online and Offline Apps
-date: 2024-04-17T00:24:18.882Z
-updated: 2024-04-18T00:24:18.882Z
+date: 2024-04-17T01:30:04.225Z
+updated: 2024-04-18T01:30:04.225Z
 tags: 
   - ai voice clone
   - voice cloning

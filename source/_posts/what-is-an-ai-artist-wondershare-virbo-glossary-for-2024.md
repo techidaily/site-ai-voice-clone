@@ -1,7 +1,7 @@
 ---
 title: What Is an AI Artist? | Wondershare Virbo Glossary for 2024
-date: 2024-04-17T00:25:19.945Z
-updated: 2024-04-18T00:25:19.945Z
+date: 2024-04-17T01:30:05.299Z
+updated: 2024-04-18T01:30:05.299Z
 tags: 
   - ai voice clone
   - voice cloning

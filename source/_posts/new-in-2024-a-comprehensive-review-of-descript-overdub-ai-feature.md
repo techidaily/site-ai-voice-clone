@@ -1,7 +1,7 @@
 ---
 title: New In 2024, A Comprehensive Review of Descript Overdub AI Feature
-date: 2024-04-17T00:33:19.123Z
-updated: 2024-04-18T00:33:19.123Z
+date: 2024-04-17T01:30:13.777Z
+updated: 2024-04-18T01:30:13.777Z
 tags: 
   - ai voice clone
   - voice cloning

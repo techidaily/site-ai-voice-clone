@@ -1,7 +1,7 @@
 ---
 title: New Easy Steps To Create Talking Memoji on iPhone Free
-date: 2024-04-17T00:27:16.552Z
-updated: 2024-04-18T00:27:16.552Z
+date: 2024-04-17T01:30:07.349Z
+updated: 2024-04-18T01:30:07.349Z
 tags: 
   - ai voice clone
   - voice cloning

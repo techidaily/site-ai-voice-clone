@@ -1,7 +1,7 @@
 ---
 title: Best 7 Photo Talking AI
-date: 2024-04-17T00:24:05.012Z
-updated: 2024-04-18T00:24:05.012Z
+date: 2024-04-17T01:30:04.119Z
+updated: 2024-04-18T01:30:04.119Z
 tags: 
   - ai voice clone
   - voice cloning

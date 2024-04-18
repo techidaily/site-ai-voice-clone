@@ -1,7 +1,7 @@
 ---
 title: Latest Top Darth Vader Voice Generators for All Platforms for 2024
-date: 2024-04-17T00:27:04.516Z
-updated: 2024-04-18T00:27:04.516Z
+date: 2024-04-17T01:30:07.237Z
+updated: 2024-04-18T01:30:07.237Z
 tags: 
   - ai voice clone
   - voice cloning

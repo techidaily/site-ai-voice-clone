@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is Sora by OpenAI Everything You Need To Know
-date: 2024-04-17T00:30:42.289Z
-updated: 2024-04-18T00:30:42.289Z
+date: 2024-04-17T01:30:11.250Z
+updated: 2024-04-18T01:30:11.250Z
 tags: 
   - ai voice clone
   - voice cloning

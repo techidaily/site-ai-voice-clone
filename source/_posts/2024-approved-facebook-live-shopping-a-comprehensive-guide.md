@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Facebook Live Shopping A Comprehensive Guide
-date: 2024-04-17T00:27:22.665Z
-updated: 2024-04-18T00:27:22.665Z
+date: 2024-04-17T01:30:07.420Z
+updated: 2024-04-18T01:30:07.420Z
 tags: 
   - ai voice clone
   - voice cloning

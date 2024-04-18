@@ -1,7 +1,7 @@
 ---
 title: New Diverse Templates | Wondershare Virbo Online for 2024
-date: 2024-04-17T00:33:26.186Z
-updated: 2024-04-18T00:33:26.186Z
+date: 2024-04-17T01:30:13.883Z
+updated: 2024-04-18T01:30:13.883Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Maximizing Yandex Translate in Video Translation and Beyond for 2024
-date: 2024-04-17T00:30:45.068Z
-updated: 2024-04-18T00:30:45.068Z
+date: 2024-04-17T01:30:11.275Z
+updated: 2024-04-18T01:30:11.275Z
 tags: 
   - ai voice clone
   - voice cloning

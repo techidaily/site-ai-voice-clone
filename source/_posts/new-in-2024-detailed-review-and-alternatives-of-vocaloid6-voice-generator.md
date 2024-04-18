@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Detailed Review & Alternatives of VOCALOID6 Voice Generator
-date: 2024-04-17T00:35:16.868Z
-updated: 2024-04-18T00:35:16.868Z
+date: 2024-04-17T01:30:15.933Z
+updated: 2024-04-18T01:30:15.933Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, All About Kapwing Video Translation
-date: 2024-04-17T00:34:32.871Z
-updated: 2024-04-18T00:34:32.871Z
+date: 2024-04-17T01:30:15.091Z
+updated: 2024-04-18T01:30:15.091Z
 tags: 
   - ai voice clone
   - voice cloning

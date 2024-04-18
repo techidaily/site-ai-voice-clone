@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create Video with PPT | Wondershare Virbo
-date: 2024-04-17T00:32:52.744Z
-updated: 2024-04-18T00:32:52.744Z
+date: 2024-04-17T01:30:13.339Z
+updated: 2024-04-18T01:30:13.339Z
 tags: 
   - ai voice clone
   - voice cloning

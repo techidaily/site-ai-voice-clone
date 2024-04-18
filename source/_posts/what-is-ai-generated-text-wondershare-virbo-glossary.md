@@ -1,7 +1,7 @@
 ---
 title: What Is AI Generated Text? | Wondershare Virbo Glossary
-date: 2024-04-17T00:23:56.251Z
-updated: 2024-04-18T00:23:56.251Z
+date: 2024-04-17T01:30:04.065Z
+updated: 2024-04-18T01:30:04.065Z
 tags: 
   - ai voice clone
   - voice cloning

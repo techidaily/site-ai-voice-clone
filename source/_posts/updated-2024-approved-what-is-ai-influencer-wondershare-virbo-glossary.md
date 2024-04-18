@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:20.422Z
-updated: 2024-04-18T00:31:20.422Z
+date: 2024-04-17T01:30:12.007Z
+updated: 2024-04-18T01:30:12.007Z
 tags: 
   - ai voice clone
   - voice cloning

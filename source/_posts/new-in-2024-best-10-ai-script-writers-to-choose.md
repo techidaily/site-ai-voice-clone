@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Best 10 AI Script Writers to Choose
-date: 2024-04-17T00:32:14.099Z
-updated: 2024-04-18T00:32:14.099Z
+date: 2024-04-17T01:30:12.651Z
+updated: 2024-04-18T01:30:12.651Z
 tags: 
   - ai voice clone
   - voice cloning

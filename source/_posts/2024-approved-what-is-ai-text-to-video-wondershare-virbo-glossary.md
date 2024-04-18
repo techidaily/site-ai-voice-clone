@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary
-date: 2024-04-17T00:25:39.833Z
-updated: 2024-04-18T00:25:39.833Z
+date: 2024-04-17T01:30:05.627Z
+updated: 2024-04-18T01:30:05.627Z
 tags: 
   - ai voice clone
   - voice cloning

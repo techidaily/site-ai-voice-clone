@@ -1,7 +1,7 @@
 ---
 title: Introduction of Wondershare Virbo for 2024
-date: 2024-04-17T00:28:05.105Z
-updated: 2024-04-18T00:28:05.105Z
+date: 2024-04-17T01:30:08.111Z
+updated: 2024-04-18T01:30:08.111Z
 tags: 
   - ai voice clone
   - voice cloning

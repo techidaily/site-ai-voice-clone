@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved The Best AI Translator to Translate Videos Online
-date: 2024-04-17T00:26:23.454Z
-updated: 2024-04-18T00:26:23.454Z
+date: 2024-04-17T01:30:06.463Z
+updated: 2024-04-18T01:30:06.463Z
 tags: 
   - ai voice clone
   - voice cloning

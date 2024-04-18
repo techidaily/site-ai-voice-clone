@@ -1,7 +1,7 @@
 ---
 title: Updated 5 Best Apps for Voice Translation From English to Bangla
-date: 2024-04-17T00:25:02.505Z
-updated: 2024-04-18T00:25:02.505Z
+date: 2024-04-17T01:30:04.965Z
+updated: 2024-04-18T01:30:04.965Z
 tags: 
   - ai voice clone
   - voice cloning

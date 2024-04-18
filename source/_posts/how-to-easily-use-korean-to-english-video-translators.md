@@ -1,7 +1,7 @@
 ---
 title: How To Easily Use Korean to English Video Translators
-date: 2024-04-17T00:24:29.052Z
-updated: 2024-04-18T00:24:29.052Z
+date: 2024-04-17T01:30:04.372Z
+updated: 2024-04-18T01:30:04.372Z
 tags: 
   - ai voice clone
   - voice cloning

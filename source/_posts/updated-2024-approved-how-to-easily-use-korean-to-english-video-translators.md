@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How To Easily Use Korean to English Video Translators
-date: 2024-04-17T00:34:34.413Z
-updated: 2024-04-18T00:34:34.413Z
+date: 2024-04-17T01:30:15.140Z
+updated: 2024-04-18T01:30:15.140Z
 tags: 
   - ai voice clone
   - voice cloning

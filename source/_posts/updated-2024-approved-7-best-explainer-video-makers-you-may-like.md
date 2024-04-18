@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved 7 Best Explainer Video Makers You May Like
-date: 2024-04-17T00:30:52.717Z
-updated: 2024-04-18T00:30:52.717Z
+date: 2024-04-17T01:30:11.445Z
+updated: 2024-04-18T01:30:11.445Z
 tags: 
   - ai voice clone
   - voice cloning

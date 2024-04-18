@@ -1,7 +1,7 @@
 ---
 title: What Is an AI Script Generator? | Wondershare Virbo Glossary for 2024
-date: 2024-04-17T00:25:33.333Z
-updated: 2024-04-18T00:25:33.333Z
+date: 2024-04-17T01:30:05.500Z
+updated: 2024-04-18T01:30:05.500Z
 tags: 
   - ai voice clone
   - voice cloning

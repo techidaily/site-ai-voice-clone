@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Talking Photo Feature
-date: 2024-04-17T00:35:32.737Z
-updated: 2024-04-18T00:35:32.737Z
+date: 2024-04-17T01:30:16.222Z
+updated: 2024-04-18T01:30:16.222Z
 tags: 
   - ai voice clone
   - voice cloning

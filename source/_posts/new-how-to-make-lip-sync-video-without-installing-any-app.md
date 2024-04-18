@@ -1,7 +1,7 @@
 ---
 title: New How to Make Lip Sync Video Without Installing Any App
-date: 2024-04-17T00:27:44.273Z
-updated: 2024-04-18T00:27:44.273Z
+date: 2024-04-17T01:30:07.781Z
+updated: 2024-04-18T01:30:07.781Z
 tags: 
   - ai voice clone
   - voice cloning

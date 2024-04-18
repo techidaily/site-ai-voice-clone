@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Video Translator | Wondershare Virbo
-date: 2024-04-17T00:25:47.645Z
-updated: 2024-04-18T00:25:47.645Z
+date: 2024-04-17T01:30:05.765Z
+updated: 2024-04-18T01:30:05.765Z
 tags: 
   - ai voice clone
   - voice cloning

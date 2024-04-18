@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, AI Script | Wondershare Virbo
-date: 2024-04-17T00:31:28.308Z
-updated: 2024-04-18T00:31:28.308Z
+date: 2024-04-17T01:30:12.051Z
+updated: 2024-04-18T01:30:12.051Z
 tags: 
   - ai voice clone
   - voice cloning

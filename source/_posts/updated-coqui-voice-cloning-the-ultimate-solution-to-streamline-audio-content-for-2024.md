@@ -1,7 +1,7 @@
 ---
 title: Updated Coqui Voice Cloning The Ultimate Solution to Streamline Audio Content for 2024
-date: 2024-04-17T00:32:55.117Z
-updated: 2024-04-18T00:32:55.117Z
+date: 2024-04-17T01:30:13.357Z
+updated: 2024-04-18T01:30:13.357Z
 tags: 
   - ai voice clone
   - voice cloning

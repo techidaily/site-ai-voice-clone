@@ -1,7 +1,7 @@
 ---
 title: What Is an AI Headshot Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T00:23:56.394Z
-updated: 2024-04-18T00:23:56.394Z
+date: 2024-04-17T01:30:04.066Z
+updated: 2024-04-18T01:30:04.066Z
 tags: 
   - ai voice clone
   - voice cloning

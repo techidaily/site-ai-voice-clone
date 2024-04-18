@@ -1,7 +1,7 @@
 ---
 title: New Installation and Registration | Wondershare Virbo
-date: 2024-04-17T00:28:03.306Z
-updated: 2024-04-18T00:28:03.306Z
+date: 2024-04-17T01:30:08.057Z
+updated: 2024-04-18T01:30:08.057Z
 tags: 
   - ai voice clone
   - voice cloning

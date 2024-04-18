@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 5 AI Movie Script Generators
-date: 2024-04-17T00:29:30.503Z
-updated: 2024-04-18T00:29:30.503Z
+date: 2024-04-17T01:30:09.862Z
+updated: 2024-04-18T01:30:09.862Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Top AI Video Makers to Create Captivating Videos with Pictures for 2024
-date: 2024-04-17T00:27:02.444Z
-updated: 2024-04-18T00:27:02.444Z
+date: 2024-04-17T01:30:07.223Z
+updated: 2024-04-18T01:30:07.223Z
 tags: 
   - ai voice clone
   - voice cloning

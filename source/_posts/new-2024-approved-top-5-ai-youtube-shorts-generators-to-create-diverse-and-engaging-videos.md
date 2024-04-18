@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos
-date: 2024-04-17T00:36:14.214Z
-updated: 2024-04-18T00:36:14.214Z
+date: 2024-04-17T01:30:17.070Z
+updated: 2024-04-18T01:30:17.070Z
 tags: 
   - ai voice clone
   - voice cloning

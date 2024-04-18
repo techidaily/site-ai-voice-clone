@@ -1,7 +1,7 @@
 ---
 title: Must-Read Learn From Deepfake Scandals & Protect Your Stream
-date: 2024-04-17T00:24:29.619Z
-updated: 2024-04-18T00:24:29.619Z
+date: 2024-04-17T01:30:04.376Z
+updated: 2024-04-18T01:30:04.376Z
 tags: 
   - ai voice clone
   - voice cloning

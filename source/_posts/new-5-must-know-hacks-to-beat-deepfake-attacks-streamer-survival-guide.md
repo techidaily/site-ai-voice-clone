@@ -1,7 +1,7 @@
 ---
 title: New 5 Must-Know Hacks to Beat Deepfake Attacks Streamer Survival Guide
-date: 2024-04-17T00:25:03.781Z
-updated: 2024-04-18T00:25:03.781Z
+date: 2024-04-17T01:30:05.018Z
+updated: 2024-04-18T01:30:05.018Z
 tags: 
   - ai voice clone
   - voice cloning

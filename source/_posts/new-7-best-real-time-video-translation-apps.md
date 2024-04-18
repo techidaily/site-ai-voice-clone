@@ -1,7 +1,7 @@
 ---
 title: New 7 Best Real Time Video Translation Apps
-date: 2024-04-17T00:25:06.129Z
-updated: 2024-04-18T00:25:06.129Z
+date: 2024-04-17T01:30:05.043Z
+updated: 2024-04-18T01:30:05.043Z
 tags: 
   - ai voice clone
   - voice cloning

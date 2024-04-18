@@ -1,7 +1,7 @@
 ---
 title: In 2024, Translate Video From Japanese to English Online for Free
-date: 2024-04-17T00:29:59.524Z
-updated: 2024-04-18T00:29:59.524Z
+date: 2024-04-17T01:30:10.464Z
+updated: 2024-04-18T01:30:10.464Z
 tags: 
   - ai voice clone
   - voice cloning

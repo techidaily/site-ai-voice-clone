@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Master Amazon Live Features, Pro Tips and Future Trends
-date: 2024-04-17T00:34:56.619Z
-updated: 2024-04-18T00:34:56.619Z
+date: 2024-04-17T01:30:15.552Z
+updated: 2024-04-18T01:30:15.552Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Free Video Translators to Mitigate Translation Risks
-date: 2024-04-17T00:24:20.704Z
-updated: 2024-04-18T00:24:20.704Z
+date: 2024-04-17T01:30:04.247Z
+updated: 2024-04-18T01:30:04.247Z
 tags: 
   - ai voice clone
   - voice cloning

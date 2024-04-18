@@ -1,7 +1,7 @@
 ---
 title: New Best Text-to-Audio Converters of All Times
-date: 2024-04-17T00:26:27.758Z
-updated: 2024-04-18T00:26:27.758Z
+date: 2024-04-17T01:30:06.929Z
+updated: 2024-04-18T01:30:06.930Z
 tags: 
   - ai voice clone
   - voice cloning

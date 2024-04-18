@@ -1,7 +1,7 @@
 ---
 title: New Top 10 AI Avatar Generators for 2024
-date: 2024-04-17T00:35:58.818Z
-updated: 2024-04-18T00:35:58.818Z
+date: 2024-04-17T01:30:16.968Z
+updated: 2024-04-18T01:30:16.968Z
 tags: 
   - ai voice clone
   - voice cloning

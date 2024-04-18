@@ -1,7 +1,7 @@
 ---
 title: The Most Direct Guide to Learning How to Clone Your Voice for 2024
-date: 2024-04-17T00:27:36.729Z
-updated: 2024-04-18T00:27:36.729Z
+date: 2024-04-17T01:30:07.649Z
+updated: 2024-04-18T01:30:07.649Z
 tags: 
   - ai voice clone
   - voice cloning

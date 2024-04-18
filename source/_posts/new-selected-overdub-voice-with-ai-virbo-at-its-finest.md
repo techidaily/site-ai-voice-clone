@@ -1,7 +1,7 @@
 ---
 title: New Selected Overdub Voice with AI Virbo At Its Finest
-date: 2024-04-17T00:28:40.821Z
-updated: 2024-04-18T00:28:40.821Z
+date: 2024-04-17T01:30:08.863Z
+updated: 2024-04-18T01:30:08.863Z
 tags: 
   - ai voice clone
   - voice cloning

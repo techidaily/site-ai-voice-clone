@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Revolutionizing Communication Real-Time AI Voice Changer
-date: 2024-04-17T00:35:19.389Z
-updated: 2024-04-18T00:35:19.389Z
+date: 2024-04-17T01:30:15.995Z
+updated: 2024-04-18T01:30:15.995Z
 tags: 
   - ai voice clone
   - voice cloning

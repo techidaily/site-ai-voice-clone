@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved How to Create Funny Talking Avatars Using Oddcast Text to Speech Tech
-date: 2024-04-17T00:27:39.102Z
-updated: 2024-04-18T00:27:39.102Z
+date: 2024-04-17T01:30:07.695Z
+updated: 2024-04-18T01:30:07.695Z
 tags: 
   - ai voice clone
   - voice cloning

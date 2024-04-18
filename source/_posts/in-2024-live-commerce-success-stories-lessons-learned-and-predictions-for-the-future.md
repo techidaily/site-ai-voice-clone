@@ -1,7 +1,7 @@
 ---
 title: In 2024, Live Commerce Success Stories Lessons Learned & Predictions for the Future
-date: 2024-04-17T00:28:16.393Z
-updated: 2024-04-18T00:28:16.393Z
+date: 2024-04-17T01:30:08.352Z
+updated: 2024-04-18T01:30:08.352Z
 tags: 
   - ai voice clone
   - voice cloning

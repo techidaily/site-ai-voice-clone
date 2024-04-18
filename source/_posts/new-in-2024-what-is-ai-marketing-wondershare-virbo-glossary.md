@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is AI Marketing? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:20.562Z
-updated: 2024-04-18T00:31:20.562Z
+date: 2024-04-17T01:30:12.008Z
+updated: 2024-04-18T01:30:12.008Z
 tags: 
   - ai voice clone
   - voice cloning

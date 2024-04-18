@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, AI Avatar | Wondershare Virbo User Guide
-date: 2024-04-17T00:31:11.418Z
-updated: 2024-04-18T00:31:11.418Z
+date: 2024-04-17T01:30:11.955Z
+updated: 2024-04-18T01:30:11.955Z
 tags: 
   - ai voice clone
   - voice cloning

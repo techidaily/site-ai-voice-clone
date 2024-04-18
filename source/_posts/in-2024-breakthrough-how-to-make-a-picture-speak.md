@@ -1,7 +1,7 @@
 ---
 title: In 2024, Breakthrough How to Make A Picture Speak
-date: 2024-04-17T00:26:37.775Z
-updated: 2024-04-18T00:26:37.775Z
+date: 2024-04-17T01:30:07.021Z
+updated: 2024-04-18T01:30:07.021Z
 tags: 
   - ai voice clone
   - voice cloning

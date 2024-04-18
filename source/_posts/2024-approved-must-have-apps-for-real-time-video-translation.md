@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Must-Have Apps for Real-Time Video Translation
-date: 2024-04-17T00:29:48.712Z
-updated: 2024-04-18T00:29:48.712Z
+date: 2024-04-17T01:30:10.216Z
+updated: 2024-04-18T01:30:10.216Z
 tags: 
   - ai voice clone
   - voice cloning

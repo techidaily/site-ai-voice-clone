@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Speech-to-Speech Voice Cloning A Breakthrough in AI Voice Industry
-date: 2024-04-17T00:35:22.618Z
-updated: 2024-04-18T00:35:22.618Z
+date: 2024-04-17T01:30:16.056Z
+updated: 2024-04-18T01:30:16.056Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Translate Videos and Subtitles with Veed.io
-date: 2024-04-17T00:24:51.824Z
-updated: 2024-04-18T00:24:51.824Z
+date: 2024-04-17T01:30:04.773Z
+updated: 2024-04-18T01:30:04.773Z
 tags: 
   - ai voice clone
   - voice cloning

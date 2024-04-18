@@ -1,7 +1,7 @@
 ---
 title: Updated How To Make Talking Emoji on iPhone in Easy Steps
-date: 2024-04-17T00:27:49.307Z
-updated: 2024-04-18T00:27:49.307Z
+date: 2024-04-17T01:30:07.829Z
+updated: 2024-04-18T01:30:07.829Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is an AI Video Editor? | Wondershare Virbo Glossary
-date: 2024-04-17T00:31:38.420Z
-updated: 2024-04-18T00:31:38.420Z
+date: 2024-04-17T01:30:12.108Z
+updated: 2024-04-18T01:30:12.108Z
 tags: 
   - ai voice clone
   - voice cloning

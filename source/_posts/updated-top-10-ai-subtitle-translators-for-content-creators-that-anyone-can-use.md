@@ -1,7 +1,7 @@
 ---
 title: Updated Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use
-date: 2024-04-17T00:29:22.652Z
-updated: 2024-04-18T00:29:22.652Z
+date: 2024-04-17T01:30:09.673Z
+updated: 2024-04-18T01:30:09.673Z
 tags: 
   - ai voice clone
   - voice cloning

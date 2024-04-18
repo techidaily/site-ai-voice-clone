@@ -1,7 +1,7 @@
 ---
 title: New In 2024, SRT Subtitle Translation Tools and Techniques
-date: 2024-04-17T00:35:23.599Z
-updated: 2024-04-18T00:35:23.599Z
+date: 2024-04-17T01:30:16.062Z
+updated: 2024-04-18T01:30:16.062Z
 tags: 
   - ai voice clone
   - voice cloning

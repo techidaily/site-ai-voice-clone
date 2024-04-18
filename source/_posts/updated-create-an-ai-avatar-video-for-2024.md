@@ -1,7 +1,7 @@
 ---
 title: Updated Create An AI Avatar Video for 2024
-date: 2024-04-17T00:33:06.036Z
-updated: 2024-04-18T00:33:06.036Z
+date: 2024-04-17T01:30:13.544Z
+updated: 2024-04-18T01:30:13.544Z
 tags: 
   - ai voice clone
   - voice cloning

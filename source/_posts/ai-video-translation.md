@@ -1,7 +1,7 @@
 ---
 title: AI Video Translation
-date: 2024-04-17T00:24:00.183Z
-updated: 2024-04-18T00:24:00.183Z
+date: 2024-04-17T01:30:04.087Z
+updated: 2024-04-18T01:30:04.087Z
 tags: 
   - ai voice clone
   - voice cloning

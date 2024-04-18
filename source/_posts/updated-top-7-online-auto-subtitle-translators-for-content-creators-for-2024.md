@@ -1,7 +1,7 @@
 ---
 title: Updated Top 7 Online Auto Subtitle Translators for Content Creators for 2024
-date: 2024-04-17T00:36:27.589Z
-updated: 2024-04-18T00:36:27.589Z
+date: 2024-04-17T01:30:17.294Z
+updated: 2024-04-18T01:30:17.294Z
 tags: 
   - ai voice clone
   - voice cloning

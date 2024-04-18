@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide of Top Video Language Translators
-date: 2024-04-17T00:37:04.772Z
-updated: 2024-04-18T00:37:04.772Z
+date: 2024-04-17T01:30:17.784Z
+updated: 2024-04-18T01:30:17.784Z
 tags: 
   - ai voice clone
   - voice cloning

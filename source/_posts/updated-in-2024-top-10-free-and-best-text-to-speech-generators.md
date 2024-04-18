@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top 10 Free and Best Text-to-Speech Generators
-date: 2024-04-17T00:36:03.712Z
-updated: 2024-04-18T00:36:03.712Z
+date: 2024-04-17T01:30:17.003Z
+updated: 2024-04-18T01:30:17.003Z
 tags: 
   - ai voice clone
   - voice cloning

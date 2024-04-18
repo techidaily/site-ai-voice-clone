@@ -1,7 +1,7 @@
 ---
 title: In 2024, A List of The Top SpongeBob Voice Generators
-date: 2024-04-17T00:29:49.822Z
-updated: 2024-04-18T00:29:49.822Z
+date: 2024-04-17T01:30:10.274Z
+updated: 2024-04-18T01:30:10.274Z
 tags: 
   - ai voice clone
   - voice cloning

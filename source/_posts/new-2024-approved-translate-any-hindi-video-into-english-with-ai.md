@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Translate Any Hindi Video Into English With AI
-date: 2024-04-17T00:36:38.760Z
-updated: 2024-04-18T00:36:38.760Z
+date: 2024-04-17T01:30:17.442Z
+updated: 2024-04-18T01:30:17.442Z
 tags: 
   - ai voice clone
   - voice cloning

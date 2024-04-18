@@ -1,7 +1,7 @@
 ---
 title: Best AI YouTube Script Writers and The Ultimate Guide for 2024
-date: 2024-04-17T00:26:17.763Z
-updated: 2024-04-18T00:26:17.763Z
+date: 2024-04-17T01:30:06.379Z
+updated: 2024-04-18T01:30:06.379Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: Updated What Is an AI Avatar? | Wondershare Virbo Glossary for 2024
-date: 2024-04-17T00:31:12.544Z
-updated: 2024-04-18T00:31:12.544Z
+date: 2024-04-17T01:30:11.961Z
+updated: 2024-04-18T01:30:11.961Z
 tags: 
   - ai voice clone
   - voice cloning

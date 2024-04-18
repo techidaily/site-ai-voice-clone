@@ -1,7 +1,7 @@
 ---
 title: Updated Text To Speech | Wondershare Virbo Online for 2024
-date: 2024-04-17T00:35:39.488Z
-updated: 2024-04-18T00:35:39.488Z
+date: 2024-04-17T01:30:16.394Z
+updated: 2024-04-18T01:30:16.394Z
 tags: 
   - ai voice clone
   - voice cloning

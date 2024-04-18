@@ -1,7 +1,7 @@
 ---
 title: What Is AI Text to Video, In 2024
-date: 2024-04-17T00:30:26.181Z
-updated: 2024-04-18T00:30:26.181Z
+date: 2024-04-17T01:30:10.985Z
+updated: 2024-04-18T01:30:10.985Z
 tags: 
   - ai voice clone
   - voice cloning

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Create Video With PPT
-date: 2024-04-17T00:33:10.674Z
-updated: 2024-04-18T00:33:10.674Z
+date: 2024-04-17T01:30:13.604Z
+updated: 2024-04-18T01:30:13.604Z
 tags: 
   - ai voice clone
   - voice cloning

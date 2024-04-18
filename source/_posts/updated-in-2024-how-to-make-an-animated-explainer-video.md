@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, How to Make an Animated Explainer Video
-date: 2024-04-17T00:34:04.497Z
-updated: 2024-04-18T00:34:04.497Z
+date: 2024-04-17T01:30:14.577Z
+updated: 2024-04-18T01:30:14.577Z
 tags: 
   - ai voice clone
   - voice cloning

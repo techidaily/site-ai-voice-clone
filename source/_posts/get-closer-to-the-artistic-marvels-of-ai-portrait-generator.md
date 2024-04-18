@@ -1,7 +1,7 @@
 ---
 title: Get Closer to the Artistic Marvels of AI Portrait Generator
-date: 2024-04-17T00:23:57.237Z
-updated: 2024-04-18T00:23:57.237Z
+date: 2024-04-17T01:30:04.070Z
+updated: 2024-04-18T01:30:04.070Z
 tags: 
   - ai voice clone
   - voice cloning

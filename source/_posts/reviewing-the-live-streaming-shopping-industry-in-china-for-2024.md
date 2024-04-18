@@ -1,7 +1,7 @@
 ---
 title: Reviewing the Live Streaming Shopping Industry in China for 2024
-date: 2024-04-17T00:28:21.420Z
-updated: 2024-04-18T00:28:21.420Z
+date: 2024-04-17T01:30:08.491Z
+updated: 2024-04-18T01:30:08.491Z
 tags: 
   - ai voice clone
   - voice cloning

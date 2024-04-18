@@ -1,7 +1,7 @@
 ---
 title: Updated How To Translate Videos in Tamil for a Wider Reach for 2024
-date: 2024-04-17T00:34:18.550Z
-updated: 2024-04-18T00:34:18.550Z
+date: 2024-04-17T01:30:14.826Z
+updated: 2024-04-18T01:30:14.826Z
 tags: 
   - ai voice clone
   - voice cloning

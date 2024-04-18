@@ -1,7 +1,7 @@
 ---
 title: In 2024, The Best Text-to-Video AI Generator Tools Alternative to Sora
-date: 2024-04-17T00:29:05.217Z
-updated: 2024-04-18T00:29:05.217Z
+date: 2024-04-17T01:30:09.344Z
+updated: 2024-04-18T01:30:09.344Z
 tags: 
   - ai voice clone
   - voice cloning
