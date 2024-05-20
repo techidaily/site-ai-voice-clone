@@ -1,7 +1,7 @@
 ---
 title: New Text to Speech
-date: 2024-04-17T22:06:00.224Z
-updated: 2024-04-18T22:06:00.224Z
+date: 2024-05-19T03:34:58.690Z
+updated: 2024-05-20T03:34:58.690Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1216,3 +1216,4 @@ The new rules for YouTube Shorts are as follows:
 <li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-13-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 13 | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Samsung Galaxy M34 5G | Dr.fone</u></a></li>
 </ul></div>
+

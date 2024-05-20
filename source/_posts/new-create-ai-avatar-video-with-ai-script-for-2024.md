@@ -1,7 +1,7 @@
 ---
 title: New Create AI Avatar Video with AI Script for 2024
-date: 2024-04-17T22:08:45.029Z
-updated: 2024-04-18T22:08:45.029Z
+date: 2024-05-19T03:35:04.313Z
+updated: 2024-05-20T03:35:04.313Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1231,3 +1231,4 @@ Some key features of Virbo’s Video Translator tool are:
 <li><a href="https://techidaily.com/how-to-reset-poco-x5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-asus-rog-phone-8-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Asus ROG Phone 8 Phones</u></a></li>
 </ul></div>
+

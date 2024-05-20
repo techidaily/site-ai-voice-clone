@@ -1,7 +1,7 @@
 ---
 title: Create Video With PPT
-date: 2024-04-17T22:01:02.532Z
-updated: 2024-04-18T22:01:02.532Z
+date: 2024-05-19T03:34:48.677Z
+updated: 2024-05-20T03:34:48.677Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -974,3 +974,4 @@ Understanding these key components provides insight into the inner workings of A
 <li><a href="https://screen-mirror.techidaily.com/how-screen-mirroring-apple-iphone-13-to-tv-or-pc-drfone-by-drfone-ios/"><u>How Screen Mirroring Apple iPhone 13 to TV or PC? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-mov-movies-on-redmi-note-12-pro-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Failed to play MOV movies on Redmi Note 12 Pro 4G</u></a></li>
 </ul></div>
+

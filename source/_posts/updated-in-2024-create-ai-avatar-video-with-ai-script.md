@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Create AI Avatar Video with AI Script
-date: 2024-04-17T22:08:44.884Z
-updated: 2024-04-18T22:08:44.884Z
+date: 2024-05-19T03:35:04.310Z
+updated: 2024-05-20T03:35:04.310Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1043,3 +1043,4 @@ Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avat
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Apple iPhone 15 Plus | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-realme-narzo-n55-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Realme Narzo N55 Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
+

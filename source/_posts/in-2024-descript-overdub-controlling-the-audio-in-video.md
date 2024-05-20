@@ -1,7 +1,7 @@
 ---
 title: In 2024, Descript Overdub Controlling the Audio in Video
-date: 2024-04-17T22:04:00.651Z
-updated: 2024-04-18T22:04:00.651Z
+date: 2024-05-19T03:34:54.381Z
+updated: 2024-05-20T03:34:54.381Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1126,3 +1126,4 @@ To address these risks, regulatory agencies and relevant stakeholders need to es
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oneplus-11r-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any OnePlus 11R Location By Mobile Number | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/additional-tips-about-sinnoh-stone-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Honor Magic 6 | Dr.fone</u></a></li>
 </ul></div>
+

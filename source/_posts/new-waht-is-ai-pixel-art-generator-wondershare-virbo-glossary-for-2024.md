@@ -1,7 +1,7 @@
 ---
 title: New Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary for 2024
-date: 2024-04-17T22:08:19.905Z
-updated: 2024-04-18T22:08:19.905Z
+date: 2024-05-19T03:35:03.525Z
+updated: 2024-05-20T03:35:03.525Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -863,3 +863,4 @@ Select the accent you want for your video and create the perfect AI video by sel
 <li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-p55plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel P55+ Face Lock?</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-samsung-galaxy-a15-5g-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Samsung Galaxy A15 5G Step-by-Step Solutions | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: All About Kapwing Video Translation for 2024
-date: 2024-04-17T22:05:02.830Z
-updated: 2024-04-18T22:05:02.830Z
+date: 2024-05-19T03:34:56.557Z
+updated: 2024-05-20T03:34:56.557Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -903,3 +903,4 @@ Step 4 Export Video with Translated Subtitles
 <li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/is-your-website-auditor-free-by-link-assistant-website-auditor-website-auditor/"><u>Is your WebSite Auditor free?</u></a></li>
 </ul></div>
+

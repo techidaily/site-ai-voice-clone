@@ -1,7 +1,7 @@
 ---
 title: New All About Kapwing Video Translation for 2024
-date: 2024-04-17T22:11:35.036Z
-updated: 2024-04-18T22:11:35.036Z
+date: 2024-05-19T03:35:10.154Z
+updated: 2024-05-20T03:35:10.154Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1147,3 +1147,4 @@ To translate video captions, you can follow the steps:
 <li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-vivo-s18e-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Vivo S18e Phone</u></a></li>
 <li><a href="https://techidaily.com/how-do-i-reset-my-honor-90-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 90 Phone without technical knowledge? | Dr.fone</u></a></li>
 </ul></div>
+

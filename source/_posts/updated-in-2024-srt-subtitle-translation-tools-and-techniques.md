@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, SRT Subtitle Translation Tools and Techniques
-date: 2024-04-17T22:12:26.609Z
-updated: 2024-04-18T22:12:26.609Z
+date: 2024-05-19T03:35:12.022Z
+updated: 2024-05-20T03:35:12.022Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1245,3 +1245,4 @@ Other languages Virbo supports for translation are:
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-motorola-edge-40-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Motorola Edge 40 Data? | Dr.fone</u></a></li>
 </ul></div>
+

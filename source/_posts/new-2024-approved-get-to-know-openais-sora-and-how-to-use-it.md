@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Get To Know OpenAIs Sora and How To Use It
-date: 2024-04-17T22:14:46.394Z
-updated: 2024-04-18T22:14:46.394Z
+date: 2024-05-19T03:35:16.606Z
+updated: 2024-05-20T03:35:16.606Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1231,3 +1231,4 @@ They're compatible with Android, iOS, and browsers.
 <li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-15-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Plus Lock Screen | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Asus ROG Phone 7 | Dr.fone</u></a></li>
 </ul></div>
+

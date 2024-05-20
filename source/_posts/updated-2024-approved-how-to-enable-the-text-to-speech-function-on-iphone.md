@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved How to Enable the Text to Speech Function on iPhone
-date: 2024-04-17T22:11:01.697Z
-updated: 2024-04-18T22:11:01.697Z
+date: 2024-05-19T03:35:08.982Z
+updated: 2024-05-20T03:35:08.982Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -851,3 +851,4 @@ Step 4 Export Video with Translated Subtitles
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-vivo-y100a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Vivo Y100A | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-infinix-smart-8-hd-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Infinix Smart 8 HD FRP Without Computer</u></a></li>
 </ul></div>
+

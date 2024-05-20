@@ -1,7 +1,7 @@
 ---
 title: Updated How to Create Funny Talking Avatars Using Oddcast Text to Speech
-date: 2024-04-17T22:05:33.642Z
-updated: 2024-04-18T22:05:33.642Z
+date: 2024-05-19T03:34:57.576Z
+updated: 2024-05-20T03:34:57.576Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1012,3 +1012,4 @@ Our attitude towards AI tools can vary because they can be influenced by various
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Motorola Moto G14? | Dr.fone</u></a></li>
 </ul></div>
+

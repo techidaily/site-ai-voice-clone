@@ -1,7 +1,7 @@
 ---
 title: New What Is an AI Headshot Generator? | Wondershare Virbo Glossary
-date: 2024-04-17T22:02:16.382Z
-updated: 2024-04-18T22:02:16.382Z
+date: 2024-05-19T03:34:51.088Z
+updated: 2024-05-20T03:34:51.088Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1158,3 +1158,4 @@ With the help of the right avatars, you can easily define the perfect gender, ra
 <li><a href="https://android-frp.techidaily.com/in-2024-top-5-oneplus-12r-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 OnePlus 12R Bypass FRP Tools for PC That Actually Work</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y28-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo Y28 5G</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New How to Enable the Text to Speech Function on iPhone
-date: 2024-04-17T22:04:34.637Z
-updated: 2024-04-18T22:04:34.637Z
+date: 2024-05-19T03:34:55.833Z
+updated: 2024-05-20T03:34:55.833Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -935,3 +935,4 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-11-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 11 Pro With 7 Methods</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Honor Magic 5? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Create An AI Avatar Video
-date: 2024-04-17T22:03:48.995Z
-updated: 2024-04-18T22:03:48.995Z
+date: 2024-05-19T03:34:54.038Z
+updated: 2024-05-20T03:34:54.038Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -933,3 +933,4 @@ It comes with other features like AI avatars, voice cloning, and transcription, 
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-vivo-g2-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Vivo G2.</u></a></li>
 <li><a href="https://techidaily.com/undeleted-lost-videos-from-xiaomi-redmi-k70e-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Xiaomi Redmi K70E</u></a></li>
 </ul></div>
+

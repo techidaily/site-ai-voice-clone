@@ -1,7 +1,7 @@
 ---
 title: Translate Videos and Subtitles with Veed.io
-date: 2024-04-17T22:01:40.181Z
-updated: 2024-04-18T22:01:40.181Z
+date: 2024-05-19T03:34:49.869Z
+updated: 2024-05-20T03:34:49.869Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1216,3 +1216,4 @@ For Multiple Words or Entire Content
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-google-pixel-8-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Google Pixel 8 Screen Black But Still Works? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Create AI Avatar Video with AI Script
-date: 2024-04-17T22:02:40.427Z
-updated: 2024-04-18T22:02:40.427Z
+date: 2024-05-19T03:34:51.827Z
+updated: 2024-05-20T03:34:51.827Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1027,3 +1027,4 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Sony Xperia 10 V? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
+

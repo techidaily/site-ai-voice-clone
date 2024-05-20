@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Create An AI Avatar Video
-date: 2024-04-17T22:10:06.631Z
-updated: 2024-04-18T22:10:06.631Z
+date: 2024-05-19T03:35:07.105Z
+updated: 2024-05-20T03:35:07.105Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1227,3 +1227,4 @@ AI Video in Minutes!
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-itel-p40-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Itel P40 Face Lock?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-oppo-f25-pro-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Oppo F25 Pro 5G Device SIM</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated A Guide to Unlock Descript Text-to-Speech Features in Detail for 2024
-date: 2024-04-17T22:08:02.632Z
-updated: 2024-04-18T22:08:02.632Z
+date: 2024-05-19T03:35:02.957Z
+updated: 2024-05-20T03:35:02.957Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -917,3 +917,4 @@ To translate video captions, you can follow the steps:
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Note 30 Pro?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-v27-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo V27 Location | Dr.fone</u></a></li>
 </ul></div>
+

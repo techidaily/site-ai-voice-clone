@@ -1,7 +1,7 @@
 ---
 title: New Create Video with AI Avatar
-date: 2024-04-17T22:03:52.557Z
-updated: 2024-04-18T22:03:52.557Z
+date: 2024-05-19T03:34:54.139Z
+updated: 2024-05-20T03:34:54.139Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -859,3 +859,4 @@ ChatGPT, the brainchild of OpenAI's innovation, is transforming the way we inter
 <li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-oppo-a18-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Oppo A18 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
 </ul></div>
+

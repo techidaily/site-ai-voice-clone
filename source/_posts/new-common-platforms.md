@@ -1,7 +1,7 @@
 ---
 title: New Common Platforms
-date: 2024-04-17T22:02:39.699Z
-updated: 2024-04-18T22:02:39.699Z
+date: 2024-05-19T03:34:51.779Z
+updated: 2024-05-20T03:34:51.779Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1030,3 +1030,4 @@ The translation accuracy delivered by the Video Translator feature is remarkably
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-c50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco C50 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/lava-yuva-3-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+

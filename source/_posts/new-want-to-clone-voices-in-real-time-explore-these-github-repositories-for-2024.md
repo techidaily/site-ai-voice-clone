@@ -1,7 +1,7 @@
 ---
 title: New Want to Clone Voices in Real-Time? Explore These GitHub Repositories for 2024
-date: 2024-04-17T22:14:13.937Z
-updated: 2024-04-18T22:14:13.937Z
+date: 2024-05-19T03:35:15.636Z
+updated: 2024-05-20T03:35:15.636Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1138,3 +1138,4 @@ It comes with other features like AI avatars, voice cloning, and transcription, 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-13c-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Xiaomi Redmi 13C 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-vivo-s17t-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Vivo S17t to iPhone 15/14/13/12 | Dr.fone</u></a></li>
 </ul></div>
+

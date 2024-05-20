@@ -1,7 +1,7 @@
 ---
 title: New Talking Photo Feature
-date: 2024-04-17T22:05:53.681Z
-updated: 2024-04-18T22:05:53.681Z
+date: 2024-05-19T03:34:58.481Z
+updated: 2024-05-20T03:34:58.481Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1062,3 +1062,4 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 <li><a href="https://techidaily.com/things-you-dont-know-about-tecno-camon-30-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Camon 30 Pro 5G Reset Code | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Honor X9a | Dr.fone</u></a></li>
 </ul></div>
+

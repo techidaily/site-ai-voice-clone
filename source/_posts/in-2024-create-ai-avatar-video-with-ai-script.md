@@ -1,7 +1,7 @@
 ---
 title: In 2024, Create AI Avatar Video with AI Script
-date: 2024-04-17T22:02:39.991Z
-updated: 2024-04-18T22:02:39.991Z
+date: 2024-05-19T03:34:51.782Z
+updated: 2024-05-20T03:34:51.782Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -923,3 +923,4 @@ Currently, Virbo supports the following languages:
 <li><a href="https://fake-location.techidaily.com/how-to-fake-gps-on-honor-play-40c-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>How To Fake GPS On Honor Play 40C For Mobile Legends? | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-samsung-galaxy-s24plus-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Samsung Galaxy S24+</u></a></li>
 </ul></div>
+

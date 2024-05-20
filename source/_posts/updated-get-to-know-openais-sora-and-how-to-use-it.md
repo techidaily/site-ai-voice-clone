@@ -1,7 +1,7 @@
 ---
 title: Updated Get To Know OpenAIs Sora and How To Use It
-date: 2024-04-17T22:07:40.400Z
-updated: 2024-04-18T22:07:40.400Z
+date: 2024-05-19T03:35:02.293Z
+updated: 2024-05-20T03:35:02.293Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -968,3 +968,4 @@ Currently, Virbo supports the following languages:
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y78t? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xs-max-learn-all-4-methods-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone XS Max? Learn All 4 Methods</u></a></li>
 </ul></div>
+

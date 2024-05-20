@@ -1,7 +1,7 @@
 ---
 title: Create AI Avatar Video with AI Script
-date: 2024-04-17T22:00:48.077Z
-updated: 2024-04-18T22:00:48.077Z
+date: 2024-05-19T03:34:48.287Z
+updated: 2024-05-20T03:34:48.287Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1234,3 +1234,4 @@ Conclusion
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-s24plus-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy S24+ to Roku | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
+

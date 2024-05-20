@@ -1,7 +1,7 @@
 ---
 title: Updated Descript Overdub Controlling the Audio in Video for 2024
-date: 2024-04-17T22:10:21.137Z
-updated: 2024-04-18T22:10:21.137Z
+date: 2024-05-19T03:35:07.714Z
+updated: 2024-05-20T03:35:07.714Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1026,3 +1026,4 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-blaze-pro-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Blaze Pro 5G?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work</u></a></li>
 </ul></div>
+

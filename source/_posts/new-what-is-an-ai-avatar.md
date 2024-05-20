@@ -1,7 +1,7 @@
 ---
 title: New What Is an AI Avatar?
-date: 2024-04-17T22:07:29.290Z
-updated: 2024-04-18T22:07:29.290Z
+date: 2024-05-19T03:35:01.648Z
+updated: 2024-05-20T03:35:01.648Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1031,3 +1031,4 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 <li><a href="https://howto.techidaily.com/how-to-fix-it-realme-v30-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Realme V30 Wont Turn On | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-motorola-edge-40-neo-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Motorola Edge 40 Neo to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+

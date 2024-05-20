@@ -1,7 +1,7 @@
 ---
 title: Handling Exceptions | Virbo AI Live Stream
-date: 2024-04-17T22:01:09.491Z
-updated: 2024-04-18T22:01:09.491Z
+date: 2024-05-19T03:34:48.896Z
+updated: 2024-05-20T03:34:48.896Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1749,3 +1749,4 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-nokia-c12-pro-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Nokia C12 Pro Device SIM</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-motorola-razr-40-ultra-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Motorola Razr 40 Ultra Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+

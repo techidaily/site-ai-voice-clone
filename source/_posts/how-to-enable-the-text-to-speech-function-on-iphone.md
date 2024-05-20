@@ -1,7 +1,7 @@
 ---
 title: How to Enable the Text to Speech Function on iPhone
-date: 2024-04-17T22:01:10.953Z
-updated: 2024-04-18T22:01:10.953Z
+date: 2024-05-19T03:34:48.924Z
+updated: 2024-05-20T03:34:48.924Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1148,3 +1148,4 @@ Some key features of Virbo’s Video Translator tool are:
 <li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Realme Narzo N55 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-xiaomi-redmi-k70e-screen-sharing-drfone-by-drfone-android/"><u>How To Do Xiaomi Redmi K70E Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+

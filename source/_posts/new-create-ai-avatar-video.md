@@ -1,7 +1,7 @@
 ---
 title: New Create AI Avatar Video
-date: 2024-04-17T22:03:45.982Z
-updated: 2024-04-18T22:03:45.982Z
+date: 2024-05-19T03:34:53.941Z
+updated: 2024-05-20T03:34:53.941Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -924,3 +924,4 @@ To translate video captions, you can follow the steps:
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-realme-12plus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Realme 12+ 5G | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-a15-5g-lock-screen-password-by-drfone-android/"><u>How To Change Samsung Galaxy A15 5G Lock Screen Password?</u></a></li>
 </ul></div>
+

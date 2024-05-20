@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Want to Clone Voices in Real-Time? Explore These GitHub Repositories
-date: 2024-04-17T22:07:15.554Z
-updated: 2024-04-18T22:07:15.554Z
+date: 2024-05-19T03:35:01.300Z
+updated: 2024-05-20T03:35:01.300Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1063,3 +1063,4 @@ AI Video in Minutes!
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-vivo-y56-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Vivo Y56 5G PC | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-from-apple-iphone-11-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID From Apple iPhone 11 Pro Making It Possible</u></a></li>
 </ul></div>
+

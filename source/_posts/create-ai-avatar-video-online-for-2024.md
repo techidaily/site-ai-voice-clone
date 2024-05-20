@@ -1,7 +1,7 @@
 ---
 title: Create AI Avatar Video | Online for 2024
-date: 2024-04-17T22:03:39.986Z
-updated: 2024-04-18T22:03:39.986Z
+date: 2024-05-19T03:34:53.797Z
+updated: 2024-05-20T03:34:53.797Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1162,3 +1162,4 @@ Step 4 Export Video with Translated Subtitles
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-p40-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel P40 Lock Screen Password?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-infinix-hot-40-phone-by-drfone-android/"><u>How to Unlock a Network Locked Infinix Hot 40 Phone?</u></a></li>
 </ul></div>
+

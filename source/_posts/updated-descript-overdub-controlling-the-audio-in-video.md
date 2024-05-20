@@ -1,7 +1,7 @@
 ---
 title: Updated Descript Overdub Controlling the Audio in Video
-date: 2024-04-17T22:04:01.218Z
-updated: 2024-04-18T22:04:01.218Z
+date: 2024-05-19T03:34:54.394Z
+updated: 2024-05-20T03:34:54.394Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -790,3 +790,4 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-s17-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo S17 Pattern Lock Screen</u></a></li>
 <li><a href="https://techidaily.com/is-your-realme-c33-2023-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C33 2023 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
 </ul></div>
+

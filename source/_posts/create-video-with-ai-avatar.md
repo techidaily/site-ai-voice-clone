@@ -1,7 +1,7 @@
 ---
 title: Create Video with AI Avatar
-date: 2024-04-17T22:01:02.387Z
-updated: 2024-04-18T22:01:02.387Z
+date: 2024-05-19T03:34:48.674Z
+updated: 2024-05-20T03:34:48.674Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -859,3 +859,4 @@ Here are some of the features of the Udemy Double Subtitle tool.
 <li><a href="https://phone-solutions.techidaily.com/how-to-convert-avchd-mts-to-mp4-for-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to convert AVCHD MTS to MP4 for Xiaomi Redmi K70E?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo Y02T? | Dr.fone</u></a></li>
 </ul></div>
+

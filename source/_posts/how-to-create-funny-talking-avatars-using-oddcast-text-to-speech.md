@@ -1,7 +1,7 @@
 ---
 title: How to Create Funny Talking Avatars Using Oddcast Text to Speech
-date: 2024-04-17T22:01:22.871Z
-updated: 2024-04-18T22:01:22.871Z
+date: 2024-05-19T03:34:49.316Z
+updated: 2024-05-20T03:34:49.316Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1299,3 +1299,4 @@ Authorization Refresh
 <li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-c22-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia C22 by Phone Number | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco M6 Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+

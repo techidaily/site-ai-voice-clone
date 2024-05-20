@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Descript Overdub Controlling the Audio in Video
-date: 2024-04-17T22:10:20.701Z
-updated: 2024-04-18T22:10:20.701Z
+date: 2024-05-19T03:35:07.706Z
+updated: 2024-05-20T03:35:07.706Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -901,3 +901,4 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Google Pixel 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 </ul></div>
+

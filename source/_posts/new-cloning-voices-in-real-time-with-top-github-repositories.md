@@ -1,7 +1,7 @@
 ---
 title: New Cloning Voices in Real-Time With Top GitHub Repositories
-date: 2024-04-17T22:06:42.355Z
-updated: 2024-04-18T22:06:42.355Z
+date: 2024-05-19T03:35:00.026Z
+updated: 2024-05-20T03:35:00.026Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -887,3 +887,4 @@ This article focused on the perks of using **speech-to-speech voice cloning** te
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-network-locked-zte-blade-a73-5g-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked ZTE Blade A73 5G Phone?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
+

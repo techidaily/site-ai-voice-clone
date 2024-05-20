@@ -1,7 +1,7 @@
 ---
 title: Descript Overdub Controlling the Audio in Video
-date: 2024-04-17T22:01:04.117Z
-updated: 2024-04-18T22:01:04.117Z
+date: 2024-05-19T03:34:48.710Z
+updated: 2024-05-20T03:34:48.710Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1127,3 +1127,4 @@ They're compatible with Android, iOS, and browsers.
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-meizu-21-pro-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Meizu 21 Pro Phones</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-on-iphone-x-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password On iPhone X</u></a></li>
 </ul></div>
+

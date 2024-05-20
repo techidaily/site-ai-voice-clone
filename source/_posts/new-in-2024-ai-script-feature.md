@@ -1,7 +1,7 @@
 ---
 title: New In 2024, AI Script Feature
-date: 2024-04-17T22:08:23.112Z
-updated: 2024-04-18T22:08:23.112Z
+date: 2024-05-19T03:35:03.621Z
+updated: 2024-05-20T03:35:03.621Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1043,3 +1043,4 @@ To address these risks, regulatory agencies and relevant stakeholders need to es
 <li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2003-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2003 Files for Free | Stellar</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-infinix-zero-5g-2023-turbo-by-drfone-android/"><u>In 2024, How to Bypass FRP on Infinix Zero 5G 2023 Turbo?</u></a></li>
 </ul></div>
+

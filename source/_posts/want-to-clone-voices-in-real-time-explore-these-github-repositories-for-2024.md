@@ -1,7 +1,7 @@
 ---
 title: Want to Clone Voices in Real-Time? Explore These GitHub Repositories for 2024
-date: 2024-04-17T22:07:15.410Z
-updated: 2024-04-18T22:07:15.410Z
+date: 2024-05-19T03:35:01.297Z
+updated: 2024-05-20T03:35:01.297Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1047,3 +1047,4 @@ Here are the differences between Wondershare Virbo and Kapwing.
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-plus-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Plus?</u></a></li>
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-v27-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo V27 Pro</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New In 2024, SRT Subtitle Translation Tools and Techniques
-date: 2024-04-17T22:12:26.465Z
-updated: 2024-04-18T22:12:26.465Z
+date: 2024-05-19T03:35:12.017Z
+updated: 2024-05-20T03:35:12.017Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1177,3 +1177,4 @@ AI Video in Minutes!
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-honor-magic-6-lite-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Honor Magic 6 Lite PC | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-vivo-x100-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Vivo X100 Pro Wont Charge | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: Updated Right Moves to Use TTS in Descript
-date: 2024-04-17T22:04:02.644Z
-updated: 2024-04-18T22:04:02.644Z
+date: 2024-05-19T03:34:54.450Z
+updated: 2024-05-20T03:34:54.450Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1182,3 +1182,4 @@ Supported Languages
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-lenovo-thinkphone-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Lenovo ThinkPhone to iPod | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-xiaomi-14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Xiaomi 14?</u></a></li>
 </ul></div>
+

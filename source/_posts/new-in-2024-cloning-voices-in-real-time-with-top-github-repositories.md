@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Cloning Voices in Real-Time With Top GitHub Repositories
-date: 2024-04-17T22:13:33.525Z
-updated: 2024-04-18T22:13:33.525Z
+date: 2024-05-19T03:35:14.353Z
+updated: 2024-05-20T03:35:14.353Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1368,3 +1368,4 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-oppo-a58-4g-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Oppo A58 4G?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
+

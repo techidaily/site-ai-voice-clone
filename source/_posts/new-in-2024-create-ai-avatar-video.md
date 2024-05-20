@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Create AI Avatar Video
-date: 2024-04-17T22:10:02.610Z
-updated: 2024-04-18T22:10:02.610Z
+date: 2024-05-19T03:35:06.989Z
+updated: 2024-05-20T03:35:06.989Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -934,3 +934,4 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 <li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 6 Plus | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/does-infinix-note-30-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Infinix Note 30 Pro Have Find My Friends? | Dr.fone</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: New Create AI Avatar Video with Templates
-date: 2024-04-17T22:03:45.266Z
-updated: 2024-04-18T22:03:45.266Z
+date: 2024-05-19T03:34:53.927Z
+updated: 2024-05-20T03:34:53.927Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1307,3 +1307,4 @@ Our attitude towards AI tools can vary because they can be influenced by various
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13t-pro-phone-without-password-by-drfone-android/"><u>How To Unlock Xiaomi 13T Pro Phone Without Password?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/bypass-iphone-13-mini-activation-lock-using-official-methods-by-drfone-ios-unlock-ios-unlock/"><u>Bypass iPhone 13 mini activation lock using official methods</u></a></li>
 </ul></div>
+

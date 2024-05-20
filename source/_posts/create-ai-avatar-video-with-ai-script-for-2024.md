@@ -1,7 +1,7 @@
 ---
 title: Create AI Avatar Video with AI Script for 2024
-date: 2024-04-17T22:02:40.136Z
-updated: 2024-04-18T22:02:40.136Z
+date: 2024-05-19T03:34:51.785Z
+updated: 2024-05-20T03:34:51.785Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -922,3 +922,4 @@ AI tools are software or systems that leverage artificial intelligence technique
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-infinix-smart-8-hd-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Infinix Smart 8 HD Screen | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 12 Pro 5G</u></a></li>
 </ul></div>
+

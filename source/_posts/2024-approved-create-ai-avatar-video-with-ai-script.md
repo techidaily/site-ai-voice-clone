@@ -1,7 +1,7 @@
 ---
 title: 2024 Approved Create AI Avatar Video with AI Script
-date: 2024-04-17T22:02:40.282Z
-updated: 2024-04-18T22:02:40.282Z
+date: 2024-05-19T03:34:51.823Z
+updated: 2024-05-20T03:34:51.823Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1094,3 +1094,4 @@ In the world of digital content creation, breaking language barriers is the key 
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
 </ul></div>
+

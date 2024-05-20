@@ -1,7 +1,7 @@
 ---
 title: Descript Overdub Controlling the Audio in Video for 2024
-date: 2024-04-17T22:04:00.792Z
-updated: 2024-04-18T22:04:00.792Z
+date: 2024-05-19T03:34:54.384Z
+updated: 2024-05-20T03:34:54.384Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -1044,3 +1044,4 @@ Currently, Virbo supports the following languages:
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-note-12-4g-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi Note 12 4G?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-lava-agni-2-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Lava Agni 2 5G on Windows??</u></a></li>
 </ul></div>
+
