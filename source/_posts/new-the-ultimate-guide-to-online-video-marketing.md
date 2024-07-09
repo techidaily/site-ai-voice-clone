@@ -1,7 +1,7 @@
 ---
 title: New The Ultimate Guide to Online Video Marketing
-date: 2024-06-15T12:40:47.560Z
-updated: 2024-06-16T12:40:47.560Z
+date: 2024-07-08T04:00:12.415Z
+updated: 2024-07-09T04:00:12.415Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  Whether you are making videos for entertainment or marketing, it is boring without a storyline. You need to present an attention-grabbing story to your users. This will raise their curiosity and help in getting better results from the videos. Moreover, you can also generate scripts for creating compelling video content.
 
- AI-powered tools like[Virbo](https://virbo.wondershare.com/) can help you in this matter. With Virbo, you can generate the best-in-class videos for every social media platform. It also has the potential to integrate virtual YouTubers like people in videos. Other than this, Virbo can create high-resolution**online video advertising** for you. One of the best things is you can use Virbo on several platforms, such as Windows, Android, and iOS.
+ AI-powered tools like [Virbo](https://virbo.wondershare.com/) can help you in this matter. With Virbo, you can generate the best-in-class videos for every social media platform. It also has the potential to integrate virtual YouTubers like people in videos. Other than this, Virbo can create high-resolution**online video advertising** for you. One of the best things is you can use Virbo on several platforms, such as Windows, Android, and iOS.
 
 ![online-video-marketing-1.jpg](https://images.wondershare.com/virbo/images2023/virboai3/online-video-marketing-1.jpg)
 
@@ -207,7 +207,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 4. [UnicTool MagicVox](#2.4)
 5. [FineShare Online Voice Changer](#2.5)
 
-### 1.[Media.io](https://www.media.io/spongebob-ai-voice.html)
+### 1. Media.io
 
  Media.io is the tool that can help you generate the perfect SpongeBob AI voice. With this tool, users can customize their SpongeBob voice into different accents. With speedy voice generation, you can get your SpongeBob AI voice within seconds. It also supports 120 languages, so you can do voice cloning, audio scaling, adjust pitch, and compress volume in just a few seconds.
 
@@ -223,7 +223,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 2. It has audio trimming and cutting features to help you remove unwanted parts within your creations.
 3. Media.io can generate different musical styles of AI songs like pop, jazz, and hip-hop using personalized voices.
 
-### 2.[FakeYou](https://fakeyou.com/)
+### 2. FakeYou
 
  If you love SpongeBob, FakeYou can be an effective choice for voice generation. With this, you can generate the best audio and videos in the voice of SpongeBob. There are more than 3000 voices in it, and you can select one of your choices. In addition, it also lets you customize the language for the project; you can even play the audio before downloading it to your device.
 
@@ -239,7 +239,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 2. You can also change your voice with your favorite character to speak as someone else. It also lets you manage the pitch of the audio.
 3. Creating Lip Synced videos to audio is also a specialty of this top-notch tool. You can even convert the audio into other formats with this.
 
-### 3.[WooTechy Soundbot](https://www.wootechy.com/voice-changer/)
+### 3. WooTechy Soundbot
 
  WooTechy SoundBot is another real-time SpongeBob voice generator free tool. It can change your voice to SpongeBob and other characters with more than 250 voice filters. This tool allows you to extract sound in multiple ways and supports a seamless transition from your voice to SpongeBob AI voice in live chats, gaming, and live streams.
 
@@ -255,7 +255,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 2. You can expand the sound effect library and can also export the audio in multiple formats, such as MP3 and WAV.
 3. If you need to listen to the music without interruptions and jarring, then you can also add Keybinds in the audio.
 
-### 4.[UnicTool MagicVox](https://www.unictool.com/voice-changer/)
+### 4. UnicTool MagicVox
 
  UnicTool MagicVox can help you sound exactly like SpongeBob SquarePants. This SpongeBob voice changer offers 400+ voice effects to help you sound like any iconic figure. You can create unique variations in SpongeBob’s voice with the customizable option from Voice Studio. It also has a deep learning algorithm that can replace unique nuances to create SpongeBob AI voices.
 
@@ -271,7 +271,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 2. You can also add soundboard effects to the games and other streams to make your profile stand out.
 3. In its voice studio, you can tailor your voice in several ways to create what you want without any problem.
 
-### 5.[FineShare Online Voice Changer](https://www.fineshare.com/app/audio/voice-changer-online/)
+### 5. FineShare Online Voice Changer
 
  If you still haven’t figured out which tool is good for SpongeBob voice generation, try FineShare. This SpongeBob AI voice-generating tool allows you to create AI voices within seconds. Additionally, it has built-in SpongeBob voice templates to select the desired one with realistic voice effects. To make SpongeBob voice integration easy, it supports platforms like Discord, Roblox, and YouTube.
 
@@ -289,7 +289,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 ## Bonus Tip: AI-Powered and Innovative Voice Generator to Create Professional and Engaging Videos
 
- Creating text-to-speech videos to save time and effort is exceptionally important. For this reason, you need to know about[Virbo](https://virbo.wondershare.com/) , which is quite an exquisite tool. With Virbo, you can create the best-in-class videos generated from text. The interface of Virbo is quite optimistic, so you will not face any problems with this. Moreover, it has blazing-fast processing speed, which never fails to amaze users.
+ Creating text-to-speech videos to save time and effort is exceptionally important. For this reason, you need to know about [Virbo](https://virbo.wondershare.com/) , which is quite an exquisite tool. With Virbo, you can create the best-in-class videos generated from text. The interface of Virbo is quite optimistic, so you will not face any problems with this. Moreover, it has blazing-fast processing speed, which never fails to amaze users.
 
 ![spongebob-voice-generator-10.jpg](https://images.wondershare.com/virbo/features/ai-voice/spongebob-voice-generator-10.jpg)
 
@@ -301,7 +301,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 1. Virbo supports a versatile platform so you can use it on numerous devices. You can even use its premium version on several devices with synced data.
 2. Using its AI Avatar feature, you can create impressive videos to attract more organic audiences.
-3. With its[AI Script Writing](https://virbo.wondershare.com/ai-script.html) feature, you can generate scripts on several topics with this embedment of keywords.
+3. With its [AI Script Writing](https://virbo.wondershare.com/ai-script.html) feature, you can generate scripts on several topics with this embedment of keywords.
 
 ## FAQs
 
@@ -329,7 +329,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  Finally, it can be said that you can use the**SpongeBob voice AI** tools to create amazing videos. There are diversified tools that can help you in this matter. The top 5 among them are discussed above. This includes FakeYou, Voicemod, Uberduck, UnicTool MagicVox, and more.
 
- You can also learn their key features from the above discussion. However, if you are curious about the best text-to-speech tool, the answer is[Virbo](https://tools.techidaily.com/wondershare/virbo/download/) .
+ You can also learn their key features from the above discussion. However, if you are curious about the best text-to-speech tool, the answer is [Virbo](https://tools.techidaily.com/wondershare/virbo/download/) .
 
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -347,7 +347,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  Wondershare Virbo is one of the best versatile video production tools specifically designed for crafting AI human avatar videos. Using artificial intelligence-generated content (AIGC) technology, Virbo excels at creating**talking photos online for free** .
 
- With[Talking Photos feature](https://virbo.wondershare.com/talking-photo.html) , you have the flexibility to choose from existing AI avatar templates or upload your own pictures. These avatars can then speak based on your script or synchronize their lip movements with recorded audio.
+ With [Talking Photos feature](https://virbo.wondershare.com/talking-photo.html) , you have the flexibility to choose from existing AI avatar templates or upload your own pictures. These avatars can then speak based on your script or synchronize their lip movements with recorded audio.
 
 **Virbo’s Talking Photos features:**
 
@@ -608,7 +608,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
 **Step 1:** Go to the Wondershare Virbo website
 
- Visit the[Wondershare Virbo website](https://tools.techidaily.com/wondershare/virbo/download/) and click "Generate AI Video Online" > “Talking Photo.”
+ Visit the [Wondershare Virbo website](https://tools.techidaily.com/wondershare/virbo/download/) and click "Generate AI Video Online" > “Talking Photo.”
 
 ![How to create talking photo online](https://images.wondershare.com/virbo/article/2024/02/photo-speak-online-11.jpg)
 
@@ -662,7 +662,7 @@ thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace
 
  When it comes to**Udemy translating subtitles** , there are a lot of things you might have a problem with. First, you might not even have the language you are looking for. Secondly, the format isn’t the most pleasing. And lastly, you cannot display bilingual subtitles to take your learning to the next level.
 
- That’s where[Udemy Dual Subtitles](https://chromewebstore.google.com/detail/udemy-dual-subtitles-subt/mpedooclpiggpfamidjeemfjoeakebce) comes in. It is a Chrome extension that will work on Google Chrome and Microsoft Edge. Its main prowess is displaying bilingual subtitles so you can learn in the most optimal way possible.
+ That’s where [Udemy Dual Subtitles](https://chromewebstore.google.com/detail/udemy-dual-subtitles-subt/mpedooclpiggpfamidjeemfjoeakebce) comes in. It is a Chrome extension that will work on Google Chrome and Microsoft Edge. Its main prowess is displaying bilingual subtitles so you can learn in the most optimal way possible.
 
  Moreover, Udemy Dual Subtitles expands Udemy’s original subtitles to show duals so you can easily understand what’s going on the screen. It can translate Udemy’s official subtitles into all widely used languages; switching them is a piece of cake.
 
@@ -717,7 +717,7 @@ Here are some of the features it offers:
 
 ![Udemy Subtitles Translator with Custom Style](https://images.wondershare.com/virbo/article/5-best-udemy-subtitle-translator-3.jpg)
 
- When it comes to subtitles, some people like custom styling to make them easier to read. While you can adjust Udemy’s default subtitles, they are quite limited. With the[Udemy Subtitles Translator](https://chromewebstore.google.com/detail/udemy-subtitle-translator/boobfniiepghnbeplehgjjmjnfehmnba) tool, you have the ability to leverage Google Translate, which will show real-time updates.
+ When it comes to subtitles, some people like custom styling to make them easier to read. While you can adjust Udemy’s default subtitles, they are quite limited. With the [Udemy Subtitles Translator](https://chromewebstore.google.com/detail/udemy-subtitle-translator/boobfniiepghnbeplehgjjmjnfehmnba) tool, you have the ability to leverage Google Translate, which will show real-time updates.
 
  All you need to do is install the subtitle, open the Udemy course, click Transcript, and click the Google Translate plugin that will translate everything to you in real time so you can enjoy your favorite course in your language.
 
@@ -890,25 +890,25 @@ Here are some of the features of the Udemy Double Subtitle tool.
 
 Explore step-by-step instructions on decorating your space, uploading local images and videos, adding engaging AI interactions, etc. Elevate your streaming experience and captivate your audience with a seamlessly executed live room. Dive into our comprehensive guide now!
 
-02[Uploading Local Images and Videos](#section2)
+02 [Uploading Local Images and Videos](#section2)
 
-03[Text-Driven Live Room](#section3)
+03 [Text-Driven Live Room](#section3)
 
-04[Audio-Driven Live Room](#section4)
+04 [Audio-Driven Live Room](#section4)
 
-05[Modifying Live Room Name](#section5)
+05 [Modifying Live Room Name](#section5)
 
-06[Adding AI Identification](#section6)
+06 [Adding AI Identification](#section6)
 
-07[AI Intelligent Script Generation](#section7)
+07 [AI Intelligent Script Generation](#section7)
 
-08[AI Translation](#section8)
+08 [AI Translation](#section8)
 
-09[Manual Interaction](#section9)
+09 [Manual Interaction](#section9)
 
-10[Intelligent Interaction](#section10)
+10 [Intelligent Interaction](#section10)
 
-11[Starting/Ending the Live Broadcast](#section11)
+11 [Starting/Ending the Live Broadcast](#section11)
 
 #### Decorating Your Live Room
 
@@ -1202,25 +1202,25 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 
 * * When concluding the live broadcast, initiate the termination of the live stream on the platform's broadcasting partner first, followed by clicking the "End Live" button on Virbo Live to finalize the shutdown process.
 
-02[Uploading Local Images and Videos](#section2)
+02 [Uploading Local Images and Videos](#section2)
 
-03[Text-Driven Live Room](#section3)
+03 [Text-Driven Live Room](#section3)
 
-04[Audio-Driven Live Room](#section4)
+04 [Audio-Driven Live Room](#section4)
 
-05[Modifying Live Room Name](#section5)
+05 [Modifying Live Room Name](#section5)
 
-06[Adding AI Identification](#section6)
+06 [Adding AI Identification](#section6)
 
-07[AI Intelligent Script Generation](#section7)
+07 [AI Intelligent Script Generation](#section7)
 
-08[AI Translation](#section8)
+08 [AI Translation](#section8)
 
-09[Manual Interaction](#section9)
+09 [Manual Interaction](#section9)
 
-10[Intelligent Interaction](#section10)
+10 [Intelligent Interaction](#section10)
 
-11[Starting/Ending the Live Broadcast](#section11)
+11 [Starting/Ending the Live Broadcast](#section11)
 
 #### Decorating Your Live Room
 
@@ -1535,7 +1535,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 
  Google Chrome extensions are software programs added to the Chrome web browser. They enhance the functionality of the browser with a personalized experience for users. Using extensions normally automates repetitive tasks and boosts productivity. You can find the best**Chrome video translator**  to make quick video translations:
 
-### 1.[iTour Video Translation](https://chrome.google.com/webstore/detail/itour-video-translation/eibnkkenjjeaadmjkngfincfnapgpeao/related)
+### 1. iTour Video Translation
 
  This Chrome extension can translate the audio from your selected video. It can translate online meetings from Zoom, Google Meet, Canva, and Microsoft Teams. International students use it to detect spoken lectures and turn them into text. To get subtitles played on your computers, you have to set the sound source to a microphone.
 
@@ -1552,7 +1552,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 | **Total Users** | 40,000+ |
 | **Size**        | 2.36 MB |
 
-###  2.[Auto Translate for YouTube](https://chrome.google.com/webstore/detail/auto-translate-for-youtub/codommceejgdnbmfednpkhkfnlbepckf)
+### 2. Auto Translate for YouTube
 
  To activate automatic subtitles, you can use this YouTube subtitle translator Chrome. Some videos on YouTube do not offer subtitles. This extension can not only provide subtitles but also translate them into your desired language. With just one click, users can get automated subtitles of any chosen YouTube video.
 
@@ -1569,7 +1569,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 | **Total Users** | 70,000+ |
 | **Size**        | 327KB   |
 
-###  3.[Video CC Translator](https://chrome.google.com/webstore/detail/video-cc-translator/fhbpmacbgklobobcieiaoibpjhdnmcfn/related)
+### 3. Video CC Translator
 
  Translate closed captions provided by video platforms such as Udemy and YouTube with Video CC Translator. It gives you an option to enable captions of the video. Furthermore, users can choose the font weight and text alignment from several options. It allows you to define the subtitles' font size and opacity with the sliders available.
 
@@ -1586,7 +1586,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 | **Total Users** | 10,000+ |
 | **Size**        | 295KB   |
 
-###  4.[Ultimate Video Translator](https://chrome.google.com/webstore/detail/ultimate-video-translator/bboamecjefgpaemgfpcjeediamdnkklc)
+### 4. Ultimate Video Translator
 
  Social communication with global listeners gets easier with this**Chrome video translator** . This extension offers YouTube video subtitles and captions. In this regard, you have to choose a language and manually give a prompt to start the process. It lets you share the translated video on Twitter and other streaming platforms.
 
@@ -1603,7 +1603,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 | **Total Users** | 90,000+ |
 | **Size**        | 328KB   |
 
-###  5.[Video Translator - Translate Video Online](https://chrome.google.com/webstore/detail/video-translator-translat/ofhkcffhkdhjpnpplihikdpkcpailpnc)
+### 5. Video Translator - Translate Video Online
 
  Are you looking for an extension to translate videos quickly online? This extension offers AI-powered video translation technology to translate with 99% accuracy. Business owners, content creators, and marketers get benefits from this Chrome translate extension. It is also useful for making instructional and educational videos for international viewers.
 
@@ -1659,7 +1659,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 
 **Step 1: Get Wondershare Virbo and Access Video Translator Feature**
 
- Launch[Wondershare Virbo](https://virbo.wondershare.com/) in your system after downloading from its official website. Enter the main home screen of Virbo and look for the “Video Translator” option on the right side. Click on it and navigate toward another pop-up screen.
+ Launch [Wondershare Virbo](https://virbo.wondershare.com/) in your system after downloading from its official website. Enter the main home screen of Virbo and look for the “Video Translator” option on the right side. Click on it and navigate toward another pop-up screen.
 
 ![start video translator ai function](https://images.wondershare.com/virbo/article/chrome-video-translators-to-translate-videos-6.jpg)
 
@@ -1683,7 +1683,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 
  In short, translated videos are valuable sources for global communication. For this purpose,**Chrome video translator** extensions are used in many industries. This article has shed light on Chrome extensions that give translation of subtitles. So, using offline tools is preferable in this regard. They are better than such extensions due to the customization options in translation.
 
- Take the example of[**Wondershare Virbo**](https://virbo.wondershare.com/) , which offers AI translation in human-like voices. Unlike Chrome Extensions, you can define your translating parameters. It can turn your video into targeted language and select voice, tones, and accents. Apart from translation, it also provides AI avatars, video templates, and much more. That’s why this AI tool is worth trying if compared with Chrome Extensions.
+ Take the example of [**Wondershare Virbo**](https://virbo.wondershare.com/) , which offers AI translation in human-like voices. Unlike Chrome Extensions, you can define your translating parameters. It can turn your video into targeted language and select voice, tones, and accents. Apart from translation, it also provides AI avatars, video templates, and much more. That’s why this AI tool is worth trying if compared with Chrome Extensions.
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -1693,7 +1693,7 @@ Keep the AI live broadcast window open on the desktop during the broadcast, or i
 
 Today's digital age allows you to do much with static photos taken with your smartphone or digital camera. For instance, you can breathe some life into your smartphone snaps by creating a **talking photo free** and sharing it on your social media apps. While this might sound impossible, numerous AI-powered apps can help you generate a **talking photo online**. So, in this post, we want to introduce you to our carefully curated list of programs to create animated talking images. Read on to discover!
 
-### Tool 1: [Wondershare Virbo](https://virbo.wondershare.com/talking-photo.html)
+### Tool 1: Wondershare Virbo
 
 ![virbo talking photo tool](https://images.wondershare.com/virbo/article/talking-photo-12.jpg)
 
@@ -1737,7 +1737,7 @@ Before saving the video, tap the **Preview** button and proceed to record anothe
 [Generate Talking Photo Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 
-### Tool 2: [HeyGen](https://www.heygen.com/photo-avatar)
+### Tool 2: HeyGen
 
 HeyGen is another **image talking** tool to create HD videos from images taken using any camera. Like Virbo, it combines animations with typed texts or recorded audio to give you an engaging **talking photo AI**. Using this program is also easy. Upload an image you want to bring to life, create a video avatar, then input your text characters or upload a video. You can also choose from 300+ voices in 40+ languages.
 
@@ -1753,7 +1753,7 @@ HeyGen is another **image talking** tool to create HD videos from images taken u
 
 * Advanced tools are available to subscription users.
 
-### Tool 3: [Tokking Heads](https://app.tokkingheads.com/homepage)
+### Tool 3: Tokking Heads
 
 Tokking Heads is another fun online **photo talking AI**. This program can add human expressions to your image thanks to its extensive list of facial animations backed by powerful facial recognition technology. Excitingly, this program lets you customize people's **talking photos** with filters, music, animated texts, and sound effects. It's an excellent talking photo tool to have!
 
@@ -1769,7 +1769,7 @@ Tokking Heads is another fun online **photo talking AI**. This program can add h
 
 * Limited talking picture customization options.
 
-### Tool 4: [Vindoz](https://www.vidnoz.com/talking-head.html)
+### Tool 4: Vindoz
 
 Vindoz is a powerful online tool to make a **talking picture** and make it come to life. With it, you can transform any still image with a clear front face into an animated picture. To get started with this program, upload a local photo or choose from the numerous templates. It also has an AI feature to create a talking image in English, Armenian, Japanese, French, etc. However, you must unlock the Pro plan to use most features.
 
@@ -1785,7 +1785,7 @@ Vindoz is a powerful online tool to make a **talking picture** and make it come 
 
 * Most features are from Pro users only.
 
-### Tool 5: [Elai.io](https://app.elai.io/)
+### Tool 5: Elai.io
 
 Elai.io is an online app that uses advanced AI technology to bring your photos to life by adding a talking photo animation. This incredible tool can make a static portrait photo talk, giving them a life-life persona. After uploading your portrait photo, Elai.io lets you give it a personal touch with a live microphone recording or pre-recorded audio. You can also input text with at least ten characters and watch your photo come to life.
 
@@ -1801,7 +1801,7 @@ Elai.io is an online app that uses advanced AI technology to bring your photos t
 
 * Beginners may need a learning curve.
 
-### Tool 6: [Talkr](https://talkrapp.com/)
+### Tool 6: Talkr
 
 Talkr is an iOS app to generate a **talking photo album** on your iPhone or iPad. This app comes in two modes – Talkr Live and Talkr Classic. With the Live mode, you can record your camera on iPhone X or newer while talking like your favorite celebrity or any other character. It allows you to enter texts or audio to create a talking snapshot. On the other hand, Talkr Classic enables you to upload a local photo and customize it with your favorite voices. The only drawback is that you'll have to download these apps separately.
 
@@ -1817,7 +1817,7 @@ Talkr is an iOS app to generate a **talking photo album** on your iPhone or iPad
 
 * Some faces don't work as advertised.
 
-### Tool 7: [SpeakPic](https://play.google.com/store/apps/details?id=com.speakpic&hl=en%5FUS&gl=US)
+### Tool 7: SpeakPic
 
 As the name of this tool hints, it's an Android app that will make your static photos speak using AI magic. With it, you can record a voiceover or type a text to give life to your pictures while saying everything in your mind. Simply select a photo from your local storage, and then the program will scan the face before allowing simple editing. You can edit your voice with different effects to make it funnier or change the language to multiple options.
 

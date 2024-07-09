@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos
-date: 2024-05-19T03:35:10.845Z
-updated: 2024-05-20T03:35:10.845Z
+date: 2024-07-08T04:00:19.397Z
+updated: 2024-07-09T04:00:19.397Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos
 excerpt: This Article Describes Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos
 keywords: update 6 best voice changers you cant miss,easy guide how to make talking head videos,users guide how to create photo talking videos with the best tools,2024 easy steps to translate video on twitter,easy steps to create talking memoji on iphone free,how to make a talking ai avatar from photos easy guide,a detailed guide to stream to instagram with an rtmp
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Easy Steps to Make a Talking Avatar with AI From Any Photos
@@ -86,7 +86,7 @@ Some of Virbo Talking Avatar features include:
 
 **Step 1:** Install Wondershare Virbo and navigate to “Talking Photo.”
 
- Download[Wondershare Virbo](https://virbo.wondershare.com/) and follow the instructions to install the software. Once you are on Wondershare Virbo’s interface, you can select “Talking Photo.”
+ Download [Wondershare Virbo](https://virbo.wondershare.com/) and follow the instructions to install the software. Once you are on Wondershare Virbo’s interface, you can select “Talking Photo.”
 
 ![How to create a talking avatar free](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-3.jpg)
 
@@ -112,7 +112,7 @@ Some of Virbo Talking Avatar features include:
 
  Once you've completed editing your talking avatar video, click on "Create Video" to export your creation. Wait for a few minutes, and your talking avatar videos will be ready to download.
 
-**Note:** Wondershare Virbo for desktops currently offers more comprehensive features and delivers the best conversion effect. But if you prefer to[**create your own talking avatar**](https://virbo.wondershare.com/app/talkingphoto/) [online](https://virbo.wondershare.com/app/talkingphoto) , you can also use Wondershare Virbo online through their website.
+**Note:** Wondershare Virbo for desktops currently offers more comprehensive features and delivers the best conversion effect. But if you prefer to [**create your own talking avatar**](https://virbo.wondershare.com/app/talkingphoto/) [online](https://virbo.wondershare.com/app/talkingphoto) , you can also use Wondershare Virbo online through their website.
 
 ## Conclusion
 
@@ -179,7 +179,7 @@ Some of Virbo Talking Avatar features include:
 
  Searching for a nice**accent voice generator** that can produce varying English dialects? Here are our top 5 voice generator tools that can help you out in this regard:
 
-### 1. [Virbo](https://virbo.wondershare.com/)
+### 1. Virbo
 
  Virbo is a remarkable software powered by Wondershare. It tops the list of English voice generator tools. Based on powerful AI technology, Virbo is an**accent generator for text-to-speech** purposes. The software supports many languages. It specializes in generating natural and diverse English accents.
 
@@ -193,7 +193,7 @@ Some of Virbo Talking Avatar features include:
 2. The software offers over 150 avatars that add a realistic touch to your content.
 3. Virbo provides hundreds of built-in templates and assets for videos and avatars. These assets can help you produce relevant content targeting your industry of choice.
 
-### 2. [PlayHT](https://play.ht/)
+### 2. PlayHT
 
  If you are looking for a**British accent text generator** that can produce ultra-realistic text-to-speech content, PlayHT is the place to go. With this remarkable tool, you can transform your text into engaging speeches. You can also select an accent of your choice.
 
@@ -207,7 +207,7 @@ Some of Virbo Talking Avatar features include:
 2. With the Voice Cloning feature, you can create high-quality audio outputs and easily capture all accents and dialects.
 3. The tool supports over 800 voices in 130+ languages, including many English accents. This makes it a good tool if you are looking for an**Irish accent voice generator** .
 
-### 3. [Murf.ai](https://murf.ai/)
+### 3. Murf.ai
 
  This next tool is a versatile**accent voice generator** tool that can help you convert text into speech. Murf.ai is a remarkable TTS generator that can produce studio-quality audio outputs.
 
@@ -221,7 +221,7 @@ Some of Virbo Talking Avatar features include:
 2. You can also easily add different media elements, such as videos, music, and images, to your speech on Murf.ai.
 3. The tool offers a wide range of English accents such as Scottish, Australian, UK, Indian, and more, making it a suitable fit as a**British accent text generator** .
 
-### 4. [SpeechGen.io](https://speechgen.io/)
+### 4. SpeechGen.io
 
  If you want a web-based tool to help you generate text into speech on the go, SpeechGen.io is a good option. With its modern AI technology, it excels as a**British voice generator** . It can be a valuable resource for multiple purposes, from video editing to networking and social media.
 
@@ -235,7 +235,7 @@ Some of Virbo Talking Avatar features include:
 2. io allows users to save the output audio in multiple file formats. These include MP3, WAV, and OGG.
 3. io is compatible with popular editing programs. It can work with After Effects, Audition, and others. As a result, you can further refine your audio easily.
 
-### 5. [Speakatoo](https://www.speakatoo.com/)
+### 5. Speakatoo
 
  Speakatoo is a remarkable web-based tool offering an impressive list of English accents. As a marvelous**English accent voice generator** , Speakatoo offers extensive control over various audio features.
 
@@ -265,7 +265,7 @@ Some of Virbo Talking Avatar features include:
 
  Businesses on Instagram used to utilize live broadcasts to sell products directly from the app. It allows them to interact with viewers and drive real-time engagement. Instagram live shopping allowed people to save videos so customers could shop after the broadcast. Using this feature helped companies humanize their brand by telling stories.
 
- According to a[report](https://business.instagram.com/blog/instagram-live-shopping-reach-customers) , many Instagram users shopped weekly on the platform. They utilized many features like shopping tags and the “Shop” tab. However, Instagram stopped supporting live shopping on March 16, 2023\. It was decided so that Instagram could focus more on other features of their application.
+ According to a [report](https://business.instagram.com/blog/instagram-live-shopping-reach-customers) , many Instagram users shopped weekly on the platform. They utilized many features like shopping tags and the “Shop” tab. However, Instagram stopped supporting live shopping on March 16, 2023\. It was decided so that Instagram could focus more on other features of their application.
 
 ### Reason for Discontinuing Live Shopping Feature
 
@@ -279,7 +279,7 @@ Some of Virbo Talking Avatar features include:
 
 ## Part 2\. Wondershare Virbo Live: Enhance Your Livestreaming Selling Experience
 
- Users can still live stream even if the**selling live on Instagram** no longer exists. If you want to provide a seamless shopping experience, Instagram is not the only platform. You can access many live stream platforms like Twitch, YouTube, and Facebook. However, it is also challenging to create compelling livestream content. That is why[Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) is the perfect live-stream video development software.
+ Users can still live stream even if the**selling live on Instagram** no longer exists. If you want to provide a seamless shopping experience, Instagram is not the only platform. You can access many live stream platforms like Twitch, YouTube, and Facebook. However, it is also challenging to create compelling livestream content. That is why [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) is the perfect live-stream video development software.
 
  This tool provides you with an AI content generator that gives an engaging script for streams. There is also an issue with how some tools fail to provide the necessary features for live streaming. Wondershare Virbo Live solves this issue with realistic avatars, 20+ languages, 120+ voices, and more. Also, it is compatible with major platforms like YouTube, TikTok, Twitch, and more for live streaming.
 
@@ -354,11 +354,11 @@ Some of Virbo Talking Avatar features include:
 
 ## Conclusion
 
- As mentioned before,**selling on** **Instagram Live** has been discontinued in 2023\. However, there are still live-streaming platforms available in the market. We looked at various tips to help you achieve the perfect seller live stream. Among the tips, we recommend you utilize[Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) , an ideal place to start. You can take your brand to the next with Virbo Live’s live-streaming features.
+ As mentioned before,**selling on** **Instagram Live** has been discontinued in 2023\. However, there are still live-streaming platforms available in the market. We looked at various tips to help you achieve the perfect seller live stream. Among the tips, we recommend you utilize [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) , an ideal place to start. You can take your brand to the next with Virbo Live’s live-streaming features.
 
 ## Generate Video with Talking Photo Feature
 
-## Create a video with [Talking Photo](https://virbo.wondershare.com/talking-photo.html) feature
+## Create a video with Talking Photo
 
 Follow the instructions, and you will learn how to create a video with the talking photo feature on the app.
 
@@ -366,7 +366,7 @@ Follow the instructions, and you will learn how to create a video with the talki
 
 The [talking photo function](https://virbo.wondershare.com/talking-photo.html) of the APP allows a single video to be created for up to 30 seconds.
 
-02[Step Guidance](#part2)
+02 [Step Guidance](#part2)
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -420,9 +420,9 @@ secure download
 
 #### Index
 
-01[Video Tutorial](#part1)
+01 [Video Tutorial](#part1)
 
-02[Step Guidance](#part2)
+02 [Step Guidance](#part2)
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -568,11 +568,11 @@ secure download
 
 ### 02 Simplified Workflow and Better Viewer Experience with Virbo Live
 
- To get started with Virbo Live, choose an appropriate AI avatar, generate the script, and go live. The process is simple and will take only a few minutes. Here is a detailed[step-by-step guide](https://virbo.wondershare.com/guide-live.html) :
+ To get started with Virbo Live, choose an appropriate AI avatar, generate the script, and go live. The process is simple and will take only a few minutes. Here is a detailed [step-by-step guide](https://virbo.wondershare.com/guide-live.html) :
 
 ##### Step 1 Create a Live Shopping Rooms
 
- Log into[Virbo Live](https://virbo.wondershare.com/virbo-live.html) and click “Create a Blank Livestream Room” or select a template from the available options to get started.
+ Log into [Virbo Live](https://virbo.wondershare.com/virbo-live.html) and click “Create a Blank Livestream Room” or select a template from the available options to get started.
 
 ![virbo live sign in](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-7.jpg)
 
@@ -620,7 +620,7 @@ secure download
 
 ## Conclusion
 
- Live commerce provides a unique opportunity for brands to reach more audiences and increase their sales revenue. While it has revolutionized online shopping, creating content for live commerce can be expensive and time-consuming. That’s why[Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers AI streamers to automate live commerce and allow brands to keep their viewers engaged at a lower cost. By leveraging artificial intelligence, you can enhance your viewers' live shopping experience while getting the best out of the experience.
+ Live commerce provides a unique opportunity for brands to reach more audiences and increase their sales revenue. While it has revolutionized online shopping, creating content for live commerce can be expensive and time-consuming. That’s why [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers AI streamers to automate live commerce and allow brands to keep their viewers engaged at a lower cost. By leveraging artificial intelligence, you can enhance your viewers' live shopping experience while getting the best out of the experience.
 
 ## Installation and Registration | Wondershare Virbo
 
@@ -766,9 +766,9 @@ To use Wondershare Virbo on your Android device, you must fulfill the following 
 
 Simply clicking the [AI Avatars](https://virbo.wondershare.com/ai-avatar.html) showcased on the homepage, and initiate your video production process.
 
-02[Edit Video](#skip3)
+02 [Edit Video](#skip3)
 
-03[Export Video](#skip4)
+03 [Export Video](#skip4)
 
 #### Step 1\. Choose AI Avatar
 
@@ -816,9 +816,9 @@ Yes, these avatars are all based on video footage using real actors.
 
 For personalized avatars on Virbo, you can enjoy the liberty to craft gestures and expressions to your liking. Click now to explore [Virbo's Customization Service!](https://virbo.wondershare.com/ai-avatar-voice-cloning-service.html)
 
-02[Edit Video](#skip3)
+02 [Edit Video](#skip3)
 
-03[Export Video](#skip4)
+03 [Export Video](#skip4)
 
 #### Step 1\. Choose AI Avatar
 
