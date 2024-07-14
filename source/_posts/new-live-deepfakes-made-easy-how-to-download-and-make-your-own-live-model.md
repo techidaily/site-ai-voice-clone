@@ -1,7 +1,7 @@
 ---
 title: New Live Deepfakes Made Easy How to Download and Make Your Own Live Model
-date: 2024-06-23T02:57:16.487Z
-updated: 2024-06-24T02:57:16.487Z
+date: 2024-07-13T21:53:25.502Z
+updated: 2024-07-14T21:53:25.502Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ##### Step 1 Visit the GitHub repository
 
- Using a browser on your PC, visit the GitHub repository and navigate to[DeepFace Live.](https://github.com/iperov/DeepFaceLive)
+ Using a browser on your PC, visit the GitHub repository and navigate to [DeepFace Live.](https://github.com/iperov/DeepFaceLive)
 
 ![github](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-5.jpg)
 
@@ -72,6 +72,18 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  After downloading the Zip file to your PC, extract its content to a desired location. Open the command prompt or a terminal and navigate to the extruded Deepface Live direction. Then, use the command “_pip install -r requirements.txt”_ to install the required dependencies on your PC. After installing all the dependencies, run DeepFace Live on your PC using the command “_python main.py._ ”
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![application run](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-7.jpg)
 
 ## Part 3: Build Your Live Model: Easy Tutorial
@@ -94,11 +106,11 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 * **Network Requirements:** Your internet speed should be at least 5Mbps for smooth live streaming.
 * **Browser Requirements** : While most browsers are supported, it is recommended to use the latest Chrome browser for optimal and stable performance.
 
- Once you have checked on all the[equipment requirements](https://virbo.wondershare.com/guide-live.html) , you can go ahead to create your first AI-powered stream. Here are the steps to follow to create an AI streamer and set it up for interactions with your viewers:
+ Once you have checked on all the [equipment requirements](https://virbo.wondershare.com/guide-live.html) , you can go ahead to create your first AI-powered stream. Here are the steps to follow to create an AI streamer and set it up for interactions with your viewers:
 
 ##### Step 1 Create a Live Shopping Rooms
 
- On the[Virbo Live page](https://virbo.wondershare.com/live/) , select “Create a Blank Livestream Room” or choose a template of choice from the available options to create a new livestream room.
+ On the [Virbo Live page](https://virbo.wondershare.com/live/) , select “Create a Blank Livestream Room” or choose a template of choice from the available options to create a new livestream room.
 
 ![wondershare virbo](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-8.jpg)
 
@@ -108,6 +120,9 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  Add a virtual streamer of choice to your live stream room from the virtual host library.**Virbo Live** provides a wide range of AI avatars and backgrounds to suit your needs. You can also customize the avatar and background the way you like, and add stickers to enhance your viewers' experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose ai streamers and background](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-9.jpg)
 
 ##### Step 3 Enter Text or Voice
@@ -120,6 +135,9 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
  After choosing your AI Avatar and generating or adding a script, click "Start Live Streaming". This allows you to AI stream your Avatar through OBS software, and allow the Avatar to interact with your audience on platforms like Facebook Live and YouTube.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![start live streaming](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-11.jpg)
 
 ##### Step 5 Interact With the Audience
@@ -130,7 +148,7 @@ thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad23
 
 ## Conclusion
 
-**Deepface Live** allows you to experiment with different faces when streaming live videos. You can present your videos as a celeb or even appear as if you are in a different location. While the**DeepFace Live application** can give you an incredible experience, you may have to deal with some ethical issues associated with Deepfake scandals. For this reason, we highly recommend using[Virbo Live](https://virbo.wondershare.com/virbo-live.html) as a safe alternative. It allows you to create AI-powered avatars that can seamlessly interact with your audience without negative repercussions.
+**Deepface Live** allows you to experiment with different faces when streaming live videos. You can present your videos as a celeb or even appear as if you are in a different location. While the**DeepFace Live application** can give you an incredible experience, you may have to deal with some ethical issues associated with Deepfake scandals. For this reason, we highly recommend using [Virbo Live](https://virbo.wondershare.com/virbo-live.html) as a safe alternative. It allows you to create AI-powered avatars that can seamlessly interact with your audience without negative repercussions.
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -184,7 +202,7 @@ The AI avatar in Twitch can be manifested in several ways:
 
 ### Equipment requirement
 
- Before creating your AI show Twitch, you need to make sure your equipment can stream effectively and that your internet speed is fast enough. Some of the[equipment requirements](https://virbo.wondershare.com/guide-live.html) for building your AI streamer include:
+ Before creating your AI show Twitch, you need to make sure your equipment can stream effectively and that your internet speed is fast enough. Some of the [equipment requirements](https://virbo.wondershare.com/guide-live.html) for building your AI streamer include:
 
 * **Computer Requirements** : Make sure your computer is configured well with Stereo Mix or other virtual sound cards and is running smoothly
 * **Network Requirements:** Make sure your average network speed is at least 5Mbps for smooth live streaming.
@@ -244,7 +262,7 @@ The AI avatar in Twitch can be manifested in several ways:
 
 ## Conclusion
 
- The rise of AI streamers has significantly affected the way creators produce content and viewers receive it. As**AI Twitch streamers** become more popular, Virbo Live is helping content creators develop more engaging content for their audience. It is important to ensure that the AI streamer can engage effectively with the audience and offer them valuable experience. With[Virbo Live](https://virbo.wondershare.com/virbo-live.html) , you can create a highly responsive AI streamer that will leave your audience entertained and engaged.
+ The rise of AI streamers has significantly affected the way creators produce content and viewers receive it. As**AI Twitch streamers** become more popular, Virbo Live is helping content creators develop more engaging content for their audience. It is important to ensure that the AI streamer can engage effectively with the audience and offer them valuable experience. With [Virbo Live](https://virbo.wondershare.com/virbo-live.html) , you can create a highly responsive AI streamer that will leave your audience entertained and engaged.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -258,7 +276,7 @@ Follow the instructions, and you will learn how to create a video with the talki
 
 The [talking photo function](https://virbo.wondershare.com/talking-photo.html) of the APP allows a single video to be created for up to 30 seconds.
 
-02[Step Guidance](#part2)
+02 [Step Guidance](#part2)
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -312,9 +330,9 @@ secure download
 
 #### Index
 
-01[Video Tutorial](#part1)
+01 [Video Tutorial](#part1)
 
-02[Step Guidance](#part2)
+02 [Step Guidance](#part2)
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -360,6 +378,9 @@ Download Virbo App for Free
 
 for iOS
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
 
 for Android
@@ -494,11 +515,11 @@ In conclusion, creating a **voice clone through Descript** proves to be a powerf
 
 ## Download/Install/Register/Uninstall
 
-02[Register](#skip2)
+02 [Register](#skip2)
 
-03[Update](#skip3)
+03 [Update](#skip3)
 
-04[Uninstall](#skip4)
+04 [Uninstall](#skip4)
 
 #### 1\. Download & Install
 
@@ -546,11 +567,11 @@ Right-click Virbo icon, click Open File Location and double-click unins000.exe t
 
 Uninstall Virbo
 
-02[Register](#skip2)
+02 [Register](#skip2)
 
-03[Update](#skip3)
+03 [Update](#skip3)
 
-04[Uninstall](#skip4)
+04 [Uninstall](#skip4)
 
 #### 1\. Download & Install
 
@@ -966,3 +987,50 @@ Furthermore, if you need to learn about the tools that work perfectly as **Hatsu
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-tying-iphone-videos-in-seamless-bundles/"><u>[Updated] 2024 Approved  Tying IPhone Videos in Seamless Bundles</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-unveiling-the-secrets-of-shopee-livestream-selling-system-for-2024/"><u>New Unveiling the Secrets of Shopee Livestream Selling System for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-unleashed-best-practices-for-ios-audio-broadcasting/"><u>2024 Approved  Expertise Unleashed  Best Practices for iOS Audio Broadcasting</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-iphone-12-pro-max-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your iPhone 12 Pro Max and iPad</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New 2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated 2024 Approved Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-spark-10c-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark 10C in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone XS Max</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-13-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 13 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unveiling-dji-phantom-3s-expert-features/"><u>In 2024, Unveiling DJI Phantom 3'S Expert Features</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-mastering-the-art-of-adding-youtube-playlists-to-your-website-seamlessly/"><u>[Updated] 2024 Approved  Mastering the Art of Adding YouTube Playlists to Your Website Seamlessly</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-translate-live-videos-with-the-best-video-translator/"><u>Updated In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-translate-live-videos-with-the-best-video-translator-for-2024/"><u>New Translate Live Videos With The Best Video Translator for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Updated 2024 Approved Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-unveiling-the-secrets-of-shopee-livestream-selling-system-for-2024/"><u>Updated Unveiling the Secrets of Shopee Livestream Selling System for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-online-video-blurring-the-top-free-tools-and-techniques/"><u>Updated 2024 Approved Online Video Blurring The Top Free Tools and Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-mastering-tiktoks-elements-success/"><u>2024 Approved  Mastering TikTok's Elements Success</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos-for-2024/"><u>Updated Easy Steps to Make a Talking Avatar with AI From Any Photos for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>New In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-reviewing-the-live-streaming-shopping-industry-in-china/"><u>Updated In 2024, Reviewing the Live Streaming Shopping Industry in China</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-the-compreenas-guide-to-tiktok-content-sharing-chromeandroid/"><u>[Updated] The Compreenas Guide to TikTok Content Sharing (Chrome/Android)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>New 2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-translate-live-videos-with-the-best-video-translator/"><u>New In 2024, Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-reviewing-the-live-streaming-shopping-industry-in-china-for-2024/"><u>New Reviewing the Live Streaming Shopping Industry in China for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-how-to-fade-in-and-fade-out-video-clips/"><u>2024 Approved  How to Fade-In and Fade-Out Video Clips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-new-windows-11-insiders-edge-techniques/"><u>[New] New Windows 11 Insider's Edge Techniques</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>Updated In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-translate-live-videos-with-the-best-video-translator-for-2024/"><u>Updated Translate Live Videos With The Best Video Translator for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-must-use-livestream-shopping-apps-for-seamless-online-system/"><u>Updated 2024 Approved Must-Use Livestream Shopping Apps for Seamless Online System</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-translate-live-videos-with-the-best-video-translator/"><u>New 2024 Approved Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-mastering-media-locate-your-latest-favorites-on-facebook/"><u>2024 Approved  Mastering Media  Locate Your Latest Favorites on Facebook</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-translate-live-videos-with-the-best-video-translator/"><u>Updated 2024 Approved Translate Live Videos With The Best Video Translator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-reviewing-the-live-streaming-shopping-industry-in-china-for-2024/"><u>Updated Reviewing the Live Streaming Shopping Industry in China for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-basics-to-brilliance-the-ultimate-guide-to-hdr-portraits/"><u>2024 Approved  From Basics to Brilliance  The Ultimate Guide to HDR Portraits</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos-for-2024/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-great-ways-to-make-claymation-videos-for-2024/"><u>Updated Great Ways to Make Claymation Videos for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-12-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>iPhone 12 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-apple-iphone-13-fix-now-drfone-by-drfone-virtual-ios/"><u>3uTools Virtual Location Not Working On Apple iPhone 13? Fix Now | Dr.fone</u></a></li>
+</ul></div>

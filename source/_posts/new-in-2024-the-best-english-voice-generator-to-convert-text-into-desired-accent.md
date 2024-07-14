@@ -1,7 +1,7 @@
 ---
 title: New In 2024, The Best English Voice Generator To Convert Text Into Desired Accent
-date: 2024-05-19T03:35:12.837Z
-updated: 2024-05-20T03:35:12.837Z
+date: 2024-07-13T22:00:25.427Z
+updated: 2024-07-14T22:00:25.427Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -11,7 +11,7 @@ categories:
 description: This Article Describes New In 2024, The Best English Voice Generator To Convert Text Into Desired Accent
 excerpt: This Article Describes New In 2024, The Best English Voice Generator To Convert Text Into Desired Accent
 keywords: how to use korean to english video translators for creators,top 10 free ai voice generators to use in daily life,best celebrity voice generator tools you cannot miss,best 4 morgan freeman voice generator tools for voice cloning,the best english voice generator to convert text into desired accent,best tools to convert text to audio online,top 4 eminem voice generator apps for pc mac mobile and online
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## The Best English Voice Generator To Convert Text Into Desired Accent
@@ -49,6 +49,9 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 
  The British Empire's expansion era resulted in several colonial settlements. As a result, English was spread to numerous territories and far-off places in the world. The amalgamation of English with local languages and dialects gave rise to unique accents such as Indian and African English.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Media and Entertainment
 
  Media has always been a powerful communication and a great way to spread your word. People often copy speech patterns observed in mainstream media and entertainment. These include movies, TV shows, and music. This can lead to the development of certain distinct accents and dialects. This particularly occurs in regions that have high media exposure.
@@ -65,7 +68,7 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 
  Searching for a nice**accent voice generator** that can produce varying English dialects? Here are our top 5 voice generator tools that can help you out in this regard:
 
-### 1. [Virbo](https://virbo.wondershare.com/)
+### 1. Virbo
 
  Virbo is a remarkable software powered by Wondershare. It tops the list of English voice generator tools. Based on powerful AI technology, Virbo is an**accent generator for text-to-speech** purposes. The software supports many languages. It specializes in generating natural and diverse English accents.
 
@@ -79,7 +82,7 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 2. The software offers over 150 avatars that add a realistic touch to your content.
 3. Virbo provides hundreds of built-in templates and assets for videos and avatars. These assets can help you produce relevant content targeting your industry of choice.
 
-### 2. [PlayHT](https://play.ht/)
+### 2. PlayHT
 
  If you are looking for a**British accent text generator** that can produce ultra-realistic text-to-speech content, PlayHT is the place to go. With this remarkable tool, you can transform your text into engaging speeches. You can also select an accent of your choice.
 
@@ -93,7 +96,7 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 2. With the Voice Cloning feature, you can create high-quality audio outputs and easily capture all accents and dialects.
 3. The tool supports over 800 voices in 130+ languages, including many English accents. This makes it a good tool if you are looking for an**Irish accent voice generator** .
 
-### 3. [Murf.ai](https://murf.ai/)
+### 3. Murf.ai
 
  This next tool is a versatile**accent voice generator** tool that can help you convert text into speech. Murf.ai is a remarkable TTS generator that can produce studio-quality audio outputs.
 
@@ -107,7 +110,7 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 2. You can also easily add different media elements, such as videos, music, and images, to your speech on Murf.ai.
 3. The tool offers a wide range of English accents such as Scottish, Australian, UK, Indian, and more, making it a suitable fit as a**British accent text generator** .
 
-### 4. [SpeechGen.io](https://speechgen.io/)
+### 4. SpeechGen.io
 
  If you want a web-based tool to help you generate text into speech on the go, SpeechGen.io is a good option. With its modern AI technology, it excels as a**British voice generator** . It can be a valuable resource for multiple purposes, from video editing to networking and social media.
 
@@ -121,7 +124,7 @@ thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/fi
 2. io allows users to save the output audio in multiple file formats. These include MP3, WAV, and OGG.
 3. io is compatible with popular editing programs. It can work with After Effects, Audition, and others. As a result, you can further refine your audio easily.
 
-### 5. [Speakatoo](https://www.speakatoo.com/)
+### 5. Speakatoo
 
  Speakatoo is a remarkable web-based tool offering an impressive list of English accents. As a marvelous**English accent voice generator** , Speakatoo offers extensive control over various audio features.
 
@@ -201,6 +204,9 @@ Here are more reasons why it's important:
 
  Once selected, you can translate captions and descriptions of videos in different languages. You can click "See Translation" when watching TikTok’s videos.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Auto-generated video captions
 
  This feature allows viewers to enable closed captions for videos they're watching. And eliminate the need for creators to add captions manually. The auto-generated captions appear above the video creator's name on the For You Page. Captions will appear once you tap them.
@@ -211,16 +217,19 @@ Here are more reasons why it's important:
 
  This feature enables the translation of text stickers. Stickers are the text overlays you see while watching a video. With this feature, you can understand the text stickers that are using other languages.
 
- These translation features facilitate communication across language barriers. Accessing content from around the world becomes easier. Regardless of one's language or geographical location. You can go to[this link](https://newsroom.tiktok.com/en-us/auto-translations-and-captions) for more detailed information about auto-translate tools.
+ These translation features facilitate communication across language barriers. Accessing content from around the world becomes easier. Regardless of one's language or geographical location. You can go to [this link](https://newsroom.tiktok.com/en-us/auto-translations-and-captions) for more detailed information about auto-translate tools.
 
 ## Part 3\. How to Translate TikTok Videos into Any Language with AI Video Translator
 
- TikTok's auto-translation feature has a limited range of languages. They only allow auto-translation within captions. Wondershare Virbo offers a solution to enhance your experience beyond the platform's features.**TikTok video translator** by[W onder share Virbo](https://virbo.wondershare.com/) is a tool that enables users to make their TikTok videos speak in different languages. By using this tool, you can also add subtitles to the videos.
+ TikTok's auto-translation feature has a limited range of languages. They only allow auto-translation within captions. Wondershare Virbo offers a solution to enhance your experience beyond the platform's features.**TikTok video translator** by [W onder share Virbo](https://virbo.wondershare.com/) is a tool that enables users to make their TikTok videos speak in different languages. By using this tool, you can also add subtitles to the videos.
 
  Here is the step-by-step guide how to translate TikTok video using Virbo’s AI Video Translator tool:
 
 * **Step 1.** Go to Wondershare Virbo official website and select Generate AI Video Online.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![translate-tiktok-video-7.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-tiktok-video-7.jpeg)
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
@@ -253,9 +262,9 @@ Here are more reasons why it's important:
 
 Virbo's template feature collects a wide range of ready-made and exquisite video templates for users to choose from, eliminating the hassle of creating videos from scratch. With just a few simple clicks, you can easily create a sophisticated video that guarantees your satisfaction.
 
-02[Create Video](#skip2)
+02 [Create Video](#skip2)
 
-03[Edit Video](#skip3)
+03 [Edit Video](#skip3)
 
 #### Step 1\. Choose Template
 
@@ -301,9 +310,9 @@ Yes, these avatars are all based on video footage using real actors.
 
 For personalized avatars on Virbo, you can enjoy the liberty to craft gestures and expressions to your liking. Click now to explore [Virbo's Customization Service!](https://virbo.wondershare.com/ai-avatar-voice-cloning-service.html)
 
-02[Create Video](#skip2)
+02 [Create Video](#skip2)
 
-03[Edit Video](#skip3)
+03 [Edit Video](#skip3)
 
 #### Step 1\. Choose Template
 
@@ -387,6 +396,9 @@ Some prominent AI influencer examples include:
 
 **4\. Knox Frost**: A digital artist and influencer, Knox interacts with followers through art and creative content.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 AI influencers are revolutionizing the digital landscape with their unique advantages and applications. Their potential to engage, educate, and entertain offers exciting opportunities for brands, creators, and audiences alike. As technology evolves, AI influencers are poised to continue shaping the future of influencer marketing and online engagement.
@@ -493,7 +505,7 @@ AI influencers are revolutionizing the digital landscape with their unique advan
 
 #### 2.2\. Encourage User Generated Content
 
- If the content is created by people rather than the brands, then it is termed as User-Generated content. It is one of the promising components for building trust among clients and sellers. For creating customized content, you need to use a digital content-creating tool. The best tool to help you make the best**Instagram marketing videos** is[Virbo](https://virbo.wondershare.com/) .
+ If the content is created by people rather than the brands, then it is termed as User-Generated content. It is one of the promising components for building trust among clients and sellers. For creating customized content, you need to use a digital content-creating tool. The best tool to help you make the best**Instagram marketing videos** is [Virbo](https://virbo.wondershare.com/) .
 
 ![instagram-video-promotion-3.jpg](https://images.wondershare.com/virbo/images2023/app-product/instagram-video-promotion-3.jpg)
 
@@ -620,7 +632,7 @@ AI influencers are revolutionizing the digital landscape with their unique advan
 
  Live streaming constantly evolves, offering creators new ways to connect with audiences. While traditional live streams require your physical presence, imagine having an engaging and interactive stream running 24/7, even when you’re not there. This is great, especially for**private YouTube streams** , where the need to engage the select viewers becomes more apparent.
 
- Enter[Wondershare Virbo](https://virbo.wondershare.com/) , a revolutionary tool that leverages AI to create realistic and captivating live streams around the clock.
+ Enter [Wondershare Virbo](https://virbo.wondershare.com/) , a revolutionary tool that leverages AI to create realistic and captivating live streams around the clock.
 
 ### Introducing Wondershare Virbo
 
@@ -639,7 +651,7 @@ AI influencers are revolutionizing the digital landscape with their unique advan
 
  Adding Virbo Live to your existing setup is simple and intuitive. Add Virbo as a live OBS window and use the YouTube stream key. Here’s a step-by-step guide:
 
-* **Step 1:** Install[Wondershare Virbo](https://virbo.wondershare.com/) or access the web app.
+* **Step 1:** Install [Wondershare Virbo](https://virbo.wondershare.com/) or access the web app.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -741,3 +753,55 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-from-basics-to-mastery-unveiling-timelapse-shooting-techniques-with-gopro/"><u>[New] 2024 Approved  From Basics to Mastery  Unveiling Timelapse Shooting Techniques with GoPro</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>New Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6s-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6s</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-10-chinese-video-to-english-translators/"><u>New In 2024, Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>Updated Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/cutting-edge-speedy-frame-compiler-for-2024/"><u>Cutting Edge  Speedy Frame Compiler for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-masterful-techniques-to-alter-facial-gender-in-instagram-snapchat-and-facebook-pictures/"><u>[Updated] Masterful Techniques to Alter Facial Gender in Instagram, Snapchat & Facebook Pictures</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-transformation-unleash-potential-with-tubebuddy/"><u>2024 Approved  Channel Transformation  Unleash Potential with TubeBuddy</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dynamic-duo-display-youtubes-way-of-creative-splitting-for-2024/"><u>[Updated] Dynamic Duo Display  YouTube’s Way of Creative Splitting for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-blueprint-for-buzz-elevating-your-profile-on-fb/"><u>2024 Approved  Blueprint for Buzz  Elevating Your Profile on FB</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-aural-artistry-the-intersection-of-sound-and-image-on-insta/"><u>[Updated] Aural Artistry  The Intersection of Sound and Image on Insta</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tiktok-stitching-demos-for-beginners/"><u>[New] 2024 Approved  TikTok Stitching Demos for Beginners</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-pros-and-cons-deciphering-virtual-reality/"><u>2024 Approved  Pros and Cons  Deciphering Virtual Reality</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-10-animated-explainer-video-examples/"><u>New 2024 Approved Best 10 Animated Explainer Video Examples</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-undercover-upscalers-guide-to-clear-visuals/"><u>In 2024, The Undercover Upscaler's Guide to Clear Visuals</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-leading-the-charge-in-pc-livestreams-with-tiktok-features-for-2024/"><u>[New] Leading the Charge in PC Livestreams with TikTok Features for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-10-animated-explainer-video-examples/"><u>Updated In 2024, Best 10 Animated Explainer Video Examples</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-chinese-video-to-english-translators-for-2024/"><u>Updated Best 10 Chinese Video to English Translators for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-animated-explainer-video-examples-for-2024/"><u>Updated Best 10 Animated Explainer Video Examples for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>Updated Best 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-free-video-translators-to-mitigate-translation-risks-for-2024/"><u>Updated Best 10 Free Video Translators to Mitigate Translation Risks for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-10-animated-explainer-video-examples/"><u>New In 2024, Best 10 Animated Explainer Video Examples</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-video-gear-of-2024-our-curated-list-unleashed/"><u>Best Video Gear of 2024 – Our Curated List Unleashed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated In 2024, Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-10-animated-explainer-video-examples-for-2024/"><u>New Best 10 Animated Explainer Video Examples for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-10-hindi-video-translators-with-step-by-step-guidance-for-2024/"><u>New Best 10 Hindi Video Translators with Step-by-Step Guidance for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-ideas-to-find-the-best-instrumental-background-music-for-videos-for-2024/"><u>New Ideas to Find The Best Instrumental Background Music for Videos for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>New 2024 Approved Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-10-chinese-video-to-english-translators-for-2024/"><u>New Best 10 Chinese Video to English Translators for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-6-best-video-grabbers-for-mac/"><u>[New] In 2024, 6 Best Video Grabbers for Mac</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-cubic-cottages-for-newcomers-to-mc-world-for-2024/"><u>[Updated] Cubic Cottages for Newcomers to MC World for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-10-chinese-video-to-english-translators/"><u>Updated 2024 Approved Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-10-chinese-video-to-english-translators/"><u>Updated In 2024, Best 10 Chinese Video to English Translators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-create-stunning-videos-from-images-10-top-online-makers/"><u>New In 2024, Create Stunning Videos From Images 10 Top Online Makers</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-13-gratis-audio-creation-tools-for-pc-and-mac-updated-list-for-2024/"><u>Updated Top 13 Gratis Audio Creation Tools for PC and Mac, Updated List for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-10-animated-explainer-video-examples/"><u>Updated 2024 Approved Best 10 Animated Explainer Video Examples</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-google-pixel-fold-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Google Pixel Fold</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-selecting-the-finest-screen-recorders-1-to-5-android/"><u>2024 Approved  Selecting the Finest Screen Recorders, #1 to #5 (Android)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>Updated 2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-10-chinese-video-to-english-translators/"><u>New 2024 Approved Best 10 Chinese Video to English Translators</u></a></li>
+</ul></div>
