@@ -1,7 +1,7 @@
 ---
 title: Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More
-date: 2024-08-15T00:13:02.363Z
-updated: 2024-08-16T00:13:02.363Z
+date: 2024-09-03T23:08:45.285Z
+updated: 2024-09-04T23:08:45.285Z
 tags:
   - desktop
 categories:
@@ -141,5 +141,14 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

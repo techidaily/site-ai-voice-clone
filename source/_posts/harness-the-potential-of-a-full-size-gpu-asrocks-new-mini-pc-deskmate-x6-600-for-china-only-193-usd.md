@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-08-15T00:12:36.618Z
-updated: 2024-08-16T00:12:36.618Z
+date: 2024-09-03T23:08:45.765Z
+updated: 2024-09-04T23:08:45.765Z
 tags:
   - desktop
 categories:
@@ -40,10 +40,6 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
   
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -108,3 +104,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-4k-the-ultimate-list-of-free-video-converters/"><u>Updated In 2024, Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: "Monthly NZXT Lease Deals: Power up with Core I5 & RTX 4060 GPU Gaming PC at Just $59 or Go Bigger with Core I7 and RTX Er 4070 Ti for a Premium Package at $169!"
-date: 2024-08-15T00:13:01.396Z
-updated: 2024-08-16T00:13:01.396Z
+date: 2024-09-03T23:08:45.302Z
+updated: 2024-09-04T23:08:45.302Z
 tags:
   - desktop
 categories:
@@ -117,5 +117,8 @@ NZXT has initiated a new subscription plan —[NZXT Flex](https://shareasale.com
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!
-date: 2024-08-15T00:12:47.197Z
-updated: 2024-08-16T00:12:47.197Z
+date: 2024-09-03T23:08:45.563Z
+updated: 2024-09-04T23:08:45.563Z
 tags:
   - desktop
 categories:
@@ -99,5 +99,8 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bruDxFJz5bEV44Y4pabvqa-320-80.jpg
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->

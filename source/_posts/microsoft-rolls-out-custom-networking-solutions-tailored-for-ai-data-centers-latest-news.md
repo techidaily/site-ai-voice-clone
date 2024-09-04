@@ -1,7 +1,7 @@
 ---
 title: Microsoft Rolls Out Custom Networking Solutions Tailored for AI Data Centers - Latest News
-date: 2024-08-15T00:12:21.402Z
-updated: 2024-08-16T00:12:21.402Z
+date: 2024-09-03T23:08:46.052Z
+updated: 2024-09-04T23:08:46.052Z
 tags:
   - desktop
 categories:
@@ -98,5 +98,8 @@ Today we have one great deal that turns into two when you take up a bundle offer
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
