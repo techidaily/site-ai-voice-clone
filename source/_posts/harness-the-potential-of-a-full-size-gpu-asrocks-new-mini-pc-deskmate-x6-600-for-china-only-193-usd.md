@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-09-03T23:08:45.765Z
-updated: 2024-09-04T23:08:45.765Z
+date: 2024-09-09T00:02:03.277Z
+updated: 2024-09-10T00:02:03.277Z
 tags:
   - desktop
 categories:
@@ -9,14 +9,38 @@ categories:
 thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234cc40f347849f915f7ea8138.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD
 
 ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https://item.jd.com/10105785234275.html) \[h/t ITHome.com\], rounds out the existing[ASRock Mini PC](https://www.tomshardware.com/desktops/mini-pcs/asrocks-amd-ryzen-powered-deskmini-x600-set-for-may-24-overseas-launch) lineup. It also comes with some interesting if questionable design decisions. We'll dive into that in a little bit, but the barebones kit includes just the case and a CPU cooler, starting at roughly $193 USD. A fully-specced version with a Ryzen 7 8700G will cost around $635 USD.
 
 ![The three colors of the ASRock DeckMate X600.](https://cdn.mos.cms.futurecdn.net/QjZwG9ogXk5eVbEARLkvGH-320-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: ASRock (via ITHome.com))
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## ASRock DeskMate X600 Mini PC core specifications
 
 * **Motherboard Chipset** : AMD X600
@@ -40,6 +64,18 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
   
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -104,10 +140,3 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-4k-the-ultimate-list-of-free-video-converters/"><u>Updated In 2024, Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

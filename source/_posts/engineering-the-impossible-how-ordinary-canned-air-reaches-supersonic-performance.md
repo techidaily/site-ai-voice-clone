@@ -1,7 +1,7 @@
 ---
 title: "Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance"
-date: 2024-09-03T23:08:45.491Z
-updated: 2024-09-04T23:08:45.491Z
+date: 2024-09-09T00:02:03.032Z
+updated: 2024-09-10T00:02:03.032Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/8811b92a7eefeba0e683a11bee29a6db304b4d3eeed54950f10cd7a4ce1787b2.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores
 
 Ayaneo is officially selling its retro mini PC, the AM01, outside of its crowdfunding campaign via its[website](https://ayaneo.com/goods/8451695378677?) . The AM01 mini PC is reminiscent of the Macintosh Classic and is available in multiple configurations. The AM01 is much smaller than the Macintosh Classic, but it's packed with features and can be purchased with a memory configuration of between 8 and 32GB and primary SSD storage options of up to 1TB.
@@ -46,6 +52,18 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 ![Ayaneo AM01 Mini PC](https://cdn.mos.cms.futurecdn.net/WGEpGR8Pts2g8USJ2KBFfh-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Ayaneo)
 
  The pricing is fairly attractive, with the highest-spec options retailing at $449 including shipping, though customs charges may vary depending on country. Also, you may not receive full warranty support, depending on country. There are, of course, other mini PCs to consider — the main selling point of the AM01 is its Macintosh-themed design. If you're just looking for a mini PC,[Asus' NUCs](https://www.tomshardware.com/desktops/mini-pcs/asus-reveals-pricing-for-its-new-nucs-nuc-14-pro-starts-at-dollar394-and-nuc-14-pro-at-dollar869) are a local option.
@@ -54,6 +72,12 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -129,10 +153,3 @@ __Ayaneo Retro Mini PC AM01 Specification__
 <li><a href="https://ai-voice-clone.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

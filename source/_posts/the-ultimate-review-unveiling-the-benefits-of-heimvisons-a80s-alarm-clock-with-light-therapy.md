@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Review: Unveiling the Benefits of HeimVison's A80S Alarm Clock with Light Therapy"
-date: 2024-09-03T23:08:46.351Z
-updated: 2024-09-04T23:08:46.351Z
+date: 2024-09-09T00:02:03.742Z
+updated: 2024-09-10T00:02:03.742Z
 categories:
   - BestProducts
 description: "This Article Describes The Ultimate Review: Unveiling the Benefits of HeimVison's A80S Alarm Clock with Light Therapy"
@@ -13,6 +13,12 @@ thumbnail: https://thmb.techidaily.com/4820926913a4a1263a46714c8a07c6721c5281032
 
 4.6
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Philips HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review
 
 ![Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp](https://www.lifewire.com/thmb/hjYZyfPIrdy-Dj1MthRfQh8ZbZs=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-4137028-1-3-5c8fee16c9e77c0001ff0b33.jpg)
@@ -37,10 +43,28 @@ Lifewire / Jordan Provost
 
 4.6
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Philips HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review
 
 ![Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp](https://www.lifewire.com/thmb/c9nvEoRMRBjYcwbVPMqxcJWpqBg=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hero-4137028-1-3-5c8fee16c9e77c0001ff0b33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Lifewire / Jordan Provost
 
 [View On Amazon](https://www.amazon.com/dp/B075S53HD9/?tag=lifewire-onsite-prod-20&ascsubtag=4589395%7Cn1f0a866f6147413ba03c22019cdaa97609%7CB075S53HD9) [View On Walmart](https://www.walmart.com/ip/544380672) [View On Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2F6165966.p)
@@ -67,6 +91,18 @@ Lifewire / Jordan Provost
 
  Lifewire / Jordan Provost
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design and Setup: Very user-friendly, if oddly shaped**
 
  At 12 inches in diameter, 8.8 inches wide, and weighing 3.2 pounds, the Somneo is one of the larger and heavier clocks to grace a bedside table. Its shape is odd as well. Most light therapy clocks put the time interface in the center and the light circles around this. The Somneo, however, retains this shape, but places a hole in the center and the time interface at the bottom. It’s odd, but not objectionable, making the Somneo look more like a modern designer piece than your standard bedside light.
@@ -83,12 +119,6 @@ Lifewire / Jordan Provost
 
  See Just How Well These Light Therapy Alarm Clocks Glow
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Easy to build, but not so easy to configure**
 
  The Somneo comes with three components: the clock, an AC adapter, charging cable, and an auxiliary cord. To set it up, we simply plugged the adapter and the charging cable into the clock, and plugged the adapter into the wall.
@@ -97,6 +127,12 @@ Lifewire / Jordan Provost
 
  The Philips Somneo is a top-tier product in the light therapy alarm clock market.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Features: Great for falling asleep**
 
  The unique feature about the Philips Somneo is that it offers a “wind down” feature, which includes both a sunset simulation and breathing exercises. Simply tap the wind down button, and then tap the sunset option, and the light slowly diminishes from a bright yellow hue, morphing to oranges and reds before it completely turns off. We like that the lights don’t suddenly switch off at the beginning and end — every light-related feature with the Somneo gradually fades and brightens.
@@ -110,10 +146,10 @@ Lifewire / Jordan Provost
 ![Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp](https://www.lifewire.com/thmb/-Y5_OBcQ3E4zZLKBd4JYJ2fDj04=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4137028-1-5-5c8fee6ac9e77c0001eb1c8d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
@@ -121,28 +157,28 @@ Lifewire / Jordan Provost
 
 ![Philips Somneo HF3650/60 Sleep and Wake-Up Light Therapy Lamp](https://www.lifewire.com/thmb/VnTu8-OX_dmaMQft3divUMJaMm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4137028-1-4-5c8fee5b46e0fb000172f0a4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Jordan Provost
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Radio: An extra convenience**
 
  Because the audio is superb, we thoroughly tested the radio feature. The user can preset five radio stations, and can easily control swapping between them. We couldn’t flip back and forth between the options, but rather cycled through the other stations before coming back to the original. There is a volume section under the FM radio where you can easily increase or decrease it, though it was confusing to find at first. Once you become familiarized with it, though, it’s simple to maneuver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: Top end for high-end products**
 
  At $199.99, the Somneo is priced on the high-end for light therapy alarm clocks. However, you get what you pay for: great audio quality, gradual, subtle light changes, and more alarm options than most clocks on the market. We especially liked the radio preset feature as well as the auxiliary option for phone playback — an extra option nearly all other light therapy clocks lack. While pricey, the Somneo really boasts all the bells and whistles you may want or need.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Philips Somneo vs. Philips HF3520 Wake-Up Light**
 
  Compared to its cheaper sibling, the[Philips HF3520 Wake-Up Light](https://www.lifewire.com/philips-hf3520-light-therapy-alarm-clock-review-4589352) , the Philips Somneo’s extra features set it apart. Unlike the HF3520, the Somneo offers the breathing exercises, USB phone charging port, and a 3.5mm audio jack. However, the HF3520 has a lower price with many similar options, like five alarms with solid audio quality, and the same gradual light brightening and fading. The HF3520 similarly has a wind-down option, but not any USB or auxiliary ports. If relaxing before bed and charging a phone is a necessity for you, invest in the Somneo, otherwise, the HF3520 can save you some money.
@@ -156,16 +192,10 @@ Lifewire / Jordan Provost
  With unique features and great audio and light quality, the Philips Somneo is a worthwhile investment for anyone who wants to add to their relaxing bedtime or wake-up routine. However, if price is a major factor in deciding between clocks, it might be best to pick a cheaper option.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Similar Products We've Reviewed
 
@@ -173,18 +203,6 @@ Lifewire / Jordan Provost
 * [Philips HF3505 Wake-Up Light](https://www.lifewire.com/philips-hf3505-wake-up-light-review-4589402)
 * [Aura Daylight Therapy Lamp](https://www.lifewire.com/aura-daylight-therapy-lamp-review-4772136)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  HF3650/60 Sleep and Wake-Up Light Therapy Lamp Review

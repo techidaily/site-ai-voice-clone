@@ -1,7 +1,7 @@
 ---
 title: Join the Ultimate Compute Clash of 2024! Daredevils Needed for Rigorous Server Slaying Tournament
-date: 2024-09-03T23:08:45.787Z
-updated: 2024-09-04T23:08:45.787Z
+date: 2024-09-09T00:02:03.289Z
+updated: 2024-09-10T00:02:03.289Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/bruDxFJz5bEV44Y4pabvqa-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## $59 for Musical Mastery: Embrace the World of Open Source with Tulip's MicroPython-Driven Computer Designed for Musicians
 
 For just $59, musicians now have a new option for a purpose-built musical computer with a touchscreen and music synthesizer— meet the[Tulip Creative Computer](https://tulip.computer/) , a FOSS (Free and Open Source) project available as a pre-made purchase in free software form for existing PCs and Macs, or even fully buildable at home to those with the resources and know-how to get it done.
@@ -19,6 +25,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  Tulip, a musical computer based on Micropython - YouTube ![Tulip, a musical computer based on Micropython - YouTube](https://img.youtube.com/vi/1lYFjQp7Xrw/maxresdefault.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Watch On](https://youtu.be/1lYFjQp7Xrw)
 
  The synthesizer at the heart of Tulip is the AMY (Addictive Music synthesizer librarY), another FOSS project made to be integrated across "almost any program, architecture, or microcontroller" and usable as an FM synthesizer, analog-type synthesizer, drum machine, or even a breakpoint synthesizer. AMY is also used by the FOSS mesh synthesizer project Alles (think FOSS wireless speaker mesh solution), which Tulip Creative Computers also supports.
@@ -29,6 +41,12 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 
  When it comes to specialized hardware like this (or retro PC hardware in general), "necessity is the mother of invention" and "limitations foster creativity." It would be interesting to see some rudimentary arcade or DOS game ports on this machine— a dual-core 250 MHz microcontroller may not sound like a lot today, but in the 80s, even 16 MHz was considered cutting-edge.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -89,16 +107,3 @@ For just $59, musicians now have a new option for a purpose-built musical comput
 <li><a href="https://facebook-video-footage.techidaily.com/unleashing-fun-crafting-amazing-youtube-reaction-videos-in-3-ways-for-2024/"><u>Unleashing Fun  Crafting Amazing YouTube Reaction Videos in 3 Ways for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

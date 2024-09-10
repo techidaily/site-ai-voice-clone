@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!
-date: 2024-09-03T23:08:45.563Z
-updated: 2024-09-04T23:08:45.563Z
+date: 2024-09-09T00:02:03.099Z
+updated: 2024-09-10T00:02:03.099Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://cdn.mos.cms.futurecdn.net/bruDxFJz5bEV44Y4pabvqa-320-80.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Transport Your Massive Data on the Go: The WD Ultrastar Transporter - Equipped with 368TB NVMe SSDs and Powerful Features
 
 [Western Digital](https://www.tomshardware.com/tag/western-digital) , known for its hard drives and SSDs, has unveiled a new product that isn't a storage device in the technical sense. The product, known as the Ultrastar Transporter, is a new Western Digital-built travel case that houses a whopping 368TB of NVMe flash storage. The case is TAA compliant and has a 12-core Intel Ice Lake server that houses all SSDs and dual 200Gb ethernet ports.
@@ -19,10 +25,22 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bruDxFJz5bEV44Y4pabvqa-320-80.jpg
 
 ![Western Digital Ultrastar Transporter](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Western Digital)
 
 ![Western Digital Ultrastar Transporter](https://vanilla.futurecdn.net/cyclingnews/media/img/missing-image.svg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: Western Digital)
 
  A few examples include workloads where high-capacity data capture needs to be processed at one location from another. Another is the proliferation of multi-datacenter workflows, where large data sets have to be held at multiple locations and rapidly sent to those locations faster than what raw internet bandwidth can provide.
@@ -31,6 +49,12 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bruDxFJz5bEV44Y4pabvqa-320-80.jpg
 
  The case itself looks like a conventional carrying case. The outer shell appears to be hard plastic, with metal supporting rails filling the lips of the case. The case features two latching mechanisms and a mechanism to attach a lock for[security](https://www.tomshardware.com/tag/security) . You can transport the travel case by rolling it on its two wheels or with another handle that allows you to carry it like a briefcase.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -97,10 +121,3 @@ thumbnail: https://cdn.mos.cms.futurecdn.net/bruDxFJz5bEV44Y4pabvqa-320-80.jpg
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-video-with-ppt-wondershare-virbo/"><u>Updated In 2024, Create Video with PPT | Wondershare Virbo</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2024326/7443" target="_top" id="2024326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2024326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

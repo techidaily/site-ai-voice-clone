@@ -1,7 +1,7 @@
 ---
 title: "Transport Your Massive Data on the Go: The WD Ultrastar Transporter - Equipped with 368TB NVMe SSDs and Powerful Features!"
-date: 2024-09-03T23:08:45.833Z
-updated: 2024-09-04T23:08:45.833Z
+date: 2024-09-09T00:02:03.335Z
+updated: 2024-09-10T00:02:03.335Z
 tags:
   - desktop
 categories:
@@ -9,6 +9,12 @@ categories:
 thumbnail: https://thmb.techidaily.com/44d6dd331015bef170e8a84e58ebf4bd2f78d6bf84e5387ee2cc99a7ec3e5ce7.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Destroy with Purpose: Compete in the Cutting Edge Sport of Server Smash - The World Championship, 2024 Edition
 
 The 2024 World Server Throwing Championship (WSTC) organizers are[calling for entrants](https://www.cloudfest.com/world-server-throwing-championship#server-reg) . Scheduled for March 19, the bare metal vs. raw power event is set to become a must-watch experience of the annual CloudFest conference.
@@ -25,12 +31,30 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 
 ![Server throwing athletes](https://cdn.mos.cms.futurecdn.net/wtmZvaBCUd7W2J88EkoF6b-320-80.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Image credit: CloudFest)
 
  If we had to place a bet on the winner’s nationality, it would probably be Dutch, as the country where the sport seems to have become established. We discovered that some of the WTSC partners have already promoted server throwing in Dutch events. The winner of a Dutch national championship event[in 2022](https://dutchcloudcommunity.nl/agenda/summer-bbq-dutch-cloud-community-2022/) managed to fling a 10kg+ (22 pounds +) server 12.23 meters (over 40 feet).
 
  We think there is plenty of room for improvement on the 2022 winning throw. Remember, the world record distance for throwing a 16-pound shot put is nearly 75 feet. For another comparison, in the Swedish sport of Stångstörtning, a roughly 57-pound log is tossed, with the world record distance being 32 feet. Much will depend on how well-tuned and trained the WSTC 2024 athletes are…
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -126,10 +150,3 @@ The 2024 World Server Throwing Championship (WSTC) organizers are[calling for en
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-in-2024/"><u>What Is ChatGPT, In 2024</u></a></li>
 <li><a href="https://program-issues.techidaily.com/zombie-army-4-on-pc-how-to-solve-unexpected-shutdown-problems/"><u>Zombie Army 4 on PC - How to Solve Unexpected Shutdown Problems</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
