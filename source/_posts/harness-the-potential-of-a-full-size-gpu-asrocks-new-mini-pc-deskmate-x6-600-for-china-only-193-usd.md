@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-09-09T00:02:03.277Z
-updated: 2024-09-10T00:02:03.277Z
+date: 2024-09-11T19:19:05.996Z
+updated: 2024-09-14T17:11:40.960Z
 tags:
   - desktop
 categories:
@@ -9,38 +9,14 @@ categories:
 thumbnail: https://thmb.techidaily.com/4c1a39277ea3313859b9362ca2031ca0eab790234cc40f347849f915f7ea8138.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD
 
 ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https://item.jd.com/10105785234275.html) \[h/t ITHome.com\], rounds out the existing[ASRock Mini PC](https://www.tomshardware.com/desktops/mini-pcs/asrocks-amd-ryzen-powered-deskmini-x600-set-for-may-24-overseas-launch) lineup. It also comes with some interesting if questionable design decisions. We'll dive into that in a little bit, but the barebones kit includes just the case and a CPU cooler, starting at roughly $193 USD. A fully-specced version with a Ryzen 7 8700G will cost around $635 USD.
 
 ![The three colors of the ASRock DeckMate X600.](https://cdn.mos.cms.futurecdn.net/QjZwG9ogXk5eVbEARLkvGH-320-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Image credit: ASRock (via ITHome.com))
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ASRock DeskMate X600 Mini PC core specifications
 
 * **Motherboard Chipset** : AMD X600
@@ -64,18 +40,6 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
   
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -84,14 +48,11 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
  By submitting your information you agree to the[Terms & Conditions](https://futureplc.com/terms-conditions/) and[Privacy Policy](https://futureplc.com/privacy-policy/) and are aged 16 or over.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -102,41 +63,25 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice-clone.techidaily.com/solved-epic-games-launcher-black-screen/"><u>[SOLVED] Epic Games Launcher Black Screen</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-graphics-genesis-radeon-reclaimed-for-2024/"><u>[Updated] Graphics Genesis  Radeon Reclaimed for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-top-6-web-based-tiktok-to-audio-converter-free/"><u>[Updated] Top 6 Web-Based TikTok to Audio Converter Free</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-connoisseurs-guide-to-the-very-best-10-vectors-pix/"><u>2024 Approved  A Connoisseur's Guide to the Very Best 10 Vectors Pix</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/access-private-text-interactions-converse-with-chatgpt-through-duckduckgos-secure-ai-messaging-app/"><u>Access Private Text Interactions: Converse with ChatGPT Through DuckDuckGo’s Secure AI Messaging App</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/avoid-grounding-disaster-ultimate-tips-and-tricks-for-stable-pc-performance/"><u>Avoid Grounding Disaster: Ultimate Tips and Tricks for Stable PC Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/beat-the-chill-overcoming-call-of-duty-vanguard-freezing-problems-with-pro-hacks/"><u>Beat the Chill: Overcoming Call of Duty: Vanguard Freezing Problems with Pro Hacks</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/crush-glitches-not-combos-the-definitive-fix-guide-for-street-fighter-6-pc-issues/"><u>Crush Glitches, Not Combos: The Definitive Fix Guide for Street Fighter 6 PC Issues</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/devicenetworkbrowser-requirements-virbo-ai-live-stream-for-2024/"><u>Device/Network/Browser Requirements | Virbo AI Live Stream for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/diy-solutions-for-logitech-g430-microphone-connectivity-problems/"><u>DIY Solutions for Logitech G430 Microphone Connectivity Problems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-oculus-link-issues-6-rapid-solutions-for-a-functional-vr-experience/"><u>Fixing Oculus Link Issues: 6 Rapid Solutions for a Functional VR Experience</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-mass-effect-legendary-edition-wont-start/"><u>Fixing the Issue When Mass Effect Legendary Edition Won't Start</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-your-snap-camera-cannot-detect-an-input-source/"><u>Fixing the Issue When Your Snap Camera Cannot Detect an Input Source</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-silence-ultimate-guide-to-troubleshoot-lenovo-laptop-audio-problems/"><u>Fixing the Silence: Ultimate Guide to Troubleshoot Lenovo Laptop Audio Problems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-vrchat-solutions-when-it-wont-load-or-work/"><u>Fixing VRChat: Solutions When It Won't Load or Work</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/gpt-and-bing-duels-for-ultimate-generative-chat-excellence/"><u>GPT and Bing Duels for Ultimate Generative Chat Excellence</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/how-to-create-marketing-videos-in-2024/"><u>How to Create Marketing Videos, In 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-realme-narzo-60-5g-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Realme Narzo 60 5G Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-view-gpx-files-online-and-offline-solutions-of-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to View GPX Files Online and Offline Solutions Of Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-youtube-title-creation-the-perfect-formula/"><u>In 2024, Mastering YouTube Title Creation  The Perfect Formula</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-metaverse-vs-multiverse-whats-the-difference/"><u>In 2024, Metaverse vs Multiverse  What's the Difference?</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pure-summer-pleasures-our-top-10-holiday-flicks/"><u>In 2024, Pure Summer Pleasures  Our Top 10 Holiday Flicks</u></a></li>
-<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Vivo S17e? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-city-skylines-2-pc-optimization-strategies-to-stop-frequent-game-crashes/"><u>Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/navigating-your-options-in-tablets-comparing-amazon-fire-to-the-ipad/"><u>Navigating Your Options in Tablets: Comparing Amazon Fire to the iPad</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-translation-online/"><u>New 2024 Approved AI Translation | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/no-more-interruptions-resolve-ghost-recon-breakpoint-crash-errors-instantly/"><u>No More Interruptions: Resolve Ghost Recon Breakpoint Crash Errors Instantly</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/quick-fixes-to-stop-csgo-from-freezing-and-jittering/"><u>Quick Fixes to Stop CS:GO From Freezing and Jittering</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/resolved-fixes-and-updates-in-mass-effect-trilogys-legendary-edition/"><u>Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/solving-compatibility-problems-for-intels-drivers-and-support-suite-on-pc/"><u>Solving Compatibility Problems for Intel's Drivers & Support Suite on PC</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-review-unveiling-the-benefits-of-heimvisons-a80s-alarm-clock-with-light-therapy/"><u>The Ultimate Review: Unveiling the Benefits of HeimVison's A80S Alarm Clock with Light Therapy</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/troubleshooting-guide-fixing-a-nonfunctional-headset-port-on-your-laptop/"><u>Troubleshooting Guide: Fixing a Nonfunctional Headset Port on Your Laptop</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/troubleshooting-woes-solving-lords-of-mayhem-computer-freeze-issues/"><u>Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-animated-explainer-video-examples-for-2024/"><u>Updated Best 10 Animated Explainer Video Examples for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>Updated In 2024, Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-4k-the-ultimate-list-of-free-video-converters/"><u>Updated In 2024, Unlock 4K The Ultimate List of Free Video Converters</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-beginners-guide-going-live-with-ease-on-facebook/"><u>[New] In 2024, Beginner’s Guide Going Live with Ease on Facebook</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-stop-the-void-in-live-gaming-recordings-5-ways-to-avoid-black-screens-with-obs/"><u>[New] Stop the Void in Live Gaming Recordings 5 Ways to Avoid Black Screens with OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-inexpensive-sky-explorers-the-least-expensive-drones/"><u>[Updated] Inexpensive Sky Explorers The Least Expensive Drones</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ace-your-computer-needs-with-expert-tips-from-toms-hardware/"><u>Ace Your Computer Needs with Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/bring-your-hauls-to-life-the-ultimate-editing-tips-for-2024/"><u>Bring Your Hauls to Life The Ultimate Editing Tips for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/elevate-your-computing-with-the-gem1n-pro-mini-pc-built-with-a-superior-ryzen-apu-onboard-display-and-oculink-feature-for-enhanced-performance/"><u>Elevate Your Computing with the Gem1n Pro Mini PC: Built with a Superior Ryzen APU, Onboard Display & OCuLink Feature for Enhanced Performance</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-apple-iphone-11-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From Apple iPhone 11</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-civi-3-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Civi 3 Phone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-realme-gt-5-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Realme GT 5 Pro to Gmail | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/metaverse-reflections-a-pioneering-collection-of-thoughts-for-2024/"><u>Metaverse Reflections A Pioneering Collection of Thoughts for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-world-with-toms-comprehensive-hardware-insights/"><u>Navigating the Digital World with Tom’s Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-best-of-both-worlds-free-and-paid-3d-animation-software-solutions/"><u>New 2024 Approved The Best of Both Worlds Free and Paid 3D Animation Software Solutions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/1723262419753-transport-your-massive-data-on-the-go-the-wd-ultrastar-transporter-equipped-with-368tb-nvme-ssds-and-powerful-features/"><u>Transport Your Massive Data on the Go: The WD Ultrastar Transporter - Equipped with 368TB NVMe SSDs and Powerful Features!</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
