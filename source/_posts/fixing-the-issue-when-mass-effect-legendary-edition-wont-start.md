@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue When Mass Effect Legendary Edition Won't Start
-date: 2024-09-11T16:05:57.299Z
-updated: 2024-09-14T22:25:11.990Z
+date: 2024-09-13T03:27:41.040Z
+updated: 2024-09-18T16:14:15.588Z
 tags:
   - win11
   - win10
@@ -98,16 +98,10 @@ After you save the changes, test your gameplay.
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
@@ -131,17 +125,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/update-graphics-driver.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -187,6 +181,13 @@ If this didn’t give you any luck, try the next fix below.
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
@@ -227,21 +228,7 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Disable Windows 10 gaming features
 
@@ -255,22 +242,16 @@ Here’s how to do this:
   
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
@@ -279,6 +260,19 @@ Here’s how to do this:
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -301,14 +295,18 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-best-cameras-to-capture-slow-motion-videos/"><u>[New] Best Cameras to Capture Slow Motion Videos</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-making-the-most-of-both-worlds-tweeting-and-sending-videos-with-whatsapp-for-2024/"><u>[New] Making the Most of Both Worlds Tweeting & Sending Videos with WhatsApp for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-top-10-hd-recording-apps-for-your-computer-display/"><u>[Updated] In 2024, Top 10 HD Recording Apps for Your Computer Display</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/elevate-your-computing-with-the-gem1n-pro-mini-pc-built-with-a-superior-ryzen-apu-onboard-display-and-oculink-feature-for-enhanced-performance/"><u>Elevate Your Computing with the Gem1n Pro Mini PC: Built with a Superior Ryzen APU, Onboard Display & OCuLink Feature for Enhanced Performance</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-the-midland-lxt500vp3-a-radio-built-for-extraordinary-but-plagued-by-underwhelming-performance/"><u>Evaluating the Midland LXT500VP3: A Radio Built for Extraordinary, But Plagued by Underwhelming Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/join-the-ultimate-compute-clash-of-2024-daredevils-needed-for-rigorous-server-slaying-tournament/"><u>Join the Ultimate Compute Clash of 2024! Daredevils Needed for Rigorous Server Slaying Tournament</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-world-with-toms-comprehensive-hardware-insights/"><u>Navigating the Digital World with Tom’s Comprehensive Hardware Insights</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-successfully-setting-up-microsoft-office-365-on-windowsmac/"><u>Step-by-Step Guide: Successfully Setting Up Microsoft Office 365 on Windows/Mac</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/1723262419753-transport-your-massive-data-on-the-go-the-wd-ultrastar-transporter-equipped-with-368tb-nvme-ssds-and-powerful-features/"><u>Transport Your Massive Data on the Go: The WD Ultrastar Transporter - Equipped with 368TB NVMe SSDs and Powerful Features!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capturing-online-seminars-for-2024/"><u>[New] Capturing Online Seminars for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-skys-finest-cameras-clash-dji-air-2-vs-gopro-hero9-k4/"><u>[New] Sky's Finest Cameras Clash DJi Air 2 VS GoPro HERO9 K4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-clear-youtube-watch-later-playlist-for-2024/"><u>[Updated] How to Clear YouTube Watch Later Playlist for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-50plus-best-text-effects-for-videographers/"><u>2024 Approved 50+ Best Text Effects for Videographers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-k70-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi Redmi K70 Phone without Any Data Loss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-landscape-with-precision-the-ultimate-guide-by-tom-hardware/"><u>Navigating the Digital Landscape with Precision: The Ultimate Guide by Tom Hardware</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/obscure-crossover-port-uncovered-displayport-and-hdmi-fusion-inside-the-abandoned-steam-machine-piston-xi3/"><u>Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/slash-prices-get-250-discount-on-high-end-rtx-4090-gamers-dream-pc/"><u>Slash Prices! Get $250 Discount on High-End RTX 4090 Gamer's Dream PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-recording-your-lol-adventures/"><u>The Ultimate Guide to Recording Your LOL Adventures</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-review-of-mophie-powerstation-ac-expensive-yet-incredibly-handy/"><u>Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-selection-of-compatible-mice-for-your-apple-tablet/"><u>Ultimate Selection of Compatible Mice for Your Apple Tablet</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-walkthrough-erasing-your-presence-from-tiktok-easily/"><u>Ultimate Walkthrough: Erasing Your Presence From TikTok Easily</u></a></li>
 </ul></div>
 

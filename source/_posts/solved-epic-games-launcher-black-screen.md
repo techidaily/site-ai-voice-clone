@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Epic Games Launcher Black Screen"
-date: 2024-09-09T19:26:49.021Z
-updated: 2024-09-14T17:38:17.028Z
+date: 2024-09-12T03:31:18.168Z
+updated: 2024-09-19T03:45:01.924Z
 tags:
   - win11
   - win10
@@ -82,19 +82,6 @@ Here’s how you can do this:
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your graphics driver** (recommended)
 
  Manually updating drivers can be a challenge. You’ll need to identify your system specs, find the drivers, and then download and install them. If that sounds a lot, consider doing it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -112,11 +99,25 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for them to take effect.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Adjust compatibility mode
 
@@ -125,6 +126,13 @@ Here’s how you can do this:
  1) Right-click on the launcher shortcut from your desktop and select**Properties** .
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
 
@@ -164,6 +172,19 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-6-1.png)
@@ -188,19 +209,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
@@ -223,13 +231,6 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
 ---
@@ -241,6 +242,13 @@ Here’s how you can do this:
  1) In the**Search** box, type**control panel** and click**Control Panel** from the results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Network and Internet** . (Note: make sure that it’s**View by: Category** .)
 
@@ -301,23 +309,9 @@ To do this, simply follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Check the box**Override high DPI scaling behavior** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -360,18 +354,16 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-unlock-twitter-written-by-your-name/"><u>[New] 2024 Approved Unlock Twitter' Written By [Your Name]</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-basics-of-narrative-crafting/"><u>[New] In 2024, Basics of Narrative Crafting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>[Updated] The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-secrets-to-mass-downloading-videos-from-tiktok/"><u>2024 Approved Secrets to Mass Downloading Videos From TikTok</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/back-to-battle-royale-a-critical-look-at-fortnites-latest-season-and-its-thrills/"><u>Back to Battle Royale: A Critical Look at Fortnite's Latest Season and Its Thrills</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/cost-effective-performance-of-the-tp-link-re200-ac750-range-extender-an-in-depth-evaluation/"><u>Cost-Effective Performance of the TP-Link RE200 Ac750 Range Extender - An In-Depth Evaluation</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Pop 8 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-snapseed-simplified-photo-editing-made-accessible/"><u>In 2024, Snapseed Simplified Photo Editing Made Accessible</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-ac1st16dll-a-comprehensive-solution-for-dll-error-fixes/"><u>Troubleshooting ac1st16.dll: A Comprehensive Solution for DLL Error Fixes</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unbeatable-deal-get-the-msi-aegis-r2-rtx-nvidia-4070-super-and-core-i7-14700kf-below-1600-top-tier-custom-built-gaming-pc/"><u>Unbeatable Deal: Get the MSI Aegis R2 (RTX nVIDIA 4070 Super & Core I7-14700KF) Below $1,600 - Top Tier Custom Built Gaming PC</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-exploring-the-sound-emission-from-button-activation/"><u>Updated 2024 Approved Exploring the Sound Emission From Button Activation</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[New] 2024 Approved 5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-selecting-the-best-mac-sniping-solutions/"><u>[Updated] 2024 Approved Selecting the Best Mac Sniping Solutions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-lowdown-on-the-maximum-video-length-on-instagram-for-2024/"><u>[Updated] The Lowdown on the Maximum Video Length on Instagram for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-creative-shots-with-photoshops-radial-distortion/"><u>2024 Approved Unlock Creative Shots with Photoshop's Radial Distortion</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-vivo-y55s-5g-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Vivo Y55s 5G (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-itel-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Itel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-superior-selection-ultimate-cloud-storage-picks/"><u>In 2024, Superior Selection Ultimate Cloud Storage Picks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/studiokit-lxz103-budget-umbrella-shine/"><u>StudioKit LXZ103: Budget Umbrella Shine</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/-ways-to-convert-youtube-music-tracks-safely-to-mp3-format/"><u>Three Ways to Convert YouTube Music Tracks Safely to MP3 Format</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-equipment/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Equipment</u></a></li>
 </ul></div>
 

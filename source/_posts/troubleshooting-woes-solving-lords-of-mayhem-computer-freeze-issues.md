@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues"
-date: 2024-09-13T18:50:12.872Z
-updated: 2024-09-15T00:51:41.906Z
+date: 2024-09-13T20:50:00.356Z
+updated: 2024-09-18T21:01:21.550Z
 tags:
   - win11
   - win10
@@ -75,13 +75,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -89,6 +82,13 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -102,13 +102,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **On Epic Games** :
 
 1. Open your library and find Naraka: Bladepoint. Click the**three-dot icon** next to the game title.
@@ -116,6 +109,13 @@ If this doesn’t solve your problem, try the next fix.
 3. Epic Games Launcher will complete the scan and repair. It might take a while depending on the game’s size.
 
  If verifying your game files doesn’t fix the crashing issue, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
 
@@ -127,13 +127,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -150,27 +143,14 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
@@ -191,6 +171,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
@@ -230,6 +217,13 @@ If this doesn’t solve your problem, try the last fix.
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -283,17 +277,20 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-mastering-in-stream-ad-configurations-on-facebook-for-peak-performance/"><u>[New] 2024 Approved Mastering In-Stream Ad Configurations on Facebook for Peak Performance</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-the-perfect-tweet-mastering-the-art-of-video-upload-for-2024/"><u>[New] The Perfect Tweet Mastering the Art of Video Upload for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-full-screen-perfection-the-top-4-pcmac-screen-recorders/"><u>[Updated] In 2024, Full-Screen Perfection The Top 4 PC/Mac Screen Recorders</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-streamline-social-tweet-to-fb-guide-for-2024/"><u>[Updated] Streamline Social Tweet to FB Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/bridge-the-gap-transferring-files-from-pc-to-ios-for-2024/"><u>Bridge the Gap Transferring Files From PC to iOS for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/choosing-your-console-compare-the-features-of-nintendos-switch-lite-and-oled-editions/"><u>Choosing Your Console? Compare the Features of Nintendo's Switch Lite & OLED Editions</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-zoom-basics-for-non-experts-setting-up-your-first-meeting/"><u>In 2024, Zoom Basics for Non-Experts Setting Up Your First Meeting</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/1723262413640-introducing-the-am01-by-ayaneo-the-perfect-blend-of-classic-appeal-and-modern-power-available-now-in-stores/"><u>Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/revolutionize-your-computing-with-the-innovative-atomman-g7-pt-first-ever-amd-advantage-tiny-pc-sporting-an-amd-r9-and-rx-graphics-suite/"><u>Revolutionize Your Computing with the Innovative AtomMan G7 Pt: First Ever AMD Advantage Tiny PC, Sporting an AMD R9 & RX Graphics Suite</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/solving-the-issue-troubleshooting-a-non-functional-dvd-player-on-your-laptop-or-pc/"><u>Solving the Issue: Troubleshooting a Non-Functional DVD Player on Your Laptop or PC</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-computing-a-comprehensive-guide-on-latest-hardware-innovations/"><u>Tom's Computing: A Comprehensive Guide on Latest Hardware Innovations</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ultimate-selection-of-compatible-mice-for-your-apple-tablet/"><u>Ultimate Selection of Compatible Mice for Your Apple Tablet</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-becoming-a-billionaire-on-the-blockchain-non-ad-profits-on-youtube/"><u>[New] 2024 Approved Becoming a Billionaire on the Blockchain Non-Ad Profits on YouTube</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-unlock-potential-innovating-with-effective-instagram-video-loops/"><u>[New] 2024 Approved Unlock Potential Innovating with Effective Instagram Video Loops</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-exclusive-guide-best-8-cameras-for-dynamic-livestreams/"><u>2024 Approved Exclusive Guide Best 8 Cameras for Dynamic Livestreams</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-imagination-to-illustration-ranking-the-best-8-iphone-drawing-software/"><u>2024 Approved From Imagination to Illustration Ranking the Best 8 iPhone Drawing Software</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breathless-battles-olympic-short-track-for-2024/"><u>Breathless Battles Olympic Short Track for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/geekoms-mega-mini-g1-by-tecno-x-an-unparalleled-gaming-experience-with-liquid-cooling-and-rtx-graphics-housed-in-a-fish-tank-case/"><u>Geekom's Mega Mini G1 by Tecno X: An Unparalleled Gaming Experience with Liquid Cooling and RTX Graphics Housed in a Fish-Tank Case</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-se-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone SE to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/learn-how-to-safeguard-your-documents-with-encryption-and-passwords/"><u>Learn How to Safeguard Your Documents with Encryption and Passwords</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-insider-knowledge-from-toms-review-team/"><u>Mastering Tech Choices: Insider Knowledge From Tom's Review Team</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-battle-of-might-and-machine-join-the-2024-global-server-smash-contest/"><u>The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/touchscreen-computing-revolutionized-by-microsoft-introducing-an-ai-msi-desktop-with-a-stunning-1080p-viewfinder/"><u>Touchscreen Computing Revolutionized by Microsoft: Introducing an AI MSI Desktop with a Stunning 1080P Viewfinder</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-to-the-latest-64-bit-drivers-for-your-epson-ds-530-on-windows-10-now-available/"><u>Update to the Latest 64-Bit Drivers for Your Epson DS-530 on Windows 10 - Now Available</u></a></li>
 </ul></div>
 

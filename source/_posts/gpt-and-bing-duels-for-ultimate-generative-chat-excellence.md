@@ -1,7 +1,7 @@
 ---
 title: GPT and Bing Duels for Ultimate Generative Chat Excellence
-date: 2024-09-10T00:37:41.632Z
-updated: 2024-09-15T01:04:57.693Z
+date: 2024-09-17T16:04:04.569Z
+updated: 2024-09-18T21:49:07.337Z
 tags:
   - chatgpt
   - open-ai
@@ -49,19 +49,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Using Chatbots to Influence People's Opinions
 
  Chatbots that rely on generative AI models can employ various tactics to influence people's opinions, including:
@@ -73,6 +60,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,6 +75,13 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -88,13 +89,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -128,19 +122,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-boost-video-engagement-top-8-youtube-ranks-unveiled/"><u>[New] 2024 Approved Boost Video Engagement Top 8 YouTube Ranks Unveiled</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-launching-laughter-hilarious-initiation-hints/"><u>[New] 2024 Approved Launching Laughter Hilarious Initiation Hints</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-full-assessment-experiencing-the-world-in-360-with-samsung/"><u>[Updated] In 2024, Full Assessment Experiencing the World in 360° with Samsung</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/from-latin-to-local-a-guide-to-chocolates-global-voice/"><u>From Latin to Local: A Guide to Chocolate's Global Voice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/helldivers-2-black-screen-on-launch-startup-fix/"><u>Helldivers 2 Black Screen on Launch / Startup Fix</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-easy-steps-to-record-and-screen-capture-ios-2023/"><u>In 2024, Easy Steps to Record and Screen Capture [iOS, 2023]</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-gadgets-and-components-with-toms-essential-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom's Essential Hardware Wisdom</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-landscape-with-precision-the-ultimate-guide-by-tom-hardware/"><u>Navigating the Digital Landscape with Precision: The Ultimate Guide by Tom Hardware</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-cutting-edge-techniques-in-image-fusion/"><u>[New] 2024 Approved Cutting-Edge Techniques in Image Fusion</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-economys-choice-high-quality-360-video-capabilities-for-2024/"><u>[New] Economy's Choice High-Quality 360° Video Capabilities for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-top-android-photo-tech-tips-and-apps-guide/"><u>[Updated] 2024 Approved Top Android Photo-Tech Tips & Apps Guide</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-how-to-block-facebook-video-ads-for-2024/"><u>[Updated] How to Block Facebook Video Ads for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-guide-to-building-podcast-rss-for-2024/"><u>[Updated] The Ultimate Guide to Building Podcast RSS for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016308149-audio-malfunctioning-on-pc-effortless-fixes-inside/"><u>Audio Malfunctioning on PC? Effortless Fixes Inside!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/choosing-your-console-compare-the-features-of-nintendos-switch-lite-and-oled-editions/"><u>Choosing Your Console? Compare the Features of Nintendo's Switch Lite & OLED Editions</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor X50i+? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/1723262413640-introducing-the-am01-by-ayaneo-the-perfect-blend-of-classic-appeal-and-modern-power-available-now-in-stores/"><u>Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/obscure-crossover-port-uncovered-displayport-and-hdmi-fusion-inside-the-abandoned-steam-machine-piston-xi3/"><u>Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/revolutionize-your-computing-with-the-innovative-atomman-g7-pt-first-ever-amd-advantage-tiny-pc-sporting-an-amd-r9-and-rx-graphics-suite/"><u>Revolutionize Your Computing with the Innovative AtomMan G7 Pt: First Ever AMD Advantage Tiny PC, Sporting an AMD R9 & RX Graphics Suite</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/slash-prices-get-250-discount-on-high-end-rtx-4090-gamers-dream-pc/"><u>Slash Prices! Get $250 Discount on High-End RTX 4090 Gamer's Dream PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/steps-to-successfully-downloading-and-setting-up-cinema-4hd-on-your-computer-for-windows-11-10-8-7-and-macos/"><u>Steps to Successfully Downloading and Setting Up Cinema 4HD on Your Computer (For Windows 11, 10, 8, 7 & macOS)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/streamlining-online-meetings-zoom-and-gmail-sync-strategies-for-2024/"><u>Streamlining Online Meetings Zoom & Gmail Sync Strategies for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/the-ultimate-guide-to-adding-customized-emojis-for-your-discord-avatar-for-2024/"><u>The Ultimate Guide to Adding Customized Emojis for Your Discord Avatar for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ultimate-review-of-mophie-powerstation-ac-expensive-yet-incredibly-handy/"><u>Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-selection-of-compatible-mice-for-your-apple-tablet/"><u>Ultimate Selection of Compatible Mice for Your Apple Tablet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-play-8t-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor Play 8T</u></a></li>
 </ul></div>
 

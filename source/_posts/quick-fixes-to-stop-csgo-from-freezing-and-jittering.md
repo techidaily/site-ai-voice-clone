@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes to Stop CS:GO From Freezing and Jittering"
-date: 2024-09-12T20:04:10.482Z
-updated: 2024-09-14T22:14:53.278Z
+date: 2024-09-13T01:26:46.091Z
+updated: 2024-09-18T16:54:49.024Z
 tags:
   - win11
   - win10
@@ -68,10 +68,16 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -86,13 +92,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -102,10 +101,10 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
@@ -120,6 +119,13 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -128,18 +134,18 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -174,14 +180,12 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-how-to-convert-youtube-to-mp4-safely-step-by-step-guide-for-2024/"><u>[New] How to Convert YouTube to MP4 Safely? [Step by Step Guide] for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-hone-your-talks-expert-insights-into-google-meet-chats/"><u>[Updated] 2024 Approved Hone Your Talks Expert Insights Into Google Meet Chats</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/guide-to-adding-live-tv-tvtap-for-7-of-ve-tv-networks-on-kodi-via-matrix-and-leia-builds/"><u>Guide to Adding Live TV (TVTap) for 7 of Ve TV Networks on Kodi via Matrix and Leia Builds</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-15-pro-maxipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from Apple iPhone 15 Pro Max/iPad/iPod</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unleashing-potential-key-tips-for-hospitals-fb-ad-reach/"><u>In 2024, Unleashing Potential Key Tips for Hospitals' FB Ad Reach</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-insider-knowledge-from-toms-review-team/"><u>Mastering Tech Choices: Insider Knowledge From Tom's Review Team</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/revolutionary-computer-setup-comes-with-its-own-full-sized-internal-coffee-station/"><u>Revolutionary Computer Setup Comes With Its Own Full-Sized Internal Coffee Station</u></a></li>
-<li><a href="https://techidaily.com/samsung-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unveiling-technology-secrets-toms-compreh/"><u>Unveiling Technology Secrets: Tom's Compreh</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-big-file-baskets-in-the-cloud-cost-effective-saver/"><u>[Updated] In 2024, Big File Baskets in the Cloud - Cost-Effective Saver</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-master-classroom-optimal-video-edits-on-vimeo-for-2024/"><u>[Updated] Master Classroom Optimal Video Edits on Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-enhance-video-to-fit-instagrams-visual-taste/"><u>2024 Approved Enhance Video to Fit Instagram's Visual Taste</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/chromatic-coherence-helper-for-2024/"><u>Chromatic Coherence Helper for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/introducing-the-msi-c906-an-advanced-tiny-pc-boosted-by-intels-latest-raptor-lake-cpu-featuring-quad-25-gigabit-lan-connectivity/"><u>Introducing the MSI C906: An Advanced Tiny PC Boosted by Intel's Latest Raptor Lake CPU, Featuring Quad 2.5 Gigabit LAN Connectivity</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/monthly-nzxt-lease-deals-power-up-with-core-i5-and-rtx-4060-gpu-gaming-pc-at-just-59-or-go-bigger-with-core-i7-and-rtx-er-4070-ti-for-a-premium-package-at-188/"><u>Monthly NZXT Lease Deals: Power up with Core I5 & RTX 4060 GPU Gaming PC at Just $59 or Go Bigger with Core I7 and RTX Er 4070 Ti for a Premium Package at $169!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unleash-unprecedented-portable-performance-wd-ultrastar-briefcase-featuring-368-tb-ssds-ice-lake-xeon-cpu-and-more/"><u>Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More</u></a></li>
 </ul></div>
 

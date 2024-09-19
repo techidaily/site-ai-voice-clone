@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2024-09-10T00:30:00.090Z
-updated: 2024-09-14T17:36:17.702Z
+date: 2024-09-15T00:11:19.322Z
+updated: 2024-09-18T20:48:54.640Z
 tags:
   - win11
   - win10
@@ -53,10 +53,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -71,21 +71,15 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -108,6 +102,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -115,29 +116,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -175,21 +157,20 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-3-ways-to-record-ps4-gameplay/"><u>[Updated] 3 Ways to Record PS4 Gameplay</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-elite-4k-screens-the-ultimate-choice-for-2024/"><u>[Updated] Elite 4K Screens – The Ultimate Choice for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-youtube-update-your-shorts-are-visible-again-for-2024/"><u>[Updated] YouTube Update - Your Shorts Are Visible Again for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-mixed-reality-a-comprehensive-insight/"><u>2024 Approved Unveiling Mixed Reality A Comprehensive Insight</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/geekoms-mega-mini-g1-by-tecno-x-an-unparalleled-gaming-experience-with-liquid-cooling-and-rtx-graphics-housed-in-a-fish-tank-case/"><u>Geekom's Mega Mini G1 by Tecno X: An Unparalleled Gaming Experience with Liquid Cooling and RTX Graphics Housed in a Fish-Tank Case</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-can-we-unlock-our-vivo-y100i-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Vivo Y100i Phone Screen?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-split-path-of-natural-language-and-ml-tech/"><u>The Split Path of Natural Language and ML Tech</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-battle-of-might-and-machine-join-the-2024-global-server-smash-contest/"><u>The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/touchscreen-computing-revolutionized-by-microsoft-introducing-an-ai-msi-desktop-with-a-stunning-1080p-viewfinder/"><u>Touchscreen Computing Revolutionized by Microsoft: Introducing an AI MSI Desktop with a Stunning 1080P Viewfinder</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/unlocking-lg-channel-strategies-key-information-revealed/"><u>Unlocking LG Channel Strategies: Key Information Revealed</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-spark-interest-and-boost-views-on-instagram-videos/"><u>[Updated] How to Spark Interest & Boost Views on Instagram Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/back-to-battle-royale-a-critical-look-at-fortnites-latest-season-and-its-thrills/"><u>Back to Battle Royale: A Critical Look at Fortnite's Latest Season and Its Thrills</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/cost-effective-performance-of-the-tp-link-re200-ac750-range-extender-an-in-depth-evaluation/"><u>Cost-Effective Performance of the TP-Link RE200 Ac750 Range Extender - An In-Depth Evaluation</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crusader-kings-iii-pc-errors-heres-how-to-get-the-game-running-smoothly-again/"><u>Crusader Kings III PC Errors? Here's How to Get the Game Running Smoothly Again!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/groundwork-for-av1-mastery/"><u>Groundwork for AV1 Mastery</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-oppo-reno-11-pro-5g-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Oppo Reno 11 Pro 5G?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-learn-the-art-of-crafting-short-youtube-videos/"><u>In 2024, Learn the Art of Crafting Short YouTube Videos</u></a></li>
+<li><a href="https://change-location.techidaily.com/ipogo-will-be-the-new-ispoofer-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/meme-mastery-the-top-10-apps-for-android-and-ios-users/"><u>Meme Mastery The Top 10 Apps for Android and iOS Users</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/revolutionary-computer-setup-comes-with-its-own-full-sized-internal-coffee-station/"><u>Revolutionary Computer Setup Comes With Its Own Full-Sized Internal Coffee Station</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-3-cloud-based-speech-tools-for-2024/"><u>Top 3 Cloud-Based Speech Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unbeatable-deal-get-the-msi-aegis-r2-rtx-nvidia-4070-super-and-core-i7-14700kf-below-1600-top-tier-custom-built-gaming-pc/"><u>Unbeatable Deal: Get the MSI Aegis R2 (RTX nVIDIA 4070 Super & Core I7-14700KF) Below $1,600 - Top Tier Custom Built Gaming PC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unlock-unbeatable-savings-on-the-alienware-bundle-snag-the-incredible-aurora-r16-and-premier-34-inch-oled-display-at-a-whopping-70e-reduction/"><u>Unlock Unbeatable Savings on the Alienware Bundle: Snag the Incredible Aurora R16 and Premier 34-Inch OLED Display at a Whopping $70E Reduction!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unveiling-technology-secrets-toms-compreh/"><u>Unveiling Technology Secrets: Tom's Compreh</u></a></li>
 </ul></div>
 

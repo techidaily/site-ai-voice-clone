@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos
-date: 2024-09-12T23:32:34.504Z
-updated: 2024-09-14T19:13:14.017Z
+date: 2024-09-12T23:35:54.622Z
+updated: 2024-09-19T03:27:10.547Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -48,13 +48,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 ![Create video content with a talking AI avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Prominent Features of Talking Avatar
 
  If you are learning**how to make a talking avatar** , the avatars also come equipped with a range of features that contribute to their versatility and effectiveness in content creation. Let's get into the key features that make talking avatars a powerful tool for communication and storytelling:
@@ -70,6 +63,13 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 ### 3\. AI script
 
  No idea where to start writing your script? Many talking avatar platforms can leverage artificial intelligence to help you write and enhance the flexibility of your texts. This feature helps streamline the scriptwriting process and saves users valuable time and effort.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Auto-translation
 
@@ -200,6 +200,13 @@ Some of Virbo Talking Avatar features include:
 2. The software offers over 150 avatars that add a realistic touch to your content.
 3. Virbo provides hundreds of built-in templates and assets for videos and avatars. These assets can help you produce relevant content targeting your industry of choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2. PlayHT
 
  If you are looking for a**British accent text generator** that can produce ultra-realistic text-to-speech content, PlayHT is the place to go. With this remarkable tool, you can transform your text into engaging speeches. You can also select an accent of your choice.
@@ -268,6 +275,13 @@ Some of Virbo Talking Avatar features include:
 
 ![understanding more about instagram live shopping](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Instagram Live Shopping: Things Users Need To Know
 
  Businesses on Instagram used to utilize live broadcasts to sell products directly from the app. It allows them to interact with viewers and drive real-time engagement. Instagram live shopping allowed people to save videos so customers could shop after the broadcast. Using this feature helped companies humanize their brand by telling stories.
@@ -283,13 +297,6 @@ Some of Virbo Talking Avatar features include:
 3. **Customer Feedback:** The comments and suggestions on the live streams demanded improvements. Also, the**live-selling Instagram** feature did not bear positive comments from the customers.
 4. **Lack of Communication:** Sometimes, the online team cannot properly communicate with customers. The lack of communication causes confusion and dissatisfaction among customers.
 5. **Limited Availability:** The live shopping Instagram feature had geographical limitations. Various brands couldn’t provide their customers with their products in different places. Moreover, such conditions limit customer access and bring negative comments.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. Wondershare Virbo Live: Enhance Your Livestreaming Selling Experience
 
@@ -315,6 +322,13 @@ Some of Virbo Talking Avatar features include:
  Open Wondershare Virbo Live's browser page on your device and continue to select the "Create Stream Room Now" button. As it opens a new window, look for the "Create a Blank Livestream Room" under the "Home" section. Select any template from the options provided at the bottom if you wish to quickly create a live stream room.
 
 ![start creating live stream content](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -398,13 +412,6 @@ for Android
 
 secure download
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
 ### Step 1\. Create a new project
@@ -469,13 +476,6 @@ Open the Wondershare Virbo app and tap the talking photo function to enter the o
 
 ![talking-photo-app-1.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Step 2\. Upload a portrait
 
 Tap “try now” and upload a portrait you want to use as your talking avatar by following the instruction.
@@ -529,13 +529,6 @@ secure download
 3. **Encourages Impulse Buying:** People are more likely to buy a product when they are involved in an exclusive even for fear of missing out on the limited-time offers.
 4. **Builds Brand Awareness:** Live commerce allows consumers to see the face behind the brand or the influencers pushing the products, which makes them connect more with the brand.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Successful Case in Live Online Shopping: Transforming Brands through Engagement
 
  The use of live commerce features has made significant impacts on business industries. From collaboration with influencers to engaging viewers in consultation, the following brands have transformed their engagement through live online shopping:
@@ -575,6 +568,13 @@ secure download
  L'Oreal launched a live consultation service within its app. The live commerce feature allowed users to connect with dermatologists and beauty advisors for personalized skincare recommendations. They would then purchase recommended products directly from the consultation.
 
 ![l’oreal](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Achievement:** The live consultations increased app usage by 50% and grew sales of recommended products by 35%. The e-commerce live-streaming event saw users appreciate the personalized advice they got and a seamless purchasing experience.
 
@@ -909,19 +909,17 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-unlocking-the-secrets-of-successful-igtv-posts-for-2024/"><u>[New] Unlocking the Secrets of Successful IGTV Posts for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-anonymity-in-action-insta-stories-guide/"><u>[Updated] 2024 Approved Anonymity in Action Insta Stories Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-auto-play-youtube-iphoneandroid-no-notification/"><u>[Updated] Auto-Play YouTube IPhone/Android, No Notification</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-unveiling-3dr-a-personal-perspective-on-printing-alone/"><u>[Updated] In 2024, Unveiling '3DR' A Personal Perspective on Printing Alone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-audio-diminution-process/"><u>2024 Approved Tailoring Audio Diminution Process</u></a></li>
-<li><a href="https://win11.techidaily.com/7-key-steps-for-restoring-windows-hello-fingerprint-functionality/"><u>7 Key Steps for Restoring Windows Hello Fingerprint Functionality</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/brother-hl-c8650cdw-driver-download-fast-and-easy-instructions/"><u>Brother HL-C8650CDW Driver Download - Fast and Easy Instructions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/geekoms-mega-mini-g1-by-tecno-x-an-unparalleled-gaming-experience-with-liquid-cooling-and-rtx-graphics-housed-in-a-fish-tank-case/"><u>Geekom's Mega Mini G1 by Tecno X: An Unparalleled Gaming Experience with Liquid Cooling and RTX Graphics Housed in a Fish-Tank Case</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-take-portrait-photo-with-old-iphone-x8-plus7-plus-for-2024/"><u>How to Take Portrait Photo with Old iPhone X/8 Plus/7 Plus for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-assessing-acid-pro-top-alternative-software/"><u>In 2024, Assessing ACID Pro Top Alternative Software</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-insider-knowledge-from-toms-review-team/"><u>Mastering Tech Choices: Insider Knowledge From Tom's Review Team</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unveiling-technology-secrets-toms-compreh/"><u>Unveiling Technology Secrets: Tom's Compreh</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-achieve-professional-level-recordings-with-these-top-4-methods-on-hp-devices/"><u>[Updated] 2024 Approved Achieve Professional-Level Recordings with These Top 4 Methods on HP Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/affordable-yet-high-performance-nuphy-halo75-v2-a-comprehensive-review/"><u>Affordable Yet High-Performance Nuphy Halo75 V2: A Comprehensive Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disabling-discords-auto-start-and-update-check-on-windows/"><u>Disabling Discord's Auto-Start and Update Check on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effortless-steps-for-arranging-tech-assistance-at-the-apple-genius-bar/"><u>Effortless Steps for Arranging Tech Assistance at the Apple Genius Bar</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-crafted-the-best-8-convertor-list-for-sub-to-srt-for-2024/"><u>Expertly Crafted The Best 8 Convertor List for Sub to Srt for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-honor-magic-6-lite-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Honor Magic 6 Lite</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-ai-script/"><u>In 2024, Create AI Avatar Video with AI Script</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v27-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo V27 Pro PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-7-best-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved 7 Best Whiteboard Explainer Videos to Inspire You</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-voice-wondershare-virbo-online/"><u>New AI Voice | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-avatar-online-for-2024/"><u>Updated Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-power-of-ai-thumbnail-generators-for-2024/"><u>Updated Power of AI Thumbnail Generators for 2024</u></a></li>
 </ul></div>
 

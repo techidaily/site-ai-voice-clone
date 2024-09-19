@@ -1,7 +1,7 @@
 ---
 title: "Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes"
-date: 2024-09-11T22:18:20.493Z
-updated: 2024-09-14T21:57:22.380Z
+date: 2024-09-17T00:14:52.733Z
+updated: 2024-09-18T20:20:07.366Z
 tags:
   - win11
   - win10
@@ -128,16 +128,16 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -177,16 +177,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change your PC power plan
 
@@ -214,6 +214,19 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1982485">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **Fix 6: Launch Arma 3 with the malloc=system** command
 
  Another solution to the crashing issue is to custom the Memory Allocator on Arma 3\. Many players fix their issue by launching Arma 3 with the malloc=system command. Here is how to do it:
@@ -228,13 +241,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-45.png)
@@ -243,9 +249,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-374.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-malloc=system** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Restart_Arma 3_ to see this helped.
 
@@ -272,13 +292,6 @@ OR
 **4)** Delete the**BattlEye folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-43.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Go to the following directories to delete the**BattlEye folder** and the**BEClient.dll** .
 
@@ -317,13 +330,6 @@ OR
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Right-click **Arma 3** and select **Uninstall.**
 
@@ -394,18 +400,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-revealed-the-best-videos-from-facebooks-pages/"><u>2024 Approved Revealed The Best Videos From Facebook’s Pages</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ace-your-computer-needs-with-expert-tips-from-toms-hardware/"><u>Ace Your Computer Needs with Expert Tips From Tom's Hardware</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/acemagic-marks-star-wars-day-with-an-exclusive-x-wing-designed-mini-gaming-pc-launch/"><u>AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-of-ibuypowers-y60-high-performance-gaming-pc/"><u>Expert Analysis of iBUYPOWER's Y60 High-Performance Gaming PC</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/futures-file-fortresses-top-five-cloud-storage-in-the-year-2024/"><u>Future's File Fortresses Top Five Cloud Storage in the Year 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/hassle-free-device-driver-update-tutorials-for-windows-7-8-and-10-users/"><u>Hassle-Free Device Driver Update Tutorials for Windows 7, 8 & 10 Users</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-smart-8-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Smart 8 Pro Devices | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-zte-nubia-z60-ultra-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On ZTE Nubia Z60 Ultra? Fixed | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/innovative-modded-computer-system-integrating-a-built-in-coffee-brewer-complete-bean-roasting-and-grinding-capabilities/"><u>Innovative Modded Computer System Integrating a Built-In Coffee Brewer: Complete Bean Roasting & Grinding Capabilities</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/leading-uninterruptible-power-supply-solutions-reviewed/"><u>Leading Uninterruptible Power Supply Solutions Reviewed</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-with-guidance-from-toms-gadget-guide/"><u>Mastering Tech Choices With Guidance From Tom's Gadget Guide</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/romantic-revelations-love-verses-in-multiple-dialects/"><u>Romantic Revelations: Love Verses in Multiple Dialects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/tales-for-twilight-film-analysis/"><u>Tales for Twilight Film Analysis</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-synchronized-device-tutorial-for-efficient-movie-logging/"><u>[New] In 2024, Synchronized Device Tutorial for Efficient Movie Logging</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-scrutinizing-vlc-for-video-capturing/"><u>[Updated] In 2024, Scrutinizing VLC for Video Capturing</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-troubleshooting-tips-for-the-mystery-of-hidden-shorts-thumbnails/"><u>[Updated] Troubleshooting Tips for the Mystery of Hidden Shorts Thumbnails</u></a></li>
+<li><a href="https://windows11.techidaily.com/clearing-up-blank-login-issues-on-win1011-pcs/"><u>Clearing Up Blank Login Issues on WIN10/11 PCs</u></a></li>
+<li><a href="https://games-able.techidaily.com/correcting-failed-verification-of-steam-game-data/"><u>Correcting Failed Verification of Steam Game Data</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/get-your-free-media-playback-tool-on-windows-11-with-microsofts-updated-player-software/"><u>Get Your Free Media Playback Tool on Windows 11 with Microsoft's Updated Player Software</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/harness-the-potential-of-a-full-size-gpu-asrocks-new-mini-pc-deskmate-x6-600-for-china-only-193-usd/"><u>Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-sony-xperia-1-v-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Sony Xperia 1 V FRP</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-honor-magic-6-pro-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Honor Magic 6 Pro to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/join-the-ultimate-compute-clash-of-2024-daredevils-needed-for-rigorous-server-slaying-tournament/"><u>Join the Ultimate Compute Clash of 2024! Daredevils Needed for Rigorous Server Slaying Tournament</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-gadgets-and-components-with-toms-essential-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom's Essential Hardware Wisdom</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/wmv3g/"><u>オンラインで簡単! フリー版WMVビデオを3G形式に変換 - 動画美化の革命</u></a></li>
 </ul></div>
 
