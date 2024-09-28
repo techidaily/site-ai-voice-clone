@@ -1,7 +1,7 @@
 ---
 title: "A Critique on Capcom's Latest Quest: Hunting and Defeating Extraordinary Beasts in Monster Hunter: World"
-date: 2024-09-16T19:55:13.007Z
-updated: 2024-09-23T18:32:03.788Z
+date: 2024-09-21T00:36:34.857Z
+updated: 2024-09-27T17:17:06.178Z
 categories:
   - BestProducts
 description: "This Article Describes A Critique on Capcom's Latest Quest: Hunting and Defeating Extraordinary Beasts in Monster Hunter: World"
@@ -40,6 +40,13 @@ Lifewire / Kelsey Simon
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Kelsey Simon
 
 [View On Amazon](https://www.amazon.com/Techland-Torment-Tides-Numenera-PlayStation-4/dp/B01N2VISUC/?tag=lifewire-onsite-prod-20&ascsubtag=5077302%7Cnac6eb02defc3413da4da5d4ed0dc77ea21%7CB01N2VISUC) [View On Steampowered.com](https://store.steampowered.com/app/272270/Torment%5FTides%5Fof%5FNumenera/) [View On Gamestop.com](https://www.gamestop.com/video-games/playstation-4/games/products/torment-tides-of-numenera/141986.html)
@@ -59,16 +66,10 @@ Lifewire / Kelsey Simon
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
@@ -78,10 +79,10 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/b1_d8ikgtdkSH_Y0F510q_BXpK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-03-d99b43959fa74b31a15f336852f14d75.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -122,13 +123,6 @@ Lifewire / Kelsey Simon
 
  Lifewire / Kelsey Simon
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Price: Only worth it if you’re keen on the story**
 
  Torment: Tides of Numenera is still an expensive game, costing $50 on[Steam](https://www.lifewire.com/best-free-steam-games-4176308) when it’s not on sale. It’s a game created with a very specific type of player in mind―and I suspect most people are not going to like it.
@@ -136,13 +130,6 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -155,6 +142,13 @@ Lifewire / Kelsey Simon
  **A text-heavy RPG that doesn’t live up to its predecessor.**
 
  Torment: Tides of Numenera is a role-playing game focused on creating an experience that is more novel than video game. The storytelling is text heavy, but the world is rich and unique, mixing sci-fi and fantasy elements. Unfortunately, the unique world wasn’t enough to carry me through the outdated graphics and boring gameplay.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -177,5 +171,22 @@ Lifewire / Kelsey Simon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-in-game-recording-unveiled-for-2024/"><u>[New] In-Game Recording Unveiled for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-free-mobile-overlay-tools-top-10-innovative-photo-enhancers/"><u>[Updated] In 2024, Free Mobile Overlay Tools - Top 10 Innovative Photo Enhancers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/battlefield-bliss-exploring-the-7-best-massive-wars/"><u>Battlefield Bliss Exploring the 7 Best Massive Wars</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/excelling-at-content-creation-a-guide-to-gamers-success-for-2024/"><u>Excelling at Content Creation A Guide to Gamers' Success for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leveraging-hdrs-potential-for-ultimate-video-visualization/"><u>In 2024, Leveraging HDR's Potential for Ultimate Video Visualization</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-script-wondershare-virbo-online-for-2024/"><u>New AI Script | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>New In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-contacts-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-contacts/"><u>Possible solutions to restore deleted contacts from Xiaomi Redmi Note 12T Pro.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-way-to-get-your-wacom-intuos-device-ready-for-use-with-updated-drivers/"><u>Quick & Simple Way to Get Your Wacom Intuos Device Ready for Use with Updated Drivers</u></a></li>
+<li><a href="https://extra-information.techidaily.com/transforming-your-business-with-smart-smm-tactics/"><u>Transforming Your Business with Smart SMM Tactics</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-live-chat-with-woocommerce-leading-into-the-live-selling-world/"><u>Updated 2024 Approved Live Chat With WooCommerce Leading Into the Live Selling World</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-essential-tips-for-shooting-talking-head-videos/"><u>Updated Essential Tips for Shooting Talking Head Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>Updated Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-complete-guide-of-top-video-language-translators/"><u>Updated In 2024, Complete Guide of Top Video Language Translators</u></a></li>
+</ul></div>
 

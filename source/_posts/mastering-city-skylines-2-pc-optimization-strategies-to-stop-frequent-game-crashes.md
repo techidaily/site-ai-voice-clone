@@ -1,7 +1,7 @@
 ---
 title: "Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes"
-date: 2024-09-22T17:47:19.762Z
-updated: 2024-09-23T18:33:22.728Z
+date: 2024-09-23T00:34:10.301Z
+updated: 2024-09-28T04:24:44.464Z
 tags:
   - win11
   - win10
@@ -30,6 +30,19 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 7. **[Reinstall the BattlEye service](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Meet the minimum system requirements
 
  The minimum computer specs need to be met to run Arma 3 properly. Here are the minimum requirements to play _Arma 3_ :
@@ -48,6 +61,13 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Type **dxdiag**  and click **OK** .
 
@@ -98,16 +118,16 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -138,13 +158,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -179,16 +192,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -197,23 +204,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Change your PC power plan
 
@@ -224,6 +217,13 @@ OR
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)** Under **View by,** click **Large icons** .
 
@@ -238,10 +238,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
@@ -270,28 +270,29 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-374.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Type**\-malloc=system** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Restart_Arma 3_ to see this helped.
 
  If this didn’t work for you, you’ll need to reopen the launch Options box and clear the launch option. Then, try the fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7:**Reinstall BattlEye service**
 
@@ -354,13 +355,6 @@ OR
 **3)**  Right-click **Arma 3** and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-48.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click **DELETE** .
 
@@ -425,5 +419,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/our-step-by-step-equipment-plan-for-youtube-beginnings/"><u>[New] Your Step-by-Step Equipment Plan for YouTube Beginnings</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-demystifying-the-process-of-writing-youtube-video-content/"><u>[Updated] Demystifying the Process of Writing YouTube Video Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-revive-missing-fb-watch-icon-solutions/"><u>[Updated] In 2024, Revive Missing FB Watch Icon - Solutions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-seamlessly-posting-online-content-to-ig-storypost/"><u>[Updated] In 2024, Seamlessly Posting Online Content to IG Story/Post</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/google-pixel-rhythms-the-ideal-online-source-for-2024/"><u>Google Pixel Rhythms The Ideal Online Source for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-enable-the-text-to-speech-function-on-iphone/"><u>In 2024, How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>In 2024, How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-apple-iphone-xs-max-and-android-phones-by-drfone-ios/"><u>In 2024, Top IMEI Unlokers for Apple iPhone XS Max and Android Phones</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-descript-overdub-controlling-the-audio-in-video/"><u>New In 2024, Descript Overdub Controlling the Audio in Video</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/the-complete-guide-to-creating-impactful-snapshots-for-2024/"><u>The Complete Guide to Creating Impactful Snapshots for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-top-reasons-why-electric-vehicles-outshine-their-gasoline-counterparts/"><u>The Top Reasons Why Electric Vehicles Outshine Their Gasoline Counterparts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated Everything You Want To Know About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-material-preparation/"><u>Updated In 2024, Material Preparation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-power-of-ai-thumbnail-generators/"><u>Updated In 2024, Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Video Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+</ul></div>
 

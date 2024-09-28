@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-09-18T19:34:43.129Z
-updated: 2024-09-23T19:50:51.011Z
+date: 2024-09-24T03:49:22.514Z
+updated: 2024-09-28T00:56:47.469Z
 tags:
   - desktop
 categories:
@@ -41,16 +41,10 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,5 +68,21 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-elevate-your-instagram-storytelling-with-automated-captions/"><u>[New] 2024 Approved Elevate Your Instagram Storytelling with Automated Captions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unveiling-the-art-of-closer-views-on-microsoft-teams/"><u>[New] Unveiling the Art of Closer Views on Microsoft Teams</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nveiling-the-money-map-a-3-step-guide-for-calculating-your-youtube-income/"><u>[New] Unveiling the Money Map A 3-Step Guide for Calculating Your YouTube Income</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-guide-to-decoding-diagonal-aspect-ratios/"><u>[Updated] Beginners Guide to Decoding Diagonal Aspect Ratios</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-cut-the-cord-with-youtube-mp3-conversion-tools-for-2024/"><u>[Updated] Cut the Cord with YouTube-MP3 Conversion Tools for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/creating-lasting-memories-with-customized-vimeo-ends/"><u>Creating Lasting Memories with Customized Vimeo Ends</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-itel-a05s-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Itel A05s to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-script-generator/"><u>In 2024, What Is an AI Script Generator?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>In 2024, What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In 2024, In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>Updated In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo A18 | Dr.fone</u></a></li>
+</ul></div>
 
