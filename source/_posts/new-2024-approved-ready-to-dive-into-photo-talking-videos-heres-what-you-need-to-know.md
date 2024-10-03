@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know
-date: 2024-09-22T09:51:21.261Z
-updated: 2024-09-27T19:09:14.555Z
+date: 2024-09-29T02:16:17.396Z
+updated: 2024-10-03T13:49:20.619Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 3. Implementation of voice synthesis to generate lifelike speech.
 4. Introduction of interactive features allowing user engagement.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How To Create Talking Video With Reliable Desktop Tool—Wondershare Virbo
 
  In the above sections, we have introduced the concept and importance of**talking photo videos** . Let's head to the part where you will know how you can create them with tools. One of the most straightforward methods to generate such talking photos is [Wondershare Virbo](https://virbo.wondershare.com/) . Whether you want to market a product or deliver a presentation, using this tool is a good idea.
@@ -49,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 2. You can customize your uploaded voice in talking pictures to make it more interesting.
 3. Using the versatile AI avatars of this tool, you can attract and engage a broader audience.
 4. This tool allows users to add background music to their content for personalization.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guideline To Create Talking Photo Videos Using Virbo
 
@@ -73,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
  Enter the text you want to use in your talking photo. You also have the option to shift to the "Audio Script" tab to upload your audio to convert your picture to a talking video.
 
 ![change text or add audio](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 4\. Select the Language and Accent for Your Video
 
@@ -133,16 +140,16 @@ thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c
 
 ![change voice language and text](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** Now, hit the “Publish” button, and it will start processing in a new pop-up window. A message will then appear for successful publishing, from where you can share the output file to multi-platforms.
 
 ![publish final photo talking video](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -220,6 +227,19 @@ Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avat
 
 Are you currently seeking to incorporate a digital avatar into your video content? You can set aside any concerns because Virbo has the perfect solution to meet your needs and provide the ideal digital avatar for your videos.
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Get To Know Our Realistic AI Avatars
 
 * 300+ Real Human Avatars
@@ -281,13 +301,6 @@ Descript offers a powerful audio editing experience with AI voices. With the sto
 ##### 4\. Transcription
 
 You can use this feature to address the crucial need for rapid audio conversion into text. It offers industry-best accuracy and speech with an automatic process. The tool lets you add labels with AI-powered Speaker Detective. Plus, you can get voice transcription in 22 languages with the utmost data correction.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Steps to Generate AI Voice Clone With Descript
 
@@ -364,13 +377,6 @@ With the high-quality AI of Speechify, you can clone your voice within seconds. 
 
 In conclusion, creating a **voice clone through Descript** proves to be a powerful feature. It makes the process of creating different voices for various needs simple. In this article, we discussed the step-by-step guide to help users understand how to use it for creative projects for smooth operation. Also, keep a check on its alternatives to help you fulfill diverse voice cloning needs.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Top 4 Ways of Instagram Video Promotion
 
  There are over 2.35 billion active users of Instagram, which ensures the popularity of this social media platform. From the time since Instagram has integrated the feature of reels and videos, its usability has been upgraded. People from all across the globe create and share Instagram videos for entertainment and marketing purposes.
@@ -386,6 +392,19 @@ In conclusion, creating a **voice clone through Descript** proves to be a powerf
 ### 1\. Engagement Booster
 
  You are aware of the fact that Instagram is known to be a virtually driven platform. Compared to plain text or static images, videos can engage more users with your page. It not only captures the users' attention but also helps you improve your credibility.
+
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Reach and Personality
 
@@ -512,13 +531,6 @@ Select the accent you want for your video and create the perfect AI video by sel
 
 **![select language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-31.jpg)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Select any particular language from the options to create a new screen. Here you can type in the script you want to voiceover using the selected speech style. You can also change the speech style using the "Change" button.
 
 **![change language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-32.jpg)**
@@ -554,13 +566,6 @@ Select the accent you want for your video and create the perfect AI video by sel
 **Step 4:** Continue with the "Create Video" button to proceed with the final process of making the AI video. Select the orientation of the video and tap "Create now" to continue.
 
 **![create video from selected options](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-34.jpg)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5:** As you lead into the video creation page, make the required changes to your video using the options available on the panel. Once done, choose “Preview” to observe the changes and select “Export” to save the final result.
 
@@ -810,13 +815,6 @@ Authorization Refresh
 1. **Multilingual capability:** With multilingual support of 29 languages, ElevenLabs allows you to reach a broad audience and translate your content into multiple languages. TikTok translation is one of the trickiest things to do but ElevenLabs has an option just for that.
 2. **Endless use cases:** Whether you are making an educational video, dubbing films or TV shows, or teaching a concept to a non-native speaker, ElevenLabs’ dubbing tool is one of the best tools to do so.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Wavel.ai
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-8.jpg)
@@ -850,6 +848,13 @@ Authorization Refresh
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 1. Now, write the script that you want to have a TikTok information video based on and paste it into the dialogue box. Select “**Apply** ”
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-12.jpg)
@@ -859,6 +864,19 @@ Authorization Refresh
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-13.jpg)
 
 [Create Tiktok Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -881,10 +899,16 @@ Authorization Refresh
 2. Next, you will have to locate the “App Language” option and choose your preferred language for your TikTok app.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -907,20 +931,24 @@ Authorization Refresh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-camclip-collector-social-edition/"><u>[New] CamClip Collector, Social Edition</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-elevate-video-branding-incorporating-watermarks-into-youtube-media/"><u>[New] In 2024, Elevate Video Branding Incorporating Watermarks Into YouTube Media</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-flying-11-best-add-ons-for-the-phantom-4/"><u>[New] In 2024, Elevate Your Flying 11 Best Add-Ons for the Phantom 4</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-seamless-entry-into-the-sub4sub-universe-guide-to-get-you-there/"><u>[Updated] Seamless Entry Into the Sub4sub Universe - Guide to Get You There</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/discarding-virtual-gatherings-on-fb-pcsmartphones-for-2024/"><u>Discarding Virtual Gatherings on FB, PC/Smartphones for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-downloadinstallregisteruninstall/"><u>In 2024, Download/Install/Register/Uninstall</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Oppo F25 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video/"><u>New In 2024, Create AI Avatar Video</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-power-of-ai-thumbnail-generators/"><u>New The Power of AI Thumbnail Generators</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-players-unable-to-boot-up-pathfinder-wrath-of-the-righteeous/"><u>Step-by-Step Solution for Players Unable to Boot up Pathfinder: Wrath of the Righteeous</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-facebooks-continued-vitality-with-6-points/"><u>Understanding Facebook's Continued Vitality with 6 Points</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-wondershare-virbo/"><u>Updated In 2024, AI Script | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-chatgpt-in-2024/"><u>Updated What Is ChatGPT, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/video-translator-wondershare-virbo-online-for-2024/"><u>Video Translator | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cross-border-tech-assessment-by-experts/"><u>[Updated] In 2024, Cross-Border Tech Assessment by Experts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-how-to-record-cameras-and-monitors-together-efficiently/"><u>[Updated] In 2024, How to Record Cameras & Monitors Together Efficiently</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-squared-up-crafting-square-format-videos-with-imovie-and-instagram/"><u>[Updated] In 2024, Squared Up Crafting Square-Format Videos with iMovie and Instagram</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/movavijpgtiff/"><u>「Movaviで簡単JPGとTIFFファイル間容易切り替え」</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-script-generator-virbo-guide-for-2024/"><u>AI Script Generator | Virbo Guide for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-lenovo-ideapad-yoga-a940-performance-insights/"><u>Expert Evaluation: Lenovo IdeaPad Yoga A940 Performance Insights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-pro-periscope-stream-mastery-for-2024/"><u>From Novice to Pro Periscope Stream Mastery for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-alternatives-to-vlc-revealed-in-detailed-review/"><u>In 2024, Alternatives to VLC Revealed in Detailed Review</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-creating-ai-videos-with-templates/"><u>In 2024, Creating AI Videos With Templates</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-get-closer-to-the-artistic-marvels-of-ai-portrait-generator/"><u>In 2024, Get Closer to the Artistic Marvels of AI Portrait Generator</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-samsung-galaxy-a15-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Samsung Galaxy A15 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-gopro-video-editing-made-easy-a-step-by-step-guide-for-beginners/"><u>New 2024 Approved GoPro Video Editing Made Easy A Step-by-Step Guide for Beginners</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-art-generator-wondershare-virbo-glossary/"><u>New 2024 Approved What Is an AI Art Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-common-platforms-for-2024/"><u>New Common Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool-wondershare-virbo-glossary/"><u>New What Is an AI Tool? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/online-bild-verarbeitung-and-konvertierung-kostenlose-losungen-von-movavi-definiert/"><u>Online Bild Verarbeitung & Konvertierung: Kostenlose Lösungen Von Movavi Definiert</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online-for-2024/"><u>Updated AI Translation | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-7-video-language-converter-online-free/"><u>Updated Top 7 Video Language Converter Online Free</u></a></li>
 </ul></div>
 

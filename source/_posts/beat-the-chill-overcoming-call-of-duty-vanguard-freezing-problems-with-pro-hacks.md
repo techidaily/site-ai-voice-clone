@@ -1,7 +1,7 @@
 ---
 title: "Beat the Chill: Overcoming Call of Duty: Vanguard Freezing Problems with Pro Hacks"
-date: 2024-09-27T02:18:01.460Z
-updated: 2024-09-28T10:04:57.008Z
+date: 2024-09-30T03:18:42.171Z
+updated: 2024-10-02T16:53:29.240Z
 tags:
   - win11
   - win10
@@ -49,6 +49,14 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -64,8 +72,23 @@ Here’s how to use Fortect to run a Windows repair:
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,6 +104,14 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959707/19272" target="_top" id="1959707">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959707" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959707/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -108,13 +139,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
@@ -122,20 +146,13 @@ To check the specs of your PC:
 4. Close DirectX.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -147,10 +164,10 @@ To check the specs of your PC:
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
@@ -164,10 +181,10 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -181,13 +198,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
@@ -199,13 +209,6 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -232,21 +235,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlocking-full-potential-the-laptop-recording-manual-for-2024/"><u>[New] Unlocking Full Potential The Laptop Recording Manual for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-excellent-camcorders-with-facing-panel/"><u>[Updated] In 2024, Excellent Camcorders with Facing Panel</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elite-cameras-for-pixel-perfect-stop-motion/"><u>2024 Approved Elite Cameras for Pixel-Perfect Stop Motion</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Poco M6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-becoming-snapstreak-savvy-tips-for-uninterrupted-connection/"><u>In 2024, Becoming Snapstreak Savvy Tips for Uninterrupted Connection</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximized-speed-the-prime-10-choices-of-srt-upgrades-for-pcs-and-macs-for-2024/"><u>Maximized Speed The Prime 10 Choices of SRT Upgrades for PCs & Macs for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-voice-cloning-apps-for-android-and-ios-devices/"><u>New In 2024, Top Voice Cloning Apps for Android & iOS Devices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>New The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-power-of-ai-thumbnail-generators/"><u>New The Power of AI Thumbnail Generators</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/srt-to-sub-how-to-convert-srt-to-sub-with-3-actionable-ways/"><u>SRT to SUB How to Convert SRT to SUB with 3 Actionable Ways</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-list-of-premium-power-inverters-for-optimal-performance/"><u>The Definitive List of Premium Power Inverters for Optimal Performance</u></a></li>
-<li><a href="https://discover-community.techidaily.com/the-ultimate-toolkit-for-uploading-videos-on-your-xbox-360-learn-converting-like-a-pro/"><u>The Ultimate Toolkit for Uploading Videos on Your Xbox 360 - Learn Converting Like a Pro!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-5-tips-about-youtube-shorts-to-grow-your-business-for-2024/"><u>Updated 5 Tips About YouTube Shorts to Grow Your Business for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-art-generator/"><u>Updated In 2024, What Is an AI Art Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-chatgpt-in-2024/"><u>Updated What Is ChatGPT, In 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-design-best-practices-for-engaging-youtube-thumbnails/"><u>[New] 2024 Approved Design Best Practices for Engaging YouTube Thumbnails</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-building-personalized-instagram-feed-outlines/"><u>[Updated] 2024 Approved Building Personalized Instagram Feed Outlines</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-tweet-titans-social-networks-10-most-shared-posts/"><u>[Updated] In 2024, Tweet Titans Social Network’s 10 Most Shared Posts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-wondershare-virbo/"><u>2024 Approved AI Script | Wondershare Virbo</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-cutting-edge-skies-the-ultimate-guide-to-drones-and-their-edits/"><u>2024 Approved Cutting Edge Skies The Ultimate Guide to Drones and Their Edits</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline/"><u>Best 12 AI Voice Cloning Tools Online & Offline</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/creating-costless-webinars-on-youtube-a-handbook-for-2024/"><u>Creating Costless Webinars on YouTube A Handbook for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-ts-stutter-free-gameplay-resolving-launch-crashes-on-your-computer-2024-edition/"><u>Hitman T's Stutter-Free Gameplay: Resolving Launch Crashes on Your Computer, 2024 Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-vehicular-vitality-ranking-10-top-turbo-mods-for-os-x-and-windows/"><u>In 2024, Vehicular Vitality Ranking 10 Top Turbo Mods for OS X and Windows</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/refine-image-quality-on-canon-devices-using-free-plus-payable-lut-tools-for-2024/"><u>Refine Image Quality on Canon Devices Using Free + Payable LUT Tools for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/secure-windows-computers-effectively-using-our-top-five-strategies/"><u>Secure Windows Computers Effectively Using Our Top Five Strategies</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/"><u>Updated In 2024, 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor/"><u>Updated What Is an AI Video Editor?</u></a></li>
 </ul></div>
 

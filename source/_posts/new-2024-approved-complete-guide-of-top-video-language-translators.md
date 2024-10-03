@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Complete Guide of Top Video Language Translators
-date: 2024-09-21T20:08:25.155Z
-updated: 2024-09-28T06:08:19.175Z
+date: 2024-10-01T04:25:11.476Z
+updated: 2024-10-03T12:13:17.715Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
  Join us in understanding the profound influence these translators wield in shaping our innovative world, where the fusion of languages not only facilitates communication but also propels us into a future where collaboration and understanding know no linguistic bounds. Explore how these tools contribute to a future marked by inclusivity, where the richness of diverse languages enhances the global exchange of ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Explore Top 7 Translators to Translate Video Free
 
  In this part, we will explore the top 8 video translators that stand out for their ability to seamlessly translate videos without putting a dent in your budget. From user-friendly interfaces to robust language support, each of these tools brings something unique to the table. Join us as we navigate the features and functionalities that make these translators the go-to choices for those seeking efficient and cost-free ways to translate video content.
@@ -77,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/e4dab8212b61415ab670db2724890039dc2188864
 
 * It offers an offline mode; some features may be limited without an internet connection.
 * For new users, the array of features may require some learning.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2. Google Translator
 
@@ -347,13 +333,6 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Integrating **text-to-speech voice cloning** software in your content strategy can help you with multiple things. This section will discuss multiple benefits such tools have to offer throughout the industry:
 
 1. **Interactive Conversations:** These tools use advanced speech recognition technology to produce natural speech. Their use enhances the element of interaction in your content, such as in virtual assistants and customer care.
@@ -406,10 +385,10 @@ Create a precise, professional-sounding AI voice with Speechify's **TTS voice cl
 ![speechify ai voice cloning](https://images.wondershare.com/virbo/article/leading-speech-to-speech-voice-cloners-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Key Features
@@ -443,19 +422,6 @@ Whether it's your voice or a celebrity's voice, this **speech cloning tool** can
 Upload a few minutes of audio sample or record it to get a personalized AI voice. This **voice cloning TTS** shows effortless compatibility with 29 languages and 50+ accents. The tool compares the original and AI voice if you select a different language or accent.
 
 ![elevenlabs ai voice cloning](https://images.wondershare.com/virbo/article/leading-speech-to-speech-voice-cloners-5.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -491,18 +457,18 @@ This article focused on the perks of using **speech-to-speech voice cloning** te
 
  So, in this guide, we're going to learn how to make your iPhone talk to you i.e.**iPhone read text** ,**iPhone read text out loud** ,**speak text iPhone** on**text to speech app iPhone** and make life cooler. We'll find out how to turn on this cool trick and see all the good stuff it brings. Let's get started and make your iPhone a chatty buddy!
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: What is Text-to-Speech?
 
  Text-to-Speech, as the name suggests, is a technology that converts written text into spoken words. This powerful function has gained immense popularity due to its diverse range of applications. Imagine scenarios where you're driving and need to access an important email, or you're cooking while following a recipe from a website. Without the**text to speech app iPhone** function, these situations could be both inconvenient and potentially unsafe.
 
  This**voice text message iPhone** function transcends mere convenience; it's an accessibility boon for those with visual impairments or learning disabilities. Moreover, it caters to various learning styles by offering an auditory alternative to traditional text-based content. From educational content to news articles, eBooks to social media updates, TTS ensures that you're never tied down by the limitations of visual reading alone.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Enable the TTS Function on iPhone?
 
@@ -532,6 +498,13 @@ This article focused on the perks of using **speech-to-speech voice cloning** te
 
 ![text-to-speech-function-on-iphone-4.jpg](https://images.wondershare.com/virbo/features/text-to-speech/text-to-speech-function-on-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 5
 
  To make the most of the text-to-speech feature, proceed to any app or area where text is present. Tap and hold your finger on the specific text you wish to hear aloud or**iPhone read text out loud** . This action will summon a tool known as the "selector tool," which is represented by a blue, yellow and any other color bar. The selector tool empowers you to highlight text by dragging its handles located at both ends.
@@ -555,6 +528,13 @@ For Multiple Words or Entire Content
 [Virbo](https://virbo.wondershare.com/ai-voice.html) is an online AI voice generator that can create realistic and diverse voices for any text. Unlike the text to speech function on your iPhone, which has a limited and fixed voice, Virbo allows you to choose from over 100 voices in different languages, accents, genders, and ages. You can also customize the voice parameters, such as speed, pitch, volume, and pause. Moreover, you can add emotions and tones to the voice, such as happy, sad, angry, calm, etc. You can preview and download the voice as an MP3 file and use it for personal or commercial purposes.
 
 ![text-to-speech-function-on-iphone-6.jpg](https://images.wondershare.com/virbo/features/text-to-speech/text-to-speech-function-on-iphone-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -586,11 +566,44 @@ For Multiple Words or Entire Content
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## AI Voice | Online
+
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI Voice
 
 Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get To Know Our AI Voice Feature
 
@@ -638,16 +651,10 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
 
 <!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Get To Know Our AI Voice Feature
@@ -662,13 +669,6 @@ Virbo's cutting-edge AI capabilities offer a transformative solution to your cop
 Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
 
 ## Material Preparation
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Material Preparation for Live Streaming
 
@@ -832,22 +832,24 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-efficient-screen-capture-devices-for-education-for-2024/"><u>[New] Efficient Screen Capture Devices for Education for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-channel-expansion-techniques-for-30plus-online-platforms/"><u>[New] In 2024, Channel Expansion Techniques for 30+ Online Platforms</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-is-minimizing-unstable-movement-in-photoshop-beneficial/"><u>[New] Is Minimizing Unstable Movement in Photoshop Beneficial?</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-the-art-of-accessing-your-facebook-watchlist-for-2024/"><u>[New] Mastering the Art of Accessing Your Facebook Watchlist for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-the-complete-guide-to-downloading-setting-up-and-using-obs-on-macos-for-2024/"><u>[New] The Complete Guide to Downloading, Setting up and Using OBS on macOS for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-taggification-top-7-affordable-online-extractors-for-youtube/"><u>[Updated] In 2024, Cutting-Edge Taggification Top 7 Affordable Online Extractors for YouTube</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-voice-online/"><u>In 2024, AI Voice | Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/meeting-mastery-streaming-google-meet-directly-to-youtube/"><u>Meeting Mastery Streaming Google Meet Directly to YouTube</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>New 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-downloadinstallregisteruninstall/"><u>New Download/Install/Register/Uninstall</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool/"><u>New What Is an AI Tool?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/online-gratuite-ts-naar-mpeg-convertor-movavi/"><u>Online Gratuite TS Naar MPEG Convertor - Movavi</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated 2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online/"><u>Updated AI Translation | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-templates/"><u>Updated Create AI Avatar Video with Templates</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-creating-ai-videos-with-templates/"><u>Updated In 2024, Creating AI Videos With Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-timed-success-organizing-video-conferences-via-slackplusfilmora/"><u>[New] 2024 Approved Timed Success Organizing Video Conferences via Slack+Filmora</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-empowering-video-content-with-advanced-aiseesoft-tech/"><u>[New] Empowering Video Content with Advanced Aiseesoft Tech</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-obs-dominion-vs-streamlabs-kingdom/"><u>[Updated] 2024 Approved OBS Dominion Vs. Streamlabs Kingdom</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-9-uncharted-upscales-for-vivid-visuals/"><u>2024 Approved 9 Uncharted Upscales for Vivid Visuals</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/6ygp5yih44gq6zplusz5aow44kz44o844oh44od44kv44ks6yg45a6a44gz44kl5oml5byv44gnicfpn7plo7djgrpjg7zjg4fjg4pjgqjga7mpjzoqlwn/"><u>適切な音声コーデックを選定する手引き '音声コーデックの検証'</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline-for-2024/"><u>Best 12 AI Voice Cloning Tools Online & Offline for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ai-avatar/"><u>Create Video with AI Avatar</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-the-critical-system-error-0xc000000e-a-comprehensive-strategy/"><u>Fixing the Critical System Error 0xC000000E: A Comprehensive Strategy</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-use-special-features-virtual-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-wondershare-virbo-online/"><u>In 2024, AI Script | Wondershare Virbo Online</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-igniting-interest-how-to-elevate-your-instagram-contents-impact/"><u>In 2024, Igniting Interest How to Elevate Your Instagram Content's Impact</u></a></li>
+<li><a href="https://techidaily.com/master-the-techniques-for-optimizing-memory-use-in-windows-11-resolved/"><u>Master the Techniques for Optimizing Memory Use in Windows 11 [Resolved]</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-ai-movie-script-generators/"><u>New 2024 Approved Best 5 AI Movie Script Generators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-finding-the-best-voice-changers-to-sound-like-star-warss-stormtrooper/"><u>New Finding The Best Voice Changers To Sound Like Star Warss Stormtrooper</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-12-ai-voice-cloning-tools-online-and-offline/"><u>New In 2024, Best 12 AI Voice Cloning Tools Online & Offline</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo-wondershare-virbo-for-2024/"><u>New Talking Photo | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-high-definition-adventures-winning-with-windows-and-scummvm/"><u>The Ultimate Guide to High Definition Adventures: Winning with Windows & ScummVM</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-5-smart-tips-about-youtube-shorts-to-grow-your-business/"><u>Updated In 2024, 5 Smart Tips About YouTube Shorts to Grow Your Business</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-background-generator/"><u>Updated In 2024, What Is AI Background Generator?</u></a></li>
 </ul></div>
 

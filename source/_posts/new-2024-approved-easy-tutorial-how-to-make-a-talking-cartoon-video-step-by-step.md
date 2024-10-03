@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step
-date: 2024-09-21T16:32:35.244Z
-updated: 2024-09-28T09:28:58.366Z
+date: 2024-10-01T13:35:39.698Z
+updated: 2024-10-03T03:30:28.604Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -72,6 +72,13 @@ How to create a simple animated character:
 
 ![Download the talking cartoon video](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. Best Direct Way: How to Make Anime Character Talks from A Photo
 
  Is there an easier method**how to make animation talk** ? If you find the process of animating challenging, an alternative and simpler way can be using a talking avatar from a photo.[Wondershare Virbo](https://virbo.wondershare.com) offers an easy solution for this purpose. Virbo is a versatile video production tool that utilizes AIGC technology to create talking avatars.
@@ -96,13 +103,6 @@ Some of Virbo Talking Avatar features include:
 
 ![How to make animation talk easily](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Upload an anime character photo or choose an anime AI avatar
 
  Click on the upload icon (+) and select the anime or cartoon character image. You can adjust and crop the picture according to your preferences. Afterward, click on "Create Video" to proceed.
@@ -120,6 +120,13 @@ Some of Virbo Talking Avatar features include:
  For those preferring to use their own voice, select either "Audio Upload" to upload existing audio files or "Online Recording" to record directly within the software. If your audio is embedded within a video file, choose "Extract audio" and Virbo will extract the audio accordingly.
 
 ![Add audio to the animated character’s photo](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Export the talking avatar
 
@@ -153,13 +160,6 @@ Some of Virbo Talking Avatar features include:
 
 ![Making animated characters talk](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 **How to create talking animation** involves a multi-step process to bring life and personality to your animation. It involves synchronizing the movements of a character's lips and facial expressions with the spoken words to create the illusion of speech.
@@ -173,20 +173,13 @@ Some of Virbo Talking Avatar features include:
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is an AI Script Generator? | Wondershare Virbo Glossary
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
+  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 1\. What is an AI script generator?**
@@ -230,13 +223,6 @@ An **AI script generator** is a tool or system that uses artificial intelligence
 AI script generators analyze large amounts of existing script data to learn patterns, language structures, and dialogue styles. They can then generate new scripts based on this learned knowledge. The generated scripts may include dialogue, scene descriptions, character actions, and other elements typically found in scripts.
 
 These tools can be helpful for writers, content creators, and developers who need to generate scripts quickly or seek inspiration for their creative projects. However, it's important to note that while AI script generators can provide valuable suggestions and assistance, they may not replace the creative input and human touch required for crafting high-quality scripts. Human oversight and editing are usually necessary to refine and tailor the generated content to specific needs and artistic visions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Part 2\. How can an AI script generator revolutionize your work?**
 
@@ -296,6 +282,13 @@ However, it's important to remember that an AI script generator should be seen a
 
 ![talk shop live beginners](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  As a social selling network, Talk Shop Live is a community of viewers who follow their favorite hosts, discover new products, and connect with other shoppers. Based on TalkShopLive reviews, here are the pros and cons of the platform:
 
 ### Pros
@@ -314,13 +307,6 @@ However, it's important to remember that an AI script generator should be seen a
 
  Deciding whether TalkShopLive is right for you will depend on your individual shopping habits and preferences. The platform is great for finding deals and discovering new products. It also helps in supporting creators and finding the right products. For sellers and brands, Talk Shop Live reviews indicate that the platform can help reach a wider audience and boost sales.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Live Shop Hacks: Unleash AI Power for Sales Success
 
  Choosing TalkShopLive as your live shopping platform keeps you on the right track. In addition to getting access to a wider audience, you also become more competitive in the market. However, it can be time-consuming and expensive to live stream all the time. This is where artificial intelligence (AI) promises a simplified future for sellers and creators. In particular, AI streamers can be used as a powerful tool for live shopping.
@@ -332,6 +318,13 @@ However, it's important to remember that an AI script generator should be seen a
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers a host of AI streamers that you can use in your TalkShopLive shows to keep your viewers engaged. By automating live shopping events, Virbo Live promises to save you the costs and time often incurred when hiring a human streamer. You get access to AI-driven avatars or Vtubers that will interact with your audience, provide information about your products, and answer customer questions. This way, you can boost your revenue during live shopping events and address more customer needs.
 
 ![virbo live](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 02 Why choose Virbo Live Shop
 
@@ -431,6 +424,13 @@ Here’s how to make and customize your own Memoji on iPhone:
 
 ![How to record and send talking Memoji](https://images.wondershare.com/virbo/article/2024/02/how-to-make-memoji-talk-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  But if you want to share your**talking Memoji** outside of the Messages app, you can save the recording to your camera roll and then share it through other messaging apps or social media platforms.
 
 ## Part 4\. How To Make Your Memoji Image Talks
@@ -470,16 +470,10 @@ Virbo Photo Talking features include:
 ![Customize voice for the talking Memoji](https://images.wondershare.com/virbo/article/2024/02/how-to-make-memoji-talk-6.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you need help with [how to make your Memoji talk](https://www.youtube.com/watch?v=GDqbSvhec9M) , you can refer to the video tutorial.
@@ -516,19 +510,6 @@ After picking up a desired template, you can start editing your video. Customize
 
 ![edit video](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-templates-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Edit Video
 
 #### Step 3\. Export Video
@@ -594,6 +575,13 @@ Yes, these avatars are all based on video footage using real actors.
 **3**Can I Control Avatars' Gestures or Expressions?
 
 For personalized avatars on Virbo, you can enjoy the liberty to craft gestures and expressions to your liking. Click now to explore [Virbo's Customization Service!](https://virbo.wondershare.com/ai-avatar-voice-cloning-service.html)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Is Talking Avatar? | Wondershare Virbo Glossary
 
@@ -761,16 +749,15 @@ Our attitude towards AI tools can vary because they can be influenced by various
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-future-insight-alternate-pathways/"><u>[New] Future Insight Alternate Pathways</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-tips-to-improve-skype-broadcasts-using-obs/"><u>[Updated] 2024 Approved Expert Tips to Improve Skype Broadcasts Using OBS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-easy-steps-for-posting-videos-on-facebook-from-devices/"><u>[Updated] Easy Steps for Posting Videos on Facebook From Devices</u></a></li>
-<li><a href="https://driver-install.techidaily.com/effortless-latest-driver-installation-gtx-750-ti/"><u>Effortless Latest Driver Installation: GTX 750 Ti</u></a></li>
-<li><a href="https://discover-help.techidaily.com/guia-paso-a-paso-para-transferir-videos-de-vhs-a-dvd-utilizando-tu-ordenador/"><u>Guía Paso a Paso Para Transferir Vídeos De VHS a DVD Utilizando Tu Ordenador</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-13-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 13 Pro in the Best Ways</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-influencer-wondershare-virbo-glossary-for-2024/"><u>New What Is AI Influencer? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-create-ai-avatar-video-with-template-wondershare-virbo/"><u>Updated 2024 Approved Create AI Avatar Video with Template | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-7-best-explainer-video-makers-you-may-like/"><u>Updated 7 Best Explainer Video Makers You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-marketing/"><u>What Is AI Marketing?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-cerebral-showcase-2024-exclusive-selection-of-trivia-streaming-sites/"><u>[New] Cerebral Showcase 2024 Exclusive Selection of Trivia Streaming Sites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-30-list-of-no-cost-high-quality-online-film-effects-tools/"><u>[New] In 2024, The Ultimate 30 List of No-Cost, High-Quality Online Film Effects Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-nokia-c110-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Nokia C110.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-15-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 15 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/install-and-enable-hyper-v-feature-the-definitive-walkthrough-for-windows-10-machines/"><u>Install & Enable Hyper-V Feature: The Definitive Walkthrough for Windows 10 Machines</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/meta-vs-omni-navigating-digital-realms/"><u>Meta Vs. Omni Navigating Digital Realms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-battle-of-might-and-machine-join-the-2024-global-server-smash-contest/"><u>The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/touchscreen-computing-revolutionized-by-microsoft-introducing-an-ai-msi-desktop-with-a-stunning-1080p-viewfinder/"><u>Touchscreen Computing Revolutionized by Microsoft: Introducing an AI MSI Desktop with a Stunning 1080P Viewfinder</u></a></li>
 </ul></div>
 

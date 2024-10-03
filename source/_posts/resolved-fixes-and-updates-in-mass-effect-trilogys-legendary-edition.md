@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2024-09-25T09:44:55.346Z
-updated: 2024-09-27T23:03:17.214Z
+date: 2024-10-01T20:34:53.812Z
+updated: 2024-10-02T22:56:03.305Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -52,13 +59,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -66,14 +66,22 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -86,6 +94,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -110,17 +125,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -134,13 +142,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -165,18 +166,16 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-enhance-video-aesthetics-instagram-border-techniques/"><u>[New] 2024 Approved Enhance Video Aesthetics Instagram Border Techniques</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/rom-storyboard-to-screenplay-a-youtube-video-writers-journey/"><u>[New] From Storyboard to Screenplay A YouTube Video Writer's Journey</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-camera-elite-the-premier-selection-of-4k-dslr-mounts/"><u>[Updated] Camera Elite The Premier Selection of 4K DSLR Mounts</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/8-key-ways-that-ai-chatbots-are-redefining-content-creation-strategies/"><u>8 Key Ways That AI Chatbots Are Redefining Content Creation Strategies</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-vivo-y02t-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Vivo Y02T? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-4-ways-of-instagram-video-promotion-for-2024/"><u>Best 4 Ways of Instagram Video Promotion for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-the-artisans-guide-to-instagram-stories-preservation/"><u>In 2024, The Artisan’s Guide to Instagram Stories Preservation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformez-vos-fichiers-cr2-en-images-de-haute-qualite-jpeg-sans-frais-dun-seul-clic-decouvrez-les-outils-de-conversion-rapides-par-movavi/"><u>Transformez Vos Fichiers CR2 en Images De Haute Qualité JPEG Sans Frais, D'un Seul Clic ! Découvrez Les Outils De Conversion Rapides Par Movavi</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-video-translator-online/"><u>Updated 2024 Approved AI Video Translator | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-recorded-speech-retrieval-and-evaluation/"><u>[New] In 2024, Recorded Speech Retrieval & Evaluation</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-poco-m6-pro-4g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Poco M6 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/gaming-groups-vs-gadgets-galore/"><u>Gaming Groups Vs. Gadgets Galore</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-immersive-devices-of-now/"><u>In 2024, Immersive Devices of Now</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>New The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-power-of-ai-thumbnail-generators/"><u>New The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-starfield-game-stability-issues-no-more-pc-crashes/"><u>Resolved: Starfield Game Stability Issues - No More PC Crashes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-upgrading-to-latest-drivers-for-your-nvidia-quadro-rtx-4000-graphics-card/"><u>Step-by-Step: Upgrading to Latest Drivers for Your NVIDIA Quadro RTX #4000 Graphics Card</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-wondershare-virbo/"><u>Updated In 2024, AI Script | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-chatgpt-in-2024/"><u>Updated What Is ChatGPT, In 2024</u></a></li>
 </ul></div>
 
