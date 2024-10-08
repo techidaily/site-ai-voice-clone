@@ -1,7 +1,7 @@
 ---
 title: New Top 5 AI YouTube Shorts Generators for 2024
-date: 2024-09-25T20:34:28.717Z
-updated: 2024-10-02T18:54:58.457Z
+date: 2024-10-02T19:24:05.299Z
+updated: 2024-10-08T19:25:59.467Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 * You can add image overlays to your videos on QuickVid. It is perfect for amplifying videos with relevant branding.
 * This**AI short video** tool features PNG Tuber-style avatars for Shorts. You can customize them and add them to your videos easily on QuickVid.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4. Steve.ai
 
  Steve.ai is a versatile AI video-making tool that is perfect as an**AI YouTube Shorts generator** . The YouTube Video Maker of Steve.ai makes creating content that stands out easy. From live action to dynamic animations, this tool can help with all types of videos.
@@ -75,6 +82,19 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  On Steve.ai, you don’t need any expert-level editing skills. The AI algorithm allows users to tweak their videos to the fullest automatically. You can even boost your video content using Steve.ai with high-quality graphics and seamless editing options.
 
 ![ai-youtube-shorts-video-maker-4.jpg](https://images.wondershare.com/virbo/features/text-to-speech/ai-youtube-shorts-video-maker-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Points
 
@@ -132,11 +152,38 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
+
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5 Tips About YouTube Shorts to Grow Your Business
 
  Many people like to use social media platforms to grow their respective businesses. One of the most common platforms to do business marketing is YouTube. On YouTube, you can generate engaging content to reach your targeted audience. To grab viewers' attention, many content creators prefer the**YouTube Shorts strategy** . YouTube Shorts is a 60-second video in vertical format in which you can creatively present your content.
 
  You can add animation, text, photos, and videos in YouTube Shorts to entertain your subscribers. In this way, you can hold your viewer's attention within a few seconds. Moreover, it can also benefit you in promoting your business or brand effortlessly. Thus, read this detailed guide to learn how to**promote** **YouTube Shorts** to make progress in your business.
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What Makes YouTube Shorts Marketing Important?
 
@@ -325,6 +372,13 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 1. Can be used to create talking avatars, interactive learning materials, e-books, quizzes, games, cartoons, podcasts, ads, presentations, demos, voice assistance, and more
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Oddcast
 
 1. Oddcast comes with high quality and natural sounding speech, unlike some other TTS products that sound robotic or unnatural,**Oddcast** **voice** sounds like a real human voice that can convey emotions and expressions.
@@ -332,13 +386,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 3. Oddcast supports for SSML (Speech Synthesis Markup Language) that allows you to have advanced control over your speech. You can use SSML tags to add pauses, emphasis, breaks, or other effects to your speech.
 4. It offers easy integration with online tools and websites. You can use Oddcast with any online app or website that supports audio playback. You can also use it with the free online demo that lets you create talking avatars in a few easy steps.
 5. It comes with affordable pricing plans and free trial options. You can choose from different plans depending on your usage and budget. You can also try**Oddcast** **DJ voice tag** for free before you buy it.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Limitations of Oddcast
 
@@ -380,13 +427,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 ![oddcast-text-to-speech-demo-5.jpg](https://images.wondershare.com/virbo/features/text-to-speech/oddcast-text-to-speech-demo-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Step 6
 
  Below the sliders, you will see a box where you can type or paste your text that you want your character to say aloud. You can use up to 1000 characters per request for this box. You can also use SSML (Speech Synthesis Markup Language) tags to add some pauses, emphasis, or other effects to your speech. SSML is a standard way of controlling how text is spoken by a speech synthesizer. You can use SSML tags by enclosing them in angle brackets (< >). For example, if you want to add a pause of half a second between two words, you can use the tag <break time=“500ms”/> between them. If you want to add some emphasis on a word or phrase, you can use the tag <emphasis> around them.
@@ -404,13 +444,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
  To save or share your funny talking avatar, you can click on the “Download” or “Share” buttons below your character image. The **Oddcast voice** **“Download** ” button allows you to download your avatar as an**Oddcast text to speech** **mp3** audio file or a video file that contains both audio and visual elements of your avatar. The “Share” button allows you to share your avatar via email, Facebook, Twitter, or embed code that you can copy and paste on any website that supports HTML code.
 
  That’s it! You have created your own funny talking avatar using**Oddcast Text to Speech** Tool. You can now use it for any purpose that suits your needs and preferences.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Bonus Tip: An Awesome Alternative to Oddcast You May Like
 
@@ -478,6 +511,19 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
  Virbo has a built-in library of 180+ templates. You can customize the templates and make your video professional. Users can find categories in templates, such as social media, advertisement, E-commerce, etc.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 02 Steps to Translate Video in Virbo
 
  Here is the step-by-step guidance for translating videos or adding subtitles in other languages.
@@ -502,13 +548,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/guide/online-guide/ai-video-translator-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ## Part 2\. What Challenges Can Occur if Video Translators Do Not Exist
@@ -518,10 +557,10 @@ Elevate your streaming experience by seamlessly meeting these requirements.
  As we all know, English is one of the most spoken languages. But not everyone speaks or understands it. People can face various problems in understanding the language. That's why video translators play a crucial role in every person's life. If there is no video translator, the world will become dull. Let's discuss some challenges that can occur if video translators do not exist.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1.Communication Gap Formed
@@ -529,19 +568,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
  If your viewers understand the Spanish language, but you are creating videos in other languages. It will create a communication barrier because your audience does not understand the language in the video. Language barriers can affect communication and lead to misunderstandings. Suppose you are posting video lectures on the website to offer courses. In this case, if you don't use a video language translator, it will misinterpret the viewers.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Failed to Reach a Large Audience
 
@@ -610,13 +636,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 ![shutterstock talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If Getty’s 7,935,000 talking photos didn’t fit the bill, maybe Shutterstock is for you. You can search from a database of over 4,549,000 talking photos. Certainly, something will catch your fancy with Shutterstock!
 
 #### 2.3: Unsplash
@@ -642,6 +661,13 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 ![freepik talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-7.jpg)
 
  Freepik has been around since 2010 and is part of the Freepik Company that features other brands such as Flaticon, Slidesgo and Wepik. Freepik has over 1,052,000 talking photos for you to choose from.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Learn How To Create Talking Photos Yourself
 
@@ -684,13 +710,6 @@ The talking photo will be saved under My Creations.
 ## Closing Words
 
  Talking photos are the next frontier in digital communication and expression. Harnessing the power of generative artificial intelligence, talking photos present never-before opportunities to not only engage people but engage with people. The education sector can use talking photos to make comprehension easier for children by making interactive, expressive talking photos that can explain complex concepts in a fun new way while corporates and businesses can use the power of talking photos to better engage with their audiences in a new way that captures and retains their interest. Inter-personally, talking photos can be used to have fun with friends and family in a completely new way! No more drab images, talking photos are the fun new way to express!
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Register | Online
 
@@ -766,18 +785,16 @@ Check Your Activation Status
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>[New] In 2024, Mac Users Guide The Full Spectrum of ScreenFlow Pro</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-next-gen-editing-experience-reviewed-magix-video-pro-x/"><u>[New] Next-Gen Editing Experience Reviewed Magix Video Pro X</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-mastering-instagram-essential-hashtag-tips/"><u>[Updated] 2024 Approved Mastering Instagram Essential Hashtag Tips</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-removing-unwanted-audio-from-videos-essential-steps/"><u>2024 Approved Removing Unwanted Audio From Videos - Essential Steps</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-c1900101-tips-for-a-smooth-windows-11-installation/"><u>Correcting C1900101: Tips for a Smooth Windows 11 Installation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-leveraging-s2t-technology-in-professional-decks/"><u>In 2024, Leveraging S2T Technology in Professional Decks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/master-the-art-of-social-media-stardom-with-these-9-strategies-for-2024/"><u>Master the Art of Social Media Stardom with These 9 Strategies for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>New 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-ai-avatar-wondershare-virbo-user-guide/"><u>New AI Avatar | Wondershare Virbo User Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-handling-exceptions/"><u>New In 2024, Handling Exceptions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-youtube-videos-without-cc/"><u>New In 2024, How to Translate YouTube Videos Without CC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-future-of-game-monitoring-advanced-alternatives-to-fbx/"><u>The Future of Game Monitoring Advanced Alternatives to FBX</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-visuals-meet-melodies-audio-visual-magic/"><u>[New] 2024 Approved Visuals Meet Melodies Audio-Visual Magic</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-hands-on-guide-flipping-film-with-vlc-software/"><u>[New] In 2024, Hands-On Guide Flipping Film with VLC Software</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://techtrends.techidaily.com/differences-between-an-ipad-and-common-tablets-what-you-need-to-know/"><u>Differences Between An iPad And Common Tablets: What You Need To Know</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-pc-a-step-by-step-solution-for-failed-feature-update-to-windows-10-v1903/"><u>Fixing Your PC: A Step-by-Step Solution for Failed Feature Update to Windows 10 V1903</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-motorola-moto-g23-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Motorola Moto G23 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-common-platforms/"><u>New 2024 Approved Common Platforms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unlocking-the-secret-how-to-display-youtube-playlists-on-websites/"><u>Unlocking the Secret How to Display YouTube Playlists on Websites</u></a></li>
 </ul></div>
 

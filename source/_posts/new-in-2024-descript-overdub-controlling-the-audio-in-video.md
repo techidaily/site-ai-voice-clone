@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Descript Overdub Controlling the Audio in Video
-date: 2024-09-29T13:43:24.332Z
-updated: 2024-10-03T14:06:54.577Z
+date: 2024-10-05T17:32:01.025Z
+updated: 2024-10-08T18:05:51.270Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -83,6 +83,13 @@ The pricing plan of Descript is very reasonable for content creators and provide
 | Basic        | $12 per month |
 | Pro          | $24 per month |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Descript Overdub Feature: A Step-by-Step Guide
 
 If you cannot upload any recorded podcasts due to scripting errors, we have a solution for you. Previously, we have understood what Descript Overdub AI is capable of and how much we can take advantage of it. Below, let's learn about **Descript and how to use the Overdub** feature to enhance your videos:
@@ -90,6 +97,13 @@ If you cannot upload any recorded podcasts due to scripting errors, we have a so
 **Step 1\.** Begin by downloading Descript and launch it on your desktop. When the interface appears, click the “Projects” tab from your left-side panel. Now, press the “+ New” button, and from the extended menu, choose the “Video Project” option.
 
 ![create new video project](https://images.wondershare.com/virbo/article/descript-overdub-to-manage-audio-content-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105869/7443" target="_top" id="2105869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2\.** When a new window opens, you can write your project name above the options available. Following this hit the "Add file" option to proceed. Once the dialogue box opens, choose your desired video and import the video content.
 
@@ -113,13 +127,6 @@ In the end, we learned how to use the **Descript Overdub** feature. Besides, the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Best 7 Talking Photo AI You Must Try  (Online & Download)
 
@@ -153,13 +160,6 @@ Enter the **Text Script** you want to convert into audio. Alternatively, click t
 
 ![enter the text script or audio on virbo talking photo](https://images.wondershare.com/virbo/article/talking-photo-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 4 **Customize the audio settings (Optional)**
 
 If you're using the Text Script option, you may need to customize audio settings like language, volume, speed, and pitch. Skip this step if you've already recorded an audio file.
@@ -180,6 +180,19 @@ HeyGen is another **image talking** tool to create HD videos from images taken u
 
 ![heygen talking photo](https://images.wondershare.com/virbo/article/talking-photo-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pros:**
 
 * Hundreds of talking photo voices.
@@ -195,19 +208,6 @@ HeyGen is another **image talking** tool to create HD videos from images taken u
 Tokking Heads is another fun online **photo talking AI**. This program can add human expressions to your image thanks to its extensive list of facial animations backed by powerful facial recognition technology. Excitingly, this program lets you customize people's **talking photos** with filters, music, animated texts, and sound effects. It's an excellent talking photo tool to have!
 
 ![tokking heads talking photo](https://images.wondershare.com/virbo/article/talking-photo-7.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Pros:**
 
@@ -250,6 +250,13 @@ Elai.io is an online app that uses advanced AI technology to bring your photos t
 **Cons:**
 
 * Beginners may need a learning curve.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Tool 6: Talkr
 
@@ -294,6 +301,13 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Final Words
 
 These seven **free talking photo AI** tools should help you breathe life into your static photos without any special skills. Remember that there are many reasons to create **an AI talking picture**, including privacy concerns, talking challenges, pranking friends, and more. And don't forget to explore Wondershare Virbo's extensive list of AI-powered features. Make your image talk and have fun with it!
@@ -335,16 +349,16 @@ Below are some of the uses:
 
 ![enter text transcript on virbo](https://images.wondershare.com/virbo/article/ai-voice-changer-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Next, choose the voiceover language, speed, pitch, and volume before clicking**Play Scripts** to preview the sound. Adjust the effects until you find a voice effect that fits your preference.
 
 ![select voiceover language and other settings](https://images.wondershare.com/virbo/article/ai-voice-changer-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** Continue customizing your video template by adding a background image template and audio. You can also turn off the subtitle overlays. If satisfied, click**Export** to save the video with AI voice in 720p or 1080p resolution.
 
@@ -498,6 +512,13 @@ Deep Learning Techniques At the core of AI face generators are GANs, a revolutio
 Data Dynamics A diverse and comprehensive dataset of facial images serves as the training ground for AI face generators. This dataset encompasses faces of different ethnicities, ages, genders, and expressions, allowing the generator to grasp the subtleties contributing to an authentic appearance. Preprocessing techniques, like normalization and augmentation, refine the data, ensuring consistency and enhancing the generator's ability to create coherent faces.  
 The Latent Space The concept of a "latent space" is pivotal to the functioning of AI face generators. A latent space represents a multi-dimensional area where vectors carry information that the generator transforms into facial features. By skillfully navigating this space, the generator can produce an array of facial characteristics, ranging from the eyes' shape to the lips' curl.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Four Key Components of AI Face Generators
 
 AI face generators are complex systems that harness deep learning capabilities to craft lifelike facial images. Understanding their key components is essential to appreciating how these systems create convincing synthetic faces.
@@ -518,13 +539,6 @@ The latent space is a multidimensional mathematical space where the generator op
 
 Loss functions are crucial in training AI face generators, particularly in the context of Generative Adversarial Networks (GANs). The generator's loss function encourages it to create images convincing to the discriminator. The discriminator's loss function aims to correctly classify authentic and generated images. The interplay between these loss functions compels both networks to improve iteratively, resulting in increasingly realistic facial photos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Training Data and Preprocessing
 
 The quality of training data significantly impacts the AI face generator's output. Diverse and representative datasets containing images of various ages, ethnicities, and expressions contribute to more realistic results. Preprocessing techniques like normalization and augmentation ensure consistency and enhance the generator's capacity to generate coherent faces.
@@ -534,13 +548,6 @@ The quality of training data significantly impacts the AI face generator's outpu
 Advanced AI face generators can incorporate styling and customization options. These allow users to influence specific attributes of the generated faces, such as hairstyle, facial hair, or accessories. This customization capability enhances the generator's versatility for various applications, from character design in gaming to creating unique avatars.
 
 Understanding these key components provides insight into the inner workings of AI face generators. These systems leverage the interplay of networks, data, and mathematical spaces to achieve their remarkable ability to generate facial images that blur the line between natural and synthetic.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## The Recommended Natural AI Hindi Voice Generator
 
@@ -706,18 +713,18 @@ Once inside the user interface, click “Avatars” to pick an AI avatar for you
 
 ![choose avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Avatar
 
 Enter the text you intend to put in the video. You can adjust the speed, pitch and volume of your avatar at the bar shown on the right. Click “Play Script” or “Preview” once you finished operation to preview the video.
 
 ![play scripts](https://images.wondershare.com/virbo/guide/windows/play-scripts.png)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Play Scripts
 
@@ -732,13 +739,6 @@ Edit Video
 Click Background Music > None to choose the music for the video, or you can upload your own music that you intend to use.
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Choose Background Music
 
@@ -930,21 +930,21 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-anonymous-sharing-simplified-blurring-techniques-for-videos-for-2024/"><u>[New] Anonymous Sharing Simplified Blurring Techniques for Videos for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-significant-20-public-domain-pubg-snapshot-packs/"><u>[New] Significant 20 Public Domain PUBG Snapshot Packs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-grow-your-channelnode-through-joint-videography-endeavors/"><u>[Updated] Grow Your Channelnode Through Joint Videography Endeavors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-xs-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone XS After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-merge-soundtracks-and-cinematography-in-premiere-pro/"><u>In 2024, Merge Soundtracks and Cinematography in Premiere Pro</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/launching-a-vlog-top-kit-and-applications/"><u>Launching a Vlog Top Kit & Applications</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-easily-use-korean-to-english-video-translators/"><u>New 2024 Approved How To Easily Use Korean to English Video Translators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>New In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/restoring-memories-gigantic-photo-returns-happy-customer-tells/"><u>Restoring Memories: Gigantic Photo Returns, Happy Customer Tells</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/revealing-concealed-mac-os-x-folders-using-command-prompt-techniques/"><u>Revealing Concealed Mac OS X Folders Using Command Prompt Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/sim-unlock-oppo-reno-11-pro-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Oppo Reno 11 Pro 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-in-frame-multimedia-experience-on-mac-for-2024/"><u>The Ultimate Guide to In-Frame Multimedia Experience on Mac for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-define-ai-video-in-2024/"><u>Updated How to Define AI Video, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-powered-script-to-video-makers/"><u>Updated Top 5 AI-Powered Script to Video Makers</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rom-struggling-youtuber-to-industry-leader-the-hub-of-creator-studios-wisdom-for-2024/"><u>[New] From Struggling Youtuber to Industry Leader The Hub of Creator Studio's Wisdom for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-direct-from-google-meet-securely-live-stream-on-youtube/"><u>[New] In 2024, Direct From Google Meet Securely Live Stream on YouTube</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-optimizing-audio-quality-during-video-calls-on-win11-for-2024/"><u>[New] Optimizing Audio Quality During Video Calls on Win11 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-deciphering-the-code-to-your-liked-videos-on-facebook/"><u>[Updated] 2024 Approved Deciphering the Code to Your Liked Videos on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-how-to-record-gameplay-on-windows-11/"><u>[Updated] 2024 Approved How to Record Gameplay on Windows 11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-premium-bargains-no-cost-screen-recorder-extensions-for-chromeos/"><u>[Updated] In 2024, Premium Bargains No-Cost Screen Recorder Extensions for ChromeOS</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-downloadinstallregisteruninstall/"><u>2024 Approved Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/cutting-edge-gaming-setup-unpacking-samsungs-ue590-panel-for-2024/"><u>Cutting Edge Gaming Setup Unpacking Samsung's UE590 Panel for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-unleash-the-chaos-10-essential-glitch-art-video-editing-apps-for-ios-and-android/"><u>New 2024 Approved Unleash the Chaos 10 Essential Glitch Art Video Editing Apps for iOS and Android</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-talking-avatar-wondershare-virbo-glossary/"><u>New In 2024, What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-downloadinstallregisteruninstall/"><u>Updated In 2024, Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-for-2024/"><u>Updated What Is AI API for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-wondershare-virbo-glossary/"><u>Updated What Is AI API? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/your-ultimate-resource-setting-up-microsoft-copilot-on-macos/"><u>Your Ultimate Resource: Setting Up Microsoft Copilot on macOS</u></a></li>
 </ul></div>
 
