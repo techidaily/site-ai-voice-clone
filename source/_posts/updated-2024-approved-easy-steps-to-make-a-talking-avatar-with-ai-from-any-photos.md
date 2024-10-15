@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Steps to Make a Talking Avatar with AI From Any Photos
-date: 2024-10-06T17:47:40.742Z
-updated: 2024-10-08T17:19:30.731Z
+date: 2024-10-11T20:54:07.205Z
+updated: 2024-10-14T22:13:18.395Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -56,6 +56,13 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
  Talking avatar platforms often provide a library of royalty-free assets and templates that users can use. These include background music, accents, a diverse selection of AI avatars representing various races, AI anime characters, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Voice narration from a script
 
  One of the key features of talking avatars is their ability to narrate text from a script using synthetic voices. When you**create your own talking avatar** , you can input a written script, and the avatar will generate speech based on the provided text. You can also use your own recorded voice for your talking avatar.
@@ -90,13 +97,6 @@ Some of Virbo Talking Avatar features include:
 
 ![How to create a talking avatar free](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 **Step 2:** Upload your photo.
@@ -114,13 +114,6 @@ Some of Virbo Talking Avatar features include:
  If you prefer to use your own voice, you can select “Audio Upload” to upload your audio or “Online Recording” to record your voice directly within the software. If your audio is embedded in a video, choose “Extract audio” and Virbo will extract the audio from your video.
 
 ![Add audio to your talking avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Export the talking avatar
 
@@ -149,10 +142,16 @@ Some of Virbo Talking Avatar features include:
 ![talking photo banner](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: What Are Talking Stock Photos and What Can You Do With Them?
@@ -215,6 +214,13 @@ Some of Virbo Talking Avatar features include:
 
 ![freepik talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Freepik has been around since 2010 and is part of the Freepik Company that features other brands such as Flaticon, Slidesgo and Wepik. Freepik has over 1,052,000 talking photos for you to choose from.
 
 ## Part 3: Learn How To Create Talking Photos Yourself
@@ -234,6 +240,13 @@ Some of Virbo Talking Avatar features include:
 **Step 1:** We start with creating a project. Simply download Wondershare Virbo to your computer and click Talking Photo.
 
 ![create talking photo with wondershare virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![add image in virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-1.jpg)
 
@@ -260,13 +273,6 @@ The talking photo will be saved under My Creations.
 ## Closing Words
 
  Talking photos are the next frontier in digital communication and expression. Harnessing the power of generative artificial intelligence, talking photos present never-before opportunities to not only engage people but engage with people. The education sector can use talking photos to make comprehension easier for children by making interactive, expressive talking photos that can explain complex concepts in a fun new way while corporates and businesses can use the power of talking photos to better engage with their audiences in a new way that captures and retains their interest. Inter-personally, talking photos can be used to have fun with friends and family in a completely new way! No more drab images, talking photos are the fun new way to express!
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Text to Speech
 
@@ -318,6 +324,13 @@ Select the accent you want for your video and create the perfect AI video by sel
 
 **![export final video from tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-35.jpg)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Text-to-Speech
 
 Select the accent you want for your video and create the perfect AI video by selecting your specific voiceover.
@@ -330,6 +343,13 @@ Select the accent you want for your video and create the perfect AI video by sel
 
 **![change language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-32.jpg)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** If the text does not match the speech-language, it will display a prompt on the screen. You can select the option of "Modify" to make respective adjustments.
 
 **![modify text for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-33.jpg)**
@@ -341,6 +361,13 @@ Select the accent you want for your video and create the perfect AI video by sel
 **Step 5:** As you lead into the video creation page, make the required changes to your video using the options available on the panel. Once done, choose “Preview” to observe the changes and select “Export” to save the final result.
 
 **![export final video from tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-35.jpg)**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Text-to-Speech
 
@@ -430,13 +457,6 @@ The generation of text occurs character by character or word by word. During the
 
 To enhance the quality of the generated text, AI text generators often undergo extensive pre-training and fine-tuning processes. In the pre-training phase, the model is trained on massive amounts of text data to learn the fundamental features of the language. The model is further adjusted and optimized in the fine-tuning phase through supervised training on specific tasks.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3\. In which scenarios can AI text generators be applied?
 
 AI text generators can be applied in various scenarios, serving as valuable bridges between different languages, cultures, and industries. They facilitate communication and understanding by providing translations, transcriptions, and interpretations across linguistic and cultural boundaries. This enables global collaboration, cultural exchange, and accessibility to information for diverse audiences.
@@ -444,13 +464,6 @@ AI text generators can be applied in various scenarios, serving as valuable brid
 In addition to bridging gaps, AI text generators find applications in content creation, chatbots and virtual assistants, creative writing, language translation, customer support, social media marketing, personalized recommendations, text summarization, proofreading and editing, research and data analysis, as well as in legal and healthcare sectors. They assist in generating articles, blog posts, product descriptions, and scholarly papers, automate responses, inspire creativity, condense information, aid in drafting legal documents and medical reports, and much more.
 
 As AI text generation technology advances, it opens up new opportunities in journalism, content localization, e-learning, and beyond.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. In using an AI text generator, what should we consider?
 
@@ -611,26 +624,6 @@ Free to Use
 
 ![coqui voice cloning tool](https://images.wondershare.com/virbo/article/coqui-ai-voice-cloning-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Coqui Voice Cloning: Exploring the Technology
 
 #### Key Features
@@ -696,6 +689,13 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 ## Part 1: What Does AI Voice Over Refer to?
 
 AI voice-over uses artificial intelligence algorithms and technologies to generate high-quality and natural-sounding voices for audio production. With AI voiceover generators, text or speech can be transformed into professional-grade voiceovers, eliminating the need for human voice actors.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: What Are the Common Application Fields of AI Voice Over?
 
@@ -775,22 +775,18 @@ It's essential to adhere to ethical guidelines and legal requirements when using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-sweet-surveillance-guide-to-recording-summer-treats/"><u>[New] In 2024, Sweet Surveillance Guide to Recording Summer Treats</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-the-instagram-experience-adding-vimeo-videos/"><u>[New] In 2024, The Instagram Experience Adding Vimeo Videos</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>[Updated] Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/10-best-video-player-apps-for-iphone-and-ipad/"><u>10 Best Video Player Apps for iPhone and iPad</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-smart-shopping-for-data-stores-the-lowdown-on-price/"><u>2024 Approved Smart Shopping for Data Stores The Lowdown on Price</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-ultimate-choice-top-tier-webcam-mounts-and-grips/"><u>2024 Approved Ultimate Choice Top-Tier Webcam Mounts & Grips</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/effortless-volume-taming-gradual-dimming-in-digital-realm/"><u>Effortless Volume Taming Gradual Dimming in Digital Realm</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-talking-avatar/"><u>New 2024 Approved What Is Talking Avatar?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-4-ways-of-instagram-video-promotion/"><u>New Best 4 Ways of Instagram Video Promotion</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>New In 2024, Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-talking-avatar-for-2024/"><u>New What Is Talking Avatar for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/top-clicker-article-titles-maker/"><u>Top Clicker Article Titles Maker</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-7-best-explainer-video-makers-you-may-like/"><u>Updated 7 Best Explainer Video Makers You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-marketing/"><u>What Is AI Marketing?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>[New] In 2024, Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-managing-a-day-job-and-your-thriving-youtube-channel/"><u>[Updated] 2024 Approved Managing a Day Job and Your Thriving YouTube Channel</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-steer-clear-of-targeted-commercial-content-in-browsing/"><u>2024 Approved Steer Clear of Targeted Commercial Content in Browsing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-insights-on-the-lenovo-ideapad-portable-computer-impressive-build-quality-for-everyday-use/"><u>Expert Insights on the Lenovo Ideapad Portable Computer: Impressive Build Quality for Everyday Use</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-hashtags-to-challenges-bridging-instaplustiktok-worlds-for-2024/"><u>From Hashtags to Challenges Bridging Insta+TikTok Worlds for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/future-proofing-digital-assets-the-top-7-predicted-cybersecurity-movements/"><u>Future-Proofing Digital Assets: The Top 7 Predicted Cybersecurity Movements</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-restore-your-iphone-camera-functionality-overcoming-common-hurdles/"><u>How to Restore Your iPhone Camera Functionality? Overcoming Common Hurdles</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-use-korean-to-english-video-translators-for-creators-for-2024/"><u>How To Use Korean to English Video Translators for Creators for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-enable-the-text-to-speech-function-on-iphone/"><u>In 2024, How to Enable the Text to Speech Function on iPhone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-descript-overdub-controlling-the-audio-in-video/"><u>New In 2024, Descript Overdub Controlling the Audio in Video</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-define-ai-video-in-2024/"><u>Updated How to Define AI Video, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-power-of-ai-thumbnail-generators/"><u>Updated In 2024, Power of AI Thumbnail Generators</u></a></li>
 </ul></div>
 

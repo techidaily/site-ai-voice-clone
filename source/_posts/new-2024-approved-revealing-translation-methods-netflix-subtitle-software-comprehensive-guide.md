@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide
-date: 2024-10-06T20:19:26.805Z
-updated: 2024-10-08T18:41:38.081Z
+date: 2024-10-09T00:35:11.441Z
+updated: 2024-10-14T19:44:04.110Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -27,19 +27,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
  Translating subtitles for Netflix is a multifaceted endeavor that extends beyond linguistic conversion. It entails delicately navigating cultural nuances, balancing precision with sensitivity, and encapsulating dialogue essence within tight constraints.
 
  As Netflix expands globally, high-quality**translation Netflix** becomes crucial for a seamless viewing experience. To deepen comprehension, here are the complexities inherent in**Netflix subtitle translation** :
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ●**Preserving Cultural Nuances**
 
@@ -89,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 ![video translate feature](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Step 3:** You'll find instructions on how to use the Video Translate feature of Wondershare Virbo. Scroll down and locate two buttons: Free Download and Translate Video Online. Click on the**Translate Video Online** button.
 
 ![translate video online button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-05.jpg)
@@ -96,6 +90,13 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 * **Step 4:** Select the**Upload Video** icon and choose the video from your local files by clicking**Open** . Allow some time for the video to upload.
 
 ![upload video from local file](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * **Step 5:** Once the video has been uploaded successfully, choose the original video language from the dropdown menu on the left.
 
@@ -127,13 +128,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 ![method and tips netflix subtitle translation](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Netflix, a renowned entertainment platform, offers a wide range of shows and movies to audiences worldwide. Subtitles play a crucial role in ensuring that viewers from different language backgrounds can enjoy the content. In this section, we will discuss various methods and techniques aimed at enhancing the quality of subtitle translation on Netflix.
 
 ### ●**Maintaining Context, Tone, and Style**
@@ -151,6 +145,13 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 ### ●**Utilizing Translation Tools and Technology**
 
  Translation software and tools can significantly streamline the subtitle translation process, improving efficiency and consistency. However, these tools are not reliable and require human oversight. Translators leverage technology to enhance their workflow while also relying on their linguistic expertise and cultural awareness to produce high-quality translations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### ●**Collaboration and Peer Review**
 
@@ -278,13 +279,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 2. PlayHT allows you to use multiple voices in the same audio file. It can be ideal for creating voiceovers of movies and dramas.
 3. This tool lets you collaborate with your team members in a comfortable environment. You can invite your colleagues to create voiceovers together.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tip: The Most Recommended AI Text to Speech Generator for Offline Platforms
 
  Do you want a TTS converter that can function across offline platforms?[Virbo](https://virbo.wondershare.com/) is an advanced tool available on Windows, iOS, and Android devices. You can also use its online version from any web browser. The text-to-speech function of Virbo lets you produce professional AI voices in your desired tone and speaking style. Moreover, it supports more than 120 AI voices in clear audio quality.
@@ -307,18 +301,18 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 If you are a multilingual content creator, having a tool like Veed in your arsenal can be pretty useful. It can quickly and accurately translate your videos online. Such translated content can allow you to reach a much wider audience and engage with them in a better way. It’s a powerful tool that can simplify the process of adding subtitles, transcriptions, and translations to your video content. In this article, we will explain how you can utilize **Veed io translate** feature to stay on top of your game.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. Veed Translate: Unlocking Language Diversity
 
 Translating videos and adding captions to your YouTube videos makes your content more accessible. You can make content suitable for more social platforms and engage even more audiences. Below are some useful tips for unlocking language diversity with the Veed video translate feature.
 
 ![Veed instant video translator tool](https://images.wondershare.com/virbo/article/veed-translate-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Seamless integration with YouTube and other social media platforms**
 
@@ -351,6 +345,13 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. **Veed.io Translate Video**: Step-by-Step Tutorial
 
 Let’s take a look now at the step-by-step tutorial to translate a video with Veed. Note: For this **Veed io translate** guide, we will be translating a video using Veed on mobile.
@@ -378,13 +379,6 @@ Step 4 Check Your Translation Settings
 ![how to translate with Veed – Step 4](https://images.wondershare.com/virbo/article/veed-translate-05.jpg)
 
 Veed automatically detects the language in the video. So, take a look at all the other settings, like the language you want to translate into and content quality and click Translate. Veed will start generating the translation in your preferred language.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: The Best Alternative to Veed.io
 
@@ -433,19 +427,6 @@ Step 4 Optimize the Advanced Video Translation Settings
 Now, you can adjust the advanced settings for your video translation process. For this purpose, turn on the Subtitle option to get the video subtitles translated along with the audio. Also, enable the Lip-Sync option to generate translated audios that align with the video. Finally, hit the Translate This Video button to get your desired translated video.
 
 ![set other settings and translate](https://images.wondershare.com/virbo/article/2024/03/comprehensive-guide-video-and-subtitle-translation-with-veed-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -630,13 +611,6 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 
 An AI thumbnail generator is a sophisticated tool that employs artificial intelligence algorithms, often based on machine learning and deep neural networks, to create captivating and eye-catching thumbnails for various digital media content. These generators analyze content features, layout principles, and user preferences to craft thumbnails that entice and engage audiences.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Top Benefits of AI Thumbnail Generators
 
 #### Enhanced Visual Appeal
@@ -665,6 +639,13 @@ Eye-catching thumbnails on social media platforms can significantly boost conten
 
 Thumbnails play a crucial role in enticing readers to explore articles and blog posts, making them an essential component of content marketing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4\. Top AI Tools That Deserve a Try
 
 #### Canva
@@ -684,6 +665,19 @@ In an era where visual appeal can make or break digital content's success, AI th
 #### Conclusion
 
 AI thumbnail generators are revolutionizing the way we present digital content. Their ability to craft visually compelling thumbnails with precision and efficiency is transforming the digital landscape. As the demand for engaging visuals continues to rise, these AI-powered tools stand as invaluable allies for creators seeking to make a lasting impact in the digital realm.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Google Translate Video: A Complete Guide To Translate Video With Google
 
@@ -749,6 +743,13 @@ Step3 Use Google Translate to Further Improve Translation
 
  Below are some alternatives you can use if Google Translate is unavailable. These options are just as good, if not better.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Virbo
 
 ![Wondershare Virbo](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
@@ -762,13 +763,6 @@ Step3 Use Google Translate to Further Improve Translation
 ![Microsoft Translator](https://images.wondershare.com/virbo/article/google-translate-a-video-05.jpg)
 
 [Microsoft Translator](https://translator.microsoft.com/) is another great option for video translation. It allows real time translated conversations across multiple devices and platforms. Another difference between Google and Microsoft Translator is that Microsoft’s Translator supports fewer languages. It’s only available for 103 languages, which is still more than big name translation services. A unique feature of Microsoft Translator is that it is also compatible with the MS Office suite. So you can use it with MS Excel, One Note, PowerPoint and Outlook. Lastly, this tool is particularly helpful with contextual understanding of a sentence.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. SubtitleBee
 
@@ -812,16 +806,21 @@ Step3 Use Google Translate to Further Improve Translation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-drone-color-spectrum-20-initial-free-luts-on-dji-mini-and-air/"><u>2024 Approved Drone Color Spectrum - 20 Initial FREE LUTS on DJI Mini & Air</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-monetary-gains-mr-beast-in-focus/"><u>2024 Approved Monetary Gains Mr. Beast in Focus</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/how-big-can-you-go-with-an-elegoo-3d-printer-making-models-as-large-as-a-toddler/"><u>How Big Can You Go with an Elegoo 3D Printer? Making Models as Large as a Toddler</u></a></li>
-<li><a href="https://windows11.techidaily.com/making-disabled-overlays-functional-again-on-windows-pc/"><u>Making Disabled Overlays Functional Again on Windows PC</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>New Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-cloning-voices-with-hugging-face-features-guidance-alternatives-for-2024/"><u>New Cloning Voices With Hugging Face Features, Guidance, Alternatives for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-translation-wondershare-virbo-online/"><u>New In 2024, AI Translation | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>New In 2024, Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-persistent-problems-with-missing-cursors-on-windows-11/"><u>Troubleshooting: Persistent Problems with Missing Cursors on Windows 11</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-funimate-on-your-phone-unzipping-the-apk-guide/"><u>[New] Funimate on Your Phone Unzipping the APK Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-strategies-for-selective-success-in-the-youtube-realm/"><u>[Updated] Strategies for Selective Success in the YouTube Realm</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-poco-f5-pro-5g-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Poco F5 Pro 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-12-pro-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 12 Pro to others devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/identifying-counterfeit-chatgpt-applications-in-the-ios-marketplace/"><u>Identifying Counterfeit ChatGPT Applications in the iOS Marketplace</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-oneplus-nord-ce-3-lite-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your OnePlus Nord CE 3 Lite 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sj4000-stylish-essentials-a-comprehensive-list/"><u>In 2024, SJ4000 Stylish Essentials A Comprehensive List</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/installation-and-registration-wondershare-virbo/"><u>Installation and Registration | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-diverse-template-online/"><u>New 2024 Approved Diverse Template | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-an-explainer-video-step-by-step-guide/"><u>New How to Make an Explainer Video Step by Step Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-headshot-generator-wondershare-virbo-glossary/"><u>New In 2024, What Is an AI Headshot Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-registration-and-login-virbo-ai-live-stream/"><u>New Registration and Login | Virbo AI Live Stream</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-integration-of-logitech-stream-webcam-into-windows-amo-with-the-newest-drivers/"><u>Seamless Integration of Logitech Stream Webcam Into Windows Amo with the Newest Drivers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-15-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-registration-and-login/"><u>Updated 2024 Approved Registration and Login</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-talking-avatar/"><u>Updated What Is Talking Avatar?</u></a></li>
 </ul></div>
 
