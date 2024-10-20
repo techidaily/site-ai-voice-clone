@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2024-10-12T02:57:17.324Z
-updated: 2024-10-14T16:35:28.170Z
+date: 2024-10-19T17:13:42.700Z
+updated: 2024-10-20T16:53:56.564Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -51,6 +44,13 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -60,10 +60,16 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -77,18 +83,25 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -117,6 +130,19 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -127,22 +153,8 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -167,22 +179,16 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/hannel-collaboration-unified-watch-experience-across-platforms/"><u>[New] Channel Collaboration Unified Watch Experience Across Platforms</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-how-to-dominate-the-battlefield-learn-vocal-modification-for-free-fire-characters-for-2024/"><u>[New] How to Dominate the Battlefield Learn Vocal Modification for Free Fire Characters for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nveiling-t-series-youtube-earnings-for-2024/"><u>[New] Unveiling T-Series' Youtube Earnings for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-avatar-online/"><u>Create AI Avatar Video with Avatar | Online</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/expert-tips-for-effortless-acquisition-of-vimeo-videos-softwares-and-no-softwares-included-for-2024/"><u>Expert Tips for Effortless Acquisition of Vimeo Videos - Softwares & No-Softwares Included for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1721888113646-explore-these-6-powerful-ai-tools-as-affordable-options-to-replace-gpt-3/"><u>Explore These 6 Powerful AI Tools as Affordable Options to Replace GPT-3</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-generator-virbo-guide/"><u>In 2024, AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>In 2024, Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-90-lite-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 90 Lite</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-animation-talk-explained-with-easy-steps/"><u>New How To Make Animation Talk? Explained with Easy Steps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-registration-and-login/"><u>New Registration and Login</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-generator/"><u>New What Is an AI Video Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/1720600497033-reclaim-your-digital-assets-now-with-efficiency-and-speed/"><u>Reclaim Your Digital Assets Now with Efficiency & Speed!</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-kotion-each-g2000-mic-a-step-by-step-guide/"><u>Troubleshooting Your Kotion Each G2000 Mic: A Step-by-Step Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-on-apple-iphone-13-pro-by-drfone-ios/"><u>Unlock Apple ID without Phone Number On Apple iPhone 13 Pro</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-generator-virbo-guide/"><u>Updated In 2024, AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-olyx-zones-the-creme-de-la-snowspeedcross/"><u>[New] 2024 Approved OlyX-Zones The Crème De La Snowspeedcross</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/treamline-marketing-with-top-rated-video-tags-generators/"><u>[New] Streamline Marketing with Top-Rated Video Tags Generators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-cutting-edge-capturing-10-apps-that-lead-the-web-video-recording-race/"><u>[Updated] In 2024, Cutting Edge Capturing #10 Apps That Lead the Web Video Recording Race</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-10-ultimate-immersive-vr-video-hits/"><u>2024 Approved 10 Ultimate Immersive VR Video Hits</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-downloadinstallregisteruninstall/"><u>In 2024, Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 14 Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/iphone-volume-not-working-fixes-for-muffled-silent-or-crackling-sounds/"><u>IPhone Volume Not Working? Fixes for Muffled, Silent, or Crackling Sounds</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video/"><u>New In 2024, Create AI Avatar Video</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/tweeting-visual-content-from-video-to-gif-transformation-for-2024/"><u>Tweeting Visual Content From Video to GIF Transformation for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/video-translator-wondershare-virbo-online-for-2024/"><u>Video Translator | Wondershare Virbo Online for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Talking Photo Feature
-date: 2024-10-11T03:45:30.575Z
-updated: 2024-10-14T23:40:13.057Z
+date: 2024-10-18T17:37:27.201Z
+updated: 2024-10-20T16:36:27.378Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -25,13 +25,6 @@ Follow the instructions, and you will learn how to create a video with the talki
 The [talking photo function](https://virbo.wondershare.com/talking-photo.html) of the APP allows a single video to be created for up to 30 seconds.
 
 02 [Step Guidance](#part2)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -64,10 +57,10 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Step 3\. Edit and export your video
@@ -85,13 +78,6 @@ Download Virbo App for Free
 for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 for Android
 
@@ -119,6 +105,19 @@ for Android
 
 secure download
 
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
 ### Step 1\. Create a new project
@@ -126,13 +125,6 @@ secure download
 Open the Wondershare Virbo app and tap the talking photo function to enter the operation interface.
 
 ![talking-photo-app-1.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2\. Upload a portrait
 
@@ -176,13 +168,6 @@ Infuse vitality into your narratives with online AI text-to-speech capabilities,
 
 ![text to speech](https://images.wondershare.com/virbo/guide/online-guide/tts-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click here to learn more about [Text to Speech](https://virbo.wondershare.com/ai-voice.html) \>>
 
 02 [Input your text](#skip3)
@@ -222,13 +207,6 @@ Preview the Speech
 Go to the [online Virbo site](https://tools.techidaily.com/wondershare/virbo/download/). Click “Create Video” to start a new project.
 
 ![text to speech](https://images.wondershare.com/virbo/guide/online-guide/tts-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Create a project
 
@@ -370,6 +348,13 @@ Preview the Speech
 
  All in all,**Shopee's live selling** is changing how businesses reach customers. Throughout the article, we provide you with a genuine review of Shopee and how it operates. However, to streamline your livestreams, you need an AI tool like Wondershare Virbo Live. It is perfect for businesses looking to boost their sales through engaging live streams.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## What Is AI Voice?
 
 ## Part 1: What exactly is AI voice?
@@ -411,13 +396,6 @@ AI voices are highly beneficial in e-learning platforms, offering narration for 
 #### **Virtual Assistants**
 
 AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhancing their capabilities to deliver natural and conversational responses. Integrating AI voice technology makes interactions with virtual assistants more human-like and intuitive, creating a seamless user experience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: What exactly is AI voice?
 
@@ -469,9 +447,23 @@ AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhan
 
 **Viral video marketing** involves the creation of videos that can spread rapidly. These videos can become visible to social media and other online communities rapidly. The main goal of these videos is to get better brand exposure and boost brand awareness. Moreover, you have to ensure some of the key factors in viral videos. This may include short length, creativity, retention, etc.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Importance of Viral Video Marketing
 
  You must be thinking, why can’t you just use simple videos instead of**viral advertising** ? Viral videos can provide endless benefits instead of simple videos. Some of the key benefits of viral videos are discussed here for you:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Higher Brand Recognition Ratio
 
@@ -497,6 +489,13 @@ AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhan
 
  Limitless**viral video marketing** techniques are present on the web. Yet, you have to trust the techniques and strategies that can provide you with many benefits. Some of the effective and easily implementable techniques which can upgrade your**viral ads** are also given in the below context:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Add Storytelling in Videos
 
  Before anything else, you must ensure your videos are not boring. Go the extra mile and add a sense of storytelling to the videos. This can help you establish an emotional connection with the world. Moreover, you can also build a strong and dependable bond with your viewers. Improving retention and enhancing brand identity are also part of**viral advertisements** .
@@ -514,6 +513,13 @@ AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhan
  You have to motivate the users to create content related to your products and services. This can help you in creating viral marketing videos. You can also do paid partnerships with the users and send them gifts or coupons. It will work as a reliable investment for you. Moreover, it will help you improve your brand community with viral potential in them.
 
  This will also help you to experience the continual content flow that can keep your videos more up-to-date. It can also work as social proof that your brand is a dependable and authentic one. You can generate a known and trustworthy reputation for your brand with this.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Influencer Collaborations
 
@@ -608,13 +614,6 @@ Descript offers a powerful audio editing experience with AI voices. With the sto
 
 You can use this feature to address the crucial need for rapid audio conversion into text. It offers industry-best accuracy and speech with an automatic process. The tool lets you add labels with AI-powered Speaker Detective. Plus, you can get voice transcription in 22 languages with the utmost data correction.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps to Generate AI Voice Clone With Descript
 
 As a content creator on YouTube, you can save yourself from re-recording scratches. For this purpose, you can use **Descript clone voice** to get multiple voice variants. Let's go through the step-by-step guide to get different versions of your voice to use in different scenarios:
@@ -644,6 +643,13 @@ After creating a voice clone, navigate towards the left toolbar and tap on the �
 In the upcoming window, type the project's name and write your script. Here, you'll find an option to generate a voice with your selected speaker. Press the “Add Speaker” option and access the section containing your added speaker.
 
 ![add speaker to project](https://images.wondershare.com/virbo/article/descript-ai-voice-cloning-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ##### Step 5 Apply the Speaker Demo
 
@@ -806,17 +812,19 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-step-by-step-guide-to-reestablish-working-airdrop-linkage/"><u>[New] Step-by-Step Guide to Reestablish Working Airdrop Linkage</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>[Updated] Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-the-digital-deck-changes-predicting-the-future-of-fb-ads/"><u>2024 Approved The Digital Deck Changes Predicting the Future of FB Ads</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvditunes-macx-itunes-dvd-ripper/"><u>DVDからiTunes動画への変換: MacX iTunes DVD Ripperを使った手順</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo S18e | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-vivo-x-flip-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Vivo X Flip</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-ultimate-guide-to-b2b-video-marketing/"><u>In 2024, The Ultimate Guide to B2B Video Marketing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/natures-edge-is-chatbot-support-crucial-for-survival/"><u>Nature's Edge: Is Chatbot Support Crucial for Survival?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-talking-emoji-on-iphone-in-easy-steps/"><u>New How To Make Talking Emoji on iPhone in Easy Steps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>New In 2024, Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-online/"><u>Updated In 2024, AI Script | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-how-to-add-subtitles-to-windows-media-player/"><u>[Updated] 2024 Approved How to Add Subtitles to Windows Media Player</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-10-costless-conversion-apps-for-srt-files-explored/"><u>[Updated] Top 10 Costless Conversion Apps for SRT Files Explored</u></a></li>
+<li><a href="https://win-popular.techidaily.com/1728483713291-windows-1n/"><u>如何自由地建立 Windows 1N 完整備份：探索兩大技術</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-5-ai-movie-script-generators/"><u>Best 5 AI Movie Script Generators</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/best-ai-assistants-showdown-evaluating-notions-intelligence-against-chatgpt/"><u>Best AI Assistants Showdown: Evaluating Notion's Intelligence Against ChatGPT</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/cookiebot-your-key-to-unlocking-effective-online-personalization-and-tracking/"><u>Cookiebot: Your Key to Unlocking Effective Online Personalization and Tracking</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for OnePlus Nord CE 3 Lite 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-secrets-of-lut-production/"><u>In 2024, Unlocking the Secrets of LUT Production</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-5-tools-to-convert-text-to-audio-online-for-free/"><u>New In 2024, Top 5 Tools to Convert Text to Audio Online for Free</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/risc-v-cpu-vulnerability-unveiled-the-ghostwrite-bug-enables-hackers-to-gain-elevated-privileges/"><u>RISC-V CPU Vulnerability Unveiled: The GhostWrite Bug Enables Hackers to Gain Elevated Privileges</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
 </ul></div>
 

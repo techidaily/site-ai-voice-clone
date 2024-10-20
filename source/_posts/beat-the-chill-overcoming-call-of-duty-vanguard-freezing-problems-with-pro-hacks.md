@@ -1,7 +1,7 @@
 ---
 title: "Beat the Chill: Overcoming Call of Duty: Vanguard Freezing Problems with Pro Hacks"
-date: 2024-10-14T02:48:51.000Z
-updated: 2024-10-14T21:35:48.762Z
+date: 2024-10-17T16:01:26.566Z
+updated: 2024-10-20T17:29:12.775Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -72,13 +65,6 @@ Here’s how to use Fortect to run a Windows repair:
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
@@ -102,14 +88,21 @@ Here’s how to use Fortect to run a Windows repair:
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -133,33 +126,32 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
@@ -171,7 +163,21 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -208,10 +214,10 @@ Here are the steps:
 3. Wait a while for Windows to check and automatically install the updates for you.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Restart your computer.
@@ -237,24 +243,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-filmmaking-revolution-15-essential-gopro-luts-revealed/"><u>[New] 2024 Approved Filmmaking Revolution 15 Essential GoPro LUTs Revealed</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-hot-on-the-heels-of-trends-try-these-tiktoks-now/"><u>[New] In 2024, Hot on the Heels of Trends Try These TikToks Now</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/onetization-assessment-creators-income-gauge-for-2024/"><u>[New] Monetization Assessment Creators’ Income Gauge for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-enhancing-photographic-expression-through-snapchat-edits-for-2024/"><u>[Updated] Enhancing Photographic Expression Through Snapchat Edits for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-roadmap-to-becoming-an-excellent-interviewer/"><u>[Updated] In 2024, The Roadmap To Becoming An Excellent Interviewer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gskills-trident-z5-rgb-ram-comprehensive-review-on-its-impressive-32gb-capacity-and-speed-at-ddr5-640erate/"><u>G.Skill's Trident Z5 RGB RAM: Comprehensive Review on Its Impressive 32GB Capacity and Speed at DDR5-640erate</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-realme-12-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Realme 12 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/iberian-language-puzzle-solving-spanish-and-portuguese-distinctions/"><u>Iberian Language Puzzle: Solving Spanish and Portuguese Distinctions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-wondershare-virbo-online/"><u>New 2024 Approved Text To Speech | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>New 2024 Approved The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>New Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-script-generator-virbo-guide/"><u>New In 2024, AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-presentation-maker-in-2024/"><u>New What Is an AI Presentation Maker, In 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-guide-to-lightroom-for-hdr-image-creation/"><u>The Ultimate Guide to Lightroom for HDR Image Creation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide-for-2024/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-ultimate-list-of-2024s-premier-cable-modems/"><u>Unveiling the Ultimate List of 2024'S Premier Cable Modems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-handheld-camera-gear-with-smooth-motion/"><u>[New] Optimal Handheld Camera Gear with Smooth Motion</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-efficiency-streamlined-methods-to-download-vimeo-videos-for-2024/"><u>[Updated] Maximizing Efficiency Streamlined Methods to Download Vimeo Videos for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-step-by-step-elevating-your-instagram-engagement-through-hashtags-for-2024/"><u>[Updated] Step-by-Step Elevating Your Instagram Engagement Through Hashtags for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-transparent-video-on-youtube/"><u>[Updated] Unveiling Transparent Video on YouTube</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>In 2024, 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-an-ai-avatar-video/"><u>In 2024, Create An AI Avatar Video</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-n55-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo N55 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/m4b-vers-line-convertissez-vos-podcasts-facilement-et-gratuitement-a-laide-de-movavi/"><u>M4b Vers Line: Convertissez Vos Podcasts Facilement Et Gratuitement À L'aide De Movavi</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://win-answers.techidaily.com/team-fortress-2-stability-enhancements-stop-the-unwanted-interruptions/"><u>Team Fortress 2 Stability Enhancements - Stop the Unwanted Interruptions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-best-text-to-speech-online-tools-to-use/"><u>The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated 2024 Approved Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
 </ul></div>
 

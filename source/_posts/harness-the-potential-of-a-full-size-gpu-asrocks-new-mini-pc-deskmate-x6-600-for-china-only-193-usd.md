@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-10-10T21:42:00.760Z
-updated: 2024-10-14T21:31:46.536Z
+date: 2024-10-15T16:06:15.817Z
+updated: 2024-10-20T16:02:46.722Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,10 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -70,22 +70,18 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-gourmet-cookies-for-every-palate/"><u>[New] 2024 Approved The Ultimate Guide to Gourmet Cookies for Every Palate</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-unearthing-popular-user-generated-speeches/"><u>[New] In 2024, Unearthing Popular User-Generated Speeches</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pro-free-mac-screen-logger/"><u>[Updated] Pro-Free Mac Screen Logger</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/back-to-battle-royale-a-critical-look-at-fortnites-latest-season-and-its-thrills/"><u>Back to Battle Royale: A Critical Look at Fortnite's Latest Season and Its Thrills</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-how-to-take-quick-shots-on-an-hp-desktoplaptop/"><u>Complete Walkthrough: How to Take Quick Shots on an HP Desktop/Laptop</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/cost-effective-performance-of-the-tp-link-re200-ac750-range-extender-an-in-depth-evaluation/"><u>Cost-Effective Performance of the TP-Link RE200 Ac750 Range Extender - An In-Depth Evaluation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-honor-magic-6-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Honor Magic 6 Pro to New Phone | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-vivo-y78-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Vivo Y78 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-urgent-top-ten-todays-rapid-video-views/"><u>In 2024, Urgent Top Ten Today's Rapid Video Views</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/introducing-the-msi-c906-an-advanced-tiny-pc-boosted-by-intels-latest-raptor-lake-cpu-featuring-quad-25-gigabit-lan-connectivity/"><u>Introducing the MSI C906: An Advanced Tiny PC Boosted by Intel's Latest Raptor Lake CPU, Featuring Quad 2.5 Gigabit LAN Connectivity</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/monthly-nzxt-lease-deals-power-up-with-core-i5-and-rtx-4060-gpu-gaming-pc-at-just-59-or-go-bigger-with-core-i7-and-rtx-er-4070-ti-for-a-premium-package-at-188/"><u>Monthly NZXT Lease Deals: Power up with Core I5 & RTX 4060 GPU Gaming PC at Just $59 or Go Bigger with Core I7 and RTX Er 4070 Ti for a Premium Package at $169!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-reviews-unveiling-the-latest-in-computer-hardware/"><u>Tom's Tech Reviews: Unveiling the Latest in Computer Hardware</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unbeatable-deal-get-the-msi-aegis-r2-rtx-nvidia-4070-super-and-core-i7-14700kf-below-1600-top-tier-custom-built-gaming-pc/"><u>Unbeatable Deal: Get the MSI Aegis R2 (RTX nVIDIA 4070 Super & Core I7-14700KF) Below $1,600 - Top Tier Custom Built Gaming PC</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unleash-unprecedented-portable-performance-wd-ultrastar-briefcase-featuring-368-tb-ssds-ice-lake-xeon-cpu-and-more/"><u>Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unlock-unbeatable-savings-on-the-alienware-bundle-snag-the-incredible-aurora-r16-and-premier-34-inch-oled-display-at-a-whopping-70e-reduction/"><u>Unlock Unbeatable Savings on the Alienware Bundle: Snag the Incredible Aurora R16 and Premier 34-Inch OLED Display at a Whopping $70E Reduction!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-navigating-facebooks-new-frontier-trends-of-2024/"><u>[New] Navigating Facebook's New Frontier Trends of 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-a1-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo A1 5G</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-12-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi 12 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 10C Phone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/leading-sites-boosting-youtube-viewership/"><u>Leading Sites Boosting YouTube Viewership</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-script-wondershare-virbo-online-for-2024/"><u>New AI Script | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>New In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-4-methods-for-capturing-screenshots-on-windows-11/"><u>Top 4 Methods for Capturing Screenshots on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-tech-bargains-save-on-jbl-bar-700-speakers-amazons-fire-hd-max-tablet-video-doorbells-and-more/"><u>Top Tech Bargains: Save on JBL Bar 700 Speakers, Amazon's Fire HD Max Tablet, Video Doorbells & More!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-essential-tips-for-shooting-talking-head-videos/"><u>Updated Essential Tips for Shooting Talking Head Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>Updated Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-complete-guide-of-top-video-language-translators/"><u>Updated In 2024, Complete Guide of Top Video Language Translators</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728473393510-windows/"><u>Windows パワーシェルが予期せず起動する問題を解決するための修正手順</u></a></li>
 </ul></div>
 

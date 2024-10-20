@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Breakthrough How to Make A Picture Speak
-date: 2024-10-02T16:05:05.850Z
-updated: 2024-10-08T19:15:37.500Z
+date: 2024-10-18T16:03:35.995Z
+updated: 2024-10-20T17:53:36.861Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -159,13 +159,6 @@ To create a talking photo on mobile, follow the steps outlined below:
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is an AI Video Editor?
 
 ## Part 1\. What can be called an AI video editor?
@@ -184,16 +177,16 @@ It can automatically trim, cut, and arrange video clips to create a cohesive and
 
 It can analyze the video footage and identify different scenes or segments, making it easier to organize and edit the video.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Object recognition and tracking
 
 It can recognize and track specific objects or elements within the video, allowing for advanced editing techniques like adding effects, text, or annotations.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Automated transitions and effects
 
@@ -240,19 +233,6 @@ It can suggest or apply transitions, filters, and effects to enhance the visual 
 ### 5\. Intelligent audio editing
 
 It can optimize audio levels, remove background noise, and even generate or recommend suitable background music or sound effects.
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6\. Content-aware editing
 
@@ -295,13 +275,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 ## Part 2: Explore Top 7 Translators to Translate Video Free
 
  In this part, we will explore the top 8 video translators that stand out for their ability to seamlessly translate videos without putting a dent in your budget. From user-friendly interfaces to robust language support, each of these tools brings something unique to the table. Join us as we navigate the features and functionalities that make these translators the go-to choices for those seeking efficient and cost-free ways to translate video content.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1. Wondershare Virbo
 
@@ -380,13 +353,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 ![microsoft video language translator](https://images.wondershare.com/virbo/article/video-language-translator-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Features
 
 1. It boasts an extensive language portfolio, covering a diverse range of languages to facilitate global communication.
@@ -403,6 +369,13 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 * It may face challenges in achieving the same level of fluency.
 * Some advanced features may depend on a consistent internet connection.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 5. SayHi
 
@@ -539,6 +512,13 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 ![video translate feature](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129043/19576" target="_top" id="2129043">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129043" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129043/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Step 3:** You'll find instructions on how to use the Video Translate feature of Wondershare Virbo. Scroll down and locate two buttons: Free Download and Translate Video Online. Click on the**Translate Video Online** button.
 
 ![translate video online button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-05.jpg)
@@ -561,6 +541,13 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 ![translate the video button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Step 8:** Wait until the loading process is complete. Once done, review the subtitles to ensure they meet the standards. If necessary, you can edit them before clicking the**Save** button.
 
 ![subtitle save button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-10.jpg)
@@ -582,13 +569,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 ### ●**Maintaining Context, Tone, and Style**
 
  Translating subtitles requires more than just converting words. Translators must grasp the content of each dialogue and scene to accurately convey the intended meaning. They consider factors like character emotions, background information, and narrative flow to ensure the translated subtitles resonate with viewers. Consistency in tone and style across subtitles maintains the immersive experience for the audience to ensure they remain engaged with the content.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### ●**Handling Cultural References and Idiomatic Expressions**
 
@@ -620,45 +600,12 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 ## What Is AI Voice?
 
-## Part 1: What exactly is AI voice?
-
-AI voice is an advanced application of AI language technology that utilizes artificial intelligence algorithms to generate or manipulate human-like voices. Powered by machine learning algorithms and deep neural networks, AI voice systems excel in replicating and modifying agents with remarkable precision and an uncanny sense of naturalness.
-
-The application of AI voice is extensive, and one of the latest applications is providing voiceover for AI-generated videos. Wondershare Virbo is a powerful AI video maker that utilizes advanced AI algorithms to enhance your scripts and allows you to select ideal characters from a pool of 150+ digital personas. Furthermore, it offers a library of 120+ AI voices for voiceover, enabling you to quickly generate various marketing, educational, social media, and news videos.
-
-## Part 2: What are the advantages of using AI voices?
-
-#### **Flexibility and Customization**
-
-AI voice changing and cloning allows users to modify their voices to suit specific needs, experiment with different accents or styles, and create unique character voices.
-
-#### **Time and Resource Savings**
-
-AI voiceover services automate the process of narrating videos and audio content, eliminating the need for hiring voice actors and reducing production time and costs.
-
-#### **Cost-Effectiveness**
-
-Free AI voice generators provide a budget-friendly option for individuals and small businesses to access high-quality voice synthesis without investing in expensive recording equipment or professional voice talent.
-
-[Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-## Part 3: What are AI voices used for?
-
-#### **Entertainment Industry**
-
-AI voices are extensively used in the entertainment industry for various purposes, such as dubbing, creating character voices in animated films, enhancing gaming experiences, and enabling AI voice changing and voice cloning capabilities.
-
-#### **Advertising and Marketing**
-
-AI voices significantly create impactful commercials, radio ads, and promotional videos. With AI voiceover technology, brands can deliver their messages consistently and engagingly, capturing the attention of their target audience.
-
-#### **E-learning and Language Learning**
-
-AI voices are highly beneficial in e-learning platforms, offering narration for instructional videos, audiobooks, and language-learning materials. These AI voices provide learners with consistent pronunciation, enabling them to improve their listening skills and grasp foreign languages more effectively.
-
-#### **Virtual Assistants**
-
-AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhancing their capabilities to deliver natural and conversational responses. Integrating AI voice technology makes interactions with virtual assistants more human-like and intuitive, creating a seamless user experience.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What exactly is AI voice?
 
@@ -699,6 +646,53 @@ AI voices are highly beneficial in e-learning platforms, offering narration for 
 #### **Virtual Assistants**
 
 AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhancing their capabilities to deliver natural and conversational responses. Integrating AI voice technology makes interactions with virtual assistants more human-like and intuitive, creating a seamless user experience.
+
+## Part 1: What exactly is AI voice?
+
+AI voice is an advanced application of AI language technology that utilizes artificial intelligence algorithms to generate or manipulate human-like voices. Powered by machine learning algorithms and deep neural networks, AI voice systems excel in replicating and modifying agents with remarkable precision and an uncanny sense of naturalness.
+
+The application of AI voice is extensive, and one of the latest applications is providing voiceover for AI-generated videos. Wondershare Virbo is a powerful AI video maker that utilizes advanced AI algorithms to enhance your scripts and allows you to select ideal characters from a pool of 150+ digital personas. Furthermore, it offers a library of 120+ AI voices for voiceover, enabling you to quickly generate various marketing, educational, social media, and news videos.
+
+## Part 2: What are the advantages of using AI voices?
+
+#### **Flexibility and Customization**
+
+AI voice changing and cloning allows users to modify their voices to suit specific needs, experiment with different accents or styles, and create unique character voices.
+
+#### **Time and Resource Savings**
+
+AI voiceover services automate the process of narrating videos and audio content, eliminating the need for hiring voice actors and reducing production time and costs.
+
+#### **Cost-Effectiveness**
+
+Free AI voice generators provide a budget-friendly option for individuals and small businesses to access high-quality voice synthesis without investing in expensive recording equipment or professional voice talent.
+
+[Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+## Part 3: What are AI voices used for?
+
+#### **Entertainment Industry**
+
+AI voices are extensively used in the entertainment industry for various purposes, such as dubbing, creating character voices in animated films, enhancing gaming experiences, and enabling AI voice changing and voice cloning capabilities.
+
+#### **Advertising and Marketing**
+
+AI voices significantly create impactful commercials, radio ads, and promotional videos. With AI voiceover technology, brands can deliver their messages consistently and engagingly, capturing the attention of their target audience.
+
+#### **E-learning and Language Learning**
+
+AI voices are highly beneficial in e-learning platforms, offering narration for instructional videos, audiobooks, and language-learning materials. These AI voices provide learners with consistent pronunciation, enabling them to improve their listening skills and grasp foreign languages more effectively.
+
+#### **Virtual Assistants**
+
+AI voices power virtual assistants like Siri, Alexa, and Google Assistant, enhancing their capabilities to deliver natural and conversational responses. Integrating AI voice technology makes interactions with virtual assistants more human-like and intuitive, creating a seamless user experience.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Generate Video with Talking Photo Feature
 
@@ -780,13 +774,6 @@ for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 for Android
 
 secure download
@@ -805,6 +792,19 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3\. Edit and export your video
 
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
@@ -817,13 +817,6 @@ Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
@@ -831,6 +824,13 @@ for iOS
 for Android
 
 secure download
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## What Are AI Tools?
 
@@ -916,15 +916,18 @@ Our attitude towards AI tools can vary because they can be influenced by various
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-livestream-capturing-solutions-for-content-makers/"><u>[New] In 2024, Best Livestream Capturing Solutions for Content Makers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-ajeys-youtube-revenue/"><u>[New] In 2024, Exploring Ajey's YouTube Revenue</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/amazfit-helio-ring-an-in-depth-look-at-price-points-and-specifications/"><u>Amazfit Helio Ring - An In-Depth Look at Price Points and Specifications</u></a></li>
-<li><a href="https://win11.techidaily.com/beyond-manual-inputs-embracing-ai-in-windows-operations/"><u>Beyond Manual Inputs: Embracing AI in Windows Operations</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/budding-entrepreneurs-guide-mastering-the-art-of-social-media-advertising-for-2024/"><u>Budding Entrepreneurs Guide Mastering the Art of Social Media Advertising for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-google-plans-to-revolutionize-in-car-entertainment-with-chromecast-integration/"><u>How Google Plans to Revolutionize In-Car Entertainment with Chromecast Integration</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-5-ai-youtube-shorts-generators/"><u>In 2024, Top 5 AI YouTube Shorts Generators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo/"><u>New Talking Photo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-script-generator/"><u>Updated What Is an AI Script Generator?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-google-meeting-documentation-a-time-saving-guide-for-2024/"><u>[Updated] Mastering Google Meeting Documentation A Time-Saving Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-mouse-drivers-on-windows-7-a-comprehensive-solution/"><u>Download & Install Mouse Drivers on Windows 7: A Comprehensive Solution</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-windows-10-and-11-updates-for-your-geforce-rtx-ebytes-3070-graphics-card/"><u>Get the Latest Windows 10 & 11 Updates for Your GeForce RTX Ebytes 3070 Graphics Card</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-tackle-netflixs-nw-1-19-error-and-get-back-to-watching-seamlessly/"><u>How to Tackle Netflix's NW- 1-19 Error and Get Back to Watching Seamlessly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-nokia-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Nokia</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-talking-avatar/"><u>New 2024 Approved What Is Talking Avatar?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>New In 2024, Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-talking-avatar-for-2024/"><u>New What Is Talking Avatar for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-file-access-using-powershell-commands/"><u>Streamlining File Access Using PowerShell Commands</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>Updated 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-marketing/"><u>What Is AI Marketing?</u></a></li>
 </ul></div>
 
