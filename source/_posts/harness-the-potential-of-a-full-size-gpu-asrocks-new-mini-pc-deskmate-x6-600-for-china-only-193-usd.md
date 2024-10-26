@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-10-15T16:06:15.817Z
-updated: 2024-10-20T16:02:46.722Z
+date: 2024-10-22T22:08:44.043Z
+updated: 2024-10-25T20:27:54.604Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,10 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -70,18 +70,20 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-navigating-facebooks-new-frontier-trends-of-2024/"><u>[New] Navigating Facebook's New Frontier Trends of 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oppo-a1-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Oppo A1 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-xiaomi-redmi-12-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Xiaomi Redmi 12 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-tecno-spark-10c-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Tecno Spark 10C Phone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leading-sites-boosting-youtube-viewership/"><u>Leading Sites Boosting YouTube Viewership</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-ai-script-wondershare-virbo-online-for-2024/"><u>New AI Script | Wondershare Virbo Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-use-korean-to-english-video-translators-for-creators/"><u>New In 2024, How To Use Korean to English Video Translators for Creators</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-4-methods-for-capturing-screenshots-on-windows-11/"><u>Top 4 Methods for Capturing Screenshots on Windows 11</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-tech-bargains-save-on-jbl-bar-700-speakers-amazons-fire-hd-max-tablet-video-doorbells-and-more/"><u>Top Tech Bargains: Save on JBL Bar 700 Speakers, Amazon's Fire HD Max Tablet, Video Doorbells & More!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-essential-tips-for-shooting-talking-head-videos/"><u>Updated Essential Tips for Shooting Talking Head Videos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>Updated Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-complete-guide-of-top-video-language-translators/"><u>Updated In 2024, Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728473393510-windows/"><u>Windows パワーシェルが予期せず起動する問題を解決するための修正手順</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-digital-chromatic-conventions-in-media-production/"><u>[New] Digital Chromatic Conventions in Media Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[New] Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-success-top-10-steps-to-stand-out/"><u>[New] Youtube Shorts Success - Top 10 Steps to Stand Out</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unveiling-luts-role-in-image-color-alteration/"><u>[Updated] In 2024, Unveiling LUTs' Role in Image Color Alteration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-realtime-game-scorekeeper-for-2024/"><u>[Updated] RealTime Game Scorekeeper for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamline-screen-scans-your-essential-toolkit-for-vid-saving-for-2024/"><u>[Updated] Streamline Screen Scans Your Essential Toolkit for Vid Saving for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-tool/"><u>2024 Approved What Is an AI Tool?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/essential-recorder-tools-the-8-best-lists-for-2024/"><u>Essential Recorder Tools The 8 Best Lists for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-photo-and-video-files-in-windows-10-like-a-pro/"><u>In 2024, Navigating Photo & Video Files in Windows 10 Like a Pro</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-ai-face-generators-wondershare-virbo-glossary/"><u>New 2024 Approved Exploring AI Face Generators | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online/"><u>New Diverse Template | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-videos-wondershare-virbo-for-2024/"><u>Updated Create AI Avatar Videos | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-template-online-for-2024/"><u>Updated Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-background-generator-wondershare-virbo-glossary/"><u>Updated What Is AI Background Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

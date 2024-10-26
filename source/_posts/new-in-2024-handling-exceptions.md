@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Handling Exceptions
-date: 2024-10-19T17:11:42.703Z
-updated: 2024-10-20T17:22:05.014Z
+date: 2024-10-23T10:02:00.651Z
+updated: 2024-10-26T03:52:52.090Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -178,6 +178,13 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 
  Going **live on Amazon** is a great way to drive sales and traffic to your product. The platforms work in a similar way to other livestreaming services including Facebook and Taobao. Sellers can use**Amazon Live streaming** to drive trading and brand awareness of their products. In this article, we explore the**Amazon Live streaming shopping** experience including the key features and pro tips.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Live on Amazon: A Game-Changer for Sellers
 
  Amazon has been hosting many live streams where sellers promote a wide range of products. With Amazon Live Events, thousands of creators and influencers sell products and demonstrate how they work. This type of livestream shopping is an effective marketing strategy. It allows a personable host to demonstrate products while shoppers talk about their experience and ask any burning questions.
@@ -220,19 +227,6 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 
 ![amazon live creator app](https://images.wondershare.com/virbo/article/master-amazon-live-features-pro-tips-and-future-trends-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With Amazon streaming live service, you can record Livestream in advance and schedule them to go up at a later date or go Live in real-time. This will usually depend on your goals and the kind of interaction you want with your audience. In any case, Amazon recommends the use of an external camera and a video encounter instead of your mobile phone to ensure quality video. Although you can use either, an external camera gives you an edge in terms of quality. Let’s have a look at a detailed step-by-step guide to getting started with Amazon Live:
 
 ##### Step 1 Create an Amazon Live Account
@@ -246,13 +240,6 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
  Choose your brand and enter the desired profile name. Edit your profile the way you like to be a true representation of your brand.
 
 ![brand information](https://images.wondershare.com/virbo/article/master-amazon-live-features-pro-tips-and-future-trends-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 3 Add Products to Your Livestream
 
@@ -271,13 +258,6 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
  Once everything is ready, enter your stream time and start time. You can view your analytics from the homepage and see how well the live stream is performing.
 
 ![amazon live analytics](https://images.wondershare.com/virbo/article/master-amazon-live-features-pro-tips-and-future-trends-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once published, Amazon Live events can be found on the [Amazon.com/Live page](https://www.amazon.com/live) . They are also discoverable in Amazon stores, product detail pages, and the Amazon mobile app under “Amazon Live.” A well-presented Amazon Live stream will:
 
@@ -497,6 +477,13 @@ Choose "Background Music > None" to select video music or upload your preferred 
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Choose Background Music
 
 #### Step 3\. Export Video
@@ -525,6 +512,19 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 **DeepFace Live** offers you an opportunity to swap your face for someone else’s when streaming or making video calls. By swapping your face in real-time, you can present yourself in videos in any way you like. With the recent development made by DeepFaceLab, you get accurate and quality face-swapping, create realistic live models, and live up to the hype with**DeepFace Live** . In this article, we provide an overview of**DeeepFace Live** and provide simple guides for downloading the application to your PC and creating your first live model.
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: What is DeepFace Live
 
 [Deepface Live](https://www.deepfakevfx.com/downloads/deepfacelive/) refers to a real-time face-swapping application, which allows you to swap faces during video calls and streaming.
@@ -547,6 +547,13 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ![deepface live official site](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##### Step 2 Scroll down to the Download section
 
  Then locate the section with the Face Swap download links. From the available download options select the version that suits your operating system the best. You can the option to download a Windows or Linux version.
@@ -558,6 +565,13 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
  Install the software by running the downloaded file by locating the installation file on your PC and running it to start the installation process. Then follow the on-screen instructions until you complete the installation process.
 
  ![faceswap download](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### **Method 2: Access from Github**
 
@@ -580,13 +594,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
  After downloading the Zip file to your PC, extract its content to a desired location. Open the command prompt or a terminal and navigate to the extruded Deepface Live direction. Then, use the command “_pip install -r requirements.txt”_ to install the required dependencies on your PC. After installing all the dependencies, run DeepFace Live on your PC using the command “_python main.py._ ”
 
 ![application run](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Build Your Live Model: Easy Tutorial
 
@@ -636,25 +643,11 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
  ![start live streaming](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### Step 5 Interact With the Audience
 
  AI streamer from Virbo Live will do more than present your information to the audience. It will also interact with them seamlessly by responding to questions and providing additional information.
 
 ![automate AI avatar interactions with viewers](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -703,13 +696,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 1. With SSML tags, you can add pauses and emphasize certain phrases. Moreover, you can also modify the pronunciation of words in the AI voice.
 2. Once done with generating an AI voice, you can also insert desired soundtracks as a background from the given options.
 3. To present your generated AI voice, you can use an AI Avatar from this tool. This can help in virtual presentations and videos.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2. Speechify
 
@@ -777,6 +763,13 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Wrapping Up
 
  Generating speech in many languages can help you learn rich linguistic diversity. By reading this article, you can find out the top 5 tools that support multiple languages and AI voices. These tools produce clear audio quality and can be easily operated.
@@ -840,11 +833,31 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ![select avatar for virbo livestream video](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Step 3\. Adjust Background Settings and Include Stickers
 
  Now, hit the “Background” tab from the top toolbar option. Pick one background from the available categories to match your Livestream background and avatar. You can navigate to the “Stickers” tab to select the sticker representing your live selling motive.
 
 ![set elements including background and stickers](https://images.wondershare.com/virbo/article/2024/03/guide-to-understanding-instagram-live-shopping-4.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 * Step 4\. Generate AI Script and Insert Text
 
@@ -882,13 +895,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
  Finally, set your stage by collaborating with various Instagram influencers and content creators. You can partner with different brands and give them sponsored content and more. This will increase your brand revenue and visibility and drive sales.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  As mentioned before,**selling on** **Instagram Live** has been discontinued in 2023\. However, there are still live-streaming platforms available in the market. We looked at various tips to help you achieve the perfect seller live stream. Among the tips, we recommend you utilize [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) , an ideal place to start. You can take your brand to the next with Virbo Live’s live-streaming features.
@@ -903,24 +909,18 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-launching-success-streamline-your-first-youtube-business-channels/"><u>[New] Launching Success Streamline Your First YouTube Business Channels</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>[Updated] 2024 Approved Internal Recording Feature Screen Capture for Huawei's Mate & P Series Phones</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-top-6-cheapest-action-cameras-to-buy-under-100-for-2024/"><u>[Updated] Top 6 Cheapest Action Cameras to Buy Under $100 for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-itel-p55t-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/baldurs-gate-gameplay-troubleshooting-six-steps-to-fix-glitches-and-stutters/"><u>Baldur's Gate Gameplay Troubleshooting: Six Steps to Fix Glitches and Stutters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/elite-choices-top-8-tripods-for-cinematic-4k-experiences/"><u>Elite Choices Top 8 Tripods for Cinematic 4K Experiences</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-xiaomi-13t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Xiaomi 13T Phones with/without a PC</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-itel-s23-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Itel S23</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-wondershare-virbo-online/"><u>New 2024 Approved Text To Speech | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>New 2024 Approved The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-master-quick-youtube-video-rendering-and-efficient-uploading/"><u>[New] 2024 Approved Master Quick YouTube Video Rendering & Efficient Uploading</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-5-top-rated-hd-webcam-conferencing-recorder-tools/"><u>[New] 5 Top-Rated HD Webcam Conferencing Recorder Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-dilemma-resolving-chivalry-ii-game-crashes/"><u>Fixing the Dilemma: Resolving Chivalry II Game Crashes</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/harness-the-power-of-cookiebot-for-enhanced-user-experience-and-seo-performance/"><u>Harness the Power of Cookiebot for Enhanced User Experience & SEO Performance</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 11 Pro</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online-for-2024/"><u>New Create AI Avatar Video with AI Avatar | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-in-2024-do-you-want-to-download-slow-motion-apps-that-can-edit-video-professionally-this-article-will-discuss-some-slomo-makers-for-both-ios-and-android/"><u>New In 2024, Do You Want to Download Slow-Motion Apps that Can Edit Video Professionally? This Article Will Discuss some Slomo Makers for Both iOS and Android</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-insight-advancements-in-home-video-recordings/"><u>The Ultimate Insight Advancements in Home Video Recordings</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide-for-2024/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-your-netgear-a61-wireless-adapter-with-the-latest-windows-drivers-how-to/"><u>Update Your Netgear A61^ Wireless Adapter with the Latest Windows Drivers: How To</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-installation-and-registration/"><u>Updated In 2024, Installation and Registration</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-6-free-talking-stock-photo-sites/"><u>Updated In 2024, Top 6 Free Talking Stock Photo Sites</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-talking-avatar-in-2024/"><u>Updated What Is Talking Avatar, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
 </ul></div>
 

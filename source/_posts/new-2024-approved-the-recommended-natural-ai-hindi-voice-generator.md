@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved The Recommended Natural AI Hindi Voice Generator
-date: 2024-10-19T16:10:10.057Z
-updated: 2024-10-20T16:56:07.510Z
+date: 2024-10-20T19:49:08.737Z
+updated: 2024-10-25T17:05:15.398Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -130,13 +130,6 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ![recommended-natural-ai-hindi-voice-generators-5.jpg](https://images.wondershare.com/virbo/images2023/tts/recommended-natural-ai-hindi-voice-generators-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. It has over 800 AI Voices and 100+ languages through which you can generate unique speeches.
@@ -162,6 +155,75 @@ thumbnail: https://thmb.techidaily.com/92d4d3774b8fd498c6cfb488cbb5cb9a7cceb0aea
 
 ## Demystifying AI Game Generators | Wondershare Virbo Glossary
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 1\. Explanation of what AI game generators are
+
+An AI game generator is a cutting-edge software or system that employs artificial intelligence (AI) techniques to automate and enhance various aspects of game development. It harnesses the power of machine learning, neural networks, and other AI methodologies to create, design, or assist in the creation of video games. Unlike traditional game development methods that heavily rely on manual design and coding, AI game generators offer a more automated and efficient approach.
+
+## Part 2\. How do AI game generators differ from traditional game development methods?
+
+AI game generators differ significantly from traditional game development methods in several key ways
+
+### 1\. Automation and Efficiency
+
+AI game generators automate various aspects of game development, such as content creation and level design, reducing the need for manual work.  
+Traditional methods involve manual coding and design, which can be time-consuming and resource-intensive.
+
+### 2\. Speed of Development
+
+AI game generators can rapidly generate game content and prototypes, speeding up development.  
+Traditional methods may require extensive coding, design, and testing, leading to longer development cycles.
+
+### 3\. Creativity and Innovation
+
+AI game generators can introduce novel and unexpected elements by analyzing existing game data and patterns.  
+Traditional methods use human creativity to design characters, levels, and gameplay mechanics.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+### 4\. Personalization and Dynamic Content
+
+AI game generators enable dynamic and personalized experiences by generating content based on player interactions.  
+Traditional methods provide static content that's designed and coded beforehand.
+
+### 5\. Resource Constraints
+
+AI game generators can help smaller teams or indie developers overcome resource limitations by automating various tasks.  
+Traditional methods require a larger team and more resources to create content and code from scratch.
+
+### 6\. Iteration and Prototyping
+
+AI game generators allow for rapid iteration and prototyping, enabling developers to test and refine ideas quickly.  
+Traditional methods involve manual iteration and can be slower adapting to changes.
+
+### 7\. Diverse Content Creation
+
+AI game generators can produce various content variations, enhancing replayability and game diversity.  
+Due to time and resource constraints, traditional methods may result in limited content.
+
+### 8\. Human Expertise
+
+AI game generators complement human expertise by automating routine tasks, freeing developers to focus on creative and strategic decisions.  
+Traditional methods require developers to design, code, and implement every game element manually.
+
+### 9\. Learning and Adaptation
+
+AI game generators can learn from player behavior and adapt gameplay elements accordingly.  
+Traditional methods rely on developers manually adjusting game elements based on feedback.
+
+While AI game generators offer numerous advantages regarding efficiency, speed, and innovation, it's important to recognize that they are not a one-size-fits-all solution. They excel in automating certain tasks and enhancing creativity, but they are most effective when used with human expertise to create well-balanced and engaging gaming experiences.
+
 ## Part 1\. Explanation of what AI game generators are
 
 An AI game generator is a cutting-edge software or system that employs artificial intelligence (AI) techniques to automate and enhance various aspects of game development. It harnesses the power of machine learning, neural networks, and other AI methodologies to create, design, or assist in the creation of video games. Unlike traditional game development methods that heavily rely on manual design and coding, AI game generators offer a more automated and efficient approach.
@@ -216,82 +278,6 @@ AI game generators can learn from player behavior and adapt gameplay elements ac
 Traditional methods rely on developers manually adjusting game elements based on feedback.
 
 While AI game generators offer numerous advantages regarding efficiency, speed, and innovation, it's important to recognize that they are not a one-size-fits-all solution. They excel in automating certain tasks and enhancing creativity, but they are most effective when used with human expertise to create well-balanced and engaging gaming experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 1\. Explanation of what AI game generators are
-
-An AI game generator is a cutting-edge software or system that employs artificial intelligence (AI) techniques to automate and enhance various aspects of game development. It harnesses the power of machine learning, neural networks, and other AI methodologies to create, design, or assist in the creation of video games. Unlike traditional game development methods that heavily rely on manual design and coding, AI game generators offer a more automated and efficient approach.
-
-## Part 2\. How do AI game generators differ from traditional game development methods?
-
-AI game generators differ significantly from traditional game development methods in several key ways
-
-### 1\. Automation and Efficiency
-
-AI game generators automate various aspects of game development, such as content creation and level design, reducing the need for manual work.  
-Traditional methods involve manual coding and design, which can be time-consuming and resource-intensive.
-
-### 2\. Speed of Development
-
-AI game generators can rapidly generate game content and prototypes, speeding up development.  
-Traditional methods may require extensive coding, design, and testing, leading to longer development cycles.
-
-### 3\. Creativity and Innovation
-
-AI game generators can introduce novel and unexpected elements by analyzing existing game data and patterns.  
-Traditional methods use human creativity to design characters, levels, and gameplay mechanics.
-
-### 4\. Personalization and Dynamic Content
-
-AI game generators enable dynamic and personalized experiences by generating content based on player interactions.  
-Traditional methods provide static content that's designed and coded beforehand.
-
-### 5\. Resource Constraints
-
-AI game generators can help smaller teams or indie developers overcome resource limitations by automating various tasks.  
-Traditional methods require a larger team and more resources to create content and code from scratch.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-### 6\. Iteration and Prototyping
-
-AI game generators allow for rapid iteration and prototyping, enabling developers to test and refine ideas quickly.  
-Traditional methods involve manual iteration and can be slower adapting to changes.
-
-### 7\. Diverse Content Creation
-
-AI game generators can produce various content variations, enhancing replayability and game diversity.  
-Due to time and resource constraints, traditional methods may result in limited content.
-
-### 8\. Human Expertise
-
-AI game generators complement human expertise by automating routine tasks, freeing developers to focus on creative and strategic decisions.  
-Traditional methods require developers to design, code, and implement every game element manually.
-
-### 9\. Learning and Adaptation
-
-AI game generators can learn from player behavior and adapt gameplay elements accordingly.  
-Traditional methods rely on developers manually adjusting game elements based on feedback.
-
-While AI game generators offer numerous advantages regarding efficiency, speed, and innovation, it's important to recognize that they are not a one-size-fits-all solution. They excel in automating certain tasks and enhancing creativity, but they are most effective when used with human expertise to create well-balanced and engaging gaming experiences.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What Is an AI Script Generator? | Wondershare Virbo Glossary
 
@@ -364,10 +350,16 @@ By using an AI script generator, you can gain insights into writing techniques, 
 However, it's important to remember that an AI script generator should be seen as a tool to assist and enhance your work rather than replace human creativity and expertise. Reviewing, editing, and refining the generated content to align it with your artistic vision and ensure its quality is crucial.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Best AI YouTube Script Writers and The Ultimate Guide
@@ -389,10 +381,10 @@ A considerable number of **AI YouTube script writers** are on the web. However, 
 5. [ChatGPT](#1.5)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 1\. Virbo
@@ -460,10 +452,10 @@ Do you want to create a profitable content strategy and scripts for YouTube? Not
 ![syllaby ai youtube script generator](https://images.wondershare.com/virbo/images2023/virboai/ai-youtube-script-generator-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Compatibility
@@ -647,6 +639,13 @@ Login Virbo
 
 ![Log in with Wondershare ID](https://images.wondershare.com/virbo/guide/windows/login-virbo.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Log in with Wondershare ID
 
 ❸ After a successful login, click the Avatar icon to verify your activation status.
@@ -733,6 +732,13 @@ Uninstall Virbo
 
 ![Wondershare Virbo for Hindi translation](https://images.wondershare.com/virbo/article/kya-aap-video-call-kar-saktte-ho-in-english-translation-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
  The best tool to translate Hindi videos into English or English content into Hindi is [Wondershare’s Virbo](https://virbo.wondershare.com/video-translation.html) . Virbo is a fantastic new tool that can seamlessly convert any video content into 20+ languages. Hindi is among these languages, offering easy translation between to and from English.
@@ -759,6 +765,13 @@ Step 1 \- Launch Virbo and start the Video Translator Tool
  First of all, you need to download and install Virbo on your PC/Laptop. You can get the virbo software from official website and get it installed.
 
 ![step guidance - using virbo to translate hindi - step 1](https://images.wondershare.com/virbo/article/kya-aap-video-call-kar-saktte-ho-in-english-translation-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once the installation is complete, launch the software and go to the**Video Translator** option at the top, as you can see in the screenshot below.
 
@@ -798,13 +811,6 @@ Step 4 \- Translate your video
 | Kya aap mujhe video call kar sakte ho   | Can you video call me?        |
 | Kya aap abi video call kar dakte ho     | Can you video call right now? |
 | Kya main aapko video call kar sakta hun | Can I video call you?         |
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 03\. Frequently Asked Questions (FAQs)
 
@@ -848,19 +854,19 @@ Other languages Virbo supports for translation are:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-frost-giants-redemption-gods-unleashed/"><u>[New] Frost Giants' Redemption Gods Unleashed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-master-fast-photoshop-edits-on-windows-11/"><u>[Updated] Master Fast Photoshop Edits on Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-androids-evolving-landscape-in-virtual-reality360-viewing/"><u>2024 Approved Android's Evolving Landscape in Virtual Reality/360 Viewing</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-growth-hurdle-cleared-500-subscribers-win/"><u>2024 Approved Growth Hurdle Cleared 500 Subscribers Win</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-error-overcoming-valheims-unresponsive-boot/"><u>Common Error: Overcoming Valheim's Unresponsive Boot</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/how-to-slow-down-a-video-on-snapchat-for-2024/"><u>How to Slow Down a Video on Snapchat for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-narakeet-review-convenient-text-to-speech-voice-maker/"><u>New 2024 Approved Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-translate-video-from-english-to-arabic-with-ease/"><u>New 2024 Approved Translate Video From English to Arabic with Ease</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>New In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-translate-live-video-making-it-possible-with-the-best-tool-for-2024/"><u>New Translate Live Video Making It Possible With The Best Tool for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/pioneering-plots-creating-rpgs-in-the-gpt-realm/"><u>Pioneering Plots: Creating RPGs in the GPT Realm</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/recuperer-gratuitement-des-fichiers-de-votre-carte-microsd-pour-appareils-panasonic-avccam-le-logiciel-dedie/"><u>Récupérer Gratuitement Des Fichiers De Votre Carte microSD Pour Appareils Panasonic AVCCAM : Le Logiciel Dédié</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know-for-2024/"><u>Updated Ready To Dive Into Photo Talking Videos? Heres What You Need To Know for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-talkshoplive-reviews-and-pro-tips-is-this-the-live-commerce-tool-you-need-in-2024/"><u>Updated Talkshoplive Reviews & Pro Tips Is This the Live Commerce Tool You Need, In 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-navigate-a-sea-of-tiktok-saves-with-proper-editing-know-how/"><u>[New] Navigate a Sea of TikTok Saves with Proper Editing Know-How</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-video-translation/"><u>2024 Approved AI Video Translation</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-xiaomi-redmi-note-13-pro-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Xiaomi Redmi Note 13 Pro 5G online without jailbreak</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-online/"><u>In 2024, AI Script | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-video-with-ppt-wondershare-virbo/"><u>In 2024, Create Video with PPT | Wondershare Virbo</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-p55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-command-line-for-wordpad-activation/"><u>Mastering Command Line for WordPad Activation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-youtube-videos-to-english-subtitles/"><u>New In 2024, How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-streamlines-mac-operations-for-rapid-gains/"><u>Stellar Streamlines Mac Operations for Rapid Gains</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>Updated Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/voice-cloning-in-descript-features-guide-and-alternatives-for-2024/"><u>Voice Cloning in Descript Features, Guide & Alternatives for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-meizu-21-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
 
