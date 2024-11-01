@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-10-22T22:08:44.043Z
-updated: 2024-10-25T20:27:54.604Z
+date: 2024-10-30T05:06:43.680Z
+updated: 2024-10-31T21:39:33.858Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,10 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -70,20 +70,22 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-digital-chromatic-conventions-in-media-production/"><u>[New] Digital Chromatic Conventions in Media Production</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-key-techniques-for-assessing-youtube-engagement-and-profitability/"><u>[New] Key Techniques for Assessing YouTube Engagement and Profitability</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-success-top-10-steps-to-stand-out/"><u>[New] Youtube Shorts Success - Top 10 Steps to Stand Out</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unveiling-luts-role-in-image-color-alteration/"><u>[Updated] In 2024, Unveiling LUTs' Role in Image Color Alteration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-realtime-game-scorekeeper-for-2024/"><u>[Updated] RealTime Game Scorekeeper for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-streamline-screen-scans-your-essential-toolkit-for-vid-saving-for-2024/"><u>[Updated] Streamline Screen Scans Your Essential Toolkit for Vid Saving for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-tool/"><u>2024 Approved What Is an AI Tool?</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/essential-recorder-tools-the-8-best-lists-for-2024/"><u>Essential Recorder Tools The 8 Best Lists for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-photo-and-video-files-in-windows-10-like-a-pro/"><u>In 2024, Navigating Photo & Video Files in Windows 10 Like a Pro</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-ai-face-generators-wondershare-virbo-glossary/"><u>New 2024 Approved Exploring AI Face Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online/"><u>New Diverse Template | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-videos-wondershare-virbo-for-2024/"><u>Updated Create AI Avatar Videos | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-template-online-for-2024/"><u>Updated Diverse Template | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-background-generator-wondershare-virbo-glossary/"><u>Updated What Is AI Background Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-cutting-edge-tools-to-snatch-and-save-videos-flawlessly/"><u>[Updated] 2024 Approved Cutting-Edge Tools to Snatch and Save Videos Flawlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-from-gamer-to-filmmaker-sims-gameplay-recording/"><u>[Updated] 2024 Approved From Gamer to Filmmaker Sims Gameplay Recording</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-secure-and-quality-the-best-5-conference-recorders-online/"><u>[Updated] In 2024, Secure & Quality The Best 5 Conference Recorders Online</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1-convert-wma-audio-free-of-charge-step-by-step-guide/"><u>1. [Convert WMA Audio Free of Charge]: Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/elevate-your-computing-with-the-gem1n-pro-mini-pc-built-with-a-superior-ryzen-apu-onboard-display-and-oculink-feature-for-enhanced-performance/"><u>Elevate Your Computing with the Gem1n Pro Mini PC: Built with a Superior Ryzen APU, Onboard Display & OCuLink Feature for Enhanced Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/elysiumeditpro-unveiling-photo-wonders-for-2024/"><u>ElysiumEditPro Unveiling Photo Wonders for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/join-the-ultimate-compute-clash-of-2024-daredevils-needed-for-rigorous-server-slaying-tournament/"><u>Join the Ultimate Compute Clash of 2024! Daredevils Needed for Rigorous Server Slaying Tournament</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-gadgets-and-components-with-toms-essential-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom's Essential Hardware Wisdom</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-landscape-with-precision-the-ultimate-guide-by-tom-hardware/"><u>Navigating the Digital Landscape with Precision: The Ultimate Guide by Tom Hardware</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/obscure-crossover-port-uncovered-displayport-and-hdmi-fusion-inside-the-abandoned-steam-machine-piston-xi3/"><u>Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/price-drop-alert-get-the-powerhouse-m2-mac-mini-for-just-479-insights-from-zdnet-coverage/"><u>Price Drop Alert: Get the Powerhouse M2 Mac Mini for Just $479 - Insights From ZDNet Coverage</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/revived-radeon-ray-tracing-glitch/"><u>Revived Radeon Ray Tracing Glitch</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/slash-prices-get-250-discount-on-high-end-rtx-4090-gamers-dream-pc/"><u>Slash Prices! Get $250 Discount on High-End RTX 4090 Gamer's Dream PC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-review-of-mophie-powerstation-ac-expensive-yet-incredibly-handy/"><u>Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-selection-of-compatible-mice-for-your-apple-tablet/"><u>Ultimate Selection of Compatible Mice for Your Apple Tablet</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-what-do-you-prefer-more-mkv-file-format-or-mov-increase-your-knowledge-and-learn-more-about-mkv-format-by-ready-the-detailed-article-below.m/"><u>Updated In 2024, What Do You Prefer More, MKV File Format or MOV? Increase Your Knowledge and Learn More About MKV Format by Ready the Detailed Article Below</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy"
-date: 2024-10-23T23:59:48.969Z
-updated: 2024-10-25T23:54:56.989Z
+date: 2024-10-26T03:35:04.958Z
+updated: 2024-10-31T23:56:04.814Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy"
@@ -43,13 +43,6 @@ Lifewire / Andrew Hayward
 
 ![Halo Bolt Portable Charger/Jump Starter](https://www.lifewire.com/thmb/wNeN4Rq5GyM9MuDOzyg5QlRT-U4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-HeroSquare-889ebc2fc6b54573a26c09cabb34bd5c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
 
  in this article
@@ -68,6 +61,13 @@ Lifewire / Andrew Hayward
 
  Granted, it doesn’t pack as much power as some dedicated laptop chargers, which may be a better option for that need. Still, the added versatility gives the Halo Bolt a unique edge in the market. I tested the Halo Bolt for a week with multiple devices, including laptops and smartphones.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Design: The shiny brick**
 
  While certainly portable, the Halo Bolt isn’t designed to be pocket-friendly. This big brick of a battery pack comes in at 7.2 x 1.6 x 3.8 inches (HWD) with a weight of more than 1.5 pounds. Smaller, cheaper battery packs are available for smartphones, but this beast is made for heavier-duty needs and is designed accordingly.
@@ -82,19 +82,6 @@ Lifewire / Andrew Hayward
 
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/nYYltjJN71EGK1Dwv2_XABixuhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-04-85b590a9939a4f44b0c7a510a456b80f.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983575">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Andrew Hayward
 
 ## **Setup Process: Load it up**
@@ -106,6 +93,13 @@ Lifewire / Andrew Hayward
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/mUdXUjWxeupVqNR_y43_eFTC0ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-02-69b93dc934684ef5b71a40215f6162f2.jpg)
 
  Lifewire / Andrew Hayward
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Charging Speed and Battery: Not so long-lasting**
 
@@ -123,24 +117,18 @@ Lifewire / Andrew Hayward
 
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/MNFqifirQ0sn61GPO1e-bLQ1t8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-06-8bc3449bd35243aaaf67272c1d3774a6-bc803e0a114b4116adf3078af6a2de00.jpeg)
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Lifewire / Andrew Hayward
 
 ## **Price: It’s priced right**
 
  For a jack-of-all-trades power brick that can jump-start your car and charge its battery, serve as a bright flashlight for roadside emergencies, and charge a wide array of portable devices, the $100 price seen on Amazon looks pretty reasonable. However, given that it couldn’t charge my laptop to total capacity and lacks a USB-C port, handier, higher-capacity charging bricks are available specifically for laptop and smartphone charging needs.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Halo Bolt ACDC 58830 vs. ZMI PowerPack 20000**
 
@@ -155,10 +143,10 @@ Lifewire / Andrew Hayward
  The Halo Bolt isn’t the best option for charging laptops, but it is a solid all-around device for providing backup power to a broader array of gadgets, not to mention jump-starting a car. This versatile device is smart to have around if you drive a car and are frequently mobile with your portable gadgets. I wouldn’t bring it with me on vacation, but it could prove useful before long as a backup device to keep handy.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -187,24 +175,24 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/inding-the-balance-adding-videos-to-text-on-a-budget/"><u>[New] Finding the Balance Adding Videos to Text on a Budget</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi/"><u>[New] High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-narzo-n53-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme Narzo N53 Devices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Stop Google Chrome from Tracking Your Location On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevate-your-content-with-expertly-crafted-360-videos-for-fb/"><u>In 2024, Elevate Your Content with Expertly Crafted 360 Videos for FB</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-marketing-videos/"><u>New 2024 Approved How to Create Marketing Videos?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>New 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-online/"><u>New 2024 Approved Text To Speech | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-detailed-guide-on-video-speech-to-text-conversion-for-2024/"><u>New Detailed Guide on Video Speech to Text Conversion for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-registration-and-login/"><u>New In 2024, Registration and Login</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-live-deepfakes-made-easy-how-to-download-and-make-your-own-live-model/"><u>New Live Deepfakes Made Easy How to Download and Make Your Own Live Model</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-registration-and-login-for-2024/"><u>New Registration and Login for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-in-2024/"><u>New What Is an AI Video Editor, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/newly-released-nvidia-rtx-3080-ti-driver-downloads-fully-compatible-with-windows-1087/"><u>Newly Released NVIDIA RTX 3080 Ti Driver Downloads: Fully Compatible with Windows 10/8/7</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/registration-and-login-virbo-ai-live-stream/"><u>Registration and Login | Virbo AI Live Stream</u></a></li>
-<li><a href="https://fox-http.techidaily.com/the-ultimate-guide-to-choosing-vocal-change-software-for-2024/"><u>The Ultimate Guide to Choosing Vocal Change Software for 2024</u></a></li>
-<li><a href="https://win-superb.techidaily.com/top-proven-software-per-il-cloning-di-un-computer-con-windows-11-a-non-costi/"><u>Top Proven Software per Il Cloning Di Un Computer Con Windows 11 a Non Costi</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-solving-hcmon-driver-installation-issues/"><u>Troubleshooting Tips: Solving HCMON Driver Installation Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-chromebooks-free-screen-capture-leaders-reviewed/"><u>[New] Chromebook's Free Screen Capture Leaders Reviewed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/solved-epic-games-launcher-black-screen/"><u>[SOLVED] Epic Games Launcher Black Screen</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-recording-steps-in-gh/"><u>[Updated] 2024 Approved Essential Recording Steps in GH</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-one-ear-beats-issue-repair-path/"><u>2024 Approved One-Ear Beats Issue Repair Path</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-google-pixel-fold-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Google Pixel Fold without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/alienwares-latest-gaming-desktop-with-rtx-4070-super-now-at-an-unbelievable-price-of-1499-after-savings/"><u>Alienware's Latest Gaming Desktop with RTX 4070 Super – Now at an Unbelievable Price of $1,499 After Savings</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/gpt-and-bing-duels-for-ultimate-generative-chat-excellence/"><u>GPT and Bing Duels for Ultimate Generative Chat Excellence</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-magic-5-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-apple-iphone-6-online-without-jailbreak-by-drfone-ios/"><u>How to Unlock SIM Card on Apple iPhone 6 online without jailbreak</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-oppo-k11x-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Oppo K11x</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-photography-boosted-by-ios-11-features/"><u>IPhone Photography Boosted by iOS 11 Features</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/microsoft-rolls-out-custom-networking-solutions-tailored-for-ai-data-centers-latest-news/"><u>Microsoft Rolls Out Custom Networking Solutions Tailored for AI Data Centers - Latest News</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-eac-launch-errors-a-guide-to-verifying-and-installing-the-necessary-anti-cheat-protection/"><u>Overcome EAC Launch Errors: A Guide to Verifying and Installing the Necessary Anti-Cheat Protection</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-problems-with-windows-11-1607-feature-set-installation-errors/"><u>Overcoming Problems with Windows 11 1607 Feature Set Installation Errors</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/quick-fixes-to-stop-csgo-from-freezing-and-jittering/"><u>Quick Fixes to Stop CS:GO From Freezing and Jittering</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/resolved-fixes-and-updates-in-mass-effect-trilogys-legendary-edition/"><u>Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-equipment/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Equipment</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/troubleshooting-woes-solving-lords-of-mayhem-computer-freeze-issues/"><u>Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues</u></a></li>
 </ul></div>
 

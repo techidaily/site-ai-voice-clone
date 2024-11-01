@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Talking Photo
-date: 2024-10-19T10:29:53.032Z
-updated: 2024-10-26T06:36:56.964Z
+date: 2024-10-26T23:06:42.676Z
+updated: 2024-11-01T06:02:08.357Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -21,6 +21,13 @@ thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f40
 Have you ever wanted to create a video using your favorite photos to express your ideas? Virbo's Talking Photo can fulfill your wish! This feature allows you to make photos speaking or even generate videos using preset images or photos uploaded from your device. By following our instructions, you will quickly learn how to operate.
 
 02 [Use Your Still Photos to Create Videos](#part2)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Way 1: Simply Bring Your Photos to Life with 2 Steps
 
@@ -110,6 +117,19 @@ Click preview to check the effect of your video. Once you are satisfied with the
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Export Video
 
 The generated video will be shown on "My Creations". You can view it and click "Download Video" to save it to your computer.
@@ -144,13 +164,6 @@ Pick a template or click "Upload Picture" to upload your own picture and tap “
 
 ![click next](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Create Next Button
 
 #### Step 2\. Input Text and Set A Voiceover
@@ -158,6 +171,13 @@ Create Next Button
 Enter your voiceover script or click the 'Audio Upload' to import an audio file as the voiceover.
 
 ![input script](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-1-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Input Script
 
@@ -245,6 +265,13 @@ Download Video
  By reaching Tamil-speaking viewers, you unlock new avenues for brand exposure. You also increase your chances of community engagement. The next parts will teach you how to**translate English to Tamil language** . The page will also introduce an AI-powered app to help you connect with this vibrant audience. Explore the article to learn more.
 
 ![tamil woman working at a café](https://images.wondershare.com/virbo/article/2024/03/video-translate-in-tamil-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. Notice to Readers: Difference of Translating or Transcribing in Tamil
 
@@ -353,13 +380,6 @@ Here are many scenarios where you can take advantage of Virbo:
 
  Using these strategies empowers content creators to connect with Tamil audiences. It can drive meaningful engagement and growth. Elevate your content’s impact using tools like Virbo for seamless**video translation in Tamil** . Embrace the opportunity to make an impact with diverse audiences. Amplify your message and win the Tamil-speaking audience with your powerful content creation.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Get To Know OpenAI’s Sora and How To Use It
 
  The recent release of OpenAI's groundbreaking text-to-video AI generator, Sora, has caused a sensation worldwide.**Sora AI** can produce an ultra-realistic video from text, something that is revolutionizing the way visual content is created.
@@ -402,13 +422,6 @@ For example:
 
 ![Sora AI video example 3.](https://images.wondershare.com/virbo/article/2024/03/sora-review-3.gif)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. What You Can Do With Sora
 
 **Sora AI** offers a wide range of functionalities that cater to diverse creative needs, from crafting videos from scratch to enhancing existing ones. It boasts a range of functionalities that cater to diverse needs and industries.
@@ -432,13 +445,6 @@ For example:
  If you are working in a creative field, you can bring abstract concepts or imaginative scenes to life with Sora. Whether visualizing futuristic technology, fantasy worlds, or artistic concepts, Sora can assist in rendering vivid visual representations.
 
 ![Sora AI video example 4.](https://images.wondershare.com/virbo/article/2024/03/sora-review-4.gif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. How To Access Sora
 
@@ -503,6 +509,13 @@ Some key features of Virbo’s Video Translator tool are:
 
  Meanwhile, other AI-driven tools like video-to-text also highlight the broader impact of AI in transforming media consumption and accessibility. Wondershare Virbo's Video Translator, for instance, bridges language barriers and facilitates global communication through localized video content creation.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Power of YouTube Live Selling: Unlock Your Sales Potential
 
  As more people shop online through live channels, big streaming websites are adding this feature to their platforms.[YouTube](https://www.youtube.com/) , a significant site for videos, lets people sell things while they stream live. It is not available as a separate feature but as a part of the regular live-streaming setup on YouTube. This benefits creators because they can sell stuff to their viewers while showcasing their content.
@@ -516,13 +529,6 @@ Some key features of Virbo’s Video Translator tool are:
  YouTube has integrated a live shopping system into its platform. It enables creators to engage with their audiences in real-time to promote and sell products. Creators can set up and connect their own stores or online shopping platforms to YouTube. This involves integrating [Shopify](https://www.shopify.com/) ,[Spring](https://spring.io/) , or other selected retailers with their YouTube channels.
 
  Also, the sellers have functionalities to tag products within their streams. Viewers can quickly discover and purchase items showcased during the broadcast. Interested users can get guidance and support from the app to manage their live shopping sessions. Plus,**YouTube's live selling** collects feedback from creators and viewers. By doing so, this platform is able to enable continuous improvements.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Eligibility Criteria of YouTube Live Shopping
 
@@ -554,13 +560,6 @@ Some key features of Virbo’s Video Translator tool are:
 ![pin product in youtube studio](https://images.wondershare.com/virbo/article/2024/03/complete-guide-to-youtube-live-selling-4.jpg)
 
 * **Step 2.** Drag or click the chosen item to the "Pinned Products" panel. You can tap “REMOVE PIN” in the live stream preview to remove the selected item from being pinned.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3\. Want To Make Better Livestream Content? Use Wondershare Virbo Live
 
@@ -715,6 +714,13 @@ Follow these quick steps:
 
 ![eminem-voice-generator-6.jpg](https://images.wondershare.com/virbo/features/ai-voice/eminem-voice-generator-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 **Step 2.** After loading up an avatar template, enter the text you want the presenter to narrate. Click "Play scripts" to play the video and preview the sound.
@@ -728,13 +734,6 @@ Follow these quick steps:
 **Step 4.** Preview the video once more before exporting it to WebM or MP4 format. It's that quick and easy!
 
 ![eminem-voice-generator-9.jpg](https://images.wondershare.com/virbo/features/ai-voice/eminem-voice-generator-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -757,6 +756,13 @@ Follow these quick steps:
 ## Google Translate Video: A Complete Guide To Translate Video With Google
 
  We live in an age when technology is ever-evolving. Google, being a leader in technological innovation, has introduced several tools that make communication more seamless. Most of us are already familiar with one such tool, Google Translate. After all, it’s the go-to text translation option for many people. But can it be used for translating a video? We will answer this question in detail below. So, let’s dive into the world of**Google Translate Video** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Benefits of Using Google Translate for Video Translation
 
@@ -822,13 +828,6 @@ Step3 Use Google Translate to Further Improve Translation
 
 ![Wondershare Virbo](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
  We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translate) for burning subtitles on your Video. But you can also use it to translate a video, edit subtitles, create instant dubs/voiceovers, make AI avatar videos and do so much more. It is a great option if you want a host of features to streamline your content creation process besides mere subtitle translation. Virbo is available on all major platforms, such as Online Browsers, PC/Laptop, Android, and iOS devices.
@@ -836,6 +835,13 @@ Step3 Use Google Translate to Further Improve Translation
 ### 2\. Microsoft Translator
 
 ![Microsoft Translator](https://images.wondershare.com/virbo/article/google-translate-a-video-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Microsoft Translator](https://translator.microsoft.com/) is another great option for video translation. It allows real time translated conversations across multiple devices and platforms. Another difference between Google and Microsoft Translator is that Microsoft’s Translator supports fewer languages. It’s only available for 103 languages, which is still more than big name translation services. A unique feature of Microsoft Translator is that it is also compatible with the MS Office suite. So you can use it with MS Excel, One Note, PowerPoint and Outlook. Lastly, this tool is particularly helpful with contextual understanding of a sentence.
 
@@ -881,20 +887,24 @@ Step3 Use Google Translate to Further Improve Translation
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-mystical-video-pause-hints/"><u>[New] In 2024, Mystical Video Pause Hints</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-navigating-through-lipo-technologies-for-drones-needs/"><u>2024 Approved Navigating Through LiPo Technologies for Drones' Needs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-steps-to-solve-compatibility-issues-with-hp-officejet-pro-6978-drivers/"><u>Easy Steps to Solve Compatibility Issues with HP OfficeJet Pro 6978 Drivers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-airpods-not-connecting-to-windows-1011-2024-tips/"><u>How to Fix AirPods Not Connecting to Windows 10/11 – 2024 Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-scavengers-game-crashes-on-your-pc-solution/"><u>How to Fix Scavengers Game Crashes on Your PC - SOLUTION</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-honor-70-lite-5g-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Honor 70 Lite 5G to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-shared-streaming-possible-with-spotify-on-multiple-devices/"><u>Is Shared Streaming Possible with Spotify on Multiple Devices?</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-firmware-enhancement-for-dells-2330d-and-2330dn-mono-laser-printing-units/"><u>Latest Firmware Enhancement for Dell's 2330D and 2330DN Mono Laser Printing Units</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-avatar/"><u>New 2024 Approved What Is an AI Avatar?</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-converting-mpeg-ts-files-to-high-quality-mp4-formats-on-any-device-or-via-web-services/"><u>Ultimate Guide to Converting MPEG-TS Files to High-Quality MP4 Formats on Any Device or Via Web Services</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-best-5-ai-powered-script-to-video-makers/"><u>Updated Best 5 AI-Powered Script to Video Makers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-steps-to-create-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Easy Steps to Create AI Twitch Streamer with Animated Avatars</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-generated-text-for-2024/"><u>Updated What Is AI Generated Text for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-text-to-speech/"><u>Updated What Is AI Voice Text to Speech?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-tool-in-2024/"><u>What Is an AI Tool, In 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-navigating-pixizs-tools-for-photo-video-craftsmanship/"><u>[New] Navigating Pixiz's Tools for Photo-Video Craftsmanship</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-complete-insight-gopro-silver-hero4-detailed-assessment/"><u>2024 Approved Complete Insight GoPro Silver Hero4 Detailed Assessment</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-retrospective-viewing-inventive-approaches-for-backward-youtube-content/"><u>2024 Approved Retrospective Viewing Inventive Approaches for Backward YouTube Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024top8/"><u>2024年の最新動画で効果的なテロップ挿入手順TOP8</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/essential-mac-screen-recorders-top-10-free-list/"><u>Essential Mac Screen Recorders – Top 10 FREE List</u></a></li>
+<li><a href="https://win-dash.techidaily.com/expert-insights-on-ankers-powerful-usb-30-charging-solution-a-complete-review/"><u>Expert Insights on Anker's Powerful USB 3.0 Charging Solution – A Complete Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-c12-plus-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia C12 Plus to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/make-smart-investments-in-car-safety-learn-the-9-most-important-aspects-for-selecting-a-reliable-dash-camera/"><u>Make Smart Investments in Car Safety: Learn the 9 Most Important Aspects for Selecting a Reliable Dash Camera</u></a></li>
+<li><a href="https://driver-install.techidaily.com/mastering-the-art-of-msi-bravos-software-update/"><u>Mastering the Art of MSI Bravo's Software Update</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo/"><u>New Talking Photo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-translator-to-translate-videos-online-for-2024/"><u>New The Best Translator to Translate Videos Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-5-quandale-dingle-voice-generators-for-2024/"><u>New Top 5 Quandale Dingle Voice Generators for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/transform-youtube-live-with-these-must-know-secrets-for-2024/"><u>Transform YouTube Live with These Must-Know Secrets for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Updated 2024 Approved Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-maximize-your-user-engagement-with-instagram-live-shopping-expert-tips/"><u>Updated In 2024, Maximize Your User Engagement With Instagram Live Shopping Expert Tips</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-register-online-for-2024/"><u>Updated Register | Online for 2024</u></a></li>
+<li><a href="https://win-hot.techidaily.com/1728467218320-windows-114/"><u>Windows 11におけるファイルの移動・変更手順：4コツ</u></a></li>
 </ul></div>
 

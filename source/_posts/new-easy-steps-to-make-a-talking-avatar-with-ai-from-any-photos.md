@@ -1,7 +1,7 @@
 ---
 title: New Easy Steps to Make a Talking Avatar with AI From Any Photos
-date: 2024-10-07T16:49:44.698Z
-updated: 2024-10-08T20:39:47.507Z
+date: 2024-10-29T04:00:23.273Z
+updated: 2024-11-01T08:02:40.700Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 
 ![Create video content with a talking AI avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. Prominent Features of Talking Avatar
 
  If you are learning**how to make a talking avatar** , the avatars also come equipped with a range of features that contribute to their versatility and effectiveness in content creation. Let's get into the key features that make talking avatars a powerful tool for communication and storytelling:
@@ -59,6 +66,13 @@ thumbnail: https://thmb.techidaily.com/13887af25c31ebc0af7fa01bee84ac625b343ea77
 ### 2\. Voice narration from a script
 
  One of the key features of talking avatars is their ability to narrate text from a script using synthetic voices. When you**create your own talking avatar** , you can input a written script, and the avatar will generate speech based on the provided text. You can also use your own recorded voice for your talking avatar.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. AI script
 
@@ -98,25 +112,11 @@ Some of Virbo Talking Avatar features include:
 
 ![Upload a photo to create talking avatar from photos](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Edit your video
 
  Next, input text and select a voiceover option from those provided below to create the voiceover for your video. You can adjust the accent, speed, pitch, and volume as desired. You can also choose to include subtitles, background music, or even change the background.
 
 ![Edit and create your own talking avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you prefer to use your own voice, you can select “Audio Upload” to upload your audio or “Online Recording” to record your voice directly within the software. If your audio is embedded in a video, choose “Extract audio” and Virbo will extract the audio from your video.
 
@@ -142,19 +142,6 @@ Some of Virbo Talking Avatar features include:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-<!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## A Complete Guide To Translate Video With Google
 
@@ -216,6 +203,19 @@ Step3 Use Google Translate to Further Improve Translation
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Best Alternatives To Google Translate
 
  Below are some alternatives you can use if Google Translate is unavailable. These options are just as good, if not better.
@@ -224,16 +224,16 @@ Step3 Use Google Translate to Further Improve Translation
 
 ![Wondershare Virbo](https://images.wondershare.com/virbo/article/google-translate-a-video-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
  We previously mentioned [Virbo](https://virbo.wondershare.com/app/video-translate) for burning subtitles on your Video. But you can also use it to translate a video, edit subtitles, create instant dubs/voiceovers, make AI avatar videos and do so much more. It is a great option if you want a host of features to streamline your content creation process besides mere subtitle translation. Virbo is available on all major platforms, such as Online Browsers, PC/Laptop, Android, and iOS devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Microsoft Translator
 
@@ -288,20 +288,12 @@ Virbo's cutting-edge AI capabilities offer a transformative solution to your cop
 
 Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
 
-## AI Voice
-
-Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
-
-## Get To Know Our AI Voice Feature
-
-* **Cost-effectiveness:** Budget-friendly AI voiceovers for video creation
-* **Clear Audio Quality:** Provide an immersive experience with high-quality audio
-* **Spoken by Realistic Avatars:** Engage viewers with Avatars' natural voices in videos
-* **Diverse Accents & Languages:** Elevate video editing experiences with multilingual avatars
-
-![ai voice](https://images.wondershare.com/virbo/guide/online-guide/ai-voice-4.png)
-
-Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI Voice
 
@@ -317,6 +309,28 @@ Virbo's cutting-edge AI capabilities offer a transformative solution to your cop
 ![ai voice](https://images.wondershare.com/virbo/guide/online-guide/ai-voice-4.png)
 
 Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
+
+## AI Voice
+
+Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
+
+## Get To Know Our AI Voice Feature
+
+* **Cost-effectiveness:** Budget-friendly AI voiceovers for video creation
+* **Clear Audio Quality:** Provide an immersive experience with high-quality audio
+* **Spoken by Realistic Avatars:** Engage viewers with Avatars' natural voices in videos
+* **Diverse Accents & Languages:** Elevate video editing experiences with multilingual avatars
+
+![ai voice](https://images.wondershare.com/virbo/guide/online-guide/ai-voice-4.png)
+
+Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## AI Voice
 
@@ -352,6 +366,13 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
  ESPN allows you to watch replays of your favorite sports match. This website even provides live and upcoming schedules of different sports matches to keep you updated. Besides that, they offer the latest news of recent sports matches to all fans.
 
 ![espn sports streaming site](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2. Stream2Watch
 
@@ -417,6 +438,13 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![fubo tv sports streaming site](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 10. Totalsportek
 
  Totalsportek is a**free website where you can watch live sports** from anywhere. It categorizes the stream of sports matches based on different leagues. This category includes smaller leagues such as the AFC Champions League, Liga Portugal, and many others. You can watch live cricket, football, soccer, and other sports league matches on this streaming platform.
@@ -461,13 +489,6 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![add microphone as communication source](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Step 4: Customize Your Promotional Video With Different Elements
 
  Next, select the “Background” and “AI Avatar” options to customize promotional videos. Also, you can use the “Sticker” option to make the streaming experience interesting. Select any added element on your canvas to change its layer or perform other functions.
@@ -497,13 +518,6 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
  You can make and share Animoji with other Apple users through the Messages app. There are over 25 of these iPhone talking emojis available, including your own avatar, poop, panda, pig, robot, and ghost that can mirror your facial expressions.
 
 ![Types of Apple talking emoji](https://images.wondershare.com/virbo/article/2024/02/speak-emoji-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How Does iPhone Talking Emoji Work?
 
@@ -732,13 +746,6 @@ All-in-one AI Video Generator
 
 ###
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Get To Know Our AI Script Feature
 ![Virbo AI Script Feature](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
 
@@ -774,13 +781,6 @@ All-in-one AI Video Generator
 
 ### Get To Know Our AI Script Feature
 ![Virbo AI Script Feature](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
 
@@ -794,22 +794,14 @@ Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-scri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-compreenas-guide-to-designing-a-compelling-rss-feed/"><u>[New] A Compreenas Guide to Designing a Compelling RSS Feed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-expert-smartphone-photo-and-film-capture-iphoneandroid-comparison-for-2024/"><u>[New] Expert Smartphone Photo & Film Capture IPhone/Android Comparison for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-how-to-download-discord-videos-for-free-on-desktop-and-mobile-in-2024/"><u>[New] How to Download Discord Videos for Free on Desktop & Mobile, In 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-8-free-instagram-to-mp4-converters-that-you-can-try-onlinewindowsmac-for-2024/"><u>[Updated] 8 Free Instagram to MP4 Converters That You Can Try [Online/Windows/Mac] for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-budget-friendly-skydrive-solution-for-bulk-files/"><u>2024 Approved Budget-Friendly SkyDrive Solution for Bulk Files</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-strategies-to-keep-windows-11-photos-app-running-smoothly/"><u>In 2024, Strategies to Keep Windows 11 Photos App Running Smoothly</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-unlimited-dji-mini-and-air-2-luts-buy-or-free/"><u>In 2024, Unlimited DJI Mini & Air 2 LUTs - Buy or Free</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube-for-2024/"><u>The Ultimate Guide on How to Promoting Music Videos on YouTube for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/1722915423487-understanding-the-giants-of-social-networking-facebook-twitter-instagram-and-youtube/"><u>Understanding the Giants of Social Networking: Facebook, Twitter, Instagram and Youtube</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-creating-ai-videos-with-ai-avatars-for-2024/"><u>Updated Creating AI Videos With AI Avatars for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-netflix-memories-capturing-every-view-with-mac/"><u>[New] In 2024, Netflix Memories Capturing Every View with Mac</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-scripting-success-the-art-of-good-documentaries/"><u>[Updated] In 2024, Scripting Success The Art of Good Documentaries</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-layers-of-cinematic-dialogue-design-for-2024/"><u>[Updated] Layers of Cinematic Dialogue Design for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-use-chromes-picture-in-progress-screensuitably-across-platforms/"><u>2024 Approved How to Use Chrome’s Picture In Progress Screensuitably Across Platforms</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>In 2024, A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-depth-review-of-ivona-text-to-speech-converter-for-2024/"><u>In-Depth Review of Ivona Text to Speech Converter for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions-virbo-ai-live-stream-for-2024/"><u>Updated Handling Exceptions | Virbo AI Live Stream for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
 </ul></div>
 

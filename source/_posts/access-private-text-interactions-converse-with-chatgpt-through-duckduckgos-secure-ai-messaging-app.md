@@ -1,7 +1,7 @@
 ---
 title: "Access Private Text Interactions: Converse with ChatGPT Through DuckDuckGo’s Secure AI Messaging App"
-date: 2024-10-21T21:46:41.369Z
-updated: 2024-10-26T10:30:35.730Z
+date: 2024-10-27T01:42:44.187Z
+updated: 2024-10-31T20:10:52.833Z
 tags:
   - chatgpt
   - open-ai
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
  In addition to the extensive library of community prompts, you can also use AIPRM for ChatGPT to create and save AI prompts for future use. This feature is especially useful if you have specific needs or frequently work on similar topics. It means you won't need to spend time crafting a new prompt for the same task each time you use ChatGPT.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is the AIPRM Chrome Extension Free?
 
  Yes, the AIPRM Chrome extension for ChatGPT is free to use and also offers several premium plans, from the**AIPRM Plus** plan, which costs $10 per month, to the**AIPRM Titan** plan, which costs up to $999 per month. AIPRM works well with ChatGPT's free and paid versions, making it a valuable tool for any user.
@@ -58,27 +65,20 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 4. This should automatically direct you to your ChatGPT homepage, where you will see a terms & conditions popup for the AIPRM extension. Tick the checkbox to agree and click**Confirm.**  
 ![AIPRM terms and conditions](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-terms-conditions-chatgpt.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You should now see the AIPRM dashboard on your ChatGPT page.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -91,21 +91,7 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Filter and Favorite AIPRM Prompts
 
@@ -114,6 +100,13 @@ You should now see the AIPRM dashboard on your ChatGPT page.
  Click the**Topic** field to select topics like Marketing, productivity, or SEO. You can filter by**Activity** to find prompts suitable to specific activities or click**Sort by** to select prompts based on usage, views, or votes. Lastly, use the**Model** filter to choose a particular ChatGPT version. You can also use the**Search** bar to find prompts using keywords.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
@@ -129,6 +122,13 @@ To create a custom AIPRM prompt:
 
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
  Next, fill in the**Teaser** field. This is a description to help you remember the prompt easily. The**Prompt Hint** reminds you of what you will type in when using the prompt. This replaces the prompt variable**\[PROMPT\]** .
@@ -140,10 +140,10 @@ To create a custom AIPRM prompt:
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once your prompt is saved, you can find it under the**Own** tab.
@@ -167,22 +167,18 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/udding-creators-set-up-a-profitable-youtube-chanel-for-2024/"><u>[New] Budding Creators Set Up a Profitable YouTube Chanel for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-achieving-sharper-screen-focus-zooming-tips-for-google-meet/"><u>[Updated] Achieving Sharper Screen Focus Zooming Tips for Google Meet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-av1-vs-vp9-a-detailed-comparison/"><u>2024 Approved AV1 Vs. VP9 A Detailed Comparison</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
-<li><a href="https://win-latest.techidaily.com/9-effective-strategies-for-mobile-optimized-email-campaigns-enhance-subscriber-engagement-using-massmail-tools/"><u>9 Effective Strategies for Mobile-Optimized Email Campaigns: Enhance Subscriber Engagement Using MassMail Tools</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-the-process-of-reversing-a-steam-game-purchase/"><u>Comprehensive Tips: The Process of Reversing A Steam Game Purchase</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-the-latest-epson-stylus-nx420-printer-driver-for-windows-7-8-and-10/"><u>Download the Latest Epson Stylus NX420 Printer Driver for Windows 7, 8 & 10</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://win11.techidaily.com/no-more-struggles-successfully-installing-icloud-on-windows-pc/"><u>No More Struggles: Successfully Installing iCloud on Windows PC</u></a></li>
-<li><a href="https://win-answers.techidaily.com/soil-testing-identifies-specific-soil-needs-allowing-for-targeted-amendments-which-improves-crop-yields-reduces-waste-and-minimizes-environmental-harm-from-366/"><u>Soil Testing Identifies Specific Soil Needs, Allowing for Targeted Amendments, Which Improves Crop Yields, Reduces Waste, and Minimizes Environmental Harm From Over-Fertilization</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-best-text-to-speech-online-tools-to-use/"><u>The Best Text-to-Speech Online Tools To Use</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-ultimate-guide-to-group-photo-and-video-uploads-in-instagram/"><u>The Ultimate Guide to Group Photo and Video Uploads in Instagram</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatar-wondershare-virbo-user-guide/"><u>Updated 2024 Approved AI Avatar | Wondershare Virbo User Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-animated-explainer-videos/"><u>Updated How to Make Animated Explainer Videos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-wondershare-virbo-glossary/"><u>What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-in-2024/"><u>What Is AI Voice, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-elevate-your-edits-the-beginners-insider-look-at-editing-techniques-for-2024/"><u>[Updated] Elevate Your Edits The Beginner's Insider Look at Editing Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-mastering-the-art-of-live-cricket-livestreams-for-2024/"><u>[Updated] Mastering the Art of Live Cricket Livestreams for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>2024 Approved The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/echo-vocal-logging-device-iphone-model-2024/"><u>Echo Vocal Logging Device, iPhone Model 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/guide-to-correcting-rpcrt4dll-not-detected-system-issues/"><u>Guide to Correcting Rpcrt4.dll Not Detected System Issues</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-becoming-an-expert-at-scheduling-virtual-team-sessions-google/"><u>In 2024, Becoming an Expert at Scheduling Virtual Team Sessions (Google)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-talking-emoji-on-iphone-in-easy-steps/"><u>New How To Make Talking Emoji on iPhone in Easy Steps</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>New In 2024, Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Proven Ways in How To Hide Location on Life360 For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-s17-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo S17 Pro Device</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-online/"><u>Updated In 2024, AI Script | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 

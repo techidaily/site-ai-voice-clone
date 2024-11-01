@@ -1,7 +1,7 @@
 ---
 title: Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step for 2024
-date: 2024-10-04T18:13:46.131Z
-updated: 2024-10-08T20:13:19.988Z
+date: 2024-10-28T03:41:16.454Z
+updated: 2024-10-31T20:31:58.201Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -58,13 +58,6 @@ How to create a simple animated character:
 
 ![how to make a talking cartoon video](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Add voice to your animated characters.
 
  After selecting Lip-sync, you'll have the choice to either record your own voice, utilize a text-to-speech tool for automated speech, or upload a pre-recorded voiceover to synchronize with your character. If you opt for text-to-speech, input the dialogue and select parameters such as gender, language, and voice.
@@ -78,6 +71,19 @@ How to create a simple animated character:
  With the voice added to your animated character, it's time to preview the video to ensure everything is in order. To do so, click the play button to initiate the preview. Once satisfied, proceed to download the video by clicking "Publish" > "Download Video" and then "Download" to obtain your talking animated character video.
 
 ![Download the talking cartoon video](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-5.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Best Direct Way: How to Make Anime Character Talks from A Photo
 
@@ -116,13 +122,6 @@ Some of Virbo Talking Avatar features include:
  After selecting the talking avatar, you can input your text and choose a voiceover option from the provided selection. Adjust parameters such as accent, speed, pitch, and volume to your liking. While it’s optional, you can also choose to include subtitles and background music, and even change the background.
 
 ![Customize the animated character talking video](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  For those preferring to use their own voice, select either "Audio Upload" to upload existing audio files or "Online Recording" to record directly within the software. If your audio is embedded within a video file, choose "Extract audio" and Virbo will extract the audio accordingly.
 
@@ -274,6 +273,13 @@ Here’s what makes Virbo stand out:
 
 ![ai translate video japanese to english](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * **Step 5:** Click**Translate this video** to start the translation process once everything is set.
 * **Step 6:** Wait a few moments while Virbo performs video transcription. Review the text and edit if needed.
 
@@ -282,13 +288,6 @@ Here’s what makes Virbo stand out:
 * **Step 7:** Click**Translate video** to proceed, then the video will go to the queue.
 
 ![translated japanese video to english](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-07.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * **Step 8:** After completion, you can preview the translated video before downloading the final English version.
 
@@ -319,20 +318,6 @@ File Compatibility
  Ensure your chosen translation service or tool supports the format of your video file. The common formats include MP4, MOV, and AVI.
 
 ![video file format illustration](https://images.wondershare.com/virbo/article/2024/03/translate-video-japanese-to-english-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -412,6 +397,13 @@ File Compatibility
 
 ![stepes live voice translation](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Need someone to translate spoken Bengali to English on the go? While AI apps are handy, sometimes you might prefer a human touch. Stepes offers Bengali to English voice translation through professional translators. Simply record your voice, and the professionals will translate it for you. You'll hear the translated message in English and can even play it back for clarification. Stepes makes real-time communication with Bengali speakers easier.
 
  Pros
@@ -441,13 +433,6 @@ File Compatibility
 
 * Need to upgrade with a subscription for more features
 * Some users might find the interface overwhelming
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How To Choose the Right Voice and Audio Translator App?
 
@@ -488,6 +473,19 @@ Minimize Background Noise
  Background noise can be a real enemy of voice translation. Find a quiet place to speak, away from loud music, traffic, or conversations. You can also try using headphones with a built-in microphone in noisy environments. It ensures the app focuses on your voice and delivers the best possible translation.
 
 ![a woman using a headset](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-08.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Break Down Complex Sentences
 
@@ -576,19 +574,6 @@ Below is how to change your voice with Voicemod AI:
 
 **![install and run voicemod ai](https://images.wondershare.com/virbo/article/voicemod-ai-1.jpg)**
 
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Once you have installed the program successfully, open the sound settings to choose your input and output sound devices.
 
 ![enter sound settings on voicemod ai](https://images.wondershare.com/virbo/article/voicemod-ai-2.jpg)
@@ -639,6 +624,13 @@ Below are some of the advantages you’ll get with Voicemod Pro:
 
 ![select avatar language](https://images.wondershare.com/virbo/article/voicemod-ai-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Next, tap the**Audio Scripts** button, then choose**Online Recording** to begin recording live voiceover on your video template. You can also upload a pre-recorded MP3/WAV file or extract audio from MP4.
 
 ![record a voiceover](https://images.wondershare.com/virbo/article/voicemod-ai-7.jpg)
@@ -674,6 +666,13 @@ It can analyze the video footage and identify different scenes or segments, maki
 ### 3\. Object recognition and tracking
 
 It can recognize and track specific objects or elements within the video, allowing for advanced editing techniques like adding effects, text, or annotations.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Automated transitions and effects
 
@@ -745,6 +744,13 @@ AI influencers bring several advantages to the realm of digital influence:
 
 **4\. Scalability**: Multiple AI influencers can be generated simultaneously, expanding reach effortlessly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Applications of AI Influencers
 
 AI influencers find applications across various sectors:
@@ -797,6 +803,13 @@ AI influencers find applications across various sectors:
 
 **4\. Public Awareness**: AI influencers are used to raise awareness about social and environmental issues.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Examples of AI Influencers
 
 Some prominent AI influencer examples include:
@@ -814,13 +827,6 @@ Some prominent AI influencer examples include:
 AI influencers are revolutionizing the digital landscape with their unique advantages and applications. Their potential to engage, educate, and entertain offers exciting opportunities for brands, creators, and audiences alike. As technology evolves, AI influencers are poised to continue shaping the future of influencer marketing and online engagement.
 
 ## AI Script Generator | Virbo Guide
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Create videos with an AI script generator
 
@@ -900,18 +906,21 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-breezy-setup-for-podcast-broadcasts/"><u>[Updated] Breezy Setup for Podcast Broadcasts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-high-quality-game-recordings-methods-and-tools/"><u>[Updated] High-Quality Game Recordings Methods and Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-youtube-profits-demystified-from-clicks-to-credit/"><u>[Updated] YouTube Profits Demystified From Clicks to Credit</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>2024 Approved Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/canon-mg2520-software-downloads-and-update-instructions-for-windows-users/"><u>Canon MG2520 Software Downloads & Update Instructions for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-fix-the-package-could-not-be-registered-photos-error-in-windows-11-and-11/"><u>How to Fix the “Package Could Not Be Registered” Photos Error in Windows 11 & 11</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-generator/"><u>In 2024, What Is an AI Video Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-recommended-natural-ai-hindi-voice-generator/"><u>New 2024 Approved The Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-video-editor/"><u>New In 2024, What Is an AI Video Editor?</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-newest-vr-cam-face-off-hero5-and-yis-latest-battle-for-2024/"><u>The Newest VR Cam Face-Off Hero5 and Yi's Latest Battle for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-microsd-memory-cards-for-optimal-raspberry-pi-performance/"><u>Top MicroSD Memory Cards for Optimal Raspberry Pi Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-5-best-live-streaming-webcamscameras-for-twitch/"><u>[New] 2024 Approved 5 Best Live Streaming Webcams/Cameras for Twitch</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/diverse-template-online-for-2024/"><u>Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/downloadinstallregisteruninstall-wondershare-virbo/"><u>Download/Install/Register/Uninstall | Wondershare Virbo</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/effortless-escape-rapid-cure-for-amd-and-tarkov-hiccup/"><u>Effortless Escape: Rapid Cure for AMD & Tarkov Hiccup</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-honor-100-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-performance-lags-in-forza-horizon-5/"><u>How To Resolve Performance Lags In Forza Horizon 5?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-15-pro-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your Apple iPhone 15 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ignite-social-media-fanfare-master-these-9-instagram-commandments/"><u>In 2024, Ignite Social Media Fanfare Master These 9 Instagram Commandments</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-speech-to-speech-voice-cloning-a-breakthrough-in-ai-voice-industry/"><u>In 2024, Speech-to-Speech Voice Cloning A Breakthrough in AI Voice Industry</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-talking-photo-feature/"><u>In 2024, Talking Photo Feature</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-best-ai-video-makers-from-photos-to-create-captivating-videos-with-pictures/"><u>In 2024, The Best AI Video Makers From Photos to Create Captivating Videos with Pictures</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/knowledge-nexus-best-ed-sources-on-youtube-for-2024/"><u>Knowledge Nexus Best Ed Sources on YouTube for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/make-your-favorite-tiktok-sound-a-phones-custom-ringtone-for-2024/"><u>Make Your Favorite TikTok Sound a Phone's Custom Ringtone for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-9-best-french-video-translators-online-and-download-options/"><u>New 9 Best French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-and-repair-your-hyperx-cloud-alpha-s-mic-expert-tips/"><u>Troubleshoot and Repair Your HyperX Cloud Alpha S Mic - Expert Tips</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 
