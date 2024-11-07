@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Tips for Perfecting Your Talking Face Content A Complete Guide
-date: 2024-10-31T05:42:56.407Z
-updated: 2024-10-31T16:54:36.266Z
+date: 2024-11-05T18:59:50.731Z
+updated: 2024-11-07T02:23:01.916Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -70,6 +70,13 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
 ![feedeo talking head video online](https://images.wondershare.com/virbo/article/2024/02/details-of-making-the-perfect-talking-face-content-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. This tool provides a range of AI avatars for creating talking photos.
@@ -111,6 +118,19 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 1. **Text-to-Speech:** WondershareVirbo's text-to-speech feature can help you generate a voice for talking photos.
 2. **Add Background Music:** It has a background music feature to personalize your animated images. You can import the music, which will be inserted across the entire video.
 3. **Personalize Your Content:** Through this tool, you can add stickers and backgrounds to your videos. It also allows you to upload your personalized backgrounds to create videos according to your taste.
+
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step-by-Step Guide To Use Talking Photo Feature in Wondershare Virbo
 
@@ -187,6 +207,19 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
 ![LiveNewsChat](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1155462">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [LiveNewsChat](https://livenewschat.eu/politics/) is one of the most comprehensive and fastest websites if you want to watch the live stream of MSNBC. When it comes to**MSNBC Live** , this website allows you to watch your favorite shows on the device of your choice.
 
  For example, if you are using your mobile, then you can simply visit the website from our link and play the video player. Similarly, if you are on the web, you can open the website and start watching some of your favorite shows right away.
@@ -207,6 +240,13 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 ### 2\. Live HD TV
 
 ![Live HD TV](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Live HD TV](https://www.livehdtv.net/msnbc-news/) is amongst the nicest-looking websites on the list. However, it doesn’t just look nice but has a utility that would boost your user experience to the fullest. Aside from MSNBC, there are a plethora of other channels as well like CBC, ABC, CBS, and other news channels.
 
@@ -318,9 +358,23 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 
  Popular options include Twitch, YouTube Live, and Discord. Each platform has its unique advantages and demographics, so it's crucial to research and choose the one that aligns best with your target audience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Twitch
 
 ![NFL live stream on Twitch](https://images.wondershare.com/virbo/article/2024/04/get-more-nfl-viewers-for-sports-live-streaming-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Twitch is a popular choice for gaming content and has a large community of avid gamers and esports enthusiasts. It offers robust features such as chat integration, customizable overlays, and subscription options, which can help foster a sense of community and engagement among viewers.
 
@@ -352,13 +406,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
 * YouTube Live has a lot of competition, making it harder for new streamers to stand out and attract viewers.
 * Streaming NFL content can be a challenge especially if it includes copyrighted material.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Discord
 
 ![NFL live stream on Discord](https://images.wondershare.com/virbo/article/2024/04/get-more-nfl-viewers-for-sports-live-streaming-4.jpg)
@@ -381,19 +428,6 @@ thumbnail: https://thmb.techidaily.com/90ad0e184ba79f95e662dd6bac421c2714531f47a
  For live streaming the game, you can watch the NFL live on various [platforms and services](https://www.nfl.com/ways-to-watch/) . Some popular options include NFL+, Streaming Services (YouTube TV, Hulu + Live TV, Sling TV, and FuboTV), or Broadcast Networks (CBS, FOX, and ESPN). Alternatively, some of the NFL game live stream online free options are USTVGO, FSL, CricFree, and more.
 
  After knowing which streaming platform to use, it’s essential to proceed with caution. Live-streaming NFL games can present various challenges and considerations, including streaming quality, licensing agreements, potential copyright issues, and more.
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Strategies to Implement During Live Streaming
 
@@ -500,13 +534,6 @@ Follow these steps on how to live stream 24/7:
 
  With its AI-powered Talking Photo feature, you can bring life to your pictures. Not only can you make them move, but you can also add voice clips for a better and more engaging experience. You can count on this diversified tool with variating compatibility for integrating your pics with social media platforms. It even allows users to create such content online and offline.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Top-Rated Features of Wondershare Virbo
 
 1. Wondershare Virbo can convert the text you provided to speech for use in your talking photos.
@@ -537,13 +564,6 @@ Follow these steps on how to live stream 24/7:
  Enter the text you want to use in your talking photo. You also have the option to shift to the "Audio Script" tab to upload your audio to convert your picture to a talking video.
 
 ![change text or add audio](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 4\. Select the Language and Accent for Your Video
 
@@ -632,13 +652,6 @@ Follow these steps on how to live stream 24/7:
 ##### Step 1 Visit the official Deepfakevfs website
 
 ![deepface live official site](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### Step 2 Scroll down to the Download section
 
@@ -764,13 +777,6 @@ Once inside the user interface, click “Avatars” to pick an AI avatar for you
 
 ![choose avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose Avatar
 
 Enter the text you intend to put in the video. You can adjust the speed, pitch and volume of your avatar at the bar shown on the right. Click “Play Script” or “Preview” once you finished operation to preview the video.
@@ -790,6 +796,13 @@ Edit Video
 Click Background Music > None to choose the music for the video, or you can upload your own music that you intend to use.
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Choose Background Music
 
@@ -819,13 +832,6 @@ Select the video aspect ratio that you desire. You can choose either to make a l
 
 ![choose video ratio](https://images.wondershare.com/virbo/guide/windows/choose-ratio.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Choose Aspect Ratio
 
 #### Step 2\. Choose Avatar & Voiceover
@@ -848,13 +854,6 @@ You can also adjust the background, choose the text style, or add the sticker to
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Edit Video
 
 Click Background Music > None to choose the music for the video, or you can upload your own music that you intend to use.
@@ -869,6 +868,13 @@ Once you are satisfied with the effect of the whole video, click “Export” to
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Export Video
 
 <ins class="adsbygoogle"
@@ -881,22 +887,22 @@ Export Video
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-conquering-the-complexities-of-360-video-post-production-in-premiere/"><u>[New] Conquering the Complexities of 360° Video Post-Production in Premiere</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-harmonizing-audio-and-visuals-in-vimeo-media/"><u>[New] In 2024, Harmonizing Audio and Visuals in Vimeo Media</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>[New] Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-achieving-peak-engagement-with-strategic-reddit-posting/"><u>[Updated] 2024 Approved Achieving Peak Engagement with Strategic Reddit Posting</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1726222799214-mp3avi/"><u>簡単な手順で自分用にMP3/AVIファイルを変換するための無料オンラインツール</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/anticipated-changes-apple-watch-and-watchos-11-integration-detailed-list-of-supported-versions/"><u>Anticipated Changes: Apple Watch and WatchOS 11 Integration - Detailed List of Supported Versions</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s23-tactical-edition-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S23 Tactical Edition Phone Hassle-Free</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-api/"><u>In 2024, What Is AI API?</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leveraging-chromes-picture-in-picture-for-multi-screen-browsing-for-2024/"><u>Leveraging Chrome's Picture-In-Picture for Multi-Screen Browsing for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-video-from-text-easily-step-by-step/"><u>New 2024 Approved How To Create Video From Text Easily Step-by-Step</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-options-top-live-streaming-platforms-according-to-types/"><u>New Best Options Top Live Streaming Platforms According to Types</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-have-apps-for-real-time-video-translation/"><u>New In 2024, Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-artist-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Artist? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-diminishing-volume-fl-masterclass-for-2024/"><u>[Updated] Diminishing Volume FL Masterclass for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-elevating-4k-video-output-on-your-devices-for-2024/"><u>[Updated] Elevating 4K Video Output on Your Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-download-and-alter-sacred-audio-sounds/"><u>[Updated] How to Download and Alter Sacred Audio Sounds</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-potential-7-exceptional-services-for-digital-art-nfts/"><u>2024 Approved Unleash Potential 7 Exceptional Services for Digital Art NFTs</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/data-friendly-messaging-tips-to-stay-within-your-mobile-limits/"><u>Data-Friendly Messaging Tips to Stay Within Your Mobile Limits</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-hacks-for-starting-your-windows-in-troubleshooting-safe-mode/"><u>Expert Hacks for Starting Your Windows in Troubleshooting Safe Mode</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/global-watching-made-easy-unlocking-the-power-of-region-independent-dvd-devices-and-overcoming-dvd-zone-restrictions/"><u>Global Watching Made Easy: Unlocking the Power of Region-Independent DVD Devices and Overcoming DVD Zone Restrictions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-motorola-moto-g23-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Motorola Moto G23 FRP</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>New 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online-for-2024/"><u>New Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-downloadinstallregisteruninstall/"><u>New Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New In 2024, Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-text-to-speech-online/"><u>New In 2024, Text To Speech | Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/steps-to-resolve-message-error-code-mm-when-setting-up-new-sim/"><u>Steps to Resolve Message Error Code MM when Setting Up New SIM</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-templates/"><u>Updated Create AI Avatar Video with Templates</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
 </ul></div>
 

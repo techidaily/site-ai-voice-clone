@@ -1,7 +1,7 @@
 ---
 title: New Translate Videos and Subtitles with Veed.io for 2024
-date: 2024-10-29T07:24:32.999Z
-updated: 2024-11-01T06:20:36.593Z
+date: 2024-11-04T01:05:33.183Z
+updated: 2024-11-06T19:50:37.524Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -277,6 +277,13 @@ All said, Veed is a fantastic tool that makes translation into multiple language
 5. Access a rich library of royalty-free assets
 6. Use the app on both desktop and mobile devices
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Functions of Virbo
 
 1. Create AI video with realistic avatars and natural voices
@@ -287,6 +294,13 @@ All said, Veed is a fantastic tool that makes translation into multiple language
 6. Export video in various formats and resolutions
 
 ![oddcast-text-to-speech-demo-8.jpg](https://images.wondershare.com/virbo/features/text-to-speech/oddcast-text-to-speech-demo-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -370,13 +384,6 @@ To use Wondershare Virbo on your Android device, you must fulfill the following 
 * The installation package will download on your device, which can be tapped for further installation.
 * To start using Virbo, select the "Agree" option against the "Privacy Policy" and "End User License Agreement" for the tool.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### For iOS
 
 #### 1\. System Requirements
@@ -451,20 +458,12 @@ To use Wondershare Virbo on your Android device, you must fulfill the following 
 
 Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
 
-## Get To Know Our AI Voice Feature
-
-* **Cost-effectiveness:** Budget-friendly AI voiceovers for video creation
-* **Clear Audio Quality:** Provide an immersive experience with high-quality audio
-* **Spoken by Realistic Avatars:** Engage viewers with Avatars' natural voices in videos
-* **Diverse Accents & Languages:** Elevate video editing experiences with multilingual avatars
-
-![ai voice](https://images.wondershare.com/virbo/guide/online-guide/ai-voice-4.png)
-
-Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
-
-## AI Voice
-
-Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Get To Know Our AI Voice Feature
 
@@ -480,13 +479,28 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 ## AI Voice
 
 Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
+
+## Get To Know Our AI Voice Feature
+
+* **Cost-effectiveness:** Budget-friendly AI voiceovers for video creation
+* **Clear Audio Quality:** Provide an immersive experience with high-quality audio
+* **Spoken by Realistic Avatars:** Engage viewers with Avatars' natural voices in videos
+* **Diverse Accents & Languages:** Elevate video editing experiences with multilingual avatars
+
+![ai voice](https://images.wondershare.com/virbo/guide/online-guide/ai-voice-4.png)
+
+Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice.html) \>>
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+## AI Voice
+
+Virbo's cutting-edge AI capabilities offer a transformative solution to your copywriting needs. With the prowess of our advanced artificial intelligence, rewriting, translating, and refining your content becomes a seamless and efficient endeavor, alleviating you from the burdensome challenges often accompanying these tasks.
 
 ## Get To Know Our AI Voice Feature
 
@@ -522,6 +536,13 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![top-live-streaming-platforms-with-types-1.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1\. Recognizing the Different Types of Live Streaming Platforms
 
  As live streaming is getting popular, people now watch videos online for entertainment. In addition to fun, the**top live-streaming platforms** are used in many different areas like entertainment and education. Let us recognize these types and what makes them separate to understand them better:
@@ -550,31 +571,11 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
  Let’s understand what live shopping is before discussing the**best live-streaming websites** **.** Live shopping combines fun and entertainment with online shopping. You can see products showcased in real time and chat with the hosts. This section will discuss the top live shopping sites and see what makes them stand out.
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1. TikTok Shop
 
  If you are a TikTok enthusiast, you can shop here without leaving the app. It is built right into the platform to let brands connect with people in a fun way. Sellers can sell things and talk to their customers in one place.
 
 ![top-live-streaming-platforms-with-types-2.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2. Facebook Live
 
@@ -634,19 +635,6 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![top-live-streaming-platforms-with-types-8.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4\. The Best Music and Podcast Streaming Platforms in 2024
 
  The emerging online stream sites have changed how we listen to music and podcasts. Now, we can listen to songs and shows whenever and wherever we are. Therefore, let’s pick the one that's best for us to keep up with the latest audio content.
@@ -679,13 +667,6 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![top-live-streaming-platforms-with-types-12.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 6\. The Best Live Sports Streaming Platform in 2024
 
  For the best sports streaming platform, we should consider the video quality and what games they offer. In the following section, you’ll find the best options for watching sports live:
@@ -709,13 +690,6 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 ## The Best Translator to Translate Videos Online
 
  Translating the videos is the only way to expand your connection with a large audience. You can change the audio in the video or add subtitles in various languages to make the video more attractive. We will be going to discuss a**free online video translator** that fulfills the needs of translation.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. Translate Video to Any Languages Online: Virbo
 
@@ -757,6 +731,13 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![upload your video to the Virbo](https://images.wondershare.com/virbo/guide/online-guide/ai-video-translator-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Add subtitles by importing your videos in the editing interface of Virbo. Write subtitles to the video and translate it into your desired language.
 
 ##### **Step 3: Export your video in a high-quality format**
@@ -764,13 +745,6 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
  Click on the export button to save your video in the tool. Click on "My creations" to see your recent or previous videos. Download the video to your device.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/guide/online-guide/ai-video-translator-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -786,6 +760,19 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. Failed to Reach a Large Audience
 
  In this modern world, people create videos for marketing purposes. What happens if the translators do not come into our lives? If your target is to reach a large audience that will see your videos and love your content, then you need a video translator.
@@ -793,6 +780,13 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
  Without a translator, viewers will skip your content, and you cannot reach to a broad audience. Video translators can provide subtitles or translate the audio into video, which will help to boost the connectivity.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Tips to Choose the Best and Free Online Video Translator
 
@@ -823,19 +817,20 @@ Click here to learn more about [AI Voice](https://virbo.wondershare.com/ai-voice
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-the-art-of-differentiating-real-vs-fake-facebook-likes/"><u>[New] 2024 Approved The Art of Differentiating Real vs Fake Facebook Likes</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-innovative-approaches-to-combine-yt-videos-with-ppt-formats/"><u>[New] In 2024, Innovative Approaches to Combine YT Videos with PPT Formats</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-prime-fast-windows-photo-displayer-for-2024/"><u>[New] Prime Fast Windows Photo Displayer for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/engage-your-friends-with-these-top-7-imessage-games-of-20232024/"><u>Engage Your Friends with These Top 7 iMessage Games of 2023/2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-ai-youtube-script-writers-and-the-ultimate-guide/"><u>In 2024, Best AI YouTube Script Writers and The Ultimate Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-building-a-robust-brand-partnership-portfolio-on-youtube/"><u>In 2024, Building a Robust Brand Partnership Portfolio on YouTube</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-pova-5-pro-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Pova 5 Pro Phone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-motorola-moto-g34-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Motorola Moto G34 5G Phone that is Locked?</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/nef/"><u>NEFファイル説明と修復方法：二つのアプローチ解説</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-text-to-speech-for-2024/"><u>New Text to Speech for 2024</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/step-by-step-guide-to-snapchats-captivating-boomers/"><u>Step-By-Step Guide to Snapchat's Captivating Boomers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-talking-photo/"><u>Updated 2024 Approved Talking Photo</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-essential-youtube-marketing-techniques-ranked-from-best-to-worst/"><u>[New] In 2024, Essential YouTube Marketing Techniques – Ranked From Best to Worst</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-easy-guide-record-mov-files-on-win-11-pc/"><u>[Updated] 2024 Approved Easy Guide Record MOV Files on Win 11 PC</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-unlock-creative-storytelling-the-art-of-jump-cutting/"><u>[Updated] 2024 Approved Unlock Creative Storytelling The Art of Jump Cutting</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>2024 Approved Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-premier-productions-first-impression/"><u>2024 Approved Premier Productions First Impression</u></a></li>
+<li><a href="https://windows11.techidaily.com/brushstrokes-begin-accessing-microsoft-paint-in-windows-11/"><u>Brushstrokes Begin: Accessing Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-peak-hours-explained-maximizing-engagement/"><u>Instagram Peak Hours Explained Maximizing Engagement</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-video-editor/"><u>New In 2024, What Is an AI Video Editor?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-introduction-of-wondershare-virbo-for-2024/"><u>New Introduction of Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-artist-for-2024/"><u>New What Is an AI Artist for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-on-downloading-the-latest-ios-software-upgrade/"><u>The Complete Walkthrough on Downloading the Latest iOS Software Upgrade</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-tecno-pova-5-pro-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Tecno Pova 5 Pro Device</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/why-apple-is-not-planning-to-follow-facebook-into-the-metaverse/"><u>Why Apple Is Not Planning to Follow Facebook Into the Metaverse</u></a></li>
 </ul></div>
 
