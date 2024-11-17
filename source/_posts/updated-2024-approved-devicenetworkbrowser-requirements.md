@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Device/Network/Browser Requirements
-date: 2024-11-02T01:58:40.321Z
-updated: 2024-11-06T22:50:13.002Z
+date: 2024-11-12T03:34:19.288Z
+updated: 2024-11-17T03:54:13.199Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -267,6 +267,19 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 
  This online shopping mode has the potential to upscale your business. According to a survey, companies can see top-line growth upward of 25% through live selling. Apart from upscaling, they can see their digital competitors and define new ways to stand out. Sellers can compete by providing discount coupons and virtual demonstrations of products.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. What’s the Core Elements of a Live Video
 
  Selling products via online videos is a marketing technique that is rapidly growing. Already, 80% of marketers confess that livestream shopping is integral to boosting sales online. If you are going tosell live as a seller, you should read this part for some insights. Here, you will learn the core elements of a live video to make your sale successful:
@@ -297,6 +310,13 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 | **YouTube Live**                            | 52%                                                    |
 | **Instagram**                               | 46%                                                    |
 | **Amazon Live**                             | 30%                                                    |
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3\. Live Selling Strategies To Boost Revenue
 
@@ -332,13 +352,6 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 
 ![add audio script to virbo livestream](https://images.wondershare.com/virbo/article/2024/03/guide-to-live-selling-in-todays-work-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * Step 3\. Set Avatar and Other Elements Before Starting Livestreaming
 
  Following this, you can add your required avatars, background, and stickers to the video with the options at the top of the window. Finally, when you are done exploring, hit the "Start livestream" option and live sell on any of the supported platforms.
@@ -363,18 +376,24 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 
  This time, we'll walk you through the process of making a talking AI avatar, including how to**create a talking avatar from a photo** . This allows you to bring any photos to life with the power of AI. Whether you want to create a fun video message, enhance your online presence, or simply explore the possibilities of technology, this tutorial will help you achieve that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What You Can Do With A Talking AI Avatar
 
  When**creating your own talking avatar** , you have the option to use your own images or select from available AI templates. Then, these avatars will be refined through AI processing.
 
  With the emergence of talking AI avatars, the possibilities for their usage across various domains have also expanded. Here are some things you can do when learning**how to create talking avatar** :
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Content creation
 
@@ -405,13 +424,6 @@ Effectively managing unforeseen scenarios or exceptions, ensuring a smooth and u
 ### 1\. Royalty-free assets and templates
 
  Talking avatar platforms often provide a library of royalty-free assets and templates that users can use. These include background music, accents, a diverse selection of AI avatars representing various races, AI anime characters, and more.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Voice narration from a script
 
@@ -479,19 +491,6 @@ Some of Virbo Talking Avatar features include:
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What Is an AI Text Generator? | Wondershare Virbo Glossary
 
 ## Part 1\. What is an AI text generator?
@@ -540,13 +539,6 @@ When using AI text generators, it's important to be mindful of intellectual prop
 
 By considering these factors, monitoring advancements in the field, and implementing responsible practices, the development prospects for AI text generators remain promising, enabling us to leverage their capabilities effectively while ensuring ethical and quality outcomes.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What is an AI text generator?
 
 An AI text generator, also known as a language model, is a software or system that uses artificial intelligence techniques, particularly natural language processing (NLP), to generate human-like text based on the input it receives. Through extensive training on large volumes of text data, these models acquire knowledge of patterns, grammar, and semantics, enabling them to generate cohesive and contextually appropriate text.
@@ -570,13 +562,6 @@ AI text generators can be applied in various scenarios, serving as valuable brid
 In addition to bridging gaps, AI text generators find applications in content creation, chatbots and virtual assistants, creative writing, language translation, customer support, social media marketing, personalized recommendations, text summarization, proofreading and editing, research and data analysis, as well as in legal and healthcare sectors. They assist in generating articles, blog posts, product descriptions, and scholarly papers, automate responses, inspire creativity, condense information, aid in drafting legal documents and medical reports, and much more.
 
 As AI text generation technology advances, it opens up new opportunities in journalism, content localization, e-learning, and beyond.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4\. In using an AI text generator, what should we consider?
 
@@ -608,6 +593,13 @@ Also, these tools extend beyond entertainment and connect fantasy with real life
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: \[Offline Solutions\] Get Perfect With Top Stormtrooper Voice Changer
 
 Do you know you can sound exactly like your favorite Star Wars character? Many voice changer tools are available through which you sound like a favorite character, like a stormtrooper. The following are the tools that help you sound like any character:
@@ -636,6 +628,13 @@ UnicTool MagicVox voice changer tool allows you to transform your voice with 400
 Anyone can sound like a Stormtrooper through this **Stormtrooper voice changer** tool. iMyFone voice changer tool provides 225+ AI voice filters to its users. Moreover, it offers a sound emulator for gaming and other applications. This makes your ganging up and chatting in games cool and interesting.
 
 ![imyfone magicmic stormtrooper sound changer](https://images.wondershare.com/virbo/article/best-voice-changers-to-sound-like-stormtrooper-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -739,7 +738,21 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 [![google-play](https://images.wondershare.com/virbo/images2023/google-play-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt) [![app-store](https://images.wondershare.com/virbo/images2023/app-store-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Are you a professional video creator who wants an effective voiceover feature? [Wondershare Virbo's](https://virbo.wondershare.com/) AI voice feature is the best tool for you. You can generate realistic and captivating voiceovers in different multilingual voices and genders. Also, you can turn your text into speech in video editing and upload audio to turn it into a video. It is the most cost-effective voiceover solution if you are on a tight budget.
 
@@ -764,6 +777,13 @@ Start by launching and installing Virbo on your computer. This innovative video 
 
 ![create video on virbo](https://images.wondershare.com/virbo/article/best-voice-changers-to-sound-like-stormtrooper-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ##### Step 2 Add Text Script and Personalize the Video Settings
@@ -785,13 +805,6 @@ It is time to change the voiceover; press the "Voiceover" button over the volume
 ## Conclusion
 
 We conclude **clone trooper voice modulators** can take your creative projects to new heights. Among the different choices, [Wondershare Virbo](https://virbo.wondershare.com/) is the top recommendation. The tool's friendly interface, efficient setup, and outstanding AI voice feature stand out. It offers a platform for Stormtrooper-like voice effects by adjusting pitch and tone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Exploring the Magic of AI Selfie Generators
 
@@ -871,13 +884,6 @@ Influencers and content creators can establish a consistent and striking visual 
 
 Experience the wonder of Wondershare Virbo - an AI Selfie Generator that stands out for its user-friendly interface and diverse creative asserts. Virbo’s avatar studio empowers users to transform their selfies into stunning visuals with just a few clicks, enhancing facial features, correcting imperfections, and adding artistic flair.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 The era of AI Selfie Generators has arrived, redefining how we capture and present our digital selves. With their ability to effortlessly enhance and transform selfies, these tools are changing the way we express ourselves online. As you journey through this realm of AI-powered creativity, remember that the power to create captivating, authentic, and artistic selfies is now at your fingertips.
@@ -892,18 +898,22 @@ The era of AI Selfie Generators has arrived, redefining how we capture and prese
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-5-ultimate-recording-devices-for-hunting/"><u>[New] 5 Ultimate Recording Devices for Hunting</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[New] The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-steps-to-establish-a-viable-youtube-sponsor-relationship/"><u>2024 Approved Steps to Establish a Viable YouTube Sponsor Relationship</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online/"><u>AI Avatars | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-introduction-of-wondershare-virbo/"><u>New 2024 Approved Introduction of Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-8-best-multi-subtitles-translators-you-shouldnt-miss-for-2024/"><u>New 8 Best Multi-Subtitles Translators You Shouldnt Miss for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-players-rejoice-new-world-now-runs-smoothly-without-unexpected-shutdowns/"><u>PC Players Rejoice: 'New World' Now Runs Smoothly without Unexpected Shutdowns</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photography-for-the-masses-the-best-12-sites-offering-accessible-stock-images-for-2024/"><u>Photography for the Masses - The Best 12 Sites Offering Accessible Stock Images for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/prime-podcast-pickings-gpodcasts-selection-for-2024/"><u>Prime Podcast Pickings - GPodCasts Selection for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/secure-your-free-qualcomm-atheros-ar938x-drivers-without-hassle/"><u>Secure Your Free Qualcomm Atheros AR938X Drivers Without Hassle</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/transforming-tweets-into-audio-based-archives/"><u>Transforming Tweets Into Audio-Based Archives</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wtv-n-avi/"><u>WTV 클라이오ن을 AVI로 자유성 전환 - 모바일 안내</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streamlining-facebook-content-for-tv-platforms/"><u>[New] In 2024, Streamlining Facebook Content for TV Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-no-cost-solution-the-leading-converters-for-jpeg-to-gifs-for-2024/"><u>[Updated] No-Cost Solution The Leading Converters for JPEG to GIFs for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-windows-error-onedrives-incorrect-tag-issue/"><u>Addressing Windows Error: OneDrive’s Incorrect Tag Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/all-about-io-screen-capture-mastery-guidebook-for-2024/"><u>All About IO Screen Capture Mastery Guidebook for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-linguistics-australian-outback-speech-compared-with-uk-and-us/"><u>Global Linguistics: Australian Outback Speech Compared with UK & US</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-generator/"><u>In 2024, What Is an AI Video Generator?</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/mastering-video-face-replacement-with-two-innovative-strategies/"><u>Mastering Video Face Replacement with Two Innovative Strategies</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-recommended-natural-ai-hindi-voice-generator/"><u>New 2024 Approved The Recommended Natural AI Hindi Voice Generator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-video-editor/"><u>New In 2024, What Is an AI Video Editor?</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/step-by-step-guide-eradicating-the-bad-pool-caller-error-in-windows-10/"><u>Step-by-Step Guide: Eradicating the 'Bad Pool Caller Error' In Windows 10</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube-for-2024/"><u>The Ultimate Guide on How to Promoting Music Videos on YouTube for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/unlocking-new-dimensions-in-picture-tones-for-2024/"><u>Unlocking New Dimensions in Picture Tones for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-success-of-nintendo-switch-a-premier-choice-for-on-the-go-gamers/"><u>Unveiling the Success of Nintendo Switch: A Premier Choice for On-the-Go Gamers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
 </ul></div>
 

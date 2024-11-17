@@ -1,7 +1,7 @@
 ---
 title: New In-Depth Review of Ivona Text to Speech Converter for 2024
-date: 2024-10-31T01:42:12.860Z
-updated: 2024-11-06T22:02:57.620Z
+date: 2024-11-15T18:57:19.843Z
+updated: 2024-11-17T04:44:44.108Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -42,13 +42,6 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 **Ivona text-to-speech** is a lightweight software that you can use on Windows computers.
 
  If you want to work on docs, webpages, or other written material, TextAloud 4 Ivona can help you. It also has assistive technology that allows visually impaired people to upgrade their capabilities. You can read anything on Windows computers aloud using its pre-installed voicing system.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Pricing Plans of Ivona
 
@@ -93,6 +86,13 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 1. It supports 150+ realistic-looking avatars through which you can make videos on multiple topics. It also lets you select the attire and gender of an avatar.
 2. Using the [AI script generator](https://virbo.wondershare.com/ai-script.html) of Virbo, you can get intuitive and descriptive scripts on versatile topics. It also lets you optimize scripts on Windows computers.
 3. This tool has endless royalty-free assets that you can use without issues. It also lets you access its templates to work in various ways.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Streamlined Step-by-Step Procedure to Convert Text to Speech with Virbo
 
@@ -233,6 +233,13 @@ As it supports multiple formats for both input and output audio formats, you wil
 2. You can also turn PDF, image, and simple text into speech and add customized intervals.
 3. This tool can also handle audio editing, audio plus video conversion, text extraction, and transliteration for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Bonus Tip: Efficient and AI-Powered AI Voice Generator For Creating Business Videos
 
 Generate Engaging  
@@ -245,13 +252,6 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 [![google-play](https://images.wondershare.com/virbo/images2023/google-play-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt) [![app-store](https://images.wondershare.com/virbo/images2023/app-store-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt)
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Do you wish to create expressive text for speech videos? No need to worry because [Virbo](https://virbo.wondershare.com/) can help you with this. You can use Virbo to create best-in-class AI videos that can engage many users. Adding text and customizing the voice style allows you to get text-to-speech content in a limited time.
 
@@ -273,6 +273,13 @@ The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechan
 
 ![virbo video translator app](https://images.wondershare.com/virbo/article/video-translator-download-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now that we've explored the crucial factors to consider when venturing into video translation let's embark on a practical journey — downloading a video translator. Follow these step-by-step instructions to integrate this powerful tool into your content creation toolkit seamlessly. Additionally, we'll recommend two reputable video translator apps to guide you through the installation process.
 
 #### A Versatile Video Translator Tool: Virbo
@@ -290,13 +297,6 @@ The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechan
 **Step 3:**  Choose the target language for translation. Virbo's extensive language support allows you to cater to a broad audience.
 
 ![select your desired languages](https://images.wondershare.com/virbo/article/video-translator-download-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:**  Click the "Translate" button, triggering the initiation of the translation process.
 
@@ -386,6 +386,13 @@ The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechan
 
 ![live stream shopping](https://images.wondershare.com/virbo/article/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  One of the factors that have made live stream shopping popular is how much users interact with a brand. Shoppers can tune in to a live show to learn more about the product and leave comments the same way they would in an Instagram or YouTube Live. On the other hand, a seller can flash recommendations and reviews on the screen to guide the audience through their purchasing decision. You can think of live streaming shopping as the way we use social media platforms. Rather than liking a product, you now have the opportunity to directly buy it.
 
  As live stream shopping continues to attract more people, several top brands have stood out for their success in this area. Let’s have a look at some of the brands that have made remarkable progress in this area and the lessons we can learn from them:
@@ -399,6 +406,13 @@ The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechan
 **Achievement:** The Samsung livestream shopping created a personalized and bespoke shopping experience, replicating the benefits of in-person shopping. Product demonstrations by sales reps and exclusive deals captivated hundreds of viewers. In addition, the interactive chat that was fueled by personalized nicknames fostered an engaging and lovely atmosphere. This led to a significant boost in sales and customer satisfaction.
 
 **Lessons drawn** : Livestream shopping combined with interactive features and exclusive deals unlocks a powerful sales channel. With personalized engagement, brands can gain from fostering real-time connections with viewers. It also allows them to create an engaging and informative experience while fostering compelling value propositions.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Success Case with Live Online Shopping 2: Giosg One-on-One Live Shop
 
@@ -471,13 +485,6 @@ The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechan
 
 ## What Is an AI Video Generator?
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What is an AI video generator?
 
 An AI video generator is a software or system that automatically generates videos using artificial intelligence techniques, particularly deep learning and computer vision algorithms. It can analyze and interpret input data, such as images, text, or audio, and generate corresponding video content based on a large dataset's learned patterns and styles.
@@ -517,13 +524,6 @@ These generators leverage the power of AI to streamline and enhance video creati
 ## Part 2\. What are some AI video generators worth trying?
 
 With the maturity of AI technology, an increasing number of advanced AI video generators have emerged and achieved impressive results. Here are three highly recommended products currently available on the market:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. HeyGen
 
@@ -601,6 +601,19 @@ Step3 Use Google Translate to Further Improve Translation
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Best Alternatives To Google Translate
 
  Below are some alternatives you can use if Google Translate is unavailable. These options are just as good, if not better.
@@ -624,6 +637,13 @@ Step3 Use Google Translate to Further Improve Translation
 ![SubtitleBee Mainpage](https://images.wondershare.com/virbo/article/google-translate-a-video-06.jpg)
 
 [SubtitleBee](https://subtitlebee.com/) is also a great service to quickly translate and add subtitles to online videos. With a reported accuracy rate of 95%, this service is among some of the most accurate in the market. Moreover, it allows you to customize subtitles, edit and add cool font styles, colors, background details and orientation to create your unique projects. Another great feature is that with SubtitleBee you can add subtitles anywhere on screen. Even on top, if you so want. It also has a supertitles feature as a bonus, which enables you to add head titles on videos.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: FAQs about Google Translate Video Audio
 
@@ -668,13 +688,6 @@ Do you need a virtual person to appear in your videos? Don't worry, Virbo is her
 
 Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avatar.html) \>>
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Realistic AI Avatars
 
 Do you need a virtual person to appear in your videos? Don't worry, Virbo is here for you. Powered by AI, Virbo's can easily create a video for you using digital avatar. Just make some adjustments and add the text you need, and the video will be generated instantly.
@@ -691,10 +704,10 @@ Do you need a virtual person to appear in your videos? Don't worry, Virbo is her
 ![ai avatar](https://static-alisz-rs.wondershare.cn/file/s6/b2d7c2e74fdc9edbab7114ef705f4fe7.png)![ai avatar](https://static-alisz-rs.wondershare.cn/file/s6/a4867985c19d592b6006fb8c98217220.png)![ai avatar](https://static-alisz-rs.wondershare.cn/file/s5/209ad0fd1844ffc6bc69d3f4cf9aa9f2.png)![ai avatar](https://static-alisz-rs.wondershare.cn/file/s4/473215426a4e7e5035f62286102ac0bc.png)![ai avatar](https://static-alisz-rs.wondershare.cn/file/s0/99fb8f77c3748025490152a15798e3ff.png)![ai avatar](https://static-alisz-rs.wondershare.cn/file/s8/87c8d9d8696d0ff3e56b563fe095bb89.png)![ai avatar](https://static-alisz-rs.wondershare.cn/file/s9/e71341c902964895d201ac77b323d308.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avatar.html) \>>
@@ -719,13 +732,6 @@ Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avat
 ## Realistic AI Avatars
 
 Do you need a virtual person to appear in your videos? Don't worry, Virbo is here for you. Powered by AI, Virbo's can easily create a video for you using digital avatar. Just make some adjustments and add the text you need, and the video will be generated instantly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Get To Know Our Realistic AI Avatars
 
@@ -752,22 +758,18 @@ Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimal-team-call-aesthetics-pre-call-and-post-call-tweaks/"><u>[New] 2024 Approved Optimal Team Call Aesthetics Pre-Call & Post-Call Tweaks</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/hegames-legends-youtubes-number-one-ten/"><u>[New] SheGames Legends YouTube's Number One Ten</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-augmented-reality-how-android-enhances-viewing-experience/"><u>[Updated] Augmented Reality How Android Enhances Viewing Experience</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-dual-platform-dance-posting-vids-with-twitter-and-tumblr/"><u>[Updated] In 2024, The Dual-Platform Dance Posting Vids with Twitter & Tumblr</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/usbsata/"><u>換頁成功！如何利用USB和SATA快速從硬碟到固態記憶體複製</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/apple-unveils-magical-on-device-ai-artist-replacing-dall-e-see-how-it-transforms-your-imagination-into-visuals-zdnet/"><u>Apple Unveils Magical, On-Device AI Artist Replacing DALL-E: See How It Transforms Your Imagination Into Visuals | ZDNet</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/capture-words-use-at-zero-expense-for-2024/"><u>Capture Words, Use at Zero Expense for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-fix-low-game-fps-in-windows/"><u>How to Fix Low Game FPS in Windows</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/navigate-safely-through-these-5-potential-chatgpt-scams/"><u>Navigate Safely Through These 5 Potential ChatGPT Scams</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-wondershare-virbo-online/"><u>New 2024 Approved Text To Speech | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>New 2024 Approved The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide-for-2024/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-talking-avatar-in-2024/"><u>Updated What Is Talking Avatar, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-experts-list-of-tools-for-accelerating-your-facebook-vids/"><u>[New] 2024 Approved The Expert's List of Tools for Accelerating Your Facebook Vids</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-watermark-free-stock-image-sources/"><u>[Updated] Exploring Watermark-Free Stock Image Sources</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-top-50plus-powerful-tiktoks-quotes-for-creativity-and-virality-for-2024/"><u>[Updated] Top 50+ Powerful TikToks Quotes for Creativity & Virality for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apple-embraces-siri-the-shift-from-bing-to-ai-powered-search-solutions-an-innovation-analysis-by-zdnet/"><u>Apple Embraces Siri: The Shift From Bing to AI-Powered Search Solutions - An Innovation Analysis by ZDNet</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intels-top-z270-motherboard-for-gamers-carbon-series-with-enhanced-features-and-free-access/"><u>Download Intel's Top Z270 Motherboard for Gamers: Carbon Series with Enhanced Features & Free Access</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-easily-transform-your-msi-gaming-laptop-with-a-solid-state-drive-a-step-by-step-guide/"><u>How to Easily Transform Your MSI Gaming Laptop with a Solid State Drive: A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-15-plus-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 15 Plus Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-7-ways-to-promote-twitch-stream/"><u>New In 2024, Best 7 Ways to Promote Twitch Stream</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-for-2024/"><u>New What Is an AI Video Editor for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-devicenetworkbrowser-requirements/"><u>Updated 2024 Approved Device/Network/Browser Requirements</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
 </ul></div>
 
