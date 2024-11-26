@@ -1,7 +1,7 @@
 ---
 title: New Breakthrough How to Make A Picture Speak for 2024
-date: 2024-11-10T08:44:48.903Z
-updated: 2024-11-17T05:45:14.468Z
+date: 2024-11-21T19:47:36.467Z
+updated: 2024-11-26T20:12:26.956Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -54,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
 ![AI talking photo](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. Difficulties in Talking Photo Technology
 
 ![talking photo difficulties](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-03.jpg)
@@ -71,21 +64,16 @@ thumbnail: https://thmb.techidaily.com/78d24648f206f65b94f12ac351c4b3ce727b02ece
 
  Despite advancements in facial recognition and animation, creating natural-looking mouth movements in talking photos remains a significant challenge. The technology often struggles to accurately replicate the intricate movements and subtleties of human speech.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ● **Unnatural AI Voice**
 
  Another obstacle lies in the synthesis of natural-sounding AI voices. While text-to-speech (TTS) technology has advanced significantly, AI-generated voices can still sound robotic or unnatural. They often lack the nuances and inflections of human speech. Crafting a voice that is clear and emotionally resonant poses a significant challenge, as it involves capturing human expression and intonation nuances.
 
 <!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ● **Lack of Lip Non-Actuation in Multi-Person Conversation Photos**
@@ -146,19 +134,6 @@ To create a talking photo on mobile, follow the steps outlined below:
 
 ![input text record audio](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-online-10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. Click the Upload button to select your image from the computer and open it. Tip: Choose a photo with just one person's face in it.
 
 ![export button pc](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-online-11.jpg)
@@ -166,6 +141,10 @@ To create a talking photo on mobile, follow the steps outlined below:
 1. Once uploaded, move your cursor to the Next button. Allow the app to set up your studio.
 
 ![export button pc](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-online-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. When ready, enter the text you wish your photo to speak within the Text Script section. After inputting your script, adjust your voiceover settings from the section located at the bottom right of the page.
 
@@ -244,6 +223,10 @@ To translate video captions, you can follow the steps:
 
 ![translate-instagram-video-3.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-video-3.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * **Step 2.** Create an account or log in
@@ -259,6 +242,10 @@ To translate video captions, you can follow the steps:
  First, upload the video file you want to translate. Next, select the original video language and choose the target language. You can also activate the Lip Sync feature to ensure the accuracy of audio translation with the video's lip movements or toggle on the Subtitle features.
 
 ![translate-instagram-video-6.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-video-6.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Step 5.** Click "Translate this video".Virbo AI will translate the audio and synchronize it with the video. The duration and complexity of the video may affect the processing time.
 
@@ -356,13 +343,6 @@ To translate video captions, you can follow the steps:
 
 ![generate-speech-from-text-2.jpg](https://images.wondershare.com/virbo/images2023/tts/generate-speech-from-text-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Preview and Export the AI Video**
 
  Once you have worked through the entire editing, preview the video. Then, select the "Export" button to save the video on your smartphone.
@@ -422,10 +402,7 @@ To translate video captions, you can follow the steps:
 ![generate-speech-from-text-9.jpg](https://images.wondershare.com/virbo/images2023/tts/generate-speech-from-text-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4. SpeechGen.io
@@ -449,19 +426,6 @@ To translate video captions, you can follow the steps:
 **Step 2:** Next, choose your language and AI voice. You can also select the pitch and speed of the audio. Once done, tap on "Generate speech."
 
 ![generate-speech-from-text-11.jpg](https://images.wondershare.com/virbo/images2023/tts/generate-speech-from-text-11.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** You can then save your output file in a format of your choice.
 
@@ -514,13 +478,6 @@ It can automatically trim, cut, and arrange video clips to create a cohesive and
 ### 2\. Scene detection
 
 It can analyze the video footage and identify different scenes or segments, making it easier to organize and edit the video.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Object recognition and tracking
 
@@ -660,6 +617,10 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 
  Many people believe that in order to complete it, they must engage a explainer video services. Although it is always a possibility, it is not necessary. Most of the time, anybody can make a fantastic animated explainer video with a little bit of know-how, perseverance, and, of course, a video editor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Purpose of Making Explainer Videos
 
  A short-form video that presents a company's product, service, or business concept in an effective and appealing manner is known as an explainer video. These videos are often used for marketing or sales objectives. Explainer videos are often hosted by companies on their landing pages or shown on the front page of their websites.
@@ -683,6 +644,10 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ## Part 2: How to Make Explainer Videos
 
  In a presentation, there is a time constraint. An explainer video might assist provide background knowledge or convey key points up front so you can quickly access additional pertinent information. You've come to the perfect spot whether you're just beginning to research explainer videos for your company or considering updating your current ones. We'll go over all you need to know about them in this article, as well as how you can use them to build your brand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. **Define Your Target Audience and Goal**
 
@@ -737,10 +702,7 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ![explainer-video-maker-virbo-avatar-1692177228322.jpg](https://images.wondershare.com/virbo/features/marketing/explainer-video/explainer-video-maker-virbo-avatar-1692177228322.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Virbo has 150 or more AI avatars and attributes from many locations and ethnicities throughout the world.
@@ -748,6 +710,10 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 #### **Customizable Template Collection:**
 
 ![explainer-video-maker-virbo-templates-1692177228322.jpg](https://images.wondershare.com/virbo/features/marketing/explainer-video/explainer-video-maker-virbo-templates-1692177228322.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With this professional explainer video creator, all you have to do is use the 180+ Virbo themes and royalty-free music to add originality to your explainer films.
 
@@ -881,19 +847,16 @@ In conclusion, AI text to speech technology transforms how we interact with writ
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-ultimate-guide-to-stellar-tiktok-content-through-template-utilization/"><u>[New] 2024 Approved The Ultimate Guide to Stellar TikTok Content Through Template Utilization</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-effective-method-for-adding-music-to-facebook-iphone-for-2024/"><u>[New] Effective Method for Adding Music to Facebook (iPhone) for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-voice-from-images-turning-instagram-into-mp3s/"><u>[New] Voice From Images Turning Instagram Into MP3s</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-boost-your-meeting-impact-with-efficient-screen-sharing/"><u>[Updated] 2024 Approved Boost Your Meeting Impact with Efficient Screen Sharing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-exploring-the-magic-of-ai-selfie-generators/"><u>2024 Approved Exploring the Magic of AI Selfie Generators</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-free-ways-to-liven-up-static-video-texts/"><u>2024 Approved FREE Ways to Liven Up Static Video Texts</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/amd-graphics-relic/"><u>AMD Graphics Relic</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-templates/"><u>In 2024, Create AI Avatar Video with Templates</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/labor-day-blowout-hp-victus-15-now-just-350-cheaper-at-best-buy-top-sale-alert/"><u>Labor Day Blowout: HP Victus 15 Now Just $350 Cheaper at Best Buy – Top Sale Alert!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-secrets-apples-new-wearable-with-built-in-microphone-price-predictions-and-specs-inside/"><u>Unlocking the Secrets: Apple's New Wearable with Built-In Microphone – Price Predictions and Specs Inside</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-for-2024/"><u>Updated Create AI Avatar Video for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-text-generator/"><u>Updated In 2024, What Is an AI Text Generator?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-instagram-livestreams-with-obs-technology/"><u>[New] Perfecting Instagram Livestreams with OBS Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-photographic-tapestry-assembly-techniques-for-2024/"><u>[New] Photographic Tapestry Assembly Techniques for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-clarity-counts-how-to-zoom-into-every-aspect-of-google-meet-calls/"><u>[Updated] 2024 Approved Clarity Counts How to Zoom Into Every Aspect of Google Meet Calls</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-testing-the-capabilities-of-magix-image-viewer/"><u>In 2024, Testing the Capabilities of MAGIX Image Viewer</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-rated-movie-trailer-apps-for-ios-devices-this-year/"><u>New In 2024, Top-Rated Movie Trailer Apps for iOS Devices This Year</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-talking-avatar-wondershare-virbo-glossary/"><u>New In 2024, What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/the-illustrator-way-adding-realistic-blur-to-your-pics-for-2024/"><u>The Illustrator Way Adding Realistic Blur to Your Pics for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-15-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 15 Pro Max Making It Possible</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-for-2024/"><u>Updated What Is AI API for 2024</u></a></li>
 </ul></div>
 

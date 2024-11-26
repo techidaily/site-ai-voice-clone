@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2024-11-13T19:11:06.328Z
-updated: 2024-11-16T19:25:17.587Z
+date: 2024-11-24T16:50:01.264Z
+updated: 2024-11-26T17:01:07.918Z
 tags:
   - desktop
 categories:
@@ -41,6 +41,10 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -64,25 +68,19 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-evaluation-of-fb-video-shapes/"><u>[New] 2024 Approved Evaluation of FB Video Shapes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-innovating-with-numbers-tips-for-tiktok-video-enhancements/"><u>[New] In 2024, Innovating with Numbers Tips for TikTok Video Enhancements</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-navigating-whatsapps-voice-exchange/"><u>[New] Navigating WhatsApp's Voice Exchange</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-pioneering-storytelling-with-insta-and-youtube-fusion/"><u>[Updated] 2024 Approved Pioneering Storytelling with Insta & YouTube Fusion</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-revamp-your-talk-with-cloud-top-5-online-voice-altering-services-for-chrome-os/"><u>[Updated] In 2024, Revamp Your Talk with Cloud Top 5 Online Voice Altering Services for Chrome OS</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/head-to-head-comparison-apple-watch-series-9-against-fitbit-charge-6/"><u>Head-to-Head Comparison: Apple Watch Series 9 Against Fitbit Charge 6</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-ultimate-guide-to-b2b-video-marketing/"><u>In 2024, The Ultimate Guide to B2B Video Marketing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-talking-emoji-on-iphone-in-easy-steps/"><u>New How To Make Talking Emoji on iPhone in Easy Steps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>New In 2024, Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-online/"><u>Updated In 2024, AI Script | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[New] In 2024, Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-chart-converters-for-video/"><u>[New] Ultimate Chart Converters for Video</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-interactive-engagement-adding-emojis-to-youtubes-comments/"><u>[Updated] Interactive Engagement Adding Emojis to Youtubes' Comments</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-introduction-online/"><u>2024 Approved Introduction | Online</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>2024 Approved Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator/"><u>2024 Approved Video Translator</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/1728466667747-windows-server-201/"><u>快速指南：在Windows Server 201</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-5-viral-video-marketing-techniques-for-big-sellers/"><u>Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-an-ai-avatar-video/"><u>New Create An AI Avatar Video</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/the-influential-edge-mastering-sponsorship-and-promotion-on-social-media-for-2024/"><u>The Influential Edge Mastering Sponsorship and Promotion on Social Media for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content-for-2024/"><u>Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/videopad-review-is-this-video-editor-right-for-you-for-2024/"><u>Videopad Review Is This Video Editor Right for You for 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

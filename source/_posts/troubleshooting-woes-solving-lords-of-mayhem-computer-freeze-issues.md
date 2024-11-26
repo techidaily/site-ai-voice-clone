@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues"
-date: 2024-11-10T17:30:47.161Z
-updated: 2024-11-16T16:32:30.505Z
+date: 2024-11-24T21:33:32.145Z
+updated: 2024-11-26T19:10:18.178Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/yjwj_en_1280_1024_c81e728d9d4c2f636f067f89cc14862c-1200x960.jpg)
 
  Naraka: Bladepoint is finally back with the global release! But just like any other new releases, we’re seeing reports of bugs and errors. Many players reported the game**keeps crashing on PC** . The good news is there are some known fixes available. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -64,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  A faulty or outdated graphic driver is one of the most common reasons for Naraka: Bladepoint keeps crashing on PC. You may want to make sure yours is up-to-date and functioning properly.
@@ -82,6 +79,10 @@ If this doesn’t solve your problem, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -101,15 +102,12 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -118,6 +116,10 @@ If this doesn’t solve your problem, try the next fix.
 3. Epic Games Launcher will complete the scan and repair. It might take a while depending on the game’s size.
 
  If verifying your game files doesn’t fix the crashing issue, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
 
@@ -145,40 +147,21 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
 
@@ -196,10 +179,7 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
@@ -223,6 +203,10 @@ If your game still crashes, try the next fix.
 
 If this doesn’t solve your problem, try the last fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  A clean boot will start your PC with the minimum sets of drivers and services that Windows requires to run.
@@ -237,6 +221,10 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
@@ -271,10 +259,7 @@ If this doesn’t solve your problem, try the last fix.
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
@@ -284,13 +269,6 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -315,24 +293,18 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-beyond-basics-pro-tips-for-sticker-queries-on-instagram/"><u>[Updated] 2024 Approved Beyond Basics Pro Tips for Sticker Queries on Instagram</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-essential-steps-to-create-youtube-beginnings-and-ends-on-a-budget/"><u>[Updated] In 2024, Essential Steps to Create YouTube Beginnings & Ends on a Budget</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>2024 Approved Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-v30-lite-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/future-proof-file-storage-essential-cloud-services-revealed/"><u>Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-high-end-drones-get-yours-now/"><u>In 2024, High-End Drones Get Yours Now</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-definitive-guide-to-affordable-video-calls-online/"><u>In 2024, The Definitive Guide to Affordable Video Calls Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-recommended-natural-ai-hindi-voice-generator/"><u>New 2024 Approved The Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-video-editor/"><u>New In 2024, What Is an AI Video Editor?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-introduction-of-wondershare-virbo-for-2024/"><u>New Introduction of Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-recommended-natural-ai-hindi-voice-generator/"><u>New The Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-artist-for-2024/"><u>New What Is an AI Artist for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/teslas-autonomous-cab-concept-revealed-insights-on-price-points-release-calendar-specifications-and-new-speculations/"><u>Tesla's Autonomous Cab Concept Revealed: Insights on Price Points, Release Calendar, Specifications, and New Speculations</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-replace-sony-vegas-with-these-top-windows-alternatives/"><u>Updated In 2024, Replace Sony Vegas with These Top Windows Alternatives</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
-<li><a href="https://discover-great.techidaily.com/1728482469689-windows-10/"><u>Windows 10に最適: ディスク マルチリカバリのための無料コピーツール</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size/"><u>[New] 2024 Approved Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-10-global-youtube-stars-with-mass-following/"><u>[Updated] 2024 Approved Top 10 Global YouTube Stars with Mass Following</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-youtube-title-genesis-tools/"><u>2024 Approved Transformative YouTube Title Genesis Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/devicenetworkbrowser-requirements-virbo-ai-live-stream-for-2024/"><u>Device/Network/Browser Requirements | Virbo AI Live Stream for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-create-marketing-videos-in-2024/"><u>How to Create Marketing Videos, In 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-learn-the-solution-to-instagram-video-issues/"><u>In 2024, Learn the Solution to Instagram Video Issues</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-translation-online/"><u>New 2024 Approved AI Translation | Online</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-these-16-handy-tips/"><u>Quick Solutions: Repair AirDrop Issues with These 16 Handy Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-scams-how-to-protect-your-online-presence/"><u>Understanding Scams: How to Protect Your Online Presence</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-animated-explainer-video-examples-for-2024/"><u>Updated Best 10 Animated Explainer Video Examples for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>Updated In 2024, Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Updated Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
 </ul></div>
 

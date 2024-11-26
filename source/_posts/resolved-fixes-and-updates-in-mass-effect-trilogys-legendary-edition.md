@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2024-11-13T18:39:56.074Z
-updated: 2024-11-17T01:54:38.406Z
+date: 2024-11-20T19:41:26.646Z
+updated: 2024-11-26T21:36:10.079Z
 tags:
   - win11
   - win10
@@ -45,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
@@ -60,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
@@ -74,15 +68,12 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
@@ -90,19 +81,20 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -117,13 +109,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -167,20 +152,21 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-elite-virtual-classrooms-finding-value-outside-udemys-ecosystem/"><u>[New] 2024 Approved Elite Virtual Classrooms Finding Value Outside Udemy's Ecosystem</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-navigating-facebooks-automatic-video-features/"><u>[Updated] In 2024, Navigating Facebook's Automatic Video Features</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-perfecting-your-performance-logging-the-ultimate-guide-for-capturing-roblox-on-a-mac/"><u>[Updated] In 2024, Perfecting Your Performance Logging The Ultimate Guide for Capturing Roblox on a Mac</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-fix-mfc42ddll-not-found-or-missing-errors/"><u>How to Fix Mfc42d.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-generator/"><u>In 2024, What Is an AI Video Generator?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-solo-podcast-production-for-top-spots/"><u>Mastering Solo Podcast Production for Top Spots</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-pro-level-video-editing-on-mac-adobe-premiere-pro-for-2024/"><u>New Pro-Level Video Editing on Mac Adobe Premiere Pro for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube-for-2024/"><u>The Ultimate Guide on How to Promoting Music Videos on YouTube for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-creating-ai-videos-with-ai-avatars-for-2024/"><u>Updated Creating AI Videos With AI Avatars for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-gold-toned-text-interactive-3d-sites-reviewed/"><u>[New] 2024 Approved Prime Gold-Toned Text Interactive 3D Sites Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-guide-top-6-fb-lite-video-extractors/"><u>[New] 2024 Approved Ultimate Guide Top 6 FB Lite Video Extractors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>[New] In 2024, Snapchat Savvy Mastering Screen Recordings on Your Phone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-making-fb-video-accessible-on-household-tvs/"><u>[Updated] 2024 Approved Making Fb Video Accessible on Household TVs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimize-video-views-with-these-top-5-link-shrinkers/"><u>[Updated] 2024 Approved Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>2024 Approved Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-voice-online/"><u>In 2024, AI Voice | Online</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-odins-legacy-destiny-of-ragnarok/"><u>In 2024, Odin's Legacy Destiny of Ragnarök</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-cpu-test-results-identifying-essential-performance-indicators/"><u>Navigating CPU Test Results: Identifying Essential Performance Indicators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-generate-video-with-talking-photo-feature/"><u>New In 2024, Generate Video with Talking Photo Feature</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool/"><u>New What Is an AI Tool?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated 2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online/"><u>Updated AI Translation | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-creating-ai-videos-with-templates/"><u>Updated In 2024, Creating AI Videos With Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/zoom-woes-is-it-a-problem-with-your-device-or-connection/"><u>Zoom Woes: Is It a Problem with Your Device or Connection?</u></a></li>
 </ul></div>
 

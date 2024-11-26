@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue When Mass Effect Legendary Edition Won't Start
-date: 2024-11-15T23:51:54.519Z
-updated: 2024-11-16T21:41:06.620Z
+date: 2024-11-22T19:43:57.343Z
+updated: 2024-11-26T21:01:08.833Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-legendary-edition-fps-drops.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Disable Origin/ Steam Overlay
 
  The in-game overlay feature allows you to access certain features while playing games. But it is also known to have a negative effect on performance. To alleviate your problem, you’re supposed to disable overlays on[Origin](https://tools.techidaily.com/drivereasy/download/) or[Steam](https://tools.techidaily.com/drivereasy/download/) :
@@ -50,6 +54,10 @@ And you’ll need to disable overlay from the Origin client:
  2) Select**ORIGIN IN-GAME** . Down below, find**Enable Origin In-Game** . Click on the button to disable this option.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-2-1200x480.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it didn’t help you get a noticeable performance increase, proceed to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -79,6 +87,10 @@ After you save the changes, test your gameplay.
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 **Verify game files integrity on Steam**
@@ -89,6 +101,10 @@ After you save the changes, test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
 
 ## 3\. Update your graphics driver
@@ -98,10 +114,7 @@ After you save the changes, test your gameplay.
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
@@ -114,10 +127,7 @@ After you save the changes, test your gameplay.
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
@@ -132,6 +142,10 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
@@ -140,13 +154,6 @@ Here’s how to update drivers with Driver Easy:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run your game in high priority
 
@@ -178,13 +185,6 @@ If this didn’t give you any luck, try the next fix below.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click on the **Browse**  button.  
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
@@ -198,19 +198,6 @@ If this didn’t give you any luck, try the next fix below.
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select **High performance**  and click **Save** .  
   
@@ -230,27 +217,17 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### In Discord
 
@@ -281,15 +258,16 @@ Here’s how to do this:
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
@@ -316,24 +294,22 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-discover-9-free-whole-film-festive-movie-gems-on-youtube/"><u>[New] In 2024, Discover 9 Free, Whole-Film Festive Movie Gems on Youtube</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-from-video-to-song-instagrams-mp3-conversion-process/"><u>[Updated] In 2024, From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-how-to-increase-youtube-traffic-by-a-million-safely-done/"><u>2024 Approved How to Increase YouTube Traffic by a Million Safely Done</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-the-best-of-wearables-apple-watch-series-9-and-fitbit-charge-6/"><u>Comparing the Best of Wearables: Apple Watch Series 9 and Fitbit Charge 6</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drift-innovations-ghost-s-action-camera-review/"><u>Drift Innovations Ghost-S Action Camera Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-reactivate-your-corsair-icue-on-the-latest-windows-11-os/"><u>Expert Solutions to Reactivate Your Corsair iCUE on the Latest Windows 11 OS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>In 2024, 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-an-ai-avatar-video/"><u>In 2024, Create An AI Avatar Video</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-oneplus-11rwithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on OnePlus 11Rwith/without a PC</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlining-your-subtitles-top-10-web-based-editors-reviewed/"><u>In 2024, Streamlining Your Subtitles Top 10 Web-Based Editors Reviewed</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-best-text-to-speech-online-tools-to-use/"><u>The Best Text-to-Speech Online Tools To Use</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transforma-tu-musica-ogg-en-archivos-aiff-libres-y-faciles-con-conversores-online-movavi/"><u>Transforma Tu Música OGG en Archivos AIFF Libres Y Fáciles Con Conversores Online: Movavi</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatar-wondershare-virbo-user-guide/"><u>Updated 2024 Approved AI Avatar | Wondershare Virbo User Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-translate-instagram-videos-easily-a-step-by-step-guide/"><u>Updated 2024 Approved Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-animated-explainer-videos/"><u>Updated How to Make Animated Explainer Videos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-hps-simplified-guide-to-capturing-and-storing-pc-screen-content-for-2024/"><u>[Updated] HP's Simplified Guide to Capturing and Storing PC Screen Content for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-premier-5-minute-longshot-recorder-for-2024/"><u>[Updated] Premier 5-Minute Longshot Recorder for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-boost-your-view-count-this-tutorials-top-hit/"><u>2024 Approved Boost Your View Count This Tutorial's Top Hit</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-talking-avatar-wondershare-virbo-glossary/"><u>2024 Approved What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-wondershare-virbo-for-2024/"><u>Create AI Avatar Video with AI Script | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-videos-wondershare-virbo-online/"><u>In 2024, Create AI Avatar Videos | Wondershare Virbo Online</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-t2x-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo T2x 5G Phones with/without a PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-review-of-googles-pixel-4a-5g-unbeatable-performance-meets-affordability/"><u>In-Depth Review of Google's Pixel 4a 5G: Unbeatable Performance Meets Affordability</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>New 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators/"><u>New How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y27 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-list-best-5-tools-for-creating-talking-avatars/"><u>Updated 2024 Approved Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-generated-text-in-2024/"><u>Updated What Is AI Generated Text, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

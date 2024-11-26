@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Generating Speech in Different Languages With the Best Tools for 2024
-date: 2024-11-14T01:13:44.999Z
-updated: 2024-11-17T05:53:12.938Z
+date: 2024-11-25T17:34:55.456Z
+updated: 2024-11-26T17:28:12.213Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 
 ![generate-speech-in-different-languages-1.jpg](https://images.wondershare.com/virbo/images2023/new/generate-speech-in-different-languages-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. With SSML tags, you can add pauses and emphasize certain phrases. Moreover, you can also modify the pronunciation of words in the AI voice.
@@ -93,13 +97,6 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
  This TTS generator supports more than 270 AI voices with perfect pronunciations. You can also explore more than 30 languages on this platform. Thus, it’s a cost-effective tool that can generate promising AI voices in many languages.
 
 ![generate-speech-in-different-languages-4.jpg](https://images.wondershare.com/virbo/images2023/new/generate-speech-in-different-languages-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -263,13 +260,6 @@ Go to the [online Virbo site](https://tools.techidaily.com/wondershare/virbo/dow
 
 ![text to speech](https://images.wondershare.com/virbo/guide/online-guide/tts-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Create a project
 
 #### Step 2\. Input your text
@@ -304,6 +294,10 @@ Preview the Speech
 
 ![preview of live selling](https://images.wondershare.com/virbo/article/2024/03/guide-to-live-selling-in-todays-work-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Is It Beneficial To Sell Live in This Digital Industry?
 
  Live selling is an emerging way to attract customers to shop on online marketplaces. According to [research](#:~:text=76%25%20of%20US%20adults%20shop,at%20least%20once%20per%20week.) , 76% of US adults prefer shopping online for clothes and groceries. It focuses on customers’ desire to know about products that generate sales. Thus, it proves beneficial in many terms, among which a few are elaborated below:
@@ -335,6 +329,10 @@ Preview the Speech
 ### 3\. Points of Product or Video Content
 
  The main object of live selling is to sell products, but the best way is to create hype. In this regard, brands offer special discounts and giveaways valid only during live streams. It increases the tendency of customers to make purchases during the live sessions. The live session must be 20-30 minutes and include click-on links for easy buying.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Significant Statistics To Support Increasing Influence of Live Selling
 
@@ -395,13 +393,6 @@ Preview the Speech
 
  Another tip to consider is choosing the right time and date for the maximum viewers. In this regard, retailers should avoid a popular shopping period such as Black Friday. In contrast, it is suggested to pick weekends or holidays where customers must be free to join. Also, never choose the working hours of any day and consider the time zones for a global audience.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Keep the Conversation Engaging and Funny
 
  Customers can read the product details and see how it looks, so what difference will they get from a live sale? Considering this perspective, sellers should bring something unique to the shopping stream. For this purpose, they can explain the product's benefits and use cases. Furthermore, they should keep their tone friendly and humorous for the targeted audience.
@@ -428,18 +419,15 @@ Turn on Closed Captions by clicking on the CC button at the bottom.
 
 ![youtube auto translate - step 2](https://images.wondershare.com/virbo/article/auto-translate-for-youtube-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 3
 
 Can you see the auto-generated closed captions in English? Good!
 
 ![youtube auto translate - step 3](https://images.wondershare.com/virbo/article/auto-translate-for-youtube-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Go to**Settings** by clicking on the gear icon (as seen above) and click Subtitles/CC.
 
@@ -463,7 +451,15 @@ For this example, we are selecting Hindi.
 
 ![youtube auto translate - step 6](https://images.wondershare.com/virbo/article/auto-translate-for-youtube-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s all. We hope now you know how**auto translate for YouTube** works. With this feature, you can**translate YouTube video to English,** or any other language according to your needs. It’s easy and super helpful for watching content in any language.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Limitations of YouTube Auto Translate Feature
 
@@ -490,13 +486,6 @@ For this example, we are selecting Hindi.
 Virbo currently supports translation in the following languages:
 
  English, Chinese, Spanish, Arabic, Portuguese, Indonesian, French, Russian, German, Japanese, Italian, Korean, Thai, Filipino, Bengali, Turkish, Dutch, Swedish, Croatian, Romanian, Czech, Hindi, Ukrainian, Vietnamese, Malay, Slovak, Danish, Tamil, Polish, Greek, Finnish, Burmese, Urdu
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How To Use Virbo With YouTube Videos For Auto Translation
 
@@ -573,10 +562,18 @@ For a translated synchronized video, you can follow these steps:
 
  Oddcast is a company that specializes in text to speech (TTS) technology and solutions for web developers and content creators.**Oddcast online** TTS is a technology that converts text into natural sounding speech. It offers two types of TTS products: a cloud based API for developers that enables real-time audio in any online app or website, and a downloadable mp3 audio for games, apps, tutorials or videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Compatibility of Oddcast
 
 1. Compatible with various platforms and languages, such as HTML5, Flash, JavaScript, PHP, ASP.NET, and more
 2. Supports over 25 languages and 200 voices to choose from
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Functions of Oddcast
 
@@ -617,13 +614,6 @@ For a translated synchronized video, you can follow these steps:
  After you select a character, you will see their image on the right side of the page. This is where you can customize their appearance and voice settings. Below the character image, you will see an “Edit” button that allows you to change their hair, eyes, mouth, clothes, accessories, and background. You can click on this button and use the sliders and buttons to adjust these features as you like. For example, if you want to make your character look more funny, you can change their hair color, eye shape, mouth expression, etc.
 
 ![oddcast-text-to-speech-demo-3.jpg](https://images.wondershare.com/virbo/features/text-to-speech/oddcast-text-to-speech-demo-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Step 4
 
@@ -681,13 +671,6 @@ For a translated synchronized video, you can follow these steps:
 
 ![oddcast-text-to-speech-demo-8.jpg](https://images.wondershare.com/virbo/features/text-to-speech/oddcast-text-to-speech-demo-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ## Conclusion
@@ -711,6 +694,10 @@ For a translated synchronized video, you can follow these steps:
  With that in mind, a celebrity voice generator is a program that can help you transform your voice to sound exactly like these personalities. For example, you can use these programs to sound like Barak Obama, Donald Trump, Kanye West, Elon Musk, Morgan Freeman, and other famous celebrities. These programs use well-trained AI (Artificial Intelligence) and deep ML (Machine Learning) to deliver flawless voice transformations.
 
  People often want to sound like a celebrity for entertainment, to educate, to prank friends, and so on. For example, you might want to share an inspirational video or documentary on YouTube, Instagram, Facebook, or TikTok. It might be best to transform your voice into a popular celebrity like Barak Obama, Morgan Freeman, or Donald Trump to achieve your goal. In short, there are many uses for a**free AI celebrity voice generator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 2\. Top 4 Online Celebrity Voice Generator Tools to Use**
 
@@ -744,6 +731,10 @@ For a translated synchronized video, you can follow these steps:
  Cons
 
 * Runs only on Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Celebrit AI Voice Changers
 
@@ -815,13 +806,6 @@ Below are the steps:
 
  There are many things to look for in the best**free celebrity voice generator** . First and foremost, an AI voice generator tool must allow you to create voices in multiple tones and languages. Also, it should be simple to use and offer several customization options, like adding subtitles, stickers, background effects, and more. Use Virbo to enjoy all these features and more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3. **Are AI-generated celebrity voices different from human impersonators?**
 
  Human impersonators can give excellent results for celebrity voices. However, getting an impersonator to generate celebrity voices for TikTok or other social apps can be time-consuming and expensive. AI celebrity voice generators are easier to find and cost-friendly. In addition, you can get multiple celebrity voices in a single program.
@@ -838,24 +822,19 @@ Below are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-4-strategies-for-capturing-xbox-games-play-by-play/"><u>[New] 4 Strategies for Capturing Xbox Games Play-By-Play</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-concurrent-audio-and-video-tracking/"><u>[New] Concurrent Audio and Video Tracking</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-front-rows-of-recreation-beyond-the-sports-arena/"><u>[New] Front Rows of Recreation Beyond the Sports Arena</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-import-audio-tracks-in-premiere-pro/"><u>[Updated] In 2024, Import Audio Tracks in Premiere Pro</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-8-types-of-explainer-videos-with-examples/"><u>2024 Approved 8 Types of Explainer Videos with Examples</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-samsung-galaxy-a24-frp-bypass-by-drfone-android/"><u>About Samsung Galaxy A24 FRP Bypass</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/audio-wizardry-in-action-techniques-for-professional-video-sound-recording-for-2024/"><u>Audio Wizardry in Action Techniques for Professional Video Sound-Recording for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/exploring-the-latest-advancements-in-lgs-all-round-360-camera/"><u>Exploring the Latest Advancements in LG's All-Round 360 Camera</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>In 2024, Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-fundamentals-of-youtube-video-archiving/"><u>In 2024, The Fundamentals of YouTube Video Archiving</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-choice-android-sky-dumps-and-safes/"><u>In 2024, Top Choice Android Sky Dumps & Safes</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-for-2024/"><u>New Diverse Template for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>New In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-converter-for-2024/"><u>New In-Depth Review of Ivona Text to Speech Converter for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/smooth-wifi-experience-awaits-you-premium-wireless-drivers-ready-for-download/"><u>Smooth WiFi Experience Awaits You: Premium Wireless Drivers Ready for Download</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatars-online/"><u>Updated 2024 Approved AI Avatars | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>Updated 2024 Approved Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-common-platforms/"><u>Updated Common Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-live-deepfakes-made-easy-how-to-download-and-make-your-own-live-model-for-2024/"><u>Updated Live Deepfakes Made Easy How to Download and Make Your Own Live Model for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-infinite-views-looping-videos-on-your-iphone/"><u>[New] 2024 Approved Infinite Views Looping Videos on Your iPhone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-instalment-insight-getting-vrecord-running/"><u>[Updated] 2024 Approved Instalment Insight Getting VRecord Running</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-light-up-the-screen-techniques-for-stunning-youtube-visuals/"><u>[Updated] In 2024, Light Up the Screen Techniques for Stunning YouTube Visuals</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-superior-economical-live-camera-snapper/"><u>[Updated] Superior Economical Live Camera Snapper</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/access-private-text-interactions-converse-with-chatgpt-through-duckduckgos-secure-ai-messaging-app/"><u>Access Private Text Interactions: Converse with ChatGPT Through DuckDuckGo’s Secure AI Messaging App</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/beat-the-chill-overcoming-call-of-duty-vanguard-freezing-problems-with-pro-hacks/"><u>Beat the Chill: Overcoming Call of Duty: Vanguard Freezing Problems with Pro Hacks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/diy-solutions-for-logitech-g430-microphone-connectivity-problems/"><u>DIY Solutions for Logitech G430 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-unmatched-gaming-with-the-ibuypower-tailored-gaming-machine-an-in-depth-analysis/"><u>Experience Unmatched Gaming with the IbuyPower Tailored Gaming Machine: An In-Depth Analysis</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-steadicams-for-uav-aerial-cinematography-for-2024/"><u>Ideal Steadicams for UAV Aerial Cinematography for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-ai-for-success-how-chatgpt-can-transform-your-proposal-writing-strategy/"><u>Leveraging AI for Success: How ChatGPT Can Transform Your Proposal Writing Strategy</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-your-options-in-tablets-comparing-amazon-fire-to-the-ipad/"><u>Navigating Your Options in Tablets: Comparing Amazon Fire to the iPad</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/solving-compatibility-problems-for-intels-drivers-and-support-suite-on-pc/"><u>Solving Compatibility Problems for Intel's Drivers & Support Suite on PC</u></a></li>
+<li><a href="https://driver-download.techidaily.com/upgrade-to-the-latest-drivers-for-your-brother-l2690dw-printer-quick-guide-and-resources/"><u>Upgrade to the Latest Drivers for Your Brother L2690DW Printer: Quick Guide and Resources</u></a></li>
 </ul></div>
 

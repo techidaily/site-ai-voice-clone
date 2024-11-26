@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes to Stop CS:GO From Freezing and Jittering"
-date: 2024-11-13T18:00:08.993Z
-updated: 2024-11-16T20:55:07.436Z
+date: 2024-11-19T16:03:43.205Z
+updated: 2024-11-26T20:15:08.327Z
 tags:
   - win11
   - win10
@@ -41,16 +41,7 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
@@ -58,10 +49,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
@@ -91,6 +79,10 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -99,6 +91,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -106,13 +102,6 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -136,16 +125,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -156,19 +142,6 @@ Here is how to verify the integrity of Dauntless:
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
-
-<!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -193,21 +166,16 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>[New] From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-sdr-to-hd-now-hdr-the-next-leap-in-editing-workflows/"><u>[New] In 2024, SDR to HD, Now HDR The Next Leap in Editing Workflows</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-seamless-facial-smoothing-motion-blur-techniques-in-picsart/"><u>[New] In 2024, Seamless Facial Smoothing Motion Blur Techniques in Picsart</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/elite-selection-of-extended-mouse-pads-find-your-perfect-match/"><u>Elite Selection of Extended Mouse Pads - Find Your Perfect Match</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/essential-tips-for-simple-hdr-mastery/"><u>Essential Tips for Simple HDR Mastery</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fix-and-play-how-to-solve-world-of-warcraft-not-opening-on-windows-or-mac/"><u>Fix and Play: How to Solve World of Warcraft Not Opening on Windows or Mac</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-poco-f5-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Poco F5 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-7-talking-photo-ai-you-must-try-online-and-download/"><u>In 2024, Best 7 Talking Photo AI You Must Try (Online & Download)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-8-best-kept-video-download-secrets/"><u>Top 8 Best-Kept Video Download Secrets</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-build-your-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Build Your AI Twitch Streamer with Animated Avatars</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>Updated What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/vocal-vanishing-act-how-to-seamlessly-remove-singers-voice-from-an-audio-track-using-audacity-tools/"><u>Vocal Vanishing Act How to Seamlessly Remove Singers Voice From an Audio Track Using Audacity Tools</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-home-studio-heroics-your-path-to-effectful-artistry/"><u>[Updated] 2024 Approved Home Studio Heroics Your Path to Effectful Artistry</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unveiling-the-truth-apples-face-id-against-samsung-writers-face-matching/"><u>[Updated] Unveiling the Truth Apple's Face ID Against Samsung’ Writers' Face-Matching</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-filmmaking-on-your-ios-device-for-2024/"><u>Cutting-Edge Filmmaking on Your iOS Device for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/master-remote-presentations-the-ultimate-guide-to-using-manycam-for-live-cams-and-video-conferencing-solutions/"><u>Master Remote Presentations: The Ultimate Guide to Using ManyCam for Live Cams and Video Conferencing Solutions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-breakthrough-how-to-make-a-picture-speak/"><u>New 2024 Approved Breakthrough How to Make A Picture Speak</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online-for-2024/"><u>New Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-downloadinstallregisteruninstall/"><u>New Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/troubleshooting-itunes-store-issues-tips-for-smooth-loading-and-access/"><u>Troubleshooting iTunes Store Issues: Tips for Smooth Loading and Access</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-templates/"><u>Updated Create AI Avatar Video with Templates</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
 </ul></div>
 

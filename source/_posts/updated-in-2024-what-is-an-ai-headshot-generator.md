@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, What Is an AI Headshot Generator?
-date: 2024-11-14T00:21:43.880Z
-updated: 2024-11-17T06:02:11.664Z
+date: 2024-11-23T19:08:49.661Z
+updated: 2024-11-26T21:47:23.644Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -36,6 +36,10 @@ Before utilizing AI-generated headshots in a professional context, ensuring that
 
 AI-generated headshots can offer a consistent visual aesthetic across your team's profiles or marketing materials. It can help establish a cohesive brand identity and create a polished impression.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Time and Cost Efficiency
 
 Generating headshots with AI can be quicker and more cost-effective than scheduling and conducting photoshoots for every individual. It is particularly useful when working with large teams or for time-sensitive projects
@@ -61,19 +65,6 @@ Some AI headshot generators allow customization, such as adjusting facial expres
 Be aware of copyright or licensing issues related to the AI-generated images. Ensure you have the right to use and distribute the photos for your intended purposes.
 
 Ultimately, the decision to use AI-generated headshots in professional settings depends on your specific needs and the industry in which you operate. As AI technology improves, these generated images will likely become even more convincing and versatile for various applications.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1\. What is an AI headshot generator?
 
@@ -146,6 +137,10 @@ Choose a template you prefer and click “create a video”.
 
 ![choose template](https://images.wondershare.com/virbo/guide/windows/choose-template.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Template
 
 #### Step 2\. Edit Video
@@ -196,6 +191,10 @@ Choose a template you prefer and click “create a video”.
 
 ![choose template](https://images.wondershare.com/virbo/guide/windows/choose-template.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Template
 
 #### Step 2\. Edit Video
@@ -218,13 +217,6 @@ Once you finished producing the video, click “export” to generate the video.
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Export Video
 
 #### FAQs about Diverse Templates
@@ -244,6 +236,10 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 ## 7 Top Explainer Video Makers You May Like
 
  An explainer video is a short video of a few minutes in which a company can represent its product. The main purpose of making explanatory videos is to boost the company’s sales. Because in explainer video production it must be kept in mind that the company’s product is completely explained and some awareness will also be created among the people about your brand. Other purposes may include providing education, improving SEO, etc. In this article, I am going to tell you the importance of making an explainer video along with the names of some explainer video creators. So, let’s dive into it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: The Importance of Making Explainer Videos
 
@@ -293,6 +289,10 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 2. Although Wideo is also available in the free version some of its advanced features have subscription fees.
 3. As it is a web-based platform that’s why it requires a stable internet connection.
 4. Wideo allows you to add audio to your content but there are some restrictions like you do not adjust the volume according to your choice etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Powtoon
 
@@ -378,13 +378,6 @@ Here are some key features of Virbo by Wondershare
 * There are versatile amounts of commercial stock in Virbo. You can also use the 180+ Virbo templates along with royalty-free music.
 * This tool also integrates natural AI Voices. With these AI Voices, you can make top-class text-to-speech videos.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6. Animaker
 
 ![3d-animated-video-maker-animaker.jpg](https://images.wondershare.com/virbo/features/marketing/3d-animated-video-maker-animaker.jpg)
@@ -457,13 +450,6 @@ In the age of rapid technological advancement, AI portrait generators challenge 
 
 AI portrait generators stand as testament to the incredible capabilities of artificial intelligence in the realm of artistic expression. As they usher in a new era of creativity and exploration, these generators push the boundaries of what is possible and encourage us to embrace the fusion of technology and art. The question of whether AI-generated portraits are worth it isn't just about the images they produce, but about the broader implications they hold for the future of human creativity.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1\. What is an AI Portrait Generator?
 
 An AI portrait generator is a cutting-edge application of artificial intelligence that employs advanced algorithms, often based on deep learning and neural networks, to create portraits that mimic the intricacies of human faces. These generators analyze patterns, features, and artistic styles from vast datasets of portraits, enabling them to produce awe-inspiring images that capture the essence of their subjects.
@@ -501,10 +487,7 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 ![voice translation app illustration](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Best Apps for Voice Translation From English to Bangla
@@ -549,13 +532,6 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 #### Gglot: Best English to Bengali Voice Translation Online for Meetings
 
 ![gglot translate english to bengali generator](https://images.wondershare.com/virbo/article/2024/03/voice-translation-english-to-bangla-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Need to translate English to Bengali voice recordings but worried about various speakers? Gglot's multiple speaker recognition feature makes it possible, saving you hours of work. Unlike many tools, it can transcribe up to 10 speakers at once.
 
@@ -779,23 +755,9 @@ Conclusion
 * Not suitable for audio-only voiceovers
 * You can't arrange different video elements precisely using timeline editing
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Veed.io
 
 ![Veed.io text-to-video generator.](https://images.wondershare.com/virbo/article/2024/03/top-text-to-video-ai-generators-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Veed.io](https://www.veed.io/tools/ai-video/text-to-video) now also has a**text-to-video AI generator** tool that enables you to generate videos from text within minutes. Moreover, the platform offers built-in animations, filters, subtitles, and sound effects. It provides the tools to express your creativity in videos across various languages.
 
@@ -820,6 +782,10 @@ Conclusion
 ## 5\. Kapwing
 
 ![Kapwing text-to-video generator.](https://images.wondershare.com/virbo/article/2024/03/top-text-to-video-ai-generators-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Kapwing's](https://www.kapwing.com/ai/text-to-video) text-to-video generator enables users to transform text of any length into videos. You can also incorporate elements such as stock footage, background music, subtitles, transitions, and additional features. Furthermore, you can edit your AI-generated videos directly within their web browser using Kapwing's video editor.
 
@@ -924,6 +890,10 @@ Conclusion
 
  Among these, you might want to check out Steve AI for its innovative approach to transforming text into engaging videos. It provides collaboration tools and offers diverse animation styles for you to choose from. But if you want a text-to-video AI that is free to use, you can try Stable-diffusion-videos and experiment with your prompts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus: The Best Video-to-Text Tool – Wondershare Virbo
 
  While**text-to-video generators** allow you to create videos from text, sometimes you might want to do the reverse: extract text from videos. This is where Wondershare Virbo comes into play.
@@ -942,6 +912,10 @@ Some key features of Virbo’s Video Translator tool are:
 * High accuracy in translating spoken content to written text
 
  This text-to-video AI tool proves invaluable in overcoming language obstacles. It serves as a resource for content creators, businesses, and people who want to engage with diverse global audiences by delivering compelling and localized video content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -984,6 +958,10 @@ AI generated text offers several advantages:
 ## Conclusion
 
 AI generated text is reshaping content creation across industries. Its efficiency, scalability, and potential for enhancing creativity make it a valuable tool for businesses and creators alike. As technology continues to advance, AI text generators are likely to play an increasingly significant role in content production.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is AI Generated Text?
 
@@ -1031,24 +1009,16 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-igtv-a-comprehensive-guide-for-social-media-pros/"><u>[Updated] 2024 Approved Mastering the Art of IGTV A Comprehensive Guide for Social Media Pros</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/a-critique-on-capcoms-latest-quest-hunting-and-defeating-extraordinary-beasts-in-monster-hunter-world/"><u>A Critique on Capcom's Latest Quest: Hunting and Defeating Extraordinary Beasts in Monster Hunter: World</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/alienwares-latest-gaming-desktop-with-rtx-4070-super-now-at-an-unbelievable-price-of-1499-after-savings/"><u>Alienware's Latest Gaming Desktop with RTX 4070 Super – Now at an Unbelievable Price of $1,499 After Savings</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/disabling-amber-alert-notifications-steps-for-android-users/"><u>Disabling Amber Alert Notifications: Steps for Android Users</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/get-connected-without-a-phone-register-on-platforms-such-as-chatgpt-telegram-and-whatsapp-using-alternative-id-verification-techniques/"><u>Get Connected Without a Phone: Register on Platforms Such as ChatGPT, Telegram & WhatsApp Using Alternative ID Verification Techniques</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/gpt-and-bing-duels-for-ultimate-generative-chat-excellence/"><u>GPT and Bing Duels for Ultimate Generative Chat Excellence</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/microsoft-rolls-out-custom-networking-solutions-tailored-for-ai-data-centers-latest-news/"><u>Microsoft Rolls Out Custom Networking Solutions Tailored for AI Data Centers - Latest News</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/next-gen-computing-discover-the-powerful-combination-of-meteor-lake-cpu-and-intel-core-i9-in-onexplayers-new-mini-pc-enhanced-with-up-to-32gb-ram-and-oculin94/"><u>Next-Gen Computing: Discover the Powerful Combination of Meteor Lake CPU and Intel Core I9 in OneXPlayer's New Mini-PC - Enhanced with up to 32GB RAM & OCuLink Technology</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
-<li><a href="https://win11.techidaily.com/tactics-to-address-non-signed-windows-update-files/"><u>Tactics to Address Non-Signed Windows Update Files</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-equipment/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Equipment</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-strategies-solving-cmos-battery-related-checksum-problems/"><u>Troubleshooting Strategies: Solving CMOS Battery-Related Checksum Problems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/troubleshooting-woes-solving-lords-of-mayhem-computer-freeze-issues/"><u>Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-xiaomi-redmi-13c-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Xiaomi Redmi 13C 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/unleashing-vrecorders-capabilities-download-and-setup-guide-for-2024/"><u>Unleashing VRecorder's Capabilities – Download & Setup Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/win-1111-guide-solving-audacity-sound-error/"><u>Win 11/11 Guide: Solving Audacity Sound Error</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-navigating-discords-broadcast-settings-for-easy-streaming/"><u>[Updated] 2024 Approved Navigating Discord's Broadcast Settings for Easy Streaming</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/25-alternatives-to-gpt-for-retail-management-on-mobile-devices/"><u>25 Alternatives to GPT for Retail Management on Mobile Devices</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-strategies-restoring-your-rainbow-six-siege-server-link/"><u>Comprehensive Strategies: Restoring Your Rainbow Six Siege Server Link</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/enjoy-virtual-reality-with-plex-streaming-on-oculus-quest-the-ultimate-guide/"><u>Enjoy Virtual Reality with Plex Streaming on Oculus Quest: The Ultimate Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-tecno-camon-20-premier-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Tecno Camon 20 Premier 5G Through Google Earth?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-origami-homes-in-minecraft-japanese-vistas/"><u>In 2024, Origami Homes in Minecraft Japanese Vistas</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-generator/"><u>In 2024, What Is an AI Video Generator?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube-for-2024/"><u>The Ultimate Guide on How to Promoting Music Videos on YouTube for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
 </ul></div>
 

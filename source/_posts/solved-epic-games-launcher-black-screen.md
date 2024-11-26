@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Epic Games Launcher Black Screen"
-date: 2024-11-12T06:50:06.295Z
-updated: 2024-11-17T01:18:06.530Z
+date: 2024-11-20T16:41:01.859Z
+updated: 2024-11-26T16:17:29.976Z
 tags:
   - win11
   - win10
@@ -47,10 +47,7 @@ Here’s how you can do this:
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down to**Display resolution** and click on the**down arrow** button.
@@ -76,6 +73,10 @@ Here’s how you can do this:
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -106,6 +107,10 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for them to take effect.
@@ -123,6 +128,10 @@ Here’s how you can do this:
  2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After applying the changes, open the launcher, and check if the problem is resolved. If not, proceed to the next fix.
 
@@ -148,22 +157,13 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
-
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
 
@@ -186,6 +186,10 @@ Here’s how you can do this:
  10) Click**Test the program…** \>**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  11) Click**Yes, save these settings for this program** .
 
@@ -221,19 +225,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 7: Change your DNS server to the Google Public DNS
 
  Sometimes changing the DNS server can fix many issues. So here you can also do this to fix the black screen issue.
@@ -241,13 +232,6 @@ Here’s how you can do this:
  1) In the**Search** box, type**control panel** and click**Control Panel** from the results.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click**Network and Internet** . (Note: make sure that it’s**View by: Category** .)
 
@@ -265,9 +249,17 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
@@ -288,42 +280,25 @@ To do this, simply follow the instructions below:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When a prompt appears, simply click **Yes** .
 
  3) Type the command **ipconfig /flushdns** and hit **Enter** .
 
 ![flush the DNS cache](https://images.drivereasy.com/wp-content/uploads/2020/09/flush-DNS-cache.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After successfully clearing your DNS cache, try opening your launcher again to check if it fixes the issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 9: Change high DPI settings
 
  1) Right-click on the launcher’s shortcut and select**Properties** .
 
 ![change high DPI settings Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select the**Compatibility** tab and click**Change high DPI settings** .
 
@@ -334,6 +309,10 @@ To do this, simply follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 10: Use a VPN
 
@@ -356,13 +335,6 @@ Below is the VPN we would like to recommend:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 * [black screen](https://tools.techidaily.com/drivereasy/download/)
 * [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
@@ -381,20 +353,17 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-link-up-in-the-world-of-instagram/"><u>[New] In 2024, How-To Link Up in the World of Instagram</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-meme-list-social-media-giants-clash/"><u>[New] In 2024, The Ultimate Meme List Social Media Giants Clash</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-top-video-chat-tools-on-windows-6-1-leaders/"><u>[New] In 2024, Top Video Chat Tools on Windows #6-#1 Leaders</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-media-content-via-youtube-studio-editing-skills-for-2024/"><u>[Updated] Elevate Your Media Content via YouTube Studio Editing Skills for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-affordable-webinar-tools-for-efficient-recording/"><u>2024 Approved Affordable Webinar Tools for Efficient Recording</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-artist/"><u>2024 Approved What Is an AI Artist?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-avatar-wondershare-virbo-user-guide-for-2024/"><u>AI Avatar | Wondershare Virbo User Guide for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ideal-enhancements-boosting-chatgpt-and-vs-code-synergy/"><u>Ideal Enhancements: Boosting ChatGPT & VS Code Synergy</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-masterful-methods-to-add-a-secure-link-to-your-tiktok-profile/"><u>In 2024, Masterful Methods to Add a Secure Link to Your TikTok Profile</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>New 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>New 2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-transform-youtube-live-with-these-must-know-secrets/"><u>New Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808316161-update-drivers-on-windows-7-8-10-easily/"><u>Update Drivers on Windows 7 / 8 / 10. Easily</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated 2024 Approved Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-convert-video-voice-to-text-online-for-free/"><u>Updated 2024 Approved How To Convert Video Voice to Text Online for Free?</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/caution-steer-clear-from-gpt-on-phones/"><u>Caution: Steer Clear From GPT on Phones</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-tutorial-capturing-sound-clips-using-windows-10-pc-features/"><u>Easy Tutorial: Capturing Sound Clips Using Windows 10 PC Features</u></a></li>
+<li><a href="https://windows11.techidaily.com/fix-for-rockalldlldll-not-found-on-windows-devices/"><u>Fix for 'Rockalldll.dll' Not Found on Windows Devices</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-oppo-a56s-5g-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Oppo A56s 5G Phone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/material-preparation-for-2024/"><u>Material Preparation for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New In 2024, Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-text-to-speech-online/"><u>New In 2024, Text To Speech | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-headshot-generator-for-2024/"><u>New What Is an AI Headshot Generator for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/streaming-made-easy-share-screen-from-android-to-amazon-firestick/"><u>Streaming Made Easy: Share Screen From Android to Amazon Firestick</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/techniques-for-swiftly-cleaning-your-youtube-buffered-queue-for-2024/"><u>Techniques for Swiftly Cleaning Your YouTube Buffered Queue for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unraveling-the-specs-a-deep-dive-into-toms-hardware-analysis/"><u>Unraveling the Specs: A Deep Dive Into Tom’s Hardware Analysis</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
 </ul></div>
 

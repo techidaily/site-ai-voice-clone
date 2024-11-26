@@ -1,7 +1,7 @@
 ---
 title: "Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance"
-date: 2024-11-11T19:24:38.994Z
-updated: 2024-11-17T07:23:44.399Z
+date: 2024-11-19T19:16:06.438Z
+updated: 2024-11-26T17:10:06.608Z
 tags:
   - desktop
 categories:
@@ -54,6 +54,10 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
  That said, if Ayaneo's successful[Indiegogo campaign](https://www.indiegogo.com/projects/ayaneo-retro-mini-pc-creator-of-mini-pc-2-0-era#/) proved anything, it's that users are willing to pay for a fun retro design despite potential trade-offs —[nostalgia is always a great way](https://www.tomshardware.com/peripherals/mechanical-keyboards/grab-this-cool-retro-console-inspired-keyboard-for-just-dollar83) to get people to buy something.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -77,33 +81,22 @@ __Ayaneo Retro Mini PC AM01 Specification__
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-instant-darkness-pretty-simple/"><u>[New] Instant Darkness, Pretty Simple</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-easy-access-to-expert-tech-insights-for-2024/"><u>[Updated] Easy Access to Expert Tech Insights for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-premier-new-innovations-exposed/"><u>[Updated] Facebook's Premier New Innovations Exposed</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-guide-to-instagram-filters/"><u>[Updated] The Ultimate Guide to Instagram Filters</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-translate-video-speech-to-text-with-speech-to-text-converters/"><u>2024 Approved Translate Video Speech to Text with Speech-to-Text Converters</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-xiaomi-14-ultra-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Xiaomi 14 Ultra Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-smart-list-essential-6-fb-lite-videos-for-you/"><u>In 2024, Smart List Essential 6 FB Lite Videos for You</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>New 2024 Approved How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-talking-avatar-in-2024/"><u>New What Is Talking Avatar, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/revolutionize-virtual-participation-with-top-10-free-recorder-software/"><u>Revolutionize Virtual Participation with Top 10 Free Recorder Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-pova-6-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Pova 6 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/understanding-consumer-behavior-a-guide-for-market-researchers/"><u>Understanding Consumer Behavior A Guide for Market Researchers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-best-5-ai-powered-script-to-video-makers/"><u>Updated Best 5 AI-Powered Script to Video Makers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-text-to-speech/"><u>Updated What Is AI Voice Text to Speech?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-tool-in-2024/"><u>What Is an AI Tool, In 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-calculating-costs-in-youtube-advertising-campaigns/"><u>[New] Calculating Costs in YouTube Advertising Campaigns</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/1-mastering-the-art-of-microsoft-word-recovery-a-step-by-step-guide/"><u>1. Mastering the Art of Microsoft Word Recovery: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/10-best-online-destinations-for-accessible-images/"><u>10 Best Online Destinations for Accessible Images</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-path-to-perfect-visuals-an-advanced-course-in-vce-22/"><u>2024 Approved The Path to Perfect Visuals An Advanced Course in VCE 2.2</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online/"><u>AI Avatars | Online</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-new-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer Data from Apple iPhone 15 Pro Max to New iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-2024-15/"><u>MP4 剪接軟體全新列表！【2024 綜合排名榜】選出的 15 件高效之選</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-introduction-of-wondershare-virbo/"><u>New 2024 Approved Introduction of Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-voice-text-to-speech-wondershare-virbo-glossary/"><u>New 2024 Approved What Is AI Voice Text to Speech? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-hatsune-miku-ai-voice-generators-for-all-times-for-2024/"><u>New Best Hatsune Miku AI Voice Generators for All Times for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-downloadinstallregisteruninstall-wondershare-virbo/"><u>New In 2024, Download/Install/Register/Uninstall | Wondershare Virbo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/online-broadcasting-basics-a-streamers-guide-to-capture-for-2024/"><u>Online Broadcasting Basics A Streamer’s Guide to Capture for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-for-resolving-dying-light-performance-issues/"><u>Troubleshooting Tips For Resolving Dying Light Performance Issues</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-material-preparation/"><u>Updated Material Preparation</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

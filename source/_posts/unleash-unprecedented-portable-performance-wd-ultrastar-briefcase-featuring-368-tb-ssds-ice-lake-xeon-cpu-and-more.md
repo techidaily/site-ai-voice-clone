@@ -1,7 +1,7 @@
 ---
 title: Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More
-date: 2024-11-12T16:40:08.727Z
-updated: 2024-11-16T19:16:50.974Z
+date: 2024-11-24T16:22:54.592Z
+updated: 2024-11-26T17:51:02.276Z
 tags:
   - desktop
 categories:
@@ -49,6 +49,10 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -72,28 +76,22 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hide-identity-in-images-best-face-cutting-apps-revealed/"><u>[New] Hide Identity in Images Best Face-Cutting Apps Revealed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-explore-uncharted-territories-with-these-iphone-vr-apps/"><u>[Updated] 2024 Approved Explore Uncharted Territories with These iPhone VR Apps</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-collect-premium-audio-for-video-editors-for-2024/"><u>[Updated] Collect Premium Audio for Video Editors for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/hitching-a-ride-in-high-flying-tiktok-live-shows/"><u>Hitching a Ride in High-Flying TikTok Live Shows</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a2-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A2 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://fox-search.techidaily.com/mastering-windows-10-restoration-bypass-the-limits-with-go-backless-techniques/"><u>Mastering Windows 10 Restoration: Bypass the Limits with Go-Backless Techniques</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-voice-generator/"><u>New 2024 Approved What Is an AI Voice Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-avatar-online-for-2024/"><u>New Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ifas-favorite-footage-charted-on-youtube/"><u>[New] FIFA's Favorite Footage Charted on YouTube</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-the-future-is-now-with-the-sj7-4k-action-camera-a-full-review/"><u>[New] The Future Is Now with the SJ7 4K Action Camera - A Full Review</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-guide-to-vsdc-and-its-rivals-for-2024/"><u>[New] The Ultimate Guide to VSDC and Its Rivals for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-budget-friendly-gopro-adds/"><u>[Updated] 2024 Approved Ultimate Budget-Friendly GoPro Adds</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-templates-online/"><u>Create AI Avatar Video with Templates | Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-lava-yuva-2-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Lava Yuva 2 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-making-your-photoshop-projects-pop-with-3d-text-design/"><u>In 2024, Making Your Photoshop Projects Pop with 3D Text Design</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-itel-s23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Itel S23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/microsoft-surface-go-analysis-how-an-economical-device-faces-a-perplexing-classification-dilemma/"><u>Microsoft Surface Go Analysis: How an Economical Device Faces a Perplexing Classification Dilemma</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-9-french-video-translators-online-and-download-options/"><u>New 2024 Approved Best 9 French Video Translators Online and Download Options</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-ai-video-makers-from-photos-to-create-captivating-videos-with-pictures/"><u>New 2024 Approved The Best AI Video Makers From Photos to Create Captivating Videos with Pictures</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-5-substitute-options-for-openais-sora-offering-no-cost-access-to-state-of-the-art-ai/"><u>Top 5 Substitute Options for OpenAI's Sora, Offering No Cost Access to State-of-the-Art AI</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-talking-avatar-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-define-ai-video/"><u>Updated How to Define AI Video?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-background-generator-in-2024/"><u>What Is AI Background Generator, In 2024</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

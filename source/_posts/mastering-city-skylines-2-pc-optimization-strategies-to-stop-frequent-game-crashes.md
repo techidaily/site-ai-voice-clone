@@ -1,7 +1,7 @@
 ---
 title: "Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes"
-date: 2024-11-15T06:01:35.487Z
-updated: 2024-11-17T00:35:53.236Z
+date: 2024-11-24T20:03:50.704Z
+updated: 2024-11-26T19:26:24.831Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 6. **[Launch Arma 3 with the malloc=system command](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the BattlEye service](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -61,6 +65,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your computer meets the minimum specs, then read on and check the fix, below.
 
 ---
@@ -74,6 +82,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 **2)**  Right-click the **Steam icon** on your desktop and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
@@ -99,15 +111,16 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -199,13 +212,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
@@ -229,15 +235,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-45.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -269,23 +276,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Delete the**BattlEye folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-43.png)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Go to the following directories to delete the**BattlEye folder** and the**BEClient.dll** .
 
@@ -297,6 +290,10 @@ OR
 **7)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Right-click **Arma 3**  and select **Properties.**
 
@@ -348,22 +345,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
@@ -379,16 +366,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)**  Restart _Arma 3_ to test your problem.
 
@@ -415,22 +399,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/updated-2024-approved-recover-missing-audio-from-tweeted-videos/"><u>[Updated] 2024 Approved Recover Missing Audio From Tweeted Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-navigating-new-horizons-the-essence-of-vr-travel/"><u>[Updated] Navigating New Horizons The Essence of VR Travel</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline/"><u>Best 12 AI Voice Cloning Tools Online & Offline</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-5-ai-movie-script-generators/"><u>Best 5 AI Movie Script Generators</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/cut-color-and-create-the-best-iphone-video-editing-apps-this-year-for-2024/"><u>Cut, Color, and Create The Best iPhone Video Editing Apps This Year for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/getting-back-to-the-soundtrack-of-social-media-comprehensive-fixes-for-mute-videos-on-facebook-using-your-computer/"><u>Getting Back to the Soundtrack of Social Media: Comprehensive Fixes for Mute Videos on Facebook Using Your Computer</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-note-12-5g-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi Note 12 5G</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-boomerang-on-instagram-create-addictive-loop-videos-on-ig/"><u>In 2024, Boomerang on Instagram Create Addictive Loop Videos on IG</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-5-tools-to-convert-text-to-audio-online-for-free/"><u>New In 2024, Top 5 Tools to Convert Text to Audio Online for Free</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/online-vrijetend-konvertissemijboek-veelvoudig-m1v-in-mp4-bij-movavi-gratis/"><u>Online Vrijetend Konvertissemijboek: Veelvoudig M1V in MP4 Bij Movavi Gratis</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/prime-guidelines-youtube-respect-and-usage-for-2024/"><u>Prime Guidelines YouTube Respect & Usage for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-register-online/"><u>Updated Register | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor/"><u>Updated What Is an AI Video Editor?</u></a></li>
-<li><a href="https://techtrends.techidaily.com/wi-fi-mesh-networks-decoded-are-they-truly-worth-your-investment/"><u>Wi-Fi Mesh Networks Decoded – Are They Truly Worth Your Investment?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-follow-me-back-home-top-trail-tracking-drones/"><u>[New] Follow Me Back Home - Top Trail-Tracking Drones</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-lecture-title-composing-system/"><u>[Updated] Innovative Lecture Title Composing System</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-sparking-inspiration-outstanding-youtube-content-themes/"><u>[Updated] Sparking Inspiration Outstanding YouTube Content Themes</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-review-of-lenovos-latest-innovation-the-ultraportable-yoga-pro-surveying-its-sleek-build-and-satisfying-key-travel/"><u>Comprehensive Review of Lenovo's Latest Innovation – The Ultraportable Yoga Pro Surveying Its Sleek Build and Satisfying Key Travel</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-the-latest-ev-tax-credits-comprehensive-guide-to-who-can-benefit-according-to-zdnets-analysis/"><u>Decoding the Latest EV Tax Credits: Comprehensive Guide to Who Can Benefit According to ZDNET's Analysis</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-4-ways-of-instagram-video-promotion/"><u>In 2024, Top 4 Ways of Instagram Video Promotion</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722993455523-la-noire-now-available-on-pc-resolved-issues/"><u>LA Noire Now Available on PC - Resolved Issues!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722057284162-perplexity-ai-the-secret-weapon-in-ai-driven-google-search-youre-missing-out-on/"><u>Perplexity AI: The Secret Weapon in AI-Driven Google Search You're Missing Out On!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-discover-top-performance-reviews/"><u>Tom's Tech Insights - Discover Top Performance Reviews</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-avatar-wondershare-virbo-user-guide-for-2024/"><u>Updated AI Avatar | Wondershare Virbo User Guide for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-avatar-in-2024/"><u>What Is an AI Avatar, In 2024</u></a></li>
 </ul></div>
 

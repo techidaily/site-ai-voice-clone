@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silence: Ultimate Guide to Troubleshoot Lenovo Laptop Audio Problems"
-date: 2024-11-14T04:22:57.560Z
-updated: 2024-11-16T18:48:57.009Z
+date: 2024-11-23T17:11:40.368Z
+updated: 2024-11-26T17:28:06.464Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your microphone settings**
 
  If your Logitech G633 is not set as the default device, or if it is disabled on your PC, you may also run into this issue. You can follow the instructions below to check your microphone settings:
@@ -41,17 +45,18 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap443.jpg)
 4. Click **OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if your Logitech G633 mic works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
 
@@ -61,22 +66,13 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000087.png)
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 3: Update your audio driver**
 
@@ -99,31 +95,15 @@ There are two ways to update your sound card driver: **manually**  and **automat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee  ).
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 4: Troubleshoot hardware issues**
 
@@ -152,20 +132,20 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-step-by-step-guide-to-synchronized-camscreen-capture/"><u>[New] In 2024, Step-by-Step Guide to Synchronized Cam/Screen Capture</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-pursuing-peak-propeller-efficiency-for-drones/"><u>[New] Pursuing Peak Propeller Efficiency for Drones</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-rev-voice-recorder-review-for-2024/"><u>[New] Rev Voice Recorder Review for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-crafting-silent-pauses-in-music-tracks/"><u>2024 Approved Crafting Silent Pauses in Music Tracks</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://win-answers.techidaily.com/accelerate-chrome-performance-with-easy-tricks/"><u>Accelerate Chrome Performance with Easy Tricks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/clarifying-connection-principles-a-deep-dive-into-net-neutrality-concepts/"><u>Clarifying Connection Principles: A Deep Dive Into Net Neutrality Concepts</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/discover-hassle-free-video-opener-templates/"><u>Discover Hassle-Free Video Opener Templates</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mastering-the-art-of-self-care-with-asmr-sounds/"><u>Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/maximizing-impact-adjusting-facebook-video-sizes-correctly-for-2024/"><u>Maximizing Impact Adjusting Facebook Video Sizes Correctly for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-devicenetworkbrowser-requirements-virbo-ai-live-stream/"><u>New Device/Network/Browser Requirements | Virbo AI Live Stream</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-detailed-guide-on-video-speech-to-text-conversion/"><u>New In 2024, Detailed Guide on Video Speech to Text Conversion</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-in-2024/"><u>Updated What Is AI Voice, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/waht-is-ai-pixel-art-generator-wondershare-virbo-glossary-for-2024/"><u>Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-the-best-30-no-cost-sites-bringing-high-end-illustration-to-life/"><u>[New] Explore the Best 30 No-Cost Sites Bringing High-End Illustration to Life</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-endgame-permanently-blocking-access-to-youtube-shorts/"><u>[New] The Endgame Permanently Blocking Access to YouTube Shorts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-reimagining-commerce-through-immersive-technology/"><u>[Updated] Reimagining Commerce Through Immersive Technology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-secrets-of-writing-impressive-podcast-summaries/"><u>[Updated] The Secrets of Writing Impressive Podcast Summaries</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-vector-magic-discovering-the-10-software-picks-you-need/"><u>[Updated] Vector Magic Discovering the 10 Software Picks You Need</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-behind-the-scenes-expert-techniques-for-video-magic/"><u>2024 Approved Behind the Scenes Expert Techniques for Video Magic</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-clone-your-voice-harness-the-potential-of-ai/"><u>2024 Approved Clone Your Voice Harness the Potential of AI</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-poco-m6-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Poco M6 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>How to identify malfunctioning hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-script-generator-virbo-guide/"><u>New 2024 Approved AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-create-marketing-videos/"><u>Updated In 2024, How to Create Marketing Videos?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-introduction-wondershare-virbo/"><u>Updated Introduction | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-headshot-generator-wondershare-virbo-glossary/"><u>Updated What Is an AI Headshot Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-maker-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Video Maker? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 

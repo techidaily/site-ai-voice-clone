@@ -1,7 +1,7 @@
 ---
 title: GPT and Bing Duels for Ultimate Generative Chat Excellence
-date: 2024-11-11T22:02:02.271Z
-updated: 2024-11-16T23:37:44.079Z
+date: 2024-11-24T18:41:41.195Z
+updated: 2024-11-26T21:06:03.092Z
 tags:
   - chatgpt
   - open-ai
@@ -33,13 +33,6 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
@@ -54,14 +47,11 @@ Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
 
- Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
 ### 2\. Using Chatbots to Influence People's Opinions
 
@@ -74,6 +64,10 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,6 +75,10 @@ Here's the fictitious article that ChatGPT came up with:
  Additionally, political adversaries may use deepfake audio and videos to tarnish the reputation of their opponents, manipulating public sentiment with the help of AI. So[AI-generated deepfakes pose numerous threats in the future](https://www.makeuseof.com/future-and-dangers-of-ai-deepfakes/) . According to a 2023[Reuters report](https://www.reuters.com/world/us/deepfaking-it-americas-2024-election-collides-with-ai-boom-2023-05-30/) , the rise of AI technology could impact America's 2024 elections. The report highlights the accessibility of tools like Midjourney and DALL-E that can easily create fabricated content and influence people's collective opinions.
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
 
@@ -91,10 +89,7 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -109,10 +104,7 @@ Here's the fictitious article that ChatGPT came up with:
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
@@ -136,18 +128,22 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-8-best-screen-recorders-with-no-lag/"><u>[Updated] 2024 Approved Top 8 Best Screen Recorders with No Lag</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-screencapture-pro-latest-2023-edition-review/"><u>[Updated] In 2024, ScreenCapture Pro Latest 2023 Edition Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-new-horizons-windows-11s-latest-advances/"><u>[Updated] New Horizons Windows 11'S Latest Advances</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-page-to-screen-crafting-jujutsu-kaisen-stories-on-tiktok/"><u>2024 Approved From Page to Screen Crafting Jujutsu Kaisen Stories on TikTok</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-translator-to-translate-videos-online/"><u>2024 Approved The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ppt-wondershare-virbo/"><u>Create Video with PPT | Wondershare Virbo</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-motorola-moto-g14-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Motorola Moto G14.</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-tecno-camon-20-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Tecno Camon 20</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-7-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved Best 7 Whiteboard Explainer Videos to Inspire You</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-7-best-explainer-video-makers-you-may-like/"><u>Updated 2024 Approved 7 Best Explainer Video Makers You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo-wondershare-virbo-for-2024/"><u>Updated Talking Photo | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-headshot-generator-in-2024/"><u>Updated What Is an AI Headshot Generator, In 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-unveiling-youtubes-hidden-feature-stop-snippet-viewing/"><u>[New] 2024 Approved Unveiling YouTube's Hidden Feature Stop Snippet Viewing</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-8-beginners-choices-easy-film-cameras-35mm-to-pands/"><u>[New] In 2024, Top 8 Beginner's Choices Easy Film Cameras (35Mm to P&S)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-heroic-hurdles-the-ultimate-10-role-playing-journeys/"><u>[Updated] In 2024, Heroic Hurdles The Ultimate 10 Role-Playing Journeys</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/wtvmpg-movavi/"><u>免費在線上WTV到MPG轉換服務 – Movavi 相關工具</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-realme-c53-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Realme C53 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-next-gen-learning-vrs-educational-impact/"><u>In 2024, Next-Gen Learning VR's Educational Impact</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pinnacle-solution-for-virtual-realms/"><u>In 2024, Pinnacle Solution for Virtual Realms</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-voice-generator/"><u>New 2024 Approved What Is an AI Voice Generator?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-avatar-online-for-2024/"><u>New Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-video-with-ppt/"><u>New In 2024, Create Video With PPT</u></a></li>
+<li><a href="https://win-latest.techidaily.com/troubleshooting-tips-fixing-display-problems-with-split-view-in-emeditor/"><u>Troubleshooting Tips: Fixing Display Problems with Split View in EmEditor</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-the-best-text-to-audio-converters-of-all-times/"><u>Updated In 2024, The Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-tool/"><u>What Is an AI Tool?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-in-2024/"><u>What Is ChatGPT, In 2024</u></a></li>
 </ul></div>
 

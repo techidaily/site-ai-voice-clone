@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Must-Have Apps for Real-Time Video Translation
-date: 2024-11-10T21:33:27.198Z
-updated: 2024-11-16T16:14:30.316Z
+date: 2024-11-23T16:14:05.287Z
+updated: 2024-11-26T19:38:13.214Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -37,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/ced37c54f6280b48c4cccd59bb3d4e6e75cf48a36
 | EventMobi                           | Virtual events                            | Web browser, iOS, and Android                     | [4.6](https://www.g2.com/products/eventmobi/reviews) out of 5                          |
 
 ![checklist illustration](https://images.wondershare.com/virbo/article/2024/03/real-time-video-translation-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Top 7 Live and Real Time Video Translation Apps
 
@@ -129,13 +133,6 @@ Effortlessly streamline your workflow with these powerful features:
 
 ![wordly real-time video translation](https://images.wondershare.com/virbo/article/2024/03/real-time-video-translation-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Planning a business meeting with overseas colleagues but worried about language barriers? Wordly is here to help! It’s a platform that goes beyond simple translation, specializing in conferences. Wordly offers real-time video translation, providing live captions in each participant’s language. It fosters clear communication and a productive meeting environment. So, next time you need to bridge the language gap for a global event, consider Wordly.
 
  Pros
@@ -153,6 +150,10 @@ Effortlessly streamline your workflow with these powerful features:
 
 ![interprefy ai translator and live captions](https://images.wondershare.com/virbo/article/2024/03/real-time-video-translation-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Frustrated by YouTube videos without captions? Interprefy can be your bridge to understanding. It’s a cloud-based solution designed specifically for meetings and events, but it works wonders for YouTube videos. Interprefy connects you with professional translators who provide**real-time translation on YouTube** . When you find a fascinating YouTube video in another language, Interprefy can help you unlock its content.
 
  Pros
@@ -169,6 +170,10 @@ Effortlessly streamline your workflow with these powerful features:
 
 ![eventmobi virtual event translation app](https://images.wondershare.com/virbo/article/2024/03/real-time-video-translation-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Have a multilingual event but worried about keeping everyone engaged? EventMobi has you covered! This virtual event platform goes beyond scheduling. EventMobi offers seamless integration with services like Kudo, allowing you to translate the video in real time for your virtual event.
 
  Attendees can choose their preferred language from a dropdown menu, and captions appear below the video stream. This way, everyone can participate and engage, regardless of their native language. EventMobi makes your event inclusive and fosters a global conversation.
@@ -182,6 +187,10 @@ Effortlessly streamline your workflow with these powerful features:
 
 * EventMobi can be expensive, especially for smaller events
 * Limited design flexibility
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Considerations and Limitations of Real-Time Video Translation
 
@@ -275,13 +284,6 @@ Supported Languages
 
 ![youtube-music-video-promotion-2.jpg](https://images.wondershare.com/virbo/images2023/new/youtube-music-video-promotion-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Add Engaging Elements
 
  For effective**YouTube music promotion** , you should add engaging elements to your video. Your video should engage the viewers so that they can share it on other platforms. If you are hesitant to present your music video, you can use virtual YouTube presenters. For this, the best available tool is [Virbo](https://virbo.wondershare.com/) . This tool contains tons of AI Avatars with different attires that can present your music videos with natural human voices.
@@ -305,13 +307,6 @@ Supported Languages
 
  Furthermore, you can collaborate with other YouTubers to connect with more people. You can plan exciting activities with other YouTubers so that viewers can enjoy them to their fullest. Also, you should post your other social media links, such as Instagram, Facebook, and Twitter, under the YouTube description. This will help you gain followers on all your social media platforms.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6\. Enhance YouTube SEO
 
  You should enhance your YouTube SEO game to gain maximum visibility for your music videos. By executing YouTube SEO strategies, you can**promote music videos** effortlessly. First, research common keywords people use to find YouTube videos of their interest. You can get help from tools like [TubeBuddy](https://www.tubebuddy.com/)  and [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/)  . Afterward, insert the famous keywords in YouTube titles and descriptions smartly.
@@ -325,13 +320,6 @@ Supported Languages
  You can also add AI virtual presenters to your YouTube music videos through Virbo. Hence, consider this article to get complete guidelines for YouTube music video promotion.
 
 ## You May Also Ask
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1.**Can you do free promotion of music videos on YouTube?**
 
@@ -370,6 +358,10 @@ The latent space is a multidimensional mathematical space where the generator op
 
 Loss functions are crucial in training AI face generators, particularly in the context of Generative Adversarial Networks (GANs). The generator's loss function encourages it to create images convincing to the discriminator. The discriminator's loss function aims to correctly classify authentic and generated images. The interplay between these loss functions compels both networks to improve iteratively, resulting in increasingly realistic facial photos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Training Data and Preprocessing
 
 The quality of training data significantly impacts the AI face generator's output. Diverse and representative datasets containing images of various ages, ethnicities, and expressions contribute to more realistic results. Preprocessing techniques like normalization and augmentation ensure consistency and enhance the generator's capacity to generate coherent faces.
@@ -404,10 +396,7 @@ The discriminator network acts as the critic in the AI face generator setup. It 
 The latent space is a multidimensional mathematical space where the generator operates. It's a representation of all possible facial features that the generator can create. A noise vector, often random values, serves as the starting point in the latent space. As the generator refines these noise vectors through its network layers, they transform into intricate facial characteristics, creating diverse and unique faces.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Loss Functions
@@ -441,13 +430,6 @@ Understanding these key components provides insight into the inner workings of A
  Moreover, it offers realistic AI-powered text-to-speech to simplify podcast and video production. You can create voice clones or use stock AI voices for quick audio generation. The creation of these dubbed voices is without recording or editing. With the natural speech patterns training, it delivers lifelike intonations and pauses. Also, it allows you to customize vocal styles for various settings and emotions.
 
 ![descript text to speech tool](https://images.wondershare.com/virbo/article/how-to-use-descript-text-to-speech-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Other Top-Notch Features of Descript
 
@@ -528,13 +510,6 @@ You can complete your video creation using Virbo's [AI Script Generator](https:/
 
 ![generate script](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** It takes time to complete, but once finished, the script will be displayed on the next screen. You can make specific edits to the script as desired. Then, proceed to select the "Create video" button to generate an AI video based on the script.
 
 ![creat video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-3.png)
@@ -564,10 +539,7 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ![open ai generator](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** After providing all information, select the “Generate script” button on the bottom to start the process.
@@ -591,6 +563,10 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ###### Note
 
 Please note that free users are limited to exporting videos of up to 30 seconds in duration. Should you exceed this limit, upgrading to the premium version is required to export longer videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Secrets for TikTok Live Studio Success
 
@@ -682,11 +658,19 @@ So how does it work?
 
 ![Login](https://images.wondershare.com/virbo/article/secrets-for-tiktok-live-studio-success-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After completing the download, you need to install the software on your Windows PC or laptop. Give it all the permission that it needs and after you are done installing it on your machine, you need to log in just like you log in to your TikTok. The application will allow you to choose various options like Facebook, Google, and Twitter login.
 
 ##### Step 3 Setting up LIVE Studio and going live
 
 ![Go Live](https://images.wondershare.com/virbo/article/secrets-for-tiktok-live-studio-success-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you are logged in, you can either skip the process or Set Up so that everything will go under your supervision. You will need to select things like Microphone, Camera settings, Streaming Settings, and more. Once everything is set up, you just need to click**Go Live,** and your live stream will be started.
 
@@ -706,24 +690,20 @@ So how does it work?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-essential-low-light-techniques-for-iphone-for-2024/"><u>[New] Essential Low-Light Techniques for iPhone for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-budget-pc-video-capture-tools-assessed-for-2024/"><u>[Updated] Budget PC Video Capture Tools Assessed for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-art-of-digital-expression-your-guide-to-sharing-animated-messages-on-snapchat/"><u>2024 Approved The Art of Digital Expression Your Guide to Sharing Animated Messages on Snapchat</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-tool/"><u>2024 Approved What Is an AI Tool?</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/1728497915517-hddssdhdd/"><u>大容量のHDDまたはSSDをコピーした後、古いHDD仕様に適応する方法</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-11-pro-max-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 11 Pro Max Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-my-online-security-at-risk-with-ai-tools-like-chatgpt-in-the-hands-of-cyber-thieves/"><u>Is My Online Security at Risk with AI Tools Like ChatGPT in the Hands of Cyber Thieves?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-ai-face-generators-wondershare-virbo-glossary/"><u>New 2024 Approved Exploring AI Face Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-ai-video-translator-online/"><u>New AI Video Translator | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online/"><u>New Diverse Template | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-tutorial-streaming-xbox-on-discord-platform/"><u>The Essential Tutorial: Streaming Xbox on Discord Platform</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/trasformare-i-file-mkv-in-mp3-gratuitamente-su-internet-con-movavi/"><u>Trasformare I File MKV in MP3 Gratuitamente Su Internet Con Movavi</u></a></li>
-<li><a href="https://blog-min.techidaily.com/understanding-currently-unavailable-errors-on-hulu-and-solutions-to-rectify-them/"><u>Understanding 'Currently Unavailable' Errors on Hulu and Solutions to Rectify Them</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-watermark-free-video-editing-7-essential-tools/"><u>Updated 2024 Approved Watermark-Free Video Editing 7 Essential Tools</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-videos-wondershare-virbo-for-2024/"><u>Updated Create AI Avatar Videos | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-template-online-for-2024/"><u>Updated Diverse Template | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions/"><u>Updated Handling Exceptions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-apk-masterclass-enjoy-funimate-on-android/"><u>[New] APK Masterclass Enjoy Funimate on Android</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>[Updated] ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-boost-video-appeal-with-these-20-best-thumbnail-fonts/"><u>[Updated] In 2024, Boost Video Appeal with These 20 Best Thumbnail Fonts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-tier-mac-recorder-feature-visuals-and-voices/"><u>[Updated] In 2024, Top-Tier Mac Recorder Feature Visuals & Voices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/beat-the-chill-overcoming-call-of-duty-vanguard-freezing-problems-with-pro-hacks/"><u>Beat the Chill: Overcoming Call of Duty: Vanguard Freezing Problems with Pro Hacks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/diy-solutions-for-logitech-g430-microphone-connectivity-problems/"><u>DIY Solutions for Logitech G430 Microphone Connectivity Problems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-your-snap-camera-cannot-detect-an-input-source/"><u>Fixing the Issue When Your Snap Camera Cannot Detect an Input Source</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-xiaomi-redmi-12-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-converting-images-into-harmonious-videography/"><u>In 2024, Converting Images Into Harmonious Videography</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-streamline-your-screenshots-using-ezvides-capabilities/"><u>In 2024, Streamline Your Screenshots Using EZvide's Capabilities</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-your-options-in-tablets-comparing-amazon-fire-to-the-ipad/"><u>Navigating Your Options in Tablets: Comparing Amazon Fire to the iPad</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/no-more-interruptions-resolve-ghost-recon-breakpoint-crash-errors-instantly/"><u>No More Interruptions: Resolve Ghost Recon Breakpoint Crash Errors Instantly</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-professional-quality-audio-without-a-microphone-for-2024/"><u>The Ultimate Guide to Professional-Quality Audio without a Microphone for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-review-unveiling-the-benefits-of-heimvisons-a80s-alarm-clock-with-light-therapy/"><u>The Ultimate Review: Unveiling the Benefits of HeimVison's A80S Alarm Clock with Light Therapy</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/warcraft-3-reforged-pc-crashes-effective-fixes-and-updates/"><u>Warcraft 3 Reforged PC Crashes: Effective Fixes and Updates</u></a></li>
 </ul></div>
 

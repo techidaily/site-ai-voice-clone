@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-11-12T07:46:49.769Z
-updated: 2024-11-17T08:39:26.511Z
+date: 2024-11-20T18:31:18.244Z
+updated: 2024-11-26T16:49:10.155Z
 tags:
   - desktop
 categories:
@@ -16,6 +16,10 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 ![The three colors of the ASRock DeckMate X600.](https://cdn.mos.cms.futurecdn.net/QjZwG9ogXk5eVbEARLkvGH-320-80.png)
 
  (Image credit: ASRock (via ITHome.com))
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ASRock DeskMate X600 Mini PC core specifications
 
@@ -41,16 +45,7 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,18 +71,24 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-advanced-guide-to-documenting-online-sport-spectacles/"><u>[New] In 2024, Advanced Guide to Documenting Online Sport Spectacles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-to-use-microsoft-azure-speech-to-text-service/"><u>[Updated] In 2024, How to Use Microsoft Azure Speech to Text Service</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-quick-start-guide-to-schedule-and-start-zoom-calls-on-android/"><u>In 2024, Quick-Start Guide to Schedule & Start Zoom Calls on Android</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-google-pixel-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Google Pixel 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-marketing-videos/"><u>New 2024 Approved How to Create Marketing Videos?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-detailed-guide-on-video-speech-to-text-conversion-for-2024/"><u>New Detailed Guide on Video Speech to Text Conversion for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-registration-and-login/"><u>New In 2024, Registration and Login</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-in-2024/"><u>New What Is an AI Video Editor, In 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/obs-rescue-cameras-are-back-up-for-2024/"><u>OBS Rescue Cameras Are Back Up for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/registration-and-login-virbo-ai-live-stream/"><u>Registration and Login | Virbo AI Live Stream</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-essential-guide-for-cost-free-google-meet-management/"><u>The Essential Guide for Cost-Free Google Meet Management</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/whats-trending-in-cyber-security-the-rise-of-a-twitter-hoax-scheme-rollout-of-metas-verified-tags-and-a-comprehensive-look-at-how-chatgpt-4-works/"><u>What’s Trending in Cyber Security? The Rise of a Twitter Hoax Scheme, Rollout of Meta's Verified Tags and A Comprehensive Look at How ChatGPT-4 Works</u></a></li>
+<li><a href="https://common-error.techidaily.com/alert-paste-problem-in-win-11-os/"><u>[ALERT] Paste Problem in Win 11 OS</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-choosing-between-podcast-and-youtube-for-content-consumption/"><u>[New] 2024 Approved Choosing Between Podcast and YouTube for Content Consumption</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/igital-detox-ignoring-negativity-on-youtube/"><u>[New] Digital Detox Ignoring Negativity on YouTube</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-quick-and-easy-snapshot-sharing-a-step-by-point-guide-for-2024/"><u>[New] Quick and Easy Snapshot Sharing – A Step-By Point Guide for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/resolved-incompatibility-vehicle-and-gear/"><u>[Resolved] Incompatibility: Vehicle & Gear</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-social-spectacle-snatcher/"><u>[Updated] 2024 Approved Social Spectacle Snatcher</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-4k-masterpieces-our-favorites-listed/"><u>[Updated] 4K Masterpieces Our Favorites Listed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/avoid-grounding-disaster-ultimate-tips-and-tricks-for-stable-pc-performance/"><u>Avoid Grounding Disaster: Ultimate Tips and Tricks for Stable PC Performance</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-for-2024/"><u>Create AI Avatar Video with AI Script for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/crush-glitches-not-combos-the-definitive-fix-guide-for-street-fighter-6-pc-issues/"><u>Crush Glitches, Not Combos: The Definitive Fix Guide for Street Fighter 6 PC Issues</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-oculus-link-issues-6-rapid-solutions-for-a-functional-vr-experience/"><u>Fixing Oculus Link Issues: 6 Rapid Solutions for a Functional VR Experience</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-mass-effect-legendary-edition-wont-start/"><u>Fixing the Issue When Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-masterful-lighting-techniques-for-iphone-users/"><u>In 2024, Masterful Lighting Techniques for IPhone Users</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ineffective-auto-brightness-on-iphone-discover-7-corrective-steps-now/"><u>Ineffective Auto-Brightness on iPhone? Discover 7 Corrective Steps Now!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/lightning-fast-method-for-double-exposure-filming-for-2024/"><u>Lightning-Fast Method for Double Exposure Filming for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-city-skylines-2-pc-optimization-strategies-to-stop-frequent-game-crashes/"><u>Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/stellartracewipe-v5-customizing-schedules-and-standards-for-windows-privacy-cleaning/"><u>StellarTraceWipe v5: Customizing Schedules & Standards for Windows Privacy Cleaning</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-art-of-video-presentation-in-adobe-captivate-for-2024/"><u>The Art of Video Presentation in Adobe Captivate for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/updated-how-to-use-korean-to-english-video-translators-for-creators/"><u>Updated How To Use Korean to English Video Translators for Creators</u></a></li>
 </ul></div>
 
