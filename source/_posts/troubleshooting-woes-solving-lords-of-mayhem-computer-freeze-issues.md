@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues"
-date: 2024-11-24T21:33:32.145Z
-updated: 2024-11-26T19:10:18.178Z
+date: 2024-12-03T19:01:22.516Z
+updated: 2024-12-06T05:43:07.575Z
 tags:
   - win11
   - win10
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/188e4b5f7b4d2d2127c0913fec4bf39f7b63f882f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/yjwj_en_1280_1024_c81e728d9d4c2f636f067f89cc14862c-1200x960.jpg)
 
  Naraka: Bladepoint is finally back with the global release! But just like any other new releases, we’re seeing reports of bugs and errors. Many players reported the game**keeps crashing on PC** . The good news is there are some known fixes available. Read on and find out what they are…
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -80,10 +76,6 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
@@ -91,6 +83,10 @@ If this doesn’t solve your problem, try the next fix.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
 
@@ -105,10 +101,6 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **On Epic Games** :
 
 1. Open your library and find Naraka: Bladepoint. Click the**three-dot icon** next to the game title.
@@ -118,7 +110,7 @@ If this doesn’t solve your problem, try the next fix.
  If verifying your game files doesn’t fix the crashing issue, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Repair system files
@@ -136,6 +128,10 @@ If this doesn’t solve your problem, try the next fix.
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Increase the virtual memory on your PC
 
  The developer suggests that insufficient virtual memory could interfere with the game’s performance, and lead to the crashing issue. You can check your virtual memory (paging file size) first, then configure the settings if needed.
@@ -151,7 +147,7 @@ If this doesn’t solve your problem, try the next fix.
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
@@ -160,7 +156,7 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
@@ -178,10 +174,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
 
@@ -196,16 +188,21 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 If this doesn’t solve your problem, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -222,13 +219,13 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
@@ -259,7 +256,7 @@ If this doesn’t solve your problem, try the last fix.
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
@@ -269,6 +266,10 @@ If this doesn’t solve your problem, try the last fix.
 
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -293,18 +294,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-secrets-unlocked-advanced-techniques-to-sculpt-your-igtv-content-size/"><u>[New] 2024 Approved Secrets Unlocked Advanced Techniques to Sculpt Your IGTV Content Size</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-top-10-global-youtube-stars-with-mass-following/"><u>[Updated] 2024 Approved Top 10 Global YouTube Stars with Mass Following</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-transformative-youtube-title-genesis-tools/"><u>2024 Approved Transformative YouTube Title Genesis Tools</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/devicenetworkbrowser-requirements-virbo-ai-live-stream-for-2024/"><u>Device/Network/Browser Requirements | Virbo AI Live Stream for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/from-raw-to-refined-tailoring-youtube-videos-with-premiere-pro/"><u>From Raw to Refined Tailoring YouTube Videos with Premiere Pro</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/how-to-create-marketing-videos-in-2024/"><u>How to Create Marketing Videos, In 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-learn-the-solution-to-instagram-video-issues/"><u>In 2024, Learn the Solution to Instagram Video Issues</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-translation-online/"><u>New 2024 Approved AI Translation | Online</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-solutions-repair-airdrop-issues-with-these-16-handy-tips/"><u>Quick Solutions: Repair AirDrop Issues with These 16 Handy Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-scams-how-to-protect-your-online-presence/"><u>Understanding Scams: How to Protect Your Online Presence</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-best-10-animated-explainer-video-examples-for-2024/"><u>Updated Best 10 Animated Explainer Video Examples for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>Updated In 2024, Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Updated Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-making-money-with-media-mastery-of-merchandise-musings/"><u>[New] Making Money with Media Mastery of Merchandise Musings</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/easy-tutorial-for-reverting-changes-with-a-system-restore-on-acer-computers-using-windows-versions/"><u>Easy Tutorial for Reverting Changes with a System Restore on Acer Computers Using Windows Versions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-regain-access-when-you-cant-connect-to-blizzard-servers-anymore/"><u>How to Regain Access When You Can't Connect to Blizzard Servers Anymore</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-roadmap-to-wealth-sourav-joshi-and-youtube-earning/"><u>In 2024, The Roadmap to Wealth Sourav Joshi and YouTube Earning</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-note-30-vip-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Note 30 VIP FRP Bypass</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-generator/"><u>In 2024, What Is an AI Video Generator?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/insider-strategies-free-access-to-professional-imagery-for-2024/"><u>Insider Strategies Free Access to Professional Imagery for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-movie-magic-adjusting-netflix-speed/"><u>Mastering Movie Magic Adjusting Netflix Speed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-recommended-natural-ai-hindi-voice-generator/"><u>New 2024 Approved The Recommended Natural AI Hindi Voice Generator</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/streamline-projects-with-free-video-intros-for-2024/"><u>Streamline Projects with Free Video Intros for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ring-content-advanced-pc-video-editing-methods-for-youtube-for-2024/"><u>Tailoring Content Advanced PC Video Editing Methods for YouTube for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ackward-playbook-youtubes-video-flip-for-2024/"><u>The Backward Playbook YouTube's Video Flip for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube-for-2024/"><u>The Ultimate Guide on How to Promoting Music Videos on YouTube for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-creating-ai-videos-with-ai-avatars-for-2024/"><u>Updated Creating AI Videos With AI Avatars for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
 </ul></div>
 

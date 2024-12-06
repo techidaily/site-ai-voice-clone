@@ -1,7 +1,7 @@
 ---
 title: AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch
-date: 2024-11-25T20:00:32.074Z
-updated: 2024-11-26T18:15:01.787Z
+date: 2024-11-30T16:01:58.960Z
+updated: 2024-12-06T11:10:10.760Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,16 +74,20 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-a-marketer-writes-guide-to-utilizing-hashtags-effectively-on-facebook/"><u>[New] A Marketer' Writes Guide to Utilizing Hashtags Effectively on Facebook</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-best-gear-for-shooting-top-10-high-res-shoulder-rigs-for-2024/"><u>[Updated] Best Gear for Shooting Top 10 High-Res Shoulder Rigs for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oneplus-open-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-vivo-s18-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo S18 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/trating-the-top-channels-in-youtube-space/"><u>Infiltrating the Top Channels in YouTube Space</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/introducing-the-msi-c906-an-advanced-tiny-pc-boosted-by-intels-latest-raptor-lake-cpu-featuring-quad-25-gigabit-lan-connectivity/"><u>Introducing the MSI C906: An Advanced Tiny PC Boosted by Intel's Latest Raptor Lake CPU, Featuring Quad 2.5 Gigabit LAN Connectivity</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-easy-steps-to-create-ai-twitch-streamer-with-animated-avatars/"><u>New In 2024, Easy Steps to Create AI Twitch Streamer with Animated Avatars</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-tunewizard-pro-expertly-organize-your-music-library-across-windowsmac-platforms/"><u>New TuneWizard Pro Expertly Organize Your Music Library Across Windows/Mac Platforms</u></a></li>
-<li><a href="https://fox-access.techidaily.com/photographys-color-transformation-secrets/"><u>Photography's Color Transformation Secrets</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/studiokit-lxz103-budget-umbrella-shine/"><u>StudioKit LXZ103: Budget Umbrella Shine</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know-for-2024/"><u>Updated Ready To Dive Into Photo Talking Videos? Heres What You Need To Know for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-boost-visibility-with-customized-channel-names/"><u>[New] In 2024, Boost Visibility with Customized Channel Names!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-companion-for-your-gaming-setup-xbox-recorder/"><u>[Updated] 2024 Approved The Ultimate Companion for Your Gaming Setup Xbox Recorder</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-ultimate-guide-to-youtube-live-streaming/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Live Streaming</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-clip-of-fame-vimeo-quick-look/"><u>2024 Approved Clip of Fame Vimeo Quick Look</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-talking-avatar/"><u>2024 Approved What Is Talking Avatar?</u></a></li>
+<li><a href="https://win-lab.techidaily.com/can-you-boost-your-computers-performance-by-overclocking-learn-from-yl-computing/"><u>Can You Boost Your Computer's Performance by Overclocking? - Learn From YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>In 2024, Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-downloadinstallregisteruninstall/"><u>New In 2024, Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-most-recommended-natural-ai-hindi-voice-generator/"><u>New The Most Recommended Natural AI Hindi Voice Generator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-art-generator-in-2024/"><u>New What Is an AI Art Generator, In 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/snatch-up-the-incredible-hp-victus-15-gamer-laptop-at-a-steal-just-515-during-best-buys-prime-day-sale-insider-tips-from-zdnet/"><u>Snatch Up the Incredible HP Victus 15 Gamer Laptop at a Steal: Just $515 During Best Buy's Prime Day Sale – Insider Tips From ZDNet!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/solving-csr8510-a10-controller-drivers-problems-on-windows-systems/"><u>Solving CSR8510 A10 Controller Drivers Problems on Windows Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-power-of-ai-thumbnail-generators-for-2024/"><u>The Power of AI Thumbnail Generators for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-magic-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Magic 5 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>Updated In 2024, How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
 </ul></div>
 

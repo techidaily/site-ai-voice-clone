@@ -1,7 +1,7 @@
 ---
 title: New Top 5 AI YouTube Shorts Generators for 2024
-date: 2024-11-22T17:59:25.702Z
-updated: 2024-11-26T16:30:51.429Z
+date: 2024-11-30T08:00:43.853Z
+updated: 2024-12-05T23:28:45.656Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
 ![ai-youtube-shorts-video-maker-1.jpg](https://images.wondershare.com/virbo/features/text-to-speech/ai-youtube-shorts-video-maker-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 #### Key Points
@@ -48,15 +52,15 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
 ![ai-youtube-shorts-video-maker-2.jpg](https://images.wondershare.com/virbo/features/text-to-speech/ai-youtube-shorts-video-maker-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Points
 
 * ai offers multiple aspect ratios catered to all major platforms. You can easily create perfect Shorts in vertical, horizontal, and square aspect ratios.
 * The tool offers smart AI for center-stage facial tracking. This allows you to always keep your subject in the center of the screen.
 * You can add subtitles to your Shorts in a single click using 2short.ai. The platform allows options to customize various aspects of the subtitles easily.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. QuickVid
 
@@ -118,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
  It is important to remain consistent across your Shorts videos. Maintaining a consistent style and tone is a key element. It helps build a recognizable brand identity. Making a regular posting schedule is also a key factor on the YouTube platform. Sticking to a routine is always helpful whether you choose to upload weekly, bi-weekly, or another interval.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Dynamic and Appealing Aesthetics
 
  Focusing on the visuals of your Shorts can enhance viewer engagement and make your content stand out. Aesthetically pleasing visuals capture viewers' attention. Dynamic aesthetics maintain their interest throughout the video. Unique and engaging elements also make your videos more memorable.
@@ -152,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  YouTube Shorts can make your content highlighted by reaching billions of people worldwide. It can significantly help you in expanding your business in an effective way. Here are some key points that can make you understand**YouTube Shorts marketing** :
 
 ![youtube-shorts-marketing-1.jpg](https://images.wondershare.com/virbo/features/marketing/youtube-shorts-marketing-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Display Content for a Longer Period
 
@@ -238,6 +234,10 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
  YouTube Shorts can always hook your audience thoroughly. That’s why business partners**promote** **YouTube Shorts** to make their brand successful. Due to the high demand for YouTube Shorts in business, this article will be beneficial for you in every way.
 
  We have listed the key points that can help you properly market your business through YouTube Shorts. You can also use tools like Virbo to make YouTube Shorts with minimal effort.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## You May Also Ask
 
@@ -329,10 +329,18 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
  Oddcast is a company that specializes in text to speech (TTS) technology and solutions for web developers and content creators.**Oddcast online** TTS is a technology that converts text into natural sounding speech. It offers two types of TTS products: a cloud based API for developers that enables real-time audio in any online app or website, and a downloadable mp3 audio for games, apps, tutorials or videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Compatibility of Oddcast
 
 1. Compatible with various platforms and languages, such as HTML5, Flash, JavaScript, PHP, ASP.NET, and more
 2. Supports over 25 languages and 200 voices to choose from
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Functions of Oddcast
 
@@ -432,10 +440,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  Creating funny talking avatars is a fun and creative way to express yourself, entertain others, or promote your brand. With Oddcast TTS Tool, you can easily create and download talking avatars for free in a few simple steps. You can also customize their language, voice, and emotions to suit your needs and preferences.
@@ -459,6 +463,10 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 ![Virbo customize your videos for free](https://images.wondershare.com/virbo/article/free-online-video-translator-1.jpg)
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 01 Unique Features of Virbo
 
@@ -512,10 +520,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Failed to Reach a Large Audience
 
  In this modern world, people create videos for marketing purposes. What happens if the translators do not come into our lives? If your target is to reach a large audience that will see your videos and love your content, then you need a video translator.
@@ -525,7 +529,7 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. Tips to Choose the Best and Free Online Video Translator
@@ -545,6 +549,10 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [Top 6] Free Talking Stock Photo Sites
 
  Ever heard of**talking stock photo** s? If you have seen magic/sorcery/ wizardry-themed movies, you might have come across the idea of moving photos or motion photos where photo frames are shown to have motion pictures. In real life, you have what’s called Live Photos by Apple, a technology that captures a couple of seconds' worth of motion. These are essentially just GIFs. But this is 2024, and today, we introduce you to talking photos or talking stock images. Literally, photos that speak. What! Read more about it below!
@@ -552,7 +560,7 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 ![talking photo banner](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Are Talking Stock Photos and What Can You Do With Them?
@@ -586,7 +594,7 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 ![getty images talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What self-respecting journalist or newsreader does not know about Getty Images? Getty has a repertoire of over 7,935,000 high-quality talking photos for you to choose from. That all but guarantees that you will be able to find the ones you want and like.
@@ -645,10 +653,6 @@ Elevate your streaming experience by seamlessly meeting these requirements.
 
 ![add audio to image in virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There are options you can use to customize your output. Choose from several languages, change the speed of speech, even adjust pitch and volume, right here, easily! You can even add subtitles, change background music or switch the background!
 
 **Step 3:** It is now time to preview the video and export it! Click the Preview button to view the magic of Wondershare Virbo. If everything is to your liking, simply click Export.
@@ -668,10 +672,6 @@ The talking photo will be saved under My Creations.
  Talking photos are the next frontier in digital communication and expression. Harnessing the power of generative artificial intelligence, talking photos present never-before opportunities to not only engage people but engage with people. The education sector can use talking photos to make comprehension easier for children by making interactive, expressive talking photos that can explain complex concepts in a fun new way while corporates and businesses can use the power of talking photos to better engage with their audiences in a new way that captures and retains their interest. Inter-personally, talking photos can be used to have fun with friends and family in a completely new way! No more drab images, talking photos are the fun new way to express!
 
 ## Register | Online
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Register and Login to Wondershare Virbo
 
@@ -745,21 +745,18 @@ Check Your Activation Status
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-ultimate-method-for-screen-recording-across-platforms/"><u>[New] In 2024, The Ultimate Method for Screen Recording Across Platforms</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-tv-off-a-step-by-step-guide-for-2024/"><u>[New] Instagram TV Off A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-precision-editing-at-your-fingertips-canvas-boundary-eradication/"><u>[New] Precision Editing at Your Fingertips Canva's Boundary Eradication</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-script-generator-virbo-guide-for-2024/"><u>AI Script Generator | Virbo Guide for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/disabling-problematic-error-0x80300024-in-winxp/"><u>Disabling Problematic Error: 0X80300024 in WinXP</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/effortless-dvd-duplication-on-windows-systems-mastering-the-process-in-win111087/"><u>Effortless DVD Duplication on Windows Systems: Mastering the Process in Win11/10/8/7</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-enhance-dell-servers-by-upgrading-the-integrated-smart-bmc-firmware/"><u>How To Enhance Dell Servers by Upgrading the Integrated Smart BMC Firmware</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-creating-ai-videos-with-templates/"><u>In 2024, Creating AI Videos With Templates</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-art-generator-wondershare-virbo-glossary/"><u>New 2024 Approved What Is an AI Art Generator? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-common-platforms-for-2024/"><u>New Common Platforms for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool-wondershare-virbo-glossary/"><u>New What Is an AI Tool? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/nextgen-videotron-app-evaluation-for-2024/"><u>NextGen Videotron App Evaluation for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/sonys-research-division-joins-forces-with-ai-singapore-for-next-gen-language-models-innovation-breakthrough/"><u>Sony's Research Division Joins Forces with AI Singapore for Next-Gen Language Models | Innovation Breakthrough</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-7-video-language-converter-online-free/"><u>Updated Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-the-ultimate-resource-for-mac-users-unlocking-preview-capabilities/"><u>[New] 2024 Approved The Ultimate Resource for Mac Users Unlocking Preview Capabilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-cutting-edge-tools-for-seamless-vimeo-video-download/"><u>[Updated] Cutting-Edge Tools for Seamless Vimeo Video Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro/"><u>[Updated] In 2024, Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-capturing-the-moment-mobile-phone-snapchat-recordings/"><u>2024 Approved Capturing the Moment Mobile Phone Snapchat Recordings</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-how-to-buy-1-million-youtube-views-safely-from-trusted-providers/"><u>2024 Approved How to Buy 1 Million YouTube Views Safely From Trusted Providers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-tecno-pova-5-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Tecno Pova 5 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-f04-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy F04 by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/1723262413640-introducing-the-am01-by-ayaneo-the-perfect-blend-of-classic-appeal-and-modern-power-available-now-in-stores/"><u>Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/obscure-crossover-port-uncovered-displayport-and-hdmi-fusion-inside-the-abandoned-steam-machine-piston-xi3/"><u>Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professionals-take-on-screenflow-pro-macos-experience/"><u>Professional's Take on ScreenFlow Pro macOS Experience</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/slash-prices-get-250-discount-on-high-end-rtx-4090-gamers-dream-pc/"><u>Slash Prices! Get $250 Discount on High-End RTX 4090 Gamer's Dream PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211210794--the-witchs-way-home/"><u>The Witch's Way Home | Free Book</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-selection-of-compatible-mice-for-your-apple-tablet/"><u>Ultimate Selection of Compatible Mice for Your Apple Tablet</u></a></li>
 </ul></div>
 

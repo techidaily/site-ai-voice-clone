@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2024-11-24T16:50:01.264Z
-updated: 2024-11-26T17:01:07.918Z
+date: 2024-12-01T20:46:38.322Z
+updated: 2024-12-05T23:36:44.955Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,19 +68,21 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-avoiding-shaky-drone-imagery-with-top-tier-gimbals/"><u>[New] In 2024, Avoiding Shaky Drone Imagery with Top-Tier Gimbals</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-ultimate-chart-converters-for-video/"><u>[New] Ultimate Chart Converters for Video</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-interactive-engagement-adding-emojis-to-youtubes-comments/"><u>[Updated] Interactive Engagement Adding Emojis to Youtubes' Comments</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-introduction-online/"><u>2024 Approved Introduction | Online</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-live-from-the-cloud-effective-dji-drone-broadcasting-tips/"><u>2024 Approved Live From the Cloud Effective DJI Drone Broadcasting Tips</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator/"><u>2024 Approved Video Translator</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/1728466667747-windows-server-201/"><u>快速指南：在Windows Server 201</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-5-viral-video-marketing-techniques-for-big-sellers/"><u>Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-an-ai-avatar-video/"><u>New Create An AI Avatar Video</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-influential-edge-mastering-sponsorship-and-promotion-on-social-media-for-2024/"><u>The Influential Edge Mastering Sponsorship and Promotion on Social Media for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unlocking-the-power-of-thumbnails-creating-visual-appeal-for-youtube-content-for-2024/"><u>Unlocking the Power of Thumbnails Creating Visual Appeal for YouTube Content for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/videopad-review-is-this-video-editor-right-for-you-for-2024/"><u>Videopad Review Is This Video Editor Right for You for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unleash-your-potential-navigating-the-world-of-switch-pro-in-steam/"><u>[New] Unleash Your Potential Navigating the World of Switch Pro in Steam</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-review-battery-powered-google-wireless-nest-doorbell/"><u>Comprehensive Review: Battery-Powered Google Wireless Nest Doorbell</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-successfully-install-and-fix-issues-with-your-amd-ryzen-system-utilities/"><u>How to Successfully Install and Fix Issues with Your AMD Ryzen System Utilities</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-2-methods-to-add-effects-on-tiktok/"><u>In 2024, 2 Methods To Add Effects On TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-insights-into-top-10-no-cost-open-source-video-communication-tools/"><u>In 2024, Essential Insights Into Top 10 No-Cost, Open Source Video Communication Tools</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-realme-note-50-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Realme Note 50 Pattern Lock Screen</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-ultimate-guide-to-b2b-video-marketing/"><u>In 2024, The Ultimate Guide to B2B Video Marketing</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-ultimate-selection-of-free-youtube-introduction-makers/"><u>In 2024, Ultimate Selection of Free YouTube Introduction Makers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-4-elon-musk-voice-generator-programs-to-make-you-sound-like-the-billionaire/"><u>New 2024 Approved Top 4 Elon Musk Voice Generator Programs to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>New Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-script-generator-virbo-guide/"><u>New In 2024, AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-presentation-maker-in-2024/"><u>New What Is an AI Presentation Maker, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-voice-generator-wondershare-virbo-glossary/"><u>New What Is an AI Voice Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/resolving-audio-issues-effective-solutions-for-a-non-functional-sound-card-by-yl-software-professionals/"><u>Resolving Audio Issues: Effective Solutions for a Non-Functional Sound Card by YL Software Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/taking-flight-in-depth-review-of-the-x4-fpv-quadcopter-for-2024/"><u>Taking Flight In-Depth Review of the X4 FPV Quadcopter for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-power-of-ai-thumbnail-generators/"><u>Updated Power of AI Thumbnail Generators</u></a></li>
 </ul></div>
 

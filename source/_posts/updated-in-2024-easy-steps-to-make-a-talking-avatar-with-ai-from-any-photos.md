@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Easy Steps to Make a Talking Avatar with AI From Any Photos
-date: 2024-11-24T19:50:35.938Z
-updated: 2024-11-26T18:06:09.410Z
+date: 2024-12-02T23:32:41.619Z
+updated: 2024-12-05T20:36:33.357Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -48,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 
 ![Create video content with a talking AI avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Prominent Features of Talking Avatar
 
  If you are learning**how to make a talking avatar** , the avatars also come equipped with a range of features that contribute to their versatility and effectiveness in content creation. Let's get into the key features that make talking avatars a powerful tool for communication and storytelling:
@@ -59,10 +55,6 @@ thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e
 ### 1\. Royalty-free assets and templates
 
  Talking avatar platforms often provide a library of royalty-free assets and templates that users can use. These include background music, accents, a diverse selection of AI avatars representing various races, AI anime characters, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Voice narration from a script
 
@@ -184,9 +176,17 @@ Some of Virbo Talking Avatar features include:
 
  Linguistic drift is a natural process that helps languages evolve. Like most languages, English has also undergone linguistic drift. This phenomenon has caused notable changes in various language features. These changes can be of phonological and grammatical nature. As a result, several variations have occurred in accents and dialects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: The Best English Voice Generators With Different Accents Supported
 
  Searching for a nice**accent voice generator** that can produce varying English dialects? Here are our top 5 voice generator tools that can help you out in this regard:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Virbo
 
@@ -215,6 +215,10 @@ Some of Virbo Talking Avatar features include:
 1. PlayHT offers a unique phonetics library to its users. Using this, you can create custom pronunciations for words such as names, acronyms, etc.
 2. With the Voice Cloning feature, you can create high-quality audio outputs and easily capture all accents and dialects.
 3. The tool supports over 800 voices in 130+ languages, including many English accents. This makes it a good tool if you are looking for an**Irish accent voice generator** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Murf.ai
 
@@ -275,6 +279,10 @@ Some of Virbo Talking Avatar features include:
  Businesses on Instagram used to utilize live broadcasts to sell products directly from the app. It allows them to interact with viewers and drive real-time engagement. Instagram live shopping allowed people to save videos so customers could shop after the broadcast. Using this feature helped companies humanize their brand by telling stories.
 
  According to a [report](https://business.instagram.com/blog/instagram-live-shopping-reach-customers) , many Instagram users shopped weekly on the platform. They utilized many features like shopping tags and the “Shop” tab. However, Instagram stopped supporting live shopping on March 16, 2023\. It was decided so that Instagram could focus more on other features of their application.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Reason for Discontinuing Live Shopping Feature
 
@@ -361,6 +369,10 @@ Some of Virbo Talking Avatar features include:
 
  Finally, set your stage by collaborating with various Instagram influencers and content creators. You can partner with different brands and give them sponsored content and more. This will increase your brand revenue and visibility and drive sales.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  As mentioned before,**selling on** **Instagram Live** has been discontinued in 2023\. However, there are still live-streaming platforms available in the market. We looked at various tips to help you achieve the perfect seller live stream. Among the tips, we recommend you utilize [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) , an ideal place to start. You can take your brand to the next with Virbo Live’s live-streaming features.
@@ -401,6 +413,10 @@ Open the Wondershare Virbo app and tap the talking photo function to enter the o
 
 ![talking-photo-app-1.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2\. Upload a portrait
 
 Tap “try now” and upload a portrait you want to use as your talking avatar by following the instruction.
@@ -412,10 +428,6 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
 
 ![talking-photo-app-3.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Generate AI Video Free](#)
 
@@ -445,6 +457,10 @@ Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
@@ -452,10 +468,6 @@ for iOS
 for Android
 
 secure download
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
@@ -498,10 +510,6 @@ secure download
 ## Part 1: Background Information of Live Commerce
 
  To get started, let’s define what is live ecommerce. Is it different from the ecommerce that most people know or just an enhanced version? Do you need any special tools to be successful in live stream ecommerce and how does it boost sales?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 01 What is Live Commerce?
 
@@ -576,6 +584,10 @@ secure download
 
 ![live-commerce-next-chapter-can-ai-unlock-its-true-potential-6.jpg](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Advantages of Virbo Live Commerce:**
 
 * Continuous 24/7 live commerce broadcasting without interruptions
@@ -607,6 +619,10 @@ secure download
 
 ![generate script](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 4 Start Live Streaming
 
  Click Start Live Streaming and connect your AI avatar to your live commerce platform using the OBS OBS software.
@@ -618,10 +634,6 @@ secure download
  Activate the Interact With the Audience feature to allow the AI streamer to seamlessly engage your viewers without your involvement.
 
 ![interact with audience](https://images.wondershare.com/virbo/article/live-commerce-next-chapter-can-ai-unlock-its-true-potential-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## FAQs about Live Commerce
 
@@ -715,10 +727,6 @@ To use Wondershare Virbo on your Android device, you must fulfill the following 
 * The installation package will download on your device, which can be tapped for further installation.
 * To start using Virbo, select the "Agree" option against the "Privacy Policy" and "End User License Agreement" for the tool.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### For iOS
 
 #### 1\. System Requirements
@@ -736,10 +744,6 @@ To consume Virbo for iOS, you need to fulfill the following requirements. The ov
 * Continue to select the “Install” button that appears on the pop-up window to proceed with the installation.
 * As it is installed, choose "Open" to launch the program.
 * Once it launches, you need to accept the “Privacy Policy” and “End User License Agreement” by tapping the “Agree” button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### For Android
 
@@ -809,10 +813,6 @@ Hover your mouse over the chosen avatar and pick your preferred video mode.
 
 ![create-video-with-avatar-1.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose AI Avatar
 
 #### Step 2\. Edit Video
@@ -820,6 +820,10 @@ Choose AI Avatar
 Enter the user interface and start editing the video. You can also customize the voiceover, background, text style, and add stickers to the video.
 
 ![create-video-with-avatar-2.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Edit Video
 
@@ -877,10 +881,6 @@ Select "Music" to choose the video's soundtrack. Browse through our extensive mu
 
 ![create-video-with-avatar-3.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose Background Music
 
 #### Step 3\. Export Video
@@ -915,20 +915,17 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-content-a-guide-to-engaging-live-thumbnails/"><u>[Updated] 2024 Approved Elevate Your Content A Guide to Engaging Live Thumbnails</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-selecting-peak-performance-lipo-cells-for-drones/"><u>[Updated] In 2024, Selecting Peak Performance LiPo Cells for Drones</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-quicken-video-playback-on-instagram-apps/"><u>2024 Approved Quicken Video Playback on Instagram Apps</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/childs-play-top-5-fun-flying-toys-reviewed/"><u>Child's Play Top 5 Fun Flying Toys Reviewed</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-oppo-find-x7-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Oppo Find X7 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-7-talking-photo-ai-you-must-try-online-and-download/"><u>In 2024, Best 7 Talking Photo AI You Must Try (Online & Download)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlocking-the-secrets-to-a-reliable-social-media-experience/"><u>In 2024, Unlocking the Secrets to a Reliable Social Media Experience</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://video-capture.techidaily.com/save-your-gameplay-moments-with-xbox-screen-recordings-for-2024/"><u>Save Your Gameplay Moments with Xbox Screen Recordings for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-iphones-potential-podcast-harmony/"><u>Unlocking iPhone's Potential - Podcast Harmony</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-build-your-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Build Your AI Twitch Streamer with Animated Avatars</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>Updated What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/resolved-incompatibility-vehicle-and-gear/"><u>[Resolved] Incompatibility: Vehicle & Gear</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-expert-tips-to-enhance-your-live-fb-broadcast-quality-pcmac-for-2024/"><u>[Updated] Expert Tips to Enhance Your Live FB Broadcast Quality (PC/Mac) for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-hash-strategies-for-optimizing-youtube-gameplay-videos/"><u>2024 Approved Essential Hash Strategies for Optimizing YouTube Gameplay Videos</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-win10-gaming-sessions-best-recording-approaches/"><u>2024 Approved Win10 Gaming Sessions Best Recording Approaches</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-for-2024/"><u>Create AI Avatar Video with AI Script for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-levelplay-combat-air-ca4-cpu-coolers-silent-powerful-cooling-efficiency/"><u>Expert Analysis of Levelplay Combat Air CA4 CPU Cooler's Silent, Powerful Cooling Efficiency</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ineffective-auto-brightness-on-iphone-discover-7-corrective-steps-now/"><u>Ineffective Auto-Brightness on iPhone? Discover 7 Corrective Steps Now!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review-for-2024/"><u>Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-non-selected-youtube-video-suggestions-for-2024/"><u>Pause Non-Selected YouTube Video Suggestions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-xbox-and-pc-warzone-memory-error-code-0-1766-a-comprehensive-guide/"><u>Solving Xbox and PC 'Warzone Memory Error' Code 0-1766: A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/struggling-with-an-iphones-no-vibrate-problem-explore-these-tried-and-true-fixes-for-quiet-mode-dysfunction/"><u>Struggling with an iPhones No-Vibrate Problem? Explore These Tried-and-True Fixes for Quiet Mode Dysfunction</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-limitless-space-20-best-free-cloud-platforms-offering-1tbplus-for-2024/"><u>Unlock Limitless Space 20 Best Free Cloud Platforms Offering 1TB+ for 2024</u></a></li>
 </ul></div>
 

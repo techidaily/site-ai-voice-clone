@@ -1,7 +1,7 @@
 ---
 title: "Avoid Grounding Disaster: Ultimate Tips and Tricks for Stable PC Performance"
-date: 2024-11-22T17:44:15.163Z
-updated: 2024-11-26T20:15:07.932Z
+date: 2024-12-04T11:20:43.355Z
+updated: 2024-12-05T17:49:40.001Z
 tags:
   - win11
   - win10
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/047a2ad015e13f7c67c91065d1e02decc0d409c48
 ## War Thunder Performance Optimization: Ultimate Guide to Fixing Low FPS Issues with Latest Tips
 
 Lately, many players have been complaining about War Thunder low FPS after the new update. If you’re also troubled by this annoying problem, don’t worry. Read this guide to see how you can fix it easily & quickly!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -43,7 +39,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
@@ -54,15 +50,15 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
  Test how War Thunder works with the dedicated GPU. If the low FPS remains, you can move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -105,6 +101,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Shut down unnecessary applications
 
  While you may not be aware, applications running in the background will consume much of your system resource and render War Thunder in low FPS. So, to let your game work without interruption, you can close all unneeded applications before you start a game.
@@ -135,21 +135,17 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the in-game graphics settings
 
@@ -160,7 +156,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
@@ -168,7 +164,7 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
@@ -183,12 +179,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Delete** to confirm.
@@ -225,14 +225,15 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/building-authority-in-education-10-tips-for-youtube-channel-creation-for-2024/"><u>Building Authority in Education 10 Tips for YouTube Channel Creation for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/comprehensive-guide-overcoming-usb-connection-problems-and-port-resets-on-your-windows-10-computer/"><u>Comprehensive Guide: Overcoming USB Connection Problems and Port Resets on Your Windows 10 Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/identifying-excellent-video-production-experts-for-2024/"><u>Identifying Excellent Video Production Experts for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>In 2024, What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-oppo-a38-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In 2024, In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/optimized-avi-video-compression-tool-shrink-and-enhance-your-videos-without-losing-quality/"><u>Optimized AVI Video Compression Tool – Shrink and Enhance Your Videos Without Losing Quality</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>Updated In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-size-matters-crafting-engaging-video-titles/"><u>[Updated] In 2024, Size Matters Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/arduino-mega-2560-software-installer-streamlined-downloads-for-beginners/"><u>Arduino Mega 2560 Software Installer – Streamlined Downloads for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-your-slides-with-auditory-elements-powerpoint/"><u>Elevate Your Slides with Auditory Elements (PowerPoint)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-5-best-realistic-text-to-speech-ai-voice-generators-you-may-like/"><u>In 2024, 5 Best Realistic Text to Speech AI Voice Generators You May Like</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-unraveling-the-expertise-within-polarrs-photography-suite/"><u>In 2024, Unraveling the Expertise Within Polarr’s Photography Suite</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209982868-9781071534502-megan-en-de-vermiste-kat/"><u>Megan en de Vermiste Kat | Free Book</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-best-text-to-speech-online-tools-to-use/"><u>The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/updating-your-monitor-unsupported-displays-in-current-setup/"><u>Updating Your Monitor: Unsupported Displays in Current Setup</u></a></li>
 </ul></div>
 

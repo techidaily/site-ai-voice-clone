@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2024-11-20T19:41:26.646Z
-updated: 2024-11-26T21:36:10.079Z
+date: 2024-12-04T17:22:50.615Z
+updated: 2024-12-05T21:43:13.685Z
 tags:
   - win11
   - win10
@@ -44,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
  The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Configure your DNS settings
 
@@ -71,15 +63,15 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -87,14 +79,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -110,11 +98,23 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -152,21 +152,18 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-prime-gold-toned-text-interactive-3d-sites-reviewed/"><u>[New] 2024 Approved Prime Gold-Toned Text Interactive 3D Sites Reviewed</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-ultimate-guide-top-6-fb-lite-video-extractors/"><u>[New] 2024 Approved Ultimate Guide Top 6 FB Lite Video Extractors</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-savvy-mastering-screen-recordings-on-your-phone/"><u>[New] In 2024, Snapchat Savvy Mastering Screen Recordings on Your Phone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-making-fb-video-accessible-on-household-tvs/"><u>[Updated] 2024 Approved Making Fb Video Accessible on Household TVs</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-optimize-video-views-with-these-top-5-link-shrinkers/"><u>[Updated] 2024 Approved Optimize Video Views with These Top 5 Link Shrinkers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>2024 Approved Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-voice-online/"><u>In 2024, AI Voice | Online</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-odins-legacy-destiny-of-ragnarok/"><u>In 2024, Odin's Legacy Destiny of Ragnarök</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/navigating-cpu-test-results-identifying-essential-performance-indicators/"><u>Navigating CPU Test Results: Identifying Essential Performance Indicators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-generate-video-with-talking-photo-feature/"><u>New In 2024, Generate Video with Talking Photo Feature</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>New In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool/"><u>New What Is an AI Tool?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-kya-aap-video-call-kar-sakty-ho-translate-any-hindi-video-into-english/"><u>Updated 2024 Approved Kya Aap Video Call Kar Sakty Ho Translate Any Hindi Video Into English</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online/"><u>Updated AI Translation | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-creating-ai-videos-with-templates/"><u>Updated In 2024, Creating AI Videos With Templates</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/zoom-woes-is-it-a-problem-with-your-device-or-connection/"><u>Zoom Woes: Is It a Problem with Your Device or Connection?</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-huawei-nova-y91-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/cooperative-fun-two-player-minecraft-on-nintendo-switch/"><u>Cooperative Fun: Two-Player Minecraft on Nintendo Switch</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/how-to-permanently-delete-files-and-folders-using-proven-algorithms/"><u>How to Permanently Delete Files and Folders Using Proven Algorithms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-7-talking-photo-ai-you-must-try-online-and-download/"><u>In 2024, Best 7 Talking Photo AI You Must Try (Online & Download)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unlock-youtubes-monetizing-potential-with-strategic-short-videos/"><u>In 2024, Unlock YouTube's Monetizing Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/join-our-exclusive-ap-automation-workshop-engage-with-experts-in-live-panel-discussions/"><u>Join Our Exclusive AP Automation Workshop – Engage with Experts in Live Panel Discussions!</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lightning-fast-drivers-maximum-yoga-capability/"><u>Lightning-Fast Drivers, Maximum Yoga Capability</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
+<li><a href="https://article-helps.techidaily.com/premiere-streaming-for-performance-artists/"><u>Premiere Streaming for Performance Artists</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-corsair-one-pro-the-premier-choice-for-gamers/"><u>Unboxing and Testing the Corsair One Pro: The Premier Choice for Gamers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-build-your-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Build Your AI Twitch Streamer with Animated Avatars</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>Updated What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 
