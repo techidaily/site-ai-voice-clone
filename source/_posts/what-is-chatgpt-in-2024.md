@@ -1,7 +1,7 @@
 ---
 title: What Is ChatGPT, In 2024
-date: 2024-12-02T13:54:25.297Z
-updated: 2024-12-05T22:31:28.374Z
+date: 2024-12-05T16:06:28.628Z
+updated: 2024-12-11T21:38:50.402Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -104,6 +104,10 @@ ChatGPT, the brainchild of OpenAI's innovation, is transforming the way we inter
 
 ![guide to creating photo talking videos](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What Is a Photo Talking Video?
 
  A**talking-photo video** is like a magic trick for making pictures engaging. You can take still pictures and make them move or talk like they are alive. It represents a captivating merge of photography and animation for an interactive experience. Moreover, new and creative ideas are always invented to make photo-talking videos even better.
@@ -131,10 +135,6 @@ ChatGPT, the brainchild of OpenAI's innovation, is transforming the way we inter
 2. You can customize your uploaded voice in talking pictures to make it more interesting.
 3. Using the versatile AI avatars of this tool, you can attract and engage a broader audience.
 4. This tool allows users to add background music to their content for personalization.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step-by-Step Guideline To Create Talking Photo Videos Using Virbo
 
@@ -171,6 +171,10 @@ ChatGPT, the brainchild of OpenAI's innovation, is transforming the way we inter
  Now, set the speed of delivery voice as per your requirement. You can also customize the volume and pitch of it. Finally, click the "Export" button in the upper right corner. After selecting the resolution for the output file, you will be redirected to the “My Creations” section with saved files.
 
 ![change volume and voice settings](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How To Create Photo Talking Videos With Some Top Online Tools
 
@@ -212,10 +216,6 @@ ChatGPT, the brainchild of OpenAI's innovation, is transforming the way we inter
 
 ![change voice language and text](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Now, hit the “Publish” button, and it will start processing in a new pop-up window. A message will then appear for successful publishing, from where you can share the output file to multi-platforms.
 
 ![publish final photo talking video](https://images.wondershare.com/virbo/article/2024/02/create-photo-talking-videos-online-14.jpg)
@@ -225,6 +225,10 @@ ChatGPT, the brainchild of OpenAI's innovation, is transforming the way we inter
  It is incredible how AI-powered tools can transform**images into talking video** s. We have shared information on some of the best tools to create such art. However, if you are confused about choosing the best one, Wondershare Virbo is the clear choice. With multiple AI avatars and different language dialects, Wondershare Virbo can surely make your talking photos more fun.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Registration and Login | Virbo AI Live Stream
 
@@ -307,7 +311,7 @@ Logout
 ![Authorization Refresh](https://images.wondershare.com/virbo/guide/guide-live/virbo-live-refresh.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Authorization Refresh
@@ -345,10 +349,6 @@ Authorization Refresh
 ### ● **Creating Lasting Memories**
 
  Through**making your image talk** , they possess the ability to transform fleeting moments into enduring memories. The addition of audio narration enhances the emotional resonance of the images, making them more vivid and memorable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ● **Facilitating Artistic Expression**
 
@@ -404,6 +404,10 @@ To create a talking photo on mobile, follow the steps outlined below:
 
 ![virbo AI-generated talking photo](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once you've chosen the AI talking photo you prefer, simply click on the**Create Video** button located below.
 
 ![virbo create video](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-06.jpg)
@@ -411,6 +415,10 @@ To create a talking photo on mobile, follow the steps outlined below:
 1. Input your text and select a voiceover from the options below to create the audio for your video. Alternatively, you can record your voice by selecting**record audio** . When finished editing, tap**Generate Video** to export it.
 
 ![input text record audio](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **For PC**
 
@@ -431,6 +439,10 @@ To create a talking photo on mobile, follow the steps outlined below:
 1. Click the Upload button to select your image from the computer and open it. Tip: Choose a photo with just one person's face in it.
 
 ![export button pc](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-online-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Once uploaded, move your cursor to the Next button. Allow the app to set up your studio.
 
@@ -476,10 +488,6 @@ To create a talking photo on mobile, follow the steps outlined below:
 
  Many**text-to-video AI generators** are capable of producing impressive results. If you want to know some of the best tools, proceed to the following section.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1. Virbo
 
  Virbo uses advanced and innovative AI technology to complete your given tasks efficiently. Using this**text-to-video maker AI** , you can create videos in either landscape or portrait modes. Afterward, you can add virtual presenters to your video through its AI avatars. There are over 150 AI Avatars in Virbo, having different nationalities and outfits. Moreover, they can read your content in the desired AI voice.
@@ -506,15 +514,15 @@ To create a talking photo on mobile, follow the steps outlined below:
 
 [Generate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2. Synthesia
 
  Synthesia is a game-changer AI text-to-video tool offering dozens of editing options. With this tool, you can make videos for social media, marketing, and content creation. You can also get help from its customizable video templates. It also provides a complete guide to using this tool without needing external assistance. After choosing an AI Avatar, you can instantly type the content to create an appealing video.
 
 ![text-to-video-ai-generator-2.jpg](https://images.wondershare.com/virbo/features/ai-avatar/text-to-video-ai-generator-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -583,10 +591,6 @@ To create a talking photo on mobile, follow the steps outlined below:
 * **Starter:** $60/month
 * **Pro:** $80/month
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 6. Kapwing
 
  Do you want to create videos from text quickly? Kapwing is an effective tool that can make an engaging video through the entered prompt. This tool converts your essays, summaries, scripts, and articles into relevant videos. You can also insert text overlays and background music for more engagement. Moreover, it also functions as a video editor, as you can cut, trim, and resize your videos.
@@ -628,10 +632,6 @@ To create a talking photo on mobile, follow the steps outlined below:
 
 ![text-to-video-ai-generator-8.jpg](https://images.wondershare.com/virbo/features/ai-avatar/text-to-video-ai-generator-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. **Animated Assets:** This AI text-to-video tool can professionally add GIFs, stickers, and animated stickers to your videos. You can also insert animated text into the video to add more attractiveness.
@@ -669,10 +669,6 @@ To create a talking photo on mobile, follow the steps outlined below:
  This text-to-video AI generator provides a creative way to generate videos from the text. It supports multi-lingual voice cloning to create voiceovers in the preferred tone and voice. Moreover, it can also convert PPT and website articles into visually appealing videos. It also lets you create digital avatars for your company to market the brand effectively. Furthermore, it provides an auto-translation feature in more than 65 languages.
 
 ![text-to-video-ai-generator-10.jpg](https://images.wondershare.com/virbo/features/ai-avatar/text-to-video-ai-generator-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -732,10 +728,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 AI generated text refers to content produced by artificial intelligence-powered text generators. These tools utilize advanced algorithms and language models to create written content automatically, ranging from articles and product descriptions to creative writing and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Applications of AI Generated Text
 
 AI generated text finds applications in various domains:
@@ -790,6 +782,10 @@ You can complete your video creation using Virbo's [AI Script Generator](https:/
 
 ![creat video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### 02 Create AI videos based on the script
 
 **Step 1:** Upon clicking the "Create video" button, you will be directed to the AI video creation screen, where you can choose your preferred avatar.
@@ -817,6 +813,10 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 **Step 2:** After providing all information, select the “Generate script” button on the bottom to start the process.
 
 ![generate script](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** It takes time to complete, but once finished, the script will be displayed on the next screen. You can make specific edits to the script as desired. Then, proceed to select the "Create video" button to generate an AI video based on the script.
 
@@ -846,22 +846,17 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[New] 2024 Approved Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-10-mock-musicals-that-bring-smiles/"><u>[New] In 2024, 10 Mock Musicals That Bring Smiles</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-all-inclusive-360-panorama-viewer/"><u>[Updated] All-Inclusive 360 Panorama Viewer</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-fast-loading-facebook-videos/"><u>[Updated] The Art of Fast-Loading Facebook Videos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-new-essential-details-of-making-perfect-talking-face/"><u>2024 Approved New Essential Details of Making Perfect Talking Face</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/best-in-class-twitter-platforms-and-utilities-unveiled/"><u>Best-In-Class Twitter Platforms and Utilities Unveiled</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-templates-online/"><u>Create AI Avatar Video with Templates | Online</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-honor-x50iplus-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Honor X50i+ Phone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-pc-building-with-expert-advice-from-toms-system-insights/"><u>Mastering PC Building with Expert Advice From Tom's System Insights</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-9-french-video-translators-online-and-download-options/"><u>New 2024 Approved Best 9 French Video Translators Online and Download Options</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-ai-video-makers-from-photos-to-create-captivating-videos-with-pictures/"><u>New 2024 Approved The Best AI Video Makers From Photos to Create Captivating Videos with Pictures</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-headshot-generator/"><u>New What Is an AI Headshot Generator?</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/secrets-of-crafting-an-exclusive-identifier-on-tiktok/"><u>Secrets of Crafting an Exclusive Identifier on TikTok</u></a></li>
-<li><a href="https://windows11.techidaily.com/the-winning-combination-to-recover-deleted-windows-files/"><u>The Winning Combination to Recover Deleted Windows Files</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-talking-avatar-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-define-ai-video/"><u>Updated How to Define AI Video?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-unveiling-the-mechanics-behind-instagrams-content-curation/"><u>[New] Unveiling the Mechanics Behind Instagram’s Content Curation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comprehensive-guide-to-free-premium-video-callers-for-2024/"><u>[Updated] Comprehensive Guide to Free, Premium Video Callers for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-audio-functionality-on-your-valorant-voice-call/"><u>Expert Advice: Restoring Audio Functionality on Your Valorant Voice Call</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-vivo-x100-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Vivo X100 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Without Passcode?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-securely-installing-apple-podcasts-episodes/"><u>In 2024, Securely Installing Apple Podcasts Episodes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/peek-at-sonys-high-end-smartphone-the-xperia-xz-4k-reveal-for-2024/"><u>Peek at Sony's High-End Smartphone - The Xperia XZ 4K Reveal for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online-for-2024/"><u>Updated AI Translation | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-animated-explainer-videos/"><u>Updated How to Make Animated Explainer Videos</u></a></li>
+<li><a href="https://win-news.techidaily.com/vorbereitung-und-kombination-mehrerer-vmware-disk-images-vmdk-effizient-sicherstellen/"><u>Vorbereitung Und Kombination Mehrerer VMware Disk Images (VMDK) Effizient Sicherstellen</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-wondershare-virbo-glossary/"><u>What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-in-2024/"><u>What Is AI Voice, In 2024</u></a></li>
 </ul></div>
 

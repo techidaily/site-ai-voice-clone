@@ -1,7 +1,7 @@
 ---
 title: Updated Create AI Avatar Video for 2024
-date: 2024-12-04T19:26:32.785Z
-updated: 2024-12-06T00:18:21.112Z
+date: 2024-12-08T09:53:01.221Z
+updated: 2024-12-12T11:33:05.183Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -31,10 +31,6 @@ To begin crafting your AI avatar video, simply click the "Create Video" button f
 Click “Create Video” to start creating a new video.
 
 ![create-ai-avatar-video-1.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-ai-avatar-video-1.jpg)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Create a Project
 
@@ -93,7 +89,7 @@ Click “Create Video” to start creating a new video.
 ![create-ai-avatar-video-1.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-ai-avatar-video-1.jpg)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a Project
@@ -183,6 +179,10 @@ By using an AI script generator, you can gain insights into writing techniques, 
 
 However, it's important to remember that an AI script generator should be seen as a tool to assist and enhance your work rather than replace human creativity and expertise. Reviewing, editing, and refining the generated content to align it with your artistic vision and ensure its quality is crucial.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1\. What is an AI script generator?**
 
 An **AI script generator** is a tool or system that uses artificial intelligence techniques, such as natural language processing and machine learning, to generate scripts or text content. It can be used in various domains, including movies, television shows, video games, chatbots, virtual assistants, and more.
@@ -227,19 +227,11 @@ However, it's important to remember that an AI script generator should be seen a
 
 ![deepface live](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Using Deepface Live allows you to superimpose your face onto someone else’s in real-time. With Deepface Live, you can:
 
 1. **Swap your face with that of a celeb:** Quickly and easily have a conversation with your friends and family while looking like your favorite actor or actress.
 2. **Create Prank or Funny Videos:** WIth Deepface Live, you can create all sorts of prank or funning videos, such as giving a speech or singing a song.
 3. **Make it Look Like You Are in a Different Place:** Deepface Live allows you to superimpose your face onto the body of someone else so you can appear like you are in a different location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Download DeepFace Live the Easy Way: A Step-by-Step Guide
 
@@ -279,10 +271,6 @@ However, it's important to remember that an AI script generator should be seen a
 
 ![get code](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3 Install and Rin the Application
 
  After downloading the Zip file to your PC, extract its content to a desired location. Open the command prompt or a terminal and navigate to the extruded Deepface Live direction. Then, use the command “_pip install -r requirements.txt”_ to install the required dependencies on your PC. After installing all the dependencies, run DeepFace Live on your PC using the command “_python main.py._ ”
@@ -317,10 +305,6 @@ However, it's important to remember that an AI script generator should be seen a
 
 ![wondershare virbo](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ##### Step 2 Choose AI Streamers and Background
@@ -328,6 +312,10 @@ However, it's important to remember that an AI script generator should be seen a
  Add a virtual streamer of choice to your live stream room from the virtual host library.**Virbo Live** provides a wide range of AI avatars and backgrounds to suit your needs. You can also customize the avatar and background the way you like, and add stickers to enhance your viewers' experience.
 
 ![choose ai streamers and background](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 3 Enter Text or Voice
 
@@ -416,6 +404,10 @@ Choose Template
 After picking up a desired template, you can start editing your video. Customize the avatar, voiceover, background, text style, add stickers and background music to your liking. Modify the subtitles and scripts as needed.
 
 ![edit video](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-templates-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Edit Video
 
@@ -612,6 +604,10 @@ For example, we will use this prompt to generate the video:
 
 ![Input prompts to generate a video from text.](https://images.wondershare.com/virbo/article/2024/03/how-to-generate-videos-from-text-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Step 3:** Adjust the settings.
 
  The tool will then analyze your text prompt. Then, you’ll get to rename the title and choose the audience, look and feel, as well as which platform to use. Click continue and allow for a few minutes until it is finished generating the video.
@@ -673,6 +669,10 @@ How to use Wondershare Virbos’s Video Translator tool:
 
 ![Generate video to text with Wondershare Virbo.](https://images.wondershare.com/virbo/article/2024/03/how-to-generate-videos-from-text-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * **Step 2:** Upload your video and adjust the settings.
@@ -703,10 +703,6 @@ How to use Wondershare Virbos’s Video Translator tool:
 
 ![understanding shopee live selling](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. A Review on Shopee Livestream: Learning the Basics
 
  Shopee offers a platform for sellers to host interactive video streaming sessions within its app. This feature lets sellers connect with their audience in real-time to build a stronger bond. It is functional in the Philippines, Indonesia, Thailand, and other Southeast Asian countries. With millions of active users on this forum, sellers have the opportunity to boost sales.
@@ -714,6 +710,14 @@ How to use Wondershare Virbos’s Video Translator tool:
  Through this platform, users can get their orders delivered to their door without paying any extra shipping fees. This shopping platform allows you to talk directly to sellers while you shop. You can enjoy fun playing games and free stuff for an exciting shopping experience. Also, sellers and buyers get safe payment choices to ensure reliability.
 
 ![shopee live stream platform](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Live Shopping Features Available on Shopee
 
@@ -752,13 +756,13 @@ How to use Wondershare Virbos’s Video Translator tool:
 
 ![starting stream on shopee live mobile](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Step 2.** In the upcoming screen, tap “Add a Title” to type in the label. You can also add a description as desired. Next, click the “Add Cover” button below the shopping bag to upload an image of 500x500\. Then, hit “Add Related Products” to feature the desired products during a live session.
 
 ![add products for shopee selling](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Step 3.** Once you've made changes, press the “Next” button at the bottom. This action will give you a 3-second preview of your video. Proceed by clicking on “Go Live” to stream your video. Now, all your followers get a notification to join the session.
 
@@ -776,10 +780,6 @@ How to use Wondershare Virbos’s Video Translator tool:
 * **Step 3.** Upon reaching a new window, copy the generated link and Stream key through the app and paste it into OBS. This facilitates the transition of streaming between the software and the Shopee website. After adjusting the settings, select the “Go Live” button to start showcasing your products.
 
 ![go live through shopee live desktop](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. Make Livestreaming Selling Efficient With Wondershare Virbo Live
 
@@ -813,10 +813,6 @@ How to use Wondershare Virbos’s Video Translator tool:
 
 ![make personalization across live stream](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Step 3\. Generate Scripts for Your Livestreaming Session
 
  After picking the avatar and background, locate the text box on the left side of the window. Now, type in the preferred text or utilize AI-generated scripts. Conversely, you can also use the services of "Human Interaction," where you only have to add a microphone for live interaction in the “Microphone” section.
@@ -828,6 +824,10 @@ How to use Wondershare Virbos’s Video Translator tool:
  Once you’ve made your desired changes, hit the “Start livestream” button from the top right. By doing so, you can livestream on your preferred platform, such as Shopee.
 
 ![proceed to start virbo live streaming](https://images.wondershare.com/virbo/article/2024/03/shopee-livestream-selling-system-guide-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -843,22 +843,15 @@ How to use Wondershare Virbos’s Video Translator tool:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-find-the-optimal-screen-capture-solutions-in-linux/"><u>[New] 2024 Approved Find the Optimal Screen Capture Solutions in Linux</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-streamlined-high-quality-hdr-experience-for-your-computer/"><u>[Updated] In 2024, Streamlined High-Quality HDR Experience for Your Computer</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-unlocking-potential-a-complete-review-of-powerdirector-2024/"><u>[Updated] Unlocking Potential A Complete Review of PowerDirector 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-10-best-mobile-writing-tools-for-iosandroid-images/"><u>2024 Approved 10 Best Mobile Writing Tools for iOS/Android Images</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/evaluating-chatgpts-skill-in-mixing-the-perfect-cocktail/"><u>Evaluating ChatGPT's Skill in Mixing the Perfect Cocktail</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-address-and-fix-the-iconic-glitches-of-the-year-of-the-horse-update/"><u>How to Address and Fix the Iconic Glitches of The Year of the Horse Update</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-powerpoints-voice-recognition-feature/"><u>In 2024, Mastering PowerPoint's Voice Recognition Feature</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-obs-versus-screensnapper/"><u>In 2024, OBS Versus ScreenSnapper</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-step-by-step-guide-to-add-personalized-soundfilters-on-windows-photos/"><u>In 2024, Step-by-Step Guide to Add Personalized Sound/Filters on Windows Photos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-video-with-ai-avatar/"><u>New Create Video with AI Avatar</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-templates-wondershare-virbo-online/"><u>New Diverse Templates | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-avatar-wondershare-virbo-online/"><u>Updated AI Avatar | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated Everything You Want To Know About Kapwing Video Translation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-material-preparation/"><u>Updated In 2024, Material Preparation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Video Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-sora-by-openai-everything-you-need-to-know/"><u>What Is Sora by OpenAI Everything You Need To Know</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ffortlessly-download-your-favorite-youtube-playlists-for-2024/"><u>[New] Effortlessly Download Your Favorite YouTube Playlists for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-templates-online-for-2024/"><u>Create AI Avatar Video with Templates | Online for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-steps-access-hp-laserjet-p1006-printer-drivers-and-firmware-downloads/"><u>Easy Steps: Access HP LaserJet P1006 Printer Drivers & Firmware Downloads</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step/"><u>New 2024 Approved Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
+<li><a href="https://win-forum.techidaily.com/overcoming-installation-obstacles-how-to-make-windows-11-run-smoothly-again/"><u>Overcoming Installation Obstacles: How to Make Windows 11 Run Smoothly Again</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/tackling-frame-rate-glitches-in-obs-outputs/"><u>Tackling Frame Rate Glitches in OBS Outputs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-best-alarm-applications-a-users-guide/"><u>Top 7 Best Alarm Applications: A User's Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-in-2024/"><u>What Is AI Influencer, In 2024</u></a></li>
 </ul></div>
 

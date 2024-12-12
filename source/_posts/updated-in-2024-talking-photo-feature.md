@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Talking Photo Feature
-date: 2024-11-29T22:27:16.587Z
-updated: 2024-12-06T07:21:46.868Z
+date: 2024-12-10T14:03:39.388Z
+updated: 2024-12-12T13:43:23.291Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -44,29 +44,17 @@ secure download
 
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1\. Create a new project
 
 Open the Wondershare Virbo app and tap the talking photo function to enter the operation interface.
 
 ![talking-photo-app-1.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2\. Upload a portrait
 
 Tap “try now” and upload a portrait you want to use as your talking avatar by following the instruction.
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3\. Edit and export your video
 
@@ -124,19 +112,11 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Edit and export your video
 
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
 
 ![talking-photo-app-3.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Generate AI Video Free](#)
 
@@ -165,10 +145,6 @@ secure download
 
 **Murf AI text-to-speech** is a famous tool that can convert text to speech within a few minutes. To know its powerful features and functions, this article will offer a detailed review. We will also explain a few alternative tools to offer more promising results.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is Murf.ai AI Text-to-Speech Product?
 
 [Murf.ai](https://murf.ai/)  uses artificial technology to convert textual content into an AI voice. It has a clean interface that encourages beginners to convert their text into speech. You can either type or import scripts with supported formats of TXT, DOCX, and SRT. After typing the content, you can select the AI voice from more than 120 options. All AI voices sound natural and realistic with the best audio quality.
@@ -176,6 +152,10 @@ secure download
  Furthermore,**Murf.ai's voice** also allows you to set the speaking tone of your AI voice. Once done, you can adjust the pitch and speech of the AI voice according to your needs. You can also insert necessary pauses in between the voices. After generating the voice, you can preview the results on its interface. Hence, Murf.ai is an outstanding TTS converter that can significantly help you in generating text to an AI voice.
 
 ![detailed-and-trustworthy-review-of-murf-ai-1.jpg](https://images.wondershare.com/virbo/images2023/tts/detailed-and-trustworthy-review-of-murf-ai-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Murf.ai
 
@@ -213,6 +193,10 @@ secure download
 
  Are you looking forward to trying**Murf TTS?** In this article, we have jotted down the accurate steps of using Murf.ai to convert text to speech effectively.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Step 1: Sign Up on Murf.ai**
 
  Navigate to the official website of Murf.ai through any web browser. Create your account by entering your credentials. Afterward, you will be able to see the interface of this tool, where you need to click "Create Project" to proceed.
@@ -224,10 +208,6 @@ secure download
  Now, type the textual content in the given space. You can also import the script from your PC. Now, choose the AI voice and language by clicking "Explore AI Voices" from the left menu. From this option, you can explore the variety of AI voices in different age ranges.
 
 ![detailed-and-trustworthy-review-of-murf-ai-3.jpg](https://images.wondershare.com/virbo/images2023/tts/detailed-and-trustworthy-review-of-murf-ai-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Step 3: Adjust the Settings and Export the AI Voice**
 
@@ -265,15 +245,15 @@ secure download
 
 ![detailed-and-trustworthy-review-of-murf-ai-7.jpg](https://images.wondershare.com/virbo/images2023/tts/detailed-and-trustworthy-review-of-murf-ai-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  To produce AI voices, you would require effective TTS converters. One of the commonly used TTS converters is Murf.ai. Through this article, you can read a well-explained review of**Murf's text-to-speech** with its features and guidelines. You can also try the discussed alternatives to generate customized AI voices with the best audio quality.
 
 ## What Is AI Marketing?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. What is AI marketing?
 
@@ -539,6 +519,10 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 
 ![giosg live shop](https://images.wondershare.com/virbo/article/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Achievement:** The live online shopping feature by giosg offers a unique and seamless shopping experience for other sellers and customers. It is like having a virtual shopping or sales assistant that takes the customer’s shopping experience to the next level. This live shopping feature revolutionizes online retail by bridging the gap between traditional sales tactics and e-commerce. Sellers could replicate personalized guidance and build trust through one-on-one video calls. As a result, they reported a surge in customer engagement and conversion rates.
 
 **Lessons drawn:** Implementing an online live shopping feature is an effective way of giving a more personalized and boutique experience to consumers. When done right, it can boost customer satisfaction in ways that live shopping videos would not achieve on a large scale. Technology is also seen as an enabler in this case. By integrating video calls into an e-commerce platform, the brand created a seamless and engaging experience for the shoppers, blurring the lines between online and offline shopping.
@@ -556,6 +540,10 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 ## Bonus Tip: Enhanced Live Streaming with AI
 
  The future has so much in store for both sellers and shoppers. With technology changing fast, brands that evolve quickly will benefit the most from this development. Among the technological advancements affected the world of eCommerce is the integration of artificial intelligence (AI). Brands and influencers can leverage the power of AI to offer more personalized and engaging experiences to shoppers. One such tool is Virbo Live.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 01 Leveraging Virbo AI streaming for sales and shopping
 
@@ -583,6 +571,10 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 4. **AI Translation** : Translate your live video script automatically to meet the needs of your various audiences
 5. **Customizable Q&A Repository** : Create a personalized Q&A database that allows the AI streamer to interact more naturally with your audience
 6. **Interaction Through Text** : Trigger the AI streamer to speak what you type in and engage your audience in text responses
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs About Live Shopping
 
@@ -663,21 +655,25 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 
 ![ask ai to generate your script](https://images.wondershare.com/virbo/article/how-to-use-descript-text-to-speech-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 3 Employ AI to Polish Your Script
 
  After clicking this button, a dialog box will appear on the screen. Now, write what you want AI to do in the prompt box and select the “Enter” key. You can specify your output of a whole script, an outline, or brainstorming ideas for your content. Moreover, you can ask AI to refine the result to get the required answer. Finally, choose the “Add to Script” option to use it for your videos.
 
 ![add ai content as script](https://images.wondershare.com/virbo/article/how-to-use-descript-text-to-speech-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 4 Add Speaker to Your Project
 
  In the next step, the chosen script will appear on the screen. Now, hit the “Add Speaker” button to select the speaker you want to produce voices for your videos. You can opt for the “Browse Stock AI Speakers” to choose among the speakers offered by the tool. Later, navigate to the bottom of the screen and tap on the “Play” icon to preview the recording.
 
 ![add speaker for script cloning](https://images.wondershare.com/virbo/article/how-to-use-descript-text-to-speech-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -807,6 +803,10 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 
 ![generate-speech-from-text-9.jpg](https://images.wondershare.com/virbo/images2023/tts/generate-speech-from-text-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. SpeechGen.io
 
  If you want a cheap tool that can**easily generate audio from text** , SpeechGen.io offers the perfect solution. Being a web-based tool, it is easily accessible to everyone. Its AI technology offers powerful text-to-speech conversions in no time.
@@ -832,10 +832,6 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 **Step 3:** You can then save your output file in a format of your choice.
 
 ![generate-speech-from-text-12.jpg](https://images.wondershare.com/virbo/images2023/tts/generate-speech-from-text-12.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Listen2It
 
@@ -863,6 +859,10 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 
 ![generate-speech-from-text-15.jpg](https://images.wondershare.com/virbo/images2023/tts/generate-speech-from-text-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Text-to-speech converters are quickly taking over the world. By**converting text to voice** , you can increase the accessibility of your content. The converter tools mentioned above are a great way for effective communication and engagement with users. With increased demand, harnessing their powers for various aspects of everyday business is vital.
@@ -877,18 +877,17 @@ To summarize, we can say that **Coqui AI voice cloning** is the perfect tool tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-capture-your-best-side-tips-for-effective-talking-head-shots/"><u>[Updated] 2024 Approved Capture Your Best Side Tips for Effective Talking-Head Shots</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-leveraging-live-streaming-for-maximum-impact-on-youtube-with-limited-subscribers/"><u>[Updated] In 2024, Leveraging Live Streaming for Maximum Impact on YouTube with Limited Subscribers</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-skip-past-fb-video-ads-effectively/"><u>[Updated] In 2024, Skip Past FB Video Ads Effectively</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-screencast-with-ezvide-maker-tool/"><u>[Updated] Mastering Screencast with EZvide Maker Tool</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-x6-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find X6 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-8-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 8 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-ace-2-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Ace 2</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-voice-wondershare-virbo-online/"><u>In 2024, AI Voice | Wondershare Virbo Online</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-translation-online/"><u>New In 2024, AI Translation | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-powered-script-to-video-makers/"><u>Updated Top 5 AI-Powered Script to Video Makers</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-excellent-ten-of-hexa-flying-drones/"><u>[New] In 2024, The Excellent Ten of Hexa-Flying Drones</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-crafting-shareable-tiktoks-with-50plus-influential-phrases/"><u>[Updated] Crafting Shareable TikToks with 50+ Influential Phrases</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-personalize-your-tune-list-a-step-by-step-guide-to-youtube-playlist-creation/"><u>[Updated] Personalize Your Tune List A Step-by-Step Guide to YouTube Playlist Creation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-stream-side-stacking-pewdiepies-payday-portion-for-2024/"><u>[Updated] Stream-Side Stacking PewDiePie’s Payday Portion for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-top-steadicam-models-compatible-with-dslr-cameras/"><u>2024 Approved Top Steadicam Models Compatible with DSLR Cameras</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/global-leaders-in-real-time-gaming-streams-for-2024/"><u>Global Leaders in Real-Time Gaming Streams for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Stop My Spouse from Spying on My Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-voice-cloning-apps-for-android-and-ios-devices/"><u>New In 2024, Top Voice Cloning Apps for Android & iOS Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>New The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/redefine-video-downloading-pick-from-these-top-ranked-free-and-on-demand-apps-for-youtube-shorts/"><u>Redefine Video Downloading Pick From These Top-Ranked, Free & On-Demand Apps for YouTube Shorts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-5-tips-about-youtube-shorts-to-grow-your-business-for-2024/"><u>Updated 5 Tips About YouTube Shorts to Grow Your Business for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Amazon Live for Beginners Features, Pro Tips & Future Trends for 2024
-date: 2024-11-30T22:00:09.400Z
-updated: 2024-12-06T10:49:51.139Z
+date: 2024-12-11T07:04:14.205Z
+updated: 2024-12-11T16:42:19.515Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
 ![amazon live log in](https://images.wondershare.com/virbo/article/master-amazon-live-features-pro-tips-and-future-trends-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Step 2 Enter Details of your Product or Brand
 
  Choose your brand and enter the desired profile name. Edit your profile the way you like to be a true representation of your brand.
@@ -112,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
 
  As Amazon Live becomes more popular among sellers and buyers, any solution that would make the work of sellers easier is worth exploring. Virbo Live offers you an excellent solution to live stream your products without the heavy budget of hiring a creative team. You only need to select an Avatar of your choice, generate a script, and allow the avatar to do the rest.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 02 Simplified workflow and better viewer experience with Virbo Live
 
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers you a simplified workflow for a better viewer experience by creating a realistic and seamless interaction with the audience. Although the avatars are AI-powered, they can interact freely with the audience, ensuring they have perfect information before making a purchase. Some of the features that make Virbo Live such a powerful tool include:
@@ -135,6 +135,11 @@ thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
+
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create AI Avatar Video
 
@@ -159,6 +164,10 @@ Create a Project
 Select the video aspect ratio that you desire. You can choose either to make a landscape video or a portrait video based on your needs. Click “Create Video”.
 
 ![choose video ratio](https://images.wondershare.com/virbo/guide/windows/choose-ratio.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Aspect Ratio
 
@@ -215,6 +224,10 @@ Create a Project
 Select the video aspect ratio that you desire. You can choose either to make a landscape video or a portrait video based on your needs. Click “Create Video”.
 
 ![choose video ratio](https://images.wondershare.com/virbo/guide/windows/choose-ratio.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Aspect Ratio
 
@@ -255,10 +268,6 @@ Once you are satisfied with the effect of the whole video, click “Export” to
 Export Video
 
 ## What Is Talking Avatar?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Advantages of Talking Avatars
 
@@ -415,10 +424,6 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
  The evolution of live commerce is far from over. The next frontier lies in the seamless integration of artificial intelligence (AI), which promises an even more personalized and immersive shopping experience. With features like AI streamers and personalized product recommendations, brands are poised to benefit the most from these developments. Here is a tool that will help you take your live commerce experience to the next level.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 01 Integrating Virbo Live for Live Commerce
 
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers cost-efficient and multilingual AI-driven avatars to boost your viewers' experience during live shopping. By seamlessly integrating AI streamers into your live commerce events, you can boost your revenue by providing accurate product information and encouraging viewers to make a purchase. The avatars will make your live commerce more engaging, convenient, and interactive.
@@ -490,19 +495,11 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
  Live commerce provides a unique opportunity for brands to reach more audiences and increase their sales revenue. While it has revolutionized online shopping, creating content for live commerce can be expensive and time-consuming. That’s why [Virbo Live](https://virbo.wondershare.com/virbo-live.html) offers AI streamers to automate live commerce and allow brands to keep their viewers engaged at a lower cost. By leveraging artificial intelligence, you can enhance your viewers' live shopping experience while getting the best out of the experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## In-Depth Review of Ivona Text to Speech by NextUp Technologies
 
  NextUp Technologies has introduced the best-in-class text-to-speech converter known as [TextAloud 4 Ivona](https://nextup.com/ivona/) . This software has gained considerable immense popularity all across the globe. This is because of its outstanding potential to drive desirable outcomes.
 
  By the end of this discussion, you will be familiar with the**Ivona text-to-speech** software. Moreover, we will also discuss the basics of this tool, such as pricing, compatibility, procedure, etc. You will also learn about the most innovative and powerful alternative to this software.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Overview Of The Key Features of Ivona Text to Speech Converter
 
@@ -537,10 +534,6 @@ In conclusion, talking avatars are revolutionizing communication across industri
 | 3 Ivona Voices     | $119   |
 | 1 Ivona Voices     | $59    |
 | No Optional Voices | $34.95 |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Simplified Step-by-Step Guide for Using Ivona
 
@@ -585,10 +578,6 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
 ![choose the required language](https://images.wondershare.com/virbo/features/text-to-speech/ivona-text-to-speech-converter-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ##### Step 2 Add Text and Make Speech
@@ -606,6 +595,10 @@ In conclusion, talking avatars are revolutionizing communication across industri
 ## Master Deepface Live: Download and Train Your Live Model
 
 **DeepFace Live** offers you an opportunity to swap your face for someone else’s when streaming or making video calls. By swapping your face in real-time, you can present yourself in videos in any way you like. With the recent development made by DeepFaceLab, you get accurate and quality face-swapping, create realistic live models, and live up to the hype with**DeepFace Live** . In this article, we provide an overview of**DeeepFace Live** and provide simple guides for downloading the application to your PC and creating your first live model.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is DeepFace Live
 
@@ -718,7 +711,7 @@ In conclusion, talking avatars are revolutionizing communication across industri
 ![automate AI avatar interactions with viewers](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -757,6 +750,10 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
 ![capcut translate editing subtitles](https://images.wondershare.com/virbo/article/2024/03/capcut-translate-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Global marketing campaigns**
 
  CapCut Translate is ideal for businesses conducting international marketing campaigns. By translating videos or ads, companies can communicate with diverse target audiences. It maximizes brand visibility and engagement on a global scale.
@@ -780,6 +777,10 @@ In conclusion, talking avatars are revolutionizing communication across industri
 * **Step 2:** Once the video is uploaded, the app will detect the spoken language in your video. Next, click on**Captions** **\> Auto captions** \>**Generate** . Next, wait for the CapCut auto caption generator to process the translation.
 
 ![capcut translate generating translation](https://images.wondershare.com/virbo/article/2024/03/capcut-translate-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Step 3:** After translating the video content, preview the subtitles to ensure accuracy and formatting. Once satisfied, export the translated video with subtitles embedded. Share it across various platforms or channels to reach your intended audience.
 
@@ -820,6 +821,10 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
 ![wondershare virbo main menu](https://images.wondershare.com/virbo/article/2024/03/capcut-translate-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * **Step 2:** Choose the video for translation saved on your computer. Choose the original and translated languages on the right side of the interface. In the advanced settings, decide if you like to add subtitles or lip-sync. Next, click on**Translate Video** .
@@ -830,15 +835,15 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
 ![video translation result](https://images.wondershare.com/virbo/images2023/feature-video-translation/script-step3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Comparative Analysis: CapCut Translate vs. Wondershare Virbo
 
  When considering video translation needs, several factors come into play. Here are the pros and cons of CapCut and Virbo.
 
 ![virbo ai generated scripts](https://images.wondershare.com/virbo/images2023/feature-video-translation/translator-img3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### CapCut Translate
 
@@ -854,10 +859,6 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
 * · CapCut doesn’t support frame rates higher than 60 fps.
 * · The mobile app doesn’t support landscape mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Wondershare Virbo
 
@@ -900,16 +901,18 @@ In conclusion, talking avatars are revolutionizing communication across industri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-charting-the-course-for-youtube-music-uploads-for-2024/"><u>[New] Charting the Course for YouTube Music Uploads for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-funding-fantasies-or-fiscal-facts/"><u>[Updated] In 2024, Funding Fantasies or Fiscal Facts?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>2024 Approved Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-deal-lg-34-ultragear-monitor-with-qhd-and-g-sync-just-549-at-amazon-today/"><u>Exclusive Deal: LG 34'' Ultragear Monitor with QHD and G-Sync – Just $549 at Amazon Today</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/harness-the-potential-of-a-full-size-gpu-asrocks-new-mini-pc-deskmate-x6-600-for-china-only-193-usd/"><u>Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-gadgets-and-components-with-toms-essential-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom's Essential Hardware Wisdom</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-performance-boost-computers-with-under-8gb-ram-using-compact-local-llm-technologies/"><u>Maximize Performance: Boost Computers with Under 8GB RAM Using Compact Local LLM Technologies</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-landscape-with-precision-the-ultimate-guide-by-tom-hardware/"><u>Navigating the Digital Landscape with Precision: The Ultimate Guide by Tom Hardware</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-five-key-shifts-from-ai-predecessor-gpt-35/"><u>The Five Key Shifts From AI Predecessor (GPT-3.5)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ultimate-review-of-mophie-powerstation-ac-expensive-yet-incredibly-handy/"><u>Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-top-20-adobe-premiere-shortcuts-you-will-use/"><u>Updated Top 20 Adobe Premiere Shortcuts You Will Use</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-discover-yourself-in-android-top-15-life-like-simulators/"><u>[New] 2024 Approved Discover Yourself in Android Top 15 Life-Like Simulators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-flawless-offline-viewing-your-guide-to-mobile-video-downloads-for-idevices/"><u>[New] 2024 Approved Flawless Offline Viewing Your Guide to Mobile Video Downloads for iDevices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-revolutionizing-adventure-recording-with-garmin-ultra-30/"><u>[Updated] 2024 Approved Revolutionizing Adventure Recording with Garmin Ultra 30</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-how-to-isolate-frames-as-photos-in-windows-11/"><u>[Updated] How to Isolate Frames as Photos in Windows 11</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-effortless-creativity-premier-pro-free-2023-guide/"><u>[Updated] In 2024, Effortless Creativity - Premier Pro FREE 2023 Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-innovative-video-edits-made-simple-with-windows-10s-story-remix/"><u>2024 Approved Innovative Video Edits Made Simple with Windows 10'S Story Remix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/file-sync-solutions-top-ways-to-bring-data-home/"><u>File Sync Solutions Top Ways To Bring Data Home</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oneplus-ace-3-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on OnePlus Ace 3</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/introducing-the-msi-c906-an-advanced-tiny-pc-boosted-by-intels-latest-raptor-lake-cpu-featuring-quad-25-gigabit-lan-connectivity/"><u>Introducing the MSI C906: An Advanced Tiny PC Boosted by Intel's Latest Raptor Lake CPU, Featuring Quad 2.5 Gigabit LAN Connectivity</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210412059-9781667417363-juntos/"><u>Juntos | Free Book</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/monthly-nzxt-lease-deals-power-up-with-core-i5-and-rtx-4060-gpu-gaming-pc-at-just-59-or-go-bigger-with-core-i7-and-rtx-er-4070-ti-for-a-premium-package-at-188/"><u>Monthly NZXT Lease Deals: Power up with Core I5 & RTX 4060 GPU Gaming PC at Just $59 or Go Bigger with Core I7 and RTX Er 4070 Ti for a Premium Package at $169!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unleash-unprecedented-portable-performance-wd-ultrastar-briefcase-featuring-368-tb-ssds-ice-lake-xeon-cpu-and-more/"><u>Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/unlock-unbeatable-savings-on-the-alienware-bundle-snag-the-incredible-aurora-r16-and-premier-34-inch-oled-display-at-a-whopping-70e-reduction/"><u>Unlock Unbeatable Savings on the Alienware Bundle: Snag the Incredible Aurora R16 and Premier 34-Inch OLED Display at a Whopping $70E Reduction!</u></a></li>
 </ul></div>
 

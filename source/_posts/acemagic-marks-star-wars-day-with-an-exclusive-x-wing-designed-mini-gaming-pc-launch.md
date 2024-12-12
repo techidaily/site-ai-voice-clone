@@ -1,7 +1,7 @@
 ---
 title: AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch
-date: 2024-11-30T16:01:58.960Z
-updated: 2024-12-06T11:10:10.760Z
+date: 2024-12-08T10:50:44.439Z
+updated: 2024-12-11T18:34:32.680Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,20 +74,18 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/n-2024-boost-visibility-with-customized-channel-names/"><u>[New] In 2024, Boost Visibility with Customized Channel Names!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-the-ultimate-companion-for-your-gaming-setup-xbox-recorder/"><u>[Updated] 2024 Approved The Ultimate Companion for Your Gaming Setup Xbox Recorder</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-the-ultimate-guide-to-youtube-live-streaming/"><u>[Updated] 2024 Approved The Ultimate Guide to YouTube Live Streaming</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-clip-of-fame-vimeo-quick-look/"><u>2024 Approved Clip of Fame Vimeo Quick Look</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-talking-avatar/"><u>2024 Approved What Is Talking Avatar?</u></a></li>
-<li><a href="https://win-lab.techidaily.com/can-you-boost-your-computers-performance-by-overclocking-learn-from-yl-computing/"><u>Can You Boost Your Computer's Performance by Overclocking? - Learn From YL Computing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-premium-our-rankings-for-best-gopro-casings/"><u>In 2024, Unveiling the Premium Our Rankings for Best GoPro Casings</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-downloadinstallregisteruninstall/"><u>New In 2024, Download/Install/Register/Uninstall</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-most-recommended-natural-ai-hindi-voice-generator/"><u>New The Most Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-art-generator-in-2024/"><u>New What Is an AI Art Generator, In 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/snatch-up-the-incredible-hp-victus-15-gamer-laptop-at-a-steal-just-515-during-best-buys-prime-day-sale-insider-tips-from-zdnet/"><u>Snatch Up the Incredible HP Victus 15 Gamer Laptop at a Steal: Just $515 During Best Buy's Prime Day Sale – Insider Tips From ZDNet!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/solving-csr8510-a10-controller-drivers-problems-on-windows-systems/"><u>Solving CSR8510 A10 Controller Drivers Problems on Windows Systems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-power-of-ai-thumbnail-generators-for-2024/"><u>The Power of AI Thumbnail Generators for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-honor-magic-5-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Honor Magic 5 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-make-your-memoji-talk-get-creative-with-your-messaging/"><u>Updated In 2024, How To Make Your Memoji Talk? Get Creative With Your Messaging</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[New] 2024 Approved Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-essential-offline-ios-game-list-unplugged-fun-awaits-in-2024/"><u>[New] Essential Offline iOS Game List - Unplugged Fun Awaits, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-reveal-the-rare-5-effortless-ways-to-enhance-views/"><u>[Updated] 2024 Approved Reveal the Rare 5 Effortless Ways to Enhance Views</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-checklist-for-your-youtubes-most-impactful-visuals/"><u>[Updated] The Ultimate Checklist for Your YouTube's Most Impactful Visuals</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-tips-for-seamlessly-screening-instagram-stories/"><u>2024 Approved Tips for Seamlessly Screening Instagram Stories</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/breaking-down-grok-ai-insights-intentions-and-investment-from-elon/"><u>Breaking Down Grok AI: Insights, Intentions & Investment From Elon</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ensuring-your-antivirus-protection-remains-current-a-guide-by-yl-computing/"><u>Ensuring Your Antivirus Protection Remains Current: A Guide by YL Computing</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-video-translator-online/"><u>New AI Video Translator | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-6-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-t2x-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo T2x 5G</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions/"><u>Updated Handling Exceptions</u></a></li>
 </ul></div>
 

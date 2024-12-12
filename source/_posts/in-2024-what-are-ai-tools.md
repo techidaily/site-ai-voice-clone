@@ -1,7 +1,7 @@
 ---
 title: In 2024, What Are AI Tools?
-date: 2024-12-05T03:14:25.858Z
-updated: 2024-12-06T09:12:54.273Z
+date: 2024-12-08T02:57:28.114Z
+updated: 2024-12-12T10:56:56.669Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -101,6 +101,10 @@ Our attitude towards AI tools can vary because they can be influenced by various
 
 An AI portrait generator is a cutting-edge application of artificial intelligence that employs advanced algorithms, often based on deep learning and neural networks, to create portraits that mimic the intricacies of human faces. These generators analyze patterns, features, and artistic styles from vast datasets of portraits, enabling them to produce awe-inspiring images that capture the essence of their subjects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Applying AI-Generated Portraits: Scenes of Transformation
 
 #### Bridging Historical Gaps
@@ -114,6 +118,10 @@ Contemporary artists and designers are embracing AI-generated portraits as tools
 #### Hyperrealism and Futuristic Aesthetics
 
 The hyperrealism achievable through AI portrait generators blurs the line between reality and art. Moreover, these generators can delve into futuristic aesthetics, crafting portraits that are otherworldly and fantastical, pushing the boundaries of imagination.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Are AI-Generated Portraits Worth It?
 
@@ -196,6 +204,10 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 
 1. Non-commercial use for free accounts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Play.ht
 
 ![morgan-freeman-voice-generator-2.jpg](https://images.wondershare.com/virbo/features/ai-voice/morgan-freeman-voice-generator-2.jpg)
@@ -268,6 +280,10 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 
 ![morgan-freeman-voice-generator-8.jpg](https://images.wondershare.com/virbo/features/ai-voice/morgan-freeman-voice-generator-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Tap the**Preview** button to cross-check the video and edit it further. If satisfied, click Export to save the video in WebM or MP4 format. That was easy, right?
 
 ## **Conclusion**
@@ -295,7 +311,7 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 ![talking photo banner](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: What Are Talking Stock Photos and What Can You Do With Them?
@@ -328,19 +344,11 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 
 ![getty images talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What self-respecting journalist or newsreader does not know about Getty Images? Getty has a repertoire of over 7,935,000 high-quality talking photos for you to choose from. That all but guarantees that you will be able to find the ones you want and like.
 
 #### 2.2: Shutterstock
 
 ![shutterstock talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Getty’s 7,935,000 talking photos didn’t fit the bill, maybe Shutterstock is for you. You can search from a database of over 4,549,000 talking photos. Certainly, something will catch your fancy with Shutterstock!
 
@@ -385,10 +393,6 @@ AI portrait generators stand as testament to the incredible capabilities of arti
 **Step 1:** We start with creating a project. Simply download Wondershare Virbo to your computer and click Talking Photo.
 
 ![create talking photo with wondershare virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![add image in virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-1.jpg)
 
@@ -467,10 +471,6 @@ Register Virbo on iOS
 
 ![register virbo on android](https://images.wondershare.com/virbo/guide/get-started/registration-andorid.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Register Virbo on Android
 
 #### 02 Create AI Video Projects
@@ -523,13 +523,13 @@ After downloading and installing is complete, open the Virbo App. Choose the reg
 
 ![register virbo on ios](https://images.wondershare.com/virbo/guide/get-started/registration.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Register Virbo on iOS
 
 ![register virbo on android](https://images.wondershare.com/virbo/guide/get-started/registration-andorid.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Register Virbo on Android
 
@@ -557,10 +557,6 @@ Use the AI script generator to incorporate your keywords and complete the video 
 
  A few years ago, channels like QVC were popular for engaging viewers in live shopping. They would successfully link up entertainment, socializing, and shopping. This meant that customers had the opportunity to interact and shop with their favorite hosts. The same approach has now evolved to live shopping through streaming platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### What is live stream shopping?
 
  Live streaming brings the old-time practice of home shopping to modern times, but the concept remains the same. Sellers can now showcase their products in real time while customers can buy them seamlessly online. The highly engaging experience goes beyond simply clicking on items and filling up a shopping cart. It is also about offering product demonstrations and promotions that stay valid during the entire live stream.
@@ -570,10 +566,6 @@ Use the AI script generator to incorporate your keywords and complete the video 
  One of the factors that have made live stream shopping popular is how much users interact with a brand. Shoppers can tune in to a live show to learn more about the product and leave comments the same way they would in an Instagram or YouTube Live. On the other hand, a seller can flash recommendations and reviews on the screen to guide the audience through their purchasing decision. You can think of live streaming shopping as the way we use social media platforms. Rather than liking a product, you now have the opportunity to directly buy it.
 
  As live stream shopping continues to attract more people, several top brands have stood out for their success in this area. Let’s have a look at some of the brands that have made remarkable progress in this area and the lessons we can learn from them:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Success Case with Live Online Shopping 1: Samsung Live Stream
 
@@ -585,19 +577,23 @@ Use the AI script generator to incorporate your keywords and complete the video 
 
 **Lessons drawn** : Livestream shopping combined with interactive features and exclusive deals unlocks a powerful sales channel. With personalized engagement, brands can gain from fostering real-time connections with viewers. It also allows them to create an engaging and informative experience while fostering compelling value propositions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Success Case with Live Online Shopping 2: Giosg One-on-One Live Shop
 
  In one of the game-changing strategies,[giosg](https://www.giosg.com/en/live-video-shopping) launched an online live shopping feature that allows sellers to have one-to-one voice and video calls with customers. With this feature, sellers can handhold their customers throughout the entire shopping process. The live online shopping feature works in the same way sales executives approach customers in traditional settings.
 
 ![giosg live shop](https://images.wondershare.com/virbo/article/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Achievement:** The live online shopping feature by giosg offers a unique and seamless shopping experience for other sellers and customers. It is like having a virtual shopping or sales assistant that takes the customer’s shopping experience to the next level. This live shopping feature revolutionizes online retail by bridging the gap between traditional sales tactics and e-commerce. Sellers could replicate personalized guidance and build trust through one-on-one video calls. As a result, they reported a surge in customer engagement and conversion rates.
 
 **Lessons drawn:** Implementing an online live shopping feature is an effective way of giving a more personalized and boutique experience to consumers. When done right, it can boost customer satisfaction in ways that live shopping videos would not achieve on a large scale. Technology is also seen as an enabler in this case. By integrating video calls into an e-commerce platform, the brand created a seamless and engaging experience for the shoppers, blurring the lines between online and offline shopping.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Success Case with Live Online Shopping 3: Nordstrom In-person and Live Shopping Blend
 
@@ -618,6 +614,10 @@ Use the AI script generator to incorporate your keywords and complete the video 
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) allows you to host live shopping with AI streamers. By integrating AI-powered avatars, you can save the cost of creating and launching a live shopping experience. With multi-lingual capabilities, the AI-driven avatars or Vtuber will keep your audience engaged, boosting your live shopping events. You also get seamless 24/7 AI streamers to address the needs of your viewers at all times.
 
 ![virbo live](https://images.wondershare.com/virbo/article/live-shopping-success-secrets-unveiling-strategies-from-real-case-studies-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Using [Virbo AI](https://virbo.wondershare.com/virbo-live.html) for your live shop streaming is beneficial in many ways:
 
@@ -751,7 +751,7 @@ Use the AI script generator to incorporate your keywords and complete the video 
  So far, Virbo only allows uploading MP4 files. Stay tuned for future updates!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -774,19 +774,19 @@ Use the AI script generator to incorporate your keywords and complete the video 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-mastering-the-game-tiktoks-most-notable-players/"><u>[New] 2024 Approved Mastering the Game TikTok's Most Notable Players</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-strategies-to-combat-freezing-in-high-quality-mode-for-2024/"><u>[New] Strategies to Combat Freezing in High Quality Mode for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-craft-stellar-youtube-thumbnails-with-these-8-software-alternatives/"><u>[Updated] 2024 Approved Craft Stellar YouTube Thumbnails with These 8 Software Alternatives</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-elevate-your-social-presence-with-customized-instagram-voices/"><u>[Updated] 2024 Approved Elevate Your Social Presence with Customized Instagram Voices</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-innovating-in-the-digital-age-making-stellar-fb-reels-on-youtube/"><u>[Updated] Innovating in the Digital Age Making Stellar FB Reels on YouTube</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-templates/"><u>In 2024, Create AI Avatar Video with Templates</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leading-e-learning-titling-toolkit/"><u>In 2024, Leading E-Learning Titling Toolkit</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mastering-media-extensions-integrating-diabolical-plug-ins-with-kodi-version-190-matrix/"><u>Mastering Media Extensions: Integrating Diabolical Plug-Ins with Kodi Version 19.0 Matrix</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-recognizing-the-top-deepfake-voice-app-and-software-in-the-market/"><u>New In 2024, Recognizing The Top Deepfake Voice App and Software in the Market</u></a></li>
-<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-text-generator/"><u>Updated In 2024, What Is an AI Text Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-text-to-video/"><u>What Is AI Text to Video?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-advanced-tactics-to-modify-playback-speed-in-spotify/"><u>[New] Advanced Tactics to Modify Playback Speed in Spotify</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-preferred-choices-affordable-channels-for-newbie-monetizers/"><u>[Updated] Preferred Choices Affordable Channels for Newbie Monetizers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-navigating-without-watching-edgenuity-content/"><u>[Updated] Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-voice-change-mastery-for-sony-game-systems/"><u>2024 Approved Voice Change Mastery for Sony Game Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/alienwares-latest-gaming-desktop-with-rtx-4070-super-now-at-an-unbelievable-price-of-1499-after-savings/"><u>Alienware's Latest Gaming Desktop with RTX 4070 Super – Now at an Unbelievable Price of $1,499 After Savings</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/craft-your-storyline-three-ways-to-border-instagram-videos-for-2024/"><u>Craft Your Storyline Three Ways to Border Instagram Videos for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-lava-blaze-2-pro-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Lava Blaze 2 Pro using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/microsoft-rolls-out-custom-networking-solutions-tailored-for-ai-data-centers-latest-news/"><u>Microsoft Rolls Out Custom Networking Solutions Tailored for AI Data Centers - Latest News</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/next-gen-computing-discover-the-powerful-combination-of-meteor-lake-cpu-and-intel-core-i9-in-onexplayers-new-mini-pc-enhanced-with-up-to-32gb-ram-and-oculin94/"><u>Next-Gen Computing: Discover the Powerful Combination of Meteor Lake CPU and Intel Core I9 in OneXPlayer's New Mini-PC - Enhanced with up to 32GB RAM & OCuLink Technology</u></a></li>
+<li><a href="https://win-answers.techidaily.com/nvidia-geforce-troubleshooting-demystifying-the-infamous-error-code-0x003-success-stories/"><u>Nvidia Geforce Troubleshooting: Demystifying the Infamous Error Code 0X00^3 Success Stories</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/toms-tech-gear-your-ultimate-guide-to-high-performance-equipment/"><u>Tom's Tech Gear: Your Ultimate Guide to High-Performance Equipment</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Sony Xperia 10 V? | Dr.fone</u></a></li>
 </ul></div>
 
