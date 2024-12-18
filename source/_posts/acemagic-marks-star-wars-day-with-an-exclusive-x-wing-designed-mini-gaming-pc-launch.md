@@ -1,7 +1,7 @@
 ---
 title: AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch
-date: 2024-12-08T10:50:44.439Z
-updated: 2024-12-11T18:34:32.680Z
+date: 2024-12-13T17:46:07.185Z
+updated: 2024-12-18T22:43:54.953Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,18 +74,17 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-incorporating-brand-identity-adding-logos-to-youtube-videos/"><u>[New] 2024 Approved Incorporating Brand Identity Adding Logos to YouTube Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-essential-offline-ios-game-list-unplugged-fun-awaits-in-2024/"><u>[New] Essential Offline iOS Game List - Unplugged Fun Awaits, In 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-reveal-the-rare-5-effortless-ways-to-enhance-views/"><u>[Updated] 2024 Approved Reveal the Rare 5 Effortless Ways to Enhance Views</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-checklist-for-your-youtubes-most-impactful-visuals/"><u>[Updated] The Ultimate Checklist for Your YouTube's Most Impactful Visuals</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-tips-for-seamlessly-screening-instagram-stories/"><u>2024 Approved Tips for Seamlessly Screening Instagram Stories</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/breaking-down-grok-ai-insights-intentions-and-investment-from-elon/"><u>Breaking Down Grok AI: Insights, Intentions & Investment From Elon</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ensuring-your-antivirus-protection-remains-current-a-guide-by-yl-computing/"><u>Ensuring Your Antivirus Protection Remains Current: A Guide by YL Computing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-ai-video-translator-online/"><u>New AI Video Translator | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-iphone-6-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-vivo-t2x-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Vivo T2x 5G</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions/"><u>Updated Handling Exceptions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-effortless-background-erasure-in-digital-photography-for-2024/"><u>[Updated] Effortless Background Erasure in Digital Photography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/10-best-lightroom-alternatives-free-and-paid-for-2024/"><u>10 Best Lightroom Alternatives [Free & Paid] for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-an-in-depth-guide/"><u>Exploring Tom’s Hardware: An In-Depth Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y78-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-zte-nubia-z60-ultra-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost ZTE Nubia Z60 Ultra Device</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>New 2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ical-hits-the-funniest-song-rewrites-for-2024/"><u>Satirical Hits The Funniest Song Rewrites for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools-for-2024/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728463462034-windows-115/"><u>Windows 11で失敗した再起動を解決する上位5コツ</u></a></li>
 </ul></div>
 

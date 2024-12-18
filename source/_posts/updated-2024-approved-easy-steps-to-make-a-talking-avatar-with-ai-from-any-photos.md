@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Easy Steps to Make a Talking Avatar with AI From Any Photos
-date: 2024-12-06T19:06:49.678Z
-updated: 2024-12-11T19:41:58.904Z
+date: 2024-12-14T21:02:33.922Z
+updated: 2024-12-18T16:20:22.309Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 ![Create video content with a talking AI avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Prominent Features of Talking Avatar
 
  If you are learning**how to make a talking avatar** , the avatars also come equipped with a range of features that contribute to their versatility and effectiveness in content creation. Let's get into the key features that make talking avatars a powerful tool for communication and storytelling:
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 ### 2\. Voice narration from a script
 
  One of the key features of talking avatars is their ability to narrate text from a script using synthetic voices. When you**create your own talking avatar** , you can input a written script, and the avatar will generate speech based on the provided text. You can also use your own recorded voice for your talking avatar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. AI script
 
@@ -187,6 +187,10 @@ Some of Virbo Talking Avatar features include:
 
 ![pexels talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Pexels was founded in Germany just about a decade ago in 2014 and has since grown to house over 3.2 million free stock photos and videos. The platform features over 411,000 talking photos for you to choose from. Pexels is part of Canva since 2018, just 4 years since its release. Must be doing something great, right?
 
 #### 2.5: Pixabay
@@ -227,6 +231,10 @@ Some of Virbo Talking Avatar features include:
 
 ![add audio to image in virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are options you can use to customize your output. Choose from several languages, change the speed of speech, even adjust pitch and volume, right here, easily! You can even add subtitles, change background music or switch the background!
 
 **Step 3:** It is now time to preview the video and export it! Click the Preview button to view the magic of Wondershare Virbo. If everything is to your liking, simply click Export.
@@ -238,7 +246,7 @@ The talking photo will be saved under My Creations.
 ![download talking photo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can view it there and download to your disk by clicking Download Video.
@@ -248,10 +256,6 @@ The talking photo will be saved under My Creations.
 ## Closing Words
 
  Talking photos are the next frontier in digital communication and expression. Harnessing the power of generative artificial intelligence, talking photos present never-before opportunities to not only engage people but engage with people. The education sector can use talking photos to make comprehension easier for children by making interactive, expressive talking photos that can explain complex concepts in a fun new way while corporates and businesses can use the power of talking photos to better engage with their audiences in a new way that captures and retains their interest. Inter-personally, talking photos can be used to have fun with friends and family in a completely new way! No more drab images, talking photos are the fun new way to express!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Text to Speech
 
@@ -287,6 +291,10 @@ Select the accent you want for your video and create the perfect AI video by sel
 
 **![select language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-31.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select any particular language from the options to create a new screen. Here you can type in the script you want to voiceover using the selected speech style. You can also change the speech style using the "Change" button.
 
 **![change language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-32.jpg)**
@@ -316,7 +324,7 @@ Select the accent you want for your video and create the perfect AI video by sel
 **![change language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-32.jpg)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** If the text does not match the speech-language, it will display a prompt on the screen. You can select the option of "Modify" to make respective adjustments.
@@ -330,10 +338,6 @@ Select the accent you want for your video and create the perfect AI video by sel
 **Step 5:** As you lead into the video creation page, make the required changes to your video using the options available on the panel. Once done, choose “Preview” to observe the changes and select “Export” to save the final result.
 
 **![export final video from tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-35.jpg)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Text-to-Speech
 
@@ -347,17 +351,9 @@ Select the accent you want for your video and create the perfect AI video by sel
 
 **![change language for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-32.jpg)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** If the text does not match the speech-language, it will display a prompt on the screen. You can select the option of "Modify" to make respective adjustments.
 
 **![modify text for tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-33.jpg)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** Continue with the "Create Video" button to proceed with the final process of making the AI video. Select the orientation of the video and tap "Create now" to continue.
 
@@ -366,10 +362,6 @@ Select the accent you want for your video and create the perfect AI video by sel
 **Step 5:** As you lead into the video creation page, make the required changes to your video using the options available on the panel. Once done, choose “Preview” to observe the changes and select “Export” to save the final result.
 
 **![export final video from tts](https://images.wondershare.com/virbo/guide/wondershare-virbo-guide-35.jpg)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is an AI Text Generator? | Wondershare Virbo Glossary
 
@@ -396,6 +388,10 @@ AI text generators can be applied in various scenarios, serving as valuable brid
 In addition to bridging gaps, AI text generators find applications in content creation, chatbots and virtual assistants, creative writing, language translation, customer support, social media marketing, personalized recommendations, text summarization, proofreading and editing, research and data analysis, as well as in legal and healthcare sectors. They assist in generating articles, blog posts, product descriptions, and scholarly papers, automate responses, inspire creativity, condense information, aid in drafting legal documents and medical reports, and much more.
 
 As AI text generation technology advances, it opens up new opportunities in journalism, content localization, e-learning, and beyond.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4\. In using an AI text generator, what should we consider?
 
@@ -497,6 +493,10 @@ By considering these factors, monitoring advancements in the field, and implemen
 
  Are you eager to know the popular**AI photo video makers** ? In this section, you can read about the top 4 AI tools that can help you create high-resolution videos with your provided images.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1. Steve AI
 
  Steve AI is a powerful tool for making videos using your uploaded photos. It provides more than 100 templates you can explore for artistic ideas for video creation. Once you have chosen the desired template on this tool, you can upload the photos to its editor. After adding all the desired photographs, this AI tool will instantly create a video clip using your photos.
@@ -504,6 +504,10 @@ By considering these factors, monitoring advancements in the field, and implemen
  Moreover, you can customize the color patterns, styles, and themes in the video, preferably. This tool also offers multiple styles to create a video. You can use a blog or text to create a video according to the provided instructions. With AI features, it can make results within 5 seconds.
 
 ![photo-to-video-ai-generator-1.jpg](https://images.wondershare.com/virbo/features/text-to-speech/photo-to-video-ai-generator-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Main Features
 
@@ -552,10 +556,6 @@ By considering these factors, monitoring advancements in the field, and implemen
 1. If you want to convert your videos into another format, this**AI photo-to-video** maker brings an easy solution. With its converter, you can change the file format of your video into MP4, GIF, JPEG, and MP3.
 2. The smart cut feature on this tool allows you to erase the silent parts from the video automatically. It works 10x faster, unlike other tools.
 3. From its video resizer, you can change the output size of your video instantly. This feature allows you to resize the video to widescreen and fit square and portrait frames.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: The Most Efficient and Easy-to-Use AI-Powered Video Editor for All Types of Users
 
@@ -627,6 +627,10 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Limitations
 
 * **Coqui TTS voice cloning** and other features of this tool take too much time to process files.
@@ -665,10 +669,6 @@ Then, check the desired settings for your output voice and tick the "Agree" chec
 ## Conclusion
 
 To summarize, we can say that **Coqui AI voice cloning** is the perfect tool that lets you clone your voice in different languages. Now, you can take your video projects to the next level as it uses XTTS language. You just need a bit of coding knowledge and clear reference audio. This will help you produce a perfect voice clone to ease the audio content creation process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What Is AI Voice Over? | Wondershare Virbo Glossary
 
@@ -754,18 +754,20 @@ It's essential to adhere to ethical guidelines and legal requirements when using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-a-comparative-look-at-samsung-photo-tools/"><u>[Updated] A Comparative Look at Samsung Photo Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-tailoring-video-dimensions-on-youtube-a-users-guide-to-perfect-uploads-for-2024/"><u>[Updated] Tailoring Video Dimensions on YouTube A User's Guide to Perfect Uploads for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-exploring-the-magic-of-ai-selfie-generators/"><u>2024 Approved Exploring the Magic of AI Selfie Generators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-introduction-online/"><u>2024 Approved Introduction | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-templates/"><u>In 2024, Create AI Avatar Video with Templates</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo S17t | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximizing-gameplay-speed-in-diablo-ii-resurrected-a-guide-to-increasing-your-frames-per-second/"><u>Maximizing Gameplay Speed in Diablo II Resurrected: A Guide to Increasing Your Frames Per Second</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/spotlight-synthesis-blending-lights-for-video-excellence/"><u>Spotlight Synthesis Blending Lights for Video Excellence</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/swiftly-shift-pics-between-google-photos-and-icloud-with-these-steps-techadvice/"><u>Swiftly Shift Pics Between Google Photos and iCloud with These Steps | TechAdvice</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/the-complete-list-of-iphone-deleted-note-restoration-solutions-top-picks-reviewed/"><u>The Complete List of iPhone Deleted Note Restoration Solutions: Top Picks Reviewed</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-magic5-ultimate-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor Magic5 Ultimate? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-for-2024/"><u>Updated Create AI Avatar Video for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-ultimate-tv-streaming-guide-international-and-regional-channels/"><u>[New] 2024 Approved Ultimate TV Streaming Guide International & Regional Channels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-master-the-art-of-collages-thanks-to-picshot/"><u>[New] Master the Art of Collages, Thanks to Picshot</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/resolved-incompatibility-vehicle-and-gear/"><u>[Resolved] Incompatibility: Vehicle & Gear</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-online/"><u>2024 Approved AI Script | Online</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/best-twitter-video-converters-to-upload-a-video-for-twitter-for-2024/"><u>Best Twitter Video Converters to Upload a Video for Twitter for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-for-2024/"><u>Create AI Avatar Video with AI Script for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-beginners-path-to-professional-windows-10-video-production/"><u>In 2024, The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ineffective-auto-brightness-on-iphone-discover-7-corrective-steps-now/"><u>Ineffective Auto-Brightness on iPhone? Discover 7 Corrective Steps Now!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review-for-2024/"><u>Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-the-metaverse-humor-scene-with-our-top-meme-ideas-for-2024/"><u>Master the Metaverse Humor Scene with Our Top Meme Ideas for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pioneering-companies-for-haptic-rich-views/"><u>Pioneering Companies for Haptic-Rich Views</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixing-the-pc-compatibility-issue-for-call-of-duty-modern-warfare-launch/"><u>Solution Found! Fixing the PC Compatibility Issue for Call of Duty: Modern Warfare Launch</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/stellartracewipe-v5-customizing-schedules-and-standards-for-windows-privacy-cleaning/"><u>StellarTraceWipe v5: Customizing Schedules & Standards for Windows Privacy Cleaning</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix .</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210529402-9781639617524-thy-will-be-done/"><u>Thy Will Be Done | Free Book</u></a></li>
 </ul></div>
 

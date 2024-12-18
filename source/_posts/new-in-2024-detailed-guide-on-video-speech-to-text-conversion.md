@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Detailed Guide on Video Speech to Text Conversion
-date: 2024-12-05T16:48:33.525Z
-updated: 2024-12-12T11:24:14.333Z
+date: 2024-12-12T16:57:36.228Z
+updated: 2024-12-18T20:17:58.672Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -26,7 +26,15 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 ![wondershare virbo interface](https://images.wondershare.com/virbo/article/convert-video-speech-to-text-ai-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Create Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Video Speech to Text in Wondershare Virbo
 
@@ -152,6 +160,10 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
 
 * Multiple complaints from users about its inactive user service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. VEED.io
 
  Do you want to increase your content's reach by improving its SEO? Then, VEED.io is the ideal tool to transform your video into text in 125 languages. Upon generating text, you can download it in VTT, SRT, and TXT format to use as subtitles. It has automated transcription software that ensures the accuracy of converted text.
@@ -172,10 +184,6 @@ thumbnail: https://thmb.techidaily.com/94266fd2abffa49379e11298094d126f869b761ce
  This is an online forum for converting your MP4 videos into text using a plain method. The tool is easy to access via any web browser, and you can log in to start working. To translate**video speech to text** , it supports 60+ languages, dialects, and accents. With its AI accuracy, you can transcribe a video in a minute in your preferred file format. You can download the transcribed text in TXT, DOCX, PDF, and more.
 
 ![happyscribe video speech to text](https://images.wondershare.com/virbo/article/convert-video-speech-to-text-ai-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Pros
 
@@ -254,10 +262,6 @@ To translate video captions, you can follow the steps:
 
 ![translate-instagram-video-3.jpeg](https://images.wondershare.com/virbo/article/2024/03/translate-instagram-video-3.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * **Step 2.** Create an account or log in
@@ -313,10 +317,6 @@ Infuse vitality into your narratives with online AI text-to-speech capabilities,
 ### Get To Know Our AI Script Feature
 
 ![text to speech](https://images.wondershare.com/virbo/guide/online-guide/tts-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click here to learn more about [Text to Speech](https://virbo.wondershare.com/ai-voice.html) \>>
 
@@ -384,10 +384,6 @@ Preview the Speech
 
  If you are looking to give your digital content a creative edge and more human-like interaction, then look no further. In this article, we'll introduce you to the 5 best realistic Text to Speech (TTS) AI voice generators that are sure to captivate your audience and improve your content strategy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1\. Why do People Need Realistic Text to Speech Voices?**
 
 **Realistic AI voice** generators have captured the interest of people from various walks of life, revolutionizing the way we consume and interact with content. These voices are making digital experiences more inclusive, immersive, and enjoyable. From accessibility to entertainment, education to innovation, the need for realistic text-to-speech voices is becoming increasingly evident.
@@ -400,9 +396,17 @@ Preview the Speech
 
  The ability to infuse technology with human-like emotion and personalization is also one of the most compelling reasons people lean towards realistic TTS voices. These voices have gone beyond the monotone robotic sounds of the past, allowing technology to speak with warmth, empathy, and even humor. Imagine a GPS that doesn't just provide directions, but also offers reassuring words during stressful moments, creating a more human connection between man and machine.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Breaking Language Barriers
 
  The world is a melting pot of languages and cultures, and realistic TTS voices are playing a crucial role in breaking down language barriers. Language learning becomes more immersive as learners can listen to accurate pronunciations and intonations, helping them grasp the nuances of a new language. Additionally, communication between individuals who speak different languages becomes smoother and more effective, fostering international connections.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Revolutionizing Education and Learning Processes
 
@@ -435,10 +439,6 @@ Preview the Speech
 5. **Multilingual Support:** Virbo supports a wide array of languages, broadening its global appeal.
 6. **Realistic voice generator with emotion infusion:** The tool can infuse emotions into the generated speech, enhancing its engagement factor.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2. Murf
 
  When it comes to**text to speech realistic** voice generation, Murf isn't playing around. This sophisticated voice generator takes things beyond the ordinary by letting you fine-tune every aspect of the generated voice. We're talking about more than just adjusting the pitch, punctuation, emphasis, and other elements to make the AI generated voice sound as compelling as possible; Murf allows you to seamlessly integrate your multimedia elements.
@@ -446,10 +446,6 @@ Preview the Speech
  From videos that command attention, audio that resonates, to images that paint a thousand words—Murf pairs your generated voice with these media, creating an immersive experience that's nothing short of extraordinary.
 
 ![Murf-ai-text-to-speech-generator.jpg](https://images.wondershare.com/virbo/features/text-to-speech/Murf-ai-text-to-speech-generator.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **Compatibility of Murf**
 
@@ -503,10 +499,6 @@ Preview the Speech
 4. Play.HT greets users with an intuitive and visually appealing interface.
 5. It has an extensive range of supported formats.
 6. With Play.ht, you can listen and preview text before converting it to speech
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5. Speechify
 
@@ -571,10 +563,6 @@ By using the **TTS online** tools, individuals who cannot see can read whatever 
 
 These amazing tools are widely utilized in the e-learning domains. Every educational software, along with the digital textbook, incorporates the feature of text-to-speech in their software. It can also help in reading out the assignments and other study material. Through this, you can learn your study material in an effective way.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Multilingual Communication
 
 Text-to-speech online tools also help you with multilingual support. You can learn how to pronounce words in other languages. It can also read the translated text out loud for you. This is particularly helpful for language learners and tourists.
@@ -586,6 +574,10 @@ It is an essential component of voice-activated technologies. AI-powered virtual
 ## Part 2: The Best 5 Text-to-Speech Online Tools
 
 Diversified **text-to-voice online** apps can confuse a person when choosing one. For this reason, you need to rely on the available resources to get the work done. This part will introduce and discuss the best-in-class **text-to-speech online** tools. A few of them are also known as the best **text-to-speech online free** software. You can find more about them from the below detailed discussion:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Speechify
 
@@ -611,6 +603,10 @@ Moreover, you can also select the languages based on the region, such as Southea
 
 ![textmagic text to speech online tool](https://images.wondershare.com/virbo/features/text-to-speech/text-to-speech-tool-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Murf.ai
 
 This intuitive tool never fails to amaze users with its high functionality and optimized key features. Murf.ai's **TTS online** tool lets you use its AI-enabled voices of real people without any issue. Whether you are a product developer, educator, or marketer, this exclusive tool can help you with all. You can select the voice of your choice, manage speed, control its pitch, and insert pause wherever you want.
@@ -618,10 +614,6 @@ This intuitive tool never fails to amaze users with its high functionality and o
 One of the best things about this tool is it has more than 120 text-to-speech voices that you can use in 20+ languages. There is a specialized video maker through which you can add a video or image of your choice and sync it with speech.
 
 **![murf.ai text to speech online tool](https://images.wondershare.com/virbo/features/text-to-speech/text-to-speech-tool-4.jpg)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Voicemaker
 
@@ -654,15 +646,15 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 [![google-play](https://images.wondershare.com/virbo/images2023/google-play-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt) [![app-store](https://images.wondershare.com/virbo/images2023/app-store-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
 ## Conclusion
 
 In the following article, you have learned all about **text-to-speech online** tools. Several use cases explain the productivity values of these tools. You can also use the above-discussed top 5 **TTS online** tools. As for the bonus tip, it has provided the most recommended tool for accomplishing the task of converting text into speech.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Avatars | Online
 
@@ -684,6 +676,10 @@ With the power of AI, Virbo can effortlessly produce a video for you using a dig
 ![ai avatar](https://images.wondershare.com/virbo/guide/online-guide/ai-avatar-1.jpg)
 
 Click here to learn more about [AI Avatar](https://virbo.wondershare.com/ai-avatar.html) \>>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Avatar
 
@@ -778,6 +774,10 @@ The use of AI in video creation has significantly simplified the process and mad
 
 Yes, there is a difference between an AI video maker and an AI video generator, although they are related concepts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. AI Video Maker
 
 An AI video maker is a software tool or platform that leverages artificial intelligence (AI) technologies to assist in video creation and editing. It provides users various automated features and tools to streamline video production. AI video makers typically offer functionalities such as automatic video editing, scene recognition, visual effects, subtitle generation, voiceover synthesis, and music suggestions. These tools are designed to make video creation more accessible and efficient for users, regardless of their level of expertise in video editing.
@@ -798,22 +798,14 @@ In summary, the main difference lies in their primary functions: an AI video mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-9-metaverse-blueprints-illuminating-virtual-realities/"><u>[New] 9 Metaverse Blueprints Illuminating Virtual Realities</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-kiddo-cars-miniature-mayhem-matches-for-2024/"><u>[Updated] Kiddo Cars Miniature Mayhem Matches for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-step-by-step-approach-to-crafting-youtube-intros/"><u>[Updated] Step-by-Step Approach to Crafting YouTube Intros</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-cloning-voices-with-hugging-face-features-guidance-alternatives/"><u>2024 Approved Cloning Voices With Hugging Face Features, Guidance, Alternatives</u></a></li>
-<li><a href="https://article-tips.techidaily.com/how-luts-revolutionize-your-photo-editing-experience-for-2024/"><u>How LUTs Revolutionize Your Photo Editing Experience for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-vsdc-screen-recorder-review-and-best-alternative/"><u>In 2024, VSDC Screen Recorder Review and Best Alternative</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-script-generator/"><u>In 2024, What Is an AI Script Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>In 2024, What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/mastering-the-art-of-simplified-live-streaming-for-2024/"><u>Mastering the Art of Simplified LIVE Streaming for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>New In 2024, In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/teamgees-dual-monitor-offer-cut-costs-by-120-a-must-have-for-mobile-workstations/"><u>TeamGee's Dual Monitor Offer: Cut Costs by $120 - A Must-Have for Mobile Workstations!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>Updated In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-are-ai-tools-wondershare-virbo-glossary/"><u>What Are AI Tools? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-irreversible-steps-for-a-fixed-tiktok-exit/"><u>[Updated] In 2024, Irreversible Steps for a Fixed TikTok Exit</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-xiaomi-redmi-a2-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Xiaomi Redmi A2</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://media-tips.techidaily.com/introducing-free-ads-enabled-video-streaming-in-vlc-media-player/"><u>Introducing Free, Ads-Enabled Video Streaming in VLC Media Player</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>New Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-presentation-maker-in-2024/"><u>New What Is an AI Presentation Maker, In 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/obs-game-capturing-woes-fix-that-perplexing-black-screen-issue-today/"><u>OBS Game Capturing Woes? Fix That Perplexing Black Screen Issue Today</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-complete-guide-to-htc-u23-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to HTC U23 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
 </ul></div>
 

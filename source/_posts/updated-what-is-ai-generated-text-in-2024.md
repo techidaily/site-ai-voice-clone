@@ -1,7 +1,7 @@
 ---
 title: Updated What Is AI Generated Text, In 2024
-date: 2024-12-05T22:53:51.543Z
-updated: 2024-12-11T20:53:48.736Z
+date: 2024-12-15T16:00:38.877Z
+updated: 2024-12-18T18:32:11.473Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -50,10 +50,6 @@ AI generated text offers several advantages:
 
 AI generated text is reshaping content creation across industries. Its efficiency, scalability, and potential for enhancing creativity make it a valuable tool for businesses and creators alike. As technology continues to advance, AI text generators are likely to play an increasingly significant role in content production.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is AI Generated Text?
 
 AI generated text refers to content produced by artificial intelligence-powered text generators. These tools utilize advanced algorithms and language models to create written content automatically, ranging from articles and product descriptions to creative writing and more.
@@ -95,10 +91,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
      data-ad-slot="1223367746"></ins>
 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Ultimate Guide to Translating YouTube Videos Without CC
 
  We are living in the age of social media, and YouTube is the world’s most popular video-sharing social platform. People use it to share knowledge, entertainment, and their views on diverse subjects. As it’s a global platform, people from all over the world can upload their content. This can, sometimes, create problems, particularly if the content is in a foreign language. Unfortunately, the language barrier hinders our understanding of a topic more often than we admit. While the YouTube Closed Captions (CC) feature offers some respite, not all videos have this option. In this article, we will discuss**how to translate YouTube video without CC** on your personal computer, so that you can explore and enjoy any content you want. Let’s dive in!
@@ -138,10 +130,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
  Below is a simple step-by-step guide to translate Youtube video to English without cc. You can also use the same steps to translate your video into other languages like Chinese, German, Hindi, etc.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step1 Download Virbo and launch its video translator
 
  Go to the official Virbo link and download its latest version (or you can directly click the following download button). Install it on your computer. Once the setup finishes, launch Virbo and go to Video Translator as seen above.
@@ -159,6 +147,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
  When the auto translation completes, preview the translated content. Check for any mistakes and correct them if necessary. If everything is good, then click the Download button at the bottom to save it on your device.
 
 ![Preview the translated video, make changes and download](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-without-cc-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -181,6 +173,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
 ### 04 Use Reputable & Accurate Tools
 
  Always use reputable names for your transactions. There’s a good reason why some tools are more popular than others. Take Wondershare Virbo as an example. Virbo provides accurate and better translations for YouTube Videos than most other tools in the market.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 05 Don’t Be Afraid To Customize
 
@@ -211,6 +207,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
  YouTube has no built-in option to provide you with an SRT file of subtitles. Instead, you can use Virbo - AI Video Translator (Online Version) to download the YouTube video SRT File. It even allows you to proofread the script of the video before exporting it to your device.
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -304,6 +304,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 ![manage other voiceover properties](https://images.wondershare.com/virbo/article/2024/02/know-more-about-talking-head-videos-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 6\. Export Your Talking Head Video
 
  After making all the selections, you are ready to take your masterpiece out. For that, you can select the “Export” option. Then, you can also adjust the resolution for the final output. Afterward, it takes you to the “My Creations” window to check your**AI talking head video** .
@@ -380,10 +384,6 @@ secure download
 
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1\. Create a new project
 
 Open the Wondershare Virbo app and tap the talking photo function to enter the operation interface.
@@ -396,10 +396,6 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Edit and export your video
 
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
@@ -411,6 +407,10 @@ Enter text and choose a voiceover provided below to generate the voiceover of yo
 Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 for iOS
 
@@ -433,10 +433,6 @@ secure download
 Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 for iOS
 
@@ -486,10 +482,6 @@ secure download
 
 ![best-explainer-video-examples.jpg](https://images.wondershare.com/virbo/features/marketing/explainer-video/best-explainer-video-examples.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 1: Best 10 Animated Explainer Video Examples**
 
  Videos may be used as a tool to grow an audience's loyalty, enhance conversions, or draw in new clients. It's a fantastic approach to increase brand recognition and customer loyalty. To learn how other companies have created explainer films, we advise viewing some of the greatest ones currently available. These 10 explainer video examples are ones we recently came across and would want to share with you. Let's think about these wonderful videos and why we love them without further ado.
@@ -502,6 +494,10 @@ secure download
 
  With the help of amazing characters, this 30-second animation showcases Microsoft Whiteboard's advantages and shows how to use it. The reason In a Nutshell is at the top of our list of the best animated explainer films is because they consistently provide the most aesthetically attractive videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Making Teamwork Click
 
 ![best-explainer-video-examples-teamwork.jpg](https://images.wondershare.com/virbo/features/marketing/explainer-video/best-explainer-video-examples-teamwork.jpg)
@@ -511,7 +507,7 @@ secure download
  Each year, businesses produce tens of thousands of explainer films, some of which are excellent and some of which are among the greatest ever made. Making Teamwork Click is just one of them. The basic backdrop and figures used here wonderfully complement the animation, which keeps your focus on the app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3. Ahrefs
@@ -662,11 +658,19 @@ It can optimize audio levels, remove background noise, and even generate or reco
 
 It can intelligently remove or replace elements within the video, such as removing unwanted objects or replacing green screens with other backgrounds.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Workflow automation
 
 It can streamline the video editing process by automating repetitive tasks, saving time and effort for content creators.
 
 Overall, an AI video editor harnesses the power of artificial intelligence to simplify and enhance the video editing process, enabling users to create professional-looking videos with greater ease and efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. What can be called an AI video editor?
 
@@ -688,10 +692,6 @@ It can analyze the video footage and identify different scenes or segments, maki
 
 It can recognize and track specific objects or elements within the video, allowing for advanced editing techniques like adding effects, text, or annotations.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Automated transitions and effects
 
 It can suggest or apply transitions, filters, and effects to enhance the visual appeal and storytelling of the video.
@@ -709,6 +709,10 @@ It can intelligently remove or replace elements within the video, such as removi
 It can streamline the video editing process by automating repetitive tasks, saving time and effort for content creators.
 
 Overall, an AI video editor harnesses the power of artificial intelligence to simplify and enhance the video editing process, enabling users to create professional-looking videos with greater ease and efficiency.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## In-Depth Review of Ivona Text to Speech by NextUp Technologies
 
@@ -770,10 +774,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Device Compatibility
 
 * Windows
@@ -821,17 +821,24 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-twitters-aspect-ratio-policies-for-2024/"><u>[New] Navigating Twitter's Aspect Ratio Policies for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-dull-scenes-to-dynamic-sports-highlights/"><u>[Updated] In 2024, From Dull Scenes to Dynamic Sports Highlights</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-incorporate-movies-into-your-youtube-collection/"><u>[Updated] Incorporate Movies Into Your YouTube Collection</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/audio-visual-harmony-in-digital-photos/"><u>Audio-Visual Harmony in Digital Photos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/fixing-undetected-sd-cards-tips-and-tricks-for-quick-solutions/"><u>Fixing Undetected SD Cards - Tips and Tricks for Quick Solutions</u></a></li>
-<li><a href="https://win11.techidaily.com/hidden-impact-on-performance-the-unseen-effect-of-disguised-software/"><u>Hidden Impact on Performance: The Unseen Effect of Disguised Software</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-c53-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme C53 by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-narakeet-review-convenient-text-to-speech-voice-maker/"><u>New 2024 Approved Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>New In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-easy-steps-to-create-ai-twitch-streamer-with-animated-avatars/"><u>New In 2024, Easy Steps to Create AI Twitch Streamer with Animated Avatars</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/studiokit-lxz103-budget-umbrella-shine/"><u>StudioKit LXZ103: Budget Umbrella Shine</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know-for-2024/"><u>Updated Ready To Dive Into Photo Talking Videos? Heres What You Need To Know for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-attract-more-viewers-crafting-impressive-youtube-description-with-custom-templates/"><u>[New] 2024 Approved Attract More Viewers Crafting Impressive Youtube Description with Custom Templates</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-money-with-8-youtube-aspects/"><u>[New] 2024 Approved Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-advanced-mp4-to-facebook-converter-for-2024/"><u>[New] Advanced MP4-to-Facebook Converter for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-ai-powered-image-processing-hub/"><u>[New] In 2024, AI-Powered Image Processing Hub</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-notch-voice-alteration-for-valorant-players-available-at-zero-cost/"><u>2024 Approved Top Notch Voice Alteration for Valorant Players - Available at Zero Cost</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-realme-12-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Realme 12 5G Phone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Infinix Smart 8 HD</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-online/"><u>In 2024, AI Script | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-common-platforms/"><u>New 2024 Approved Common Platforms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
+<li><a href="https://media-tips.techidaily.com/streaming-for-the-mind-get-access-to-thousands-of-audiobooks-on-spotify-starting-at-only-999/"><u>Streaming for the Mind - Get Access to Thousands of Audiobooks on Spotify, Starting at Only $9.99!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-huawei-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Huawei Phone Pattern Lock</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-techniques-solving-surface-pro-display-vibrations-and-fluctuating-issues/"><u>Troubleshooting Techniques: Solving Surface Pro Display Vibrations & Fluctuating Issues</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-in-2024/"><u>Updated What Is AI API, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/voice-cloning-in-descript-features-guide-and-alternatives-for-2024/"><u>Voice Cloning in Descript Features, Guide & Alternatives for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-voice-generator-in-2024/"><u>What Is an AI Voice Generator, In 2024</u></a></li>
 </ul></div>
 

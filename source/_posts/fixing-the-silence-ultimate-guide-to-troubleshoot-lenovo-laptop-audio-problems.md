@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Silence: Ultimate Guide to Troubleshoot Lenovo Laptop Audio Problems"
-date: 2024-12-08T22:25:53.129Z
-updated: 2024-12-11T23:10:48.367Z
+date: 2024-12-15T17:05:04.110Z
+updated: 2024-12-18T19:39:52.413Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Check your microphone settings**
 
  If your Logitech G633 is not set as the default device, or if it is disabled on your PC, you may also run into this issue. You can follow the instructions below to check your microphone settings:
@@ -37,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 1. On your desktop,   **right-click**  **the speaker icon**  at the bottom-right corner, and then select **Sounds**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap432.jpg)
 2. Click the **Recording**  tab, s  elect the microphone you’re using and click **Set Default** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap447.jpg)
 3. While still in the **Recording** tab, try **speaking into your microphone**  to test if it works properly. If it is, you should see some green in the bar on the right:  
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
  See if your Logitech G633 mic works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Allow access to your headset microphone (for Windows 10 users)**
@@ -63,13 +63,13 @@ thumbnail: https://thmb.techidaily.com/d44c84cbf0699642eded061365e62aa884811112a
 2. Click**Microphone** on the left panel. On the right,**if** **microphone access for this device is off** , click**Change** **to** **turn it on** . You should also all apps to access your microphone. If it is turned off, turn it on.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000088.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check if your Logitech G633 mic works. If not, try the next fix below to update your audio driver.
@@ -95,11 +95,11 @@ There are two ways to update your sound card driver: **manually**  and **automat
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap000027-4.png)
 3. Click **Update**  next to your sound card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get**full support** and a**30-day money back** guarantee  ).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/snap0029-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -132,20 +132,20 @@ There are two ways to update your sound card driver: **manually**  and **automat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-discord-streaming-essentials-a-comprehensive-beginners-tutorial/"><u>[New] 2024 Approved Discord Streaming Essentials A Comprehensive Beginner's Tutorial</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-securing-your-scene-camera-shake-solutions/"><u>[New] Securing Your Scene Camera Shake Solutions</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-new-wave-of-youtube-branding-best-titles-for-vloggers-and-filmmakers-keep-it-under-or-at-156-characters-for-2024/"><u>[New] The New Wave of YouTube Branding Best Titles for Vloggers & Filmmakers (Keep It Under or at 156 Characters) for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-a14-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy A14 5G Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-live-streaming-simplified-with-top-webcam-recorders/"><u>In 2024, Live Streaming Simplified with Top WebCam Recorders</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-step-by-step-guide-how-to-translate-tiktok-videos/"><u>In 2024, Step-by-Step Guide How to Translate TikTok Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ntly-professional-rapidly-crafting-valorant-game-imagery-for-2024/"><u>Instantly Professional Rapidly Crafting Valorant Game Imagery for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/master-pubg-structures-load-up-expert-tips-on-fixing-map-issues/"><u>Master PUBG Structures Load-Up - Expert Tips on Fixing Map Issues</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-talking-avatar-wondershare-virbo-glossary/"><u>New In 2024, What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ltimate-guide-to-choosing-between-igtv-and-youtube-for-content-creators/"><u>The Ultimate Guide to Choosing Between IGTV & YouTube for Content Creators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-downloadinstallregisteruninstall/"><u>Updated In 2024, Download/Install/Register/Uninstall</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-for-2024/"><u>Updated What Is AI API for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-wondershare-virbo-glossary/"><u>Updated What Is AI API? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creating-captivating-youtube-thumbnails-for-mac-users-for-2024/"><u>[New] Creating Captivating YouTube Thumbnails for Mac Users for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-omni-angle-mounting-mechanisms/"><u>[New] Omni-Angle Mounting Mechanisms</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-how-to-fix-the-0x80072efd-error-in-windows-11/"><u>[Solved] How to Fix the 0X80072EFD Error in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cultivate-1000-fanbase-followers-quickly/"><u>[Updated] Cultivate 1,000 Fanbase Followers Quickly</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-master-the-art-of-playing-gb-classics-on-a-windows-pc-for-2024/"><u>[Updated] Master the Art of Playing GB Classics on a Windows PC for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-best-practices-for-getting-high-quality-pictures-without-spending-money/"><u>2024 Approved Best Practices for Getting High Quality Pictures Without Spending Money</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-translator-to-translate-videos-online/"><u>2024 Approved The Best Translator to Translate Videos Online</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-factory-reset-windows-11-without-the-admin-password/"><u>How to Factory Reset Windows 11 Without the Admin Password</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-future-proof-file-storage-essential-cloud-services-revealed/"><u>In 2024, Future-Proof File Storage Essential Cloud Services Revealed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-7-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved Best 7 Whiteboard Explainer Videos to Inspire You</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-recommended-natural-ai-hindi-voice-generator/"><u>New The Recommended Natural AI Hindi Voice Generator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-artist-for-2024/"><u>New What Is an AI Artist for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-to-choosing-your-perfect-9-online-anniversary-celebration-videos/"><u>The Ultimate Guide to Choosing Your Perfect 9 Online Anniversary Celebration Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-7-best-explainer-video-makers-you-may-like/"><u>Updated 2024 Approved 7 Best Explainer Video Makers You May Like</u></a></li>
 </ul></div>
 

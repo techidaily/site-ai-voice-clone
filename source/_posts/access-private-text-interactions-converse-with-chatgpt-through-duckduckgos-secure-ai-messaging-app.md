@@ -1,7 +1,7 @@
 ---
 title: "Access Private Text Interactions: Converse with ChatGPT Through DuckDuckGo’s Secure AI Messaging App"
-date: 2024-12-06T11:36:43.526Z
-updated: 2024-12-12T13:53:52.375Z
+date: 2024-12-12T22:16:33.523Z
+updated: 2024-12-18T21:05:23.835Z
 tags:
   - chatgpt
   - open-ai
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 * [How to Use the AIPRM for ChatGPT Chrome Extension](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-use-the-aiprm-for-chatgpt-chrome-extension)
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
@@ -70,6 +74,10 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
 1. **Favorites** where you can save your commonly-used prompts.
@@ -82,13 +90,13 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Filter and Favorite AIPRM Prompts
@@ -98,10 +106,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
  Click the**Topic** field to select topics like Marketing, productivity, or SEO. You can filter by**Activity** to find prompts suitable to specific activities or click**Sort by** to select prompts based on usage, views, or votes. Lastly, use the**Model** filter to choose a particular ChatGPT version. You can also use the**Search** bar to find prompts using keywords.
 
 ![The AIPRM for ChatGPT Activity filter](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/filter-aiprm-prompts.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have found a prompt that resonates with your needs, you can add it to your favorites for easy access in the future. Click the**Star** icon next to the prompt to add it to your**Favorites** tab. Next, go to the**Favorites** tab to view and access all your saved prompts.
 
@@ -127,10 +131,6 @@ To create a custom AIPRM prompt:
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once your prompt is saved, you can find it under the**Own** tab.
 
  You have just created your first AIPRM prompt! Test it out and see what kind of response you get from ChatGPT. You can always edit your prompt by clicking the**pencil** icon next to it.
@@ -152,20 +152,22 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-beginners-guide-to-inconspicuous-image-tinkering/"><u>[New] 2024 Approved Beginner's Guide to Inconspicuous Image Tinkering</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-streamline-your-playtime-5-techniques-for-gamers-for-2024/"><u>[New] Streamline Your Playtime 5 Techniques for Gamers for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-generator-virbo-guide/"><u>2024 Approved AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-premium-photographic-holding-websites/"><u>2024 Approved Premium Photographic Holding Websites</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dramatic-fades-in-a-flash/"><u>Dramatic Fades in a Flash</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ocusing-attention-with-eye-catching-intros-in-imovie/"><u>[New] Focusing Attention with Eye-Catching Intros in iMovie</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-chefs-roadmap-creating-culinary-content/"><u>[Updated] The Chef's Roadmap Creating Culinary Content</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-apple-iphone-15-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On Apple iPhone 15</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effortless-guide-protecting-and-restoring-your-icloud-mail/"><u>Effortless Guide: Protecting and Restoring Your iCloud Mail</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-focusrite-scarlett-2i4-sound-card-ready-on-windows-with-download/"><u>Get Your Focusrite Scarlett 2I4 Sound Card Ready on Windows with [Download]</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/how-to-add-filters-to-video-pc-and-mobile/"><u>How to Add Filters to Video [PC & Mobile]</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unfortunately-contacts-has-stopped-error-on-poco-c65-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Unfortunately, Contacts Has Stopped Error on Poco C65 | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-voice-wondershare-virbo-online/"><u>In 2024, AI Voice | Wondershare Virbo Online</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/iphone-audio-recording-migration-from-mobile-device-to-laptop-bypassing-itunes-utility/"><u>IPhone Audio Recording Migration From Mobile Device to Laptop, Bypassing iTunes Utility</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video/"><u>New Create AI Avatar Video</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-video-with-ai-avatar-wondershare-virbo-for-2024/"><u>New Create AI Video with AI Avatar | Wondershare Virbo for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-script-wondershare-virbo/"><u>New In 2024, AI Script | Wondershare Virbo</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/solution-for-twitter-videos-not-playing-in-chrome-for-2024/"><u>Solution for Twitter Videos Not Playing in Chrome for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolve-apex-legends-not-launching-problems-swiftly/"><u>Step-by-Step Guide: Resolve Apex Legends Not Launching Problems Swiftly</u></a></li>
-<li><a href="https://win-trending.techidaily.com/troubleshooting-why-wont-my-pc-start-up-expert-insights-by-yl-computing/"><u>Troubleshooting: Why Won't My PC Start Up? Expert Insights by YL Computing</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-translation-online/"><u>New In 2024, AI Translation | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-unlocking-talkshoplive-pros-and-tips-for-live-shopping-success/"><u>New Unlocking TalkShopLive Pros and Tips for Live Shopping Success</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-enabledisable-wi-fi-connection-metering-on-win11/"><u>Steps to Enable/Disable Wi-Fi Connection Metering on Win11</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/reators-lab-building-an-unstoppable-channel/"><u>The Creator's Lab Building an Unstoppable Channel</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>Updated 2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-powered-script-to-video-makers/"><u>Updated Top 5 AI-Powered Script to Video Makers</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-what-are-ai-tools-for-2024/"><u>Updated What Are AI Tools for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More
-date: 2024-12-08T06:05:25.961Z
-updated: 2024-12-12T08:25:13.869Z
+date: 2024-12-17T16:38:04.269Z
+updated: 2024-12-18T19:57:26.008Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,18 +76,15 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-visual-harmony-in-grids-the-top-10-photo-choices/"><u>[New] In 2024, Visual Harmony in Grids The Top 10 Photo Choices</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-transforming-tweetstream-into-hd-visionary-content-for-2024/"><u>[New] Transforming Tweetstream Into HD Visionary Content for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>2024 Approved Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-driveease-expert-review/"><u>[New] In 2024, DriveEase Expert Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-blending-binaries-digital-photographic-techniques/"><u>[Updated] Blending Binaries Digital Photographic Techniques</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-android-with-chatgpt-widget-use/"><u>Enhance Android With ChatGPT Widget Use</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/how-to-fade-out-audio-in-logic-pro/"><u>How To Fade Out Audio In Logic Pro</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/1728469940625-aomei-backupper/"><u>成功複製文件：如何有效使用 AOMEI Backupper系統</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-the-ultimate-guide-for-broadcasting-gopro-videos-to-periscope-and-facebook/"><u>In 2024, The Ultimate Guide for Broadcasting GoPro Videos to Periscope & Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-future-of-youtube-branding-top-titles-for-video-content-creators-limited-to-156-characters/"><u>In 2024, The Future of Youtube Branding Top Titles for Video Content Creators (Limited to 156 Characters)</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-common-platforms/"><u>New 2024 Approved Common Platforms</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-voice-generator-in-2024/"><u>What Is an AI Voice Generator, In 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/windows-phones-ultimate-guide-to-video-apps/"><u>Windows Phone's Ultimate Guide to Video Apps</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcome-nba-2k23-stability-issues-on-pc-with-our-seven-step-guide-to-recovery/"><u>Overcome NBA 2K23 Stability Issues on PC with Our Seven-Step Guide to Recovery</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/securing-your-digital-assets-expert-tips-on-safe-cryptocurrency-storage-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips on Safe Cryptocurrency Storage From YL Computing</u></a></li>
 </ul></div>
 

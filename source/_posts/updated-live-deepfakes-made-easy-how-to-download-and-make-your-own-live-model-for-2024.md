@@ -1,7 +1,7 @@
 ---
 title: Updated Live Deepfakes Made Easy How to Download and Make Your Own Live Model for 2024
-date: 2024-12-06T23:28:20.436Z
-updated: 2024-12-12T06:19:27.820Z
+date: 2024-12-15T22:42:16.958Z
+updated: 2024-12-18T22:09:24.532Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -74,10 +74,6 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
 
 ![application run](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Build Your Live Model: Easy Tutorial
 
  Creating customized**DeepFace Live models** can be an exciting experience. It allows you to bring your imagination with real-time interaction. However, with the Deepfake issues and concerns among viewers, you may need a safe alternative to engage your audience with. You will want to engage your audience while assuring them that the information they are getting is authentic.
@@ -131,6 +127,10 @@ thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4
  AI streamer from Virbo Live will do more than present your information to the audience. It will also interact with them seamlessly by responding to questions and providing additional information.
 
 ![automate AI avatar interactions with viewers](https://images.wondershare.com/virbo/article/master-deepface-live-download-and-train-your-live-model-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -235,10 +235,6 @@ Moreover, Darth Vader's voice is easily recognizable and can be used for marketi
 
 ![information about darth vader](https://images.wondershare.com/virbo/features/ai-voice/darth-vader-ai-voice-generator-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: The 2 Best Darth Vader Voice Generator Online Tool
 
 Online tools are the best option to do anything. This is because you don’t have to worry about hardware compatibility and memory consumption. There are diversified **Darth Vader Voice Generator online** tools that can help you in generating Darth Vader voices. The best two among them are discussed here for you:
@@ -299,6 +295,10 @@ One of the best things is you will not face any limitations regarding the number
 
 ![voice changer darth vader voice generator](https://images.wondershare.com/virbo/features/ai-voice/darth-vader-ai-voice-generator-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Compatibility
 
 * **Android**: 4.4 and above
@@ -310,6 +310,10 @@ This mobile app lets you change your voice into the voice of any celebrity. No m
 Moreover, you can also play the voice before saving it. This tool also lets you save the changed voice in the device. You can also use this app to create parodies for voiceovers, reels, snaps, and podcasts.
 
 ![celebrity darth vader voice generator](https://images.wondershare.com/virbo/features/ai-voice/darth-vader-ai-voice-generator-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Compatibility
 
@@ -385,10 +389,6 @@ Moreover, UnicTool MagicVox and WooTechy Soundbot can help you change your voice
 
  Are you looking for a decent**text-to-voice generator for free** on your smartphone? Here are our two picks that can work seamlessly on Android and iOS devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Narrator’s Voice – TTS ( Android
 
  One of the top free apps available on the App Store and Google Play, Narrator's Voice is a must-have if you search for**free text-to-speech generators** . With a unique yet interactive user interface, this free tool lets users create interesting and creative speech from the input text in a few simple clicks.
@@ -417,9 +417,17 @@ Moreover, UnicTool MagicVox and WooTechy Soundbot can help you change your voice
 2. With a top-rated image-to-speech feature on Speechify, users can generate descriptive audio interpretations in a few simple clicks.
 3. The app adds a natural and life-like twist to the generated audio. As a result, users can comfortably experience its wide range of human voices on the go.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: The Best Features-Packed 2 Text-to-Voice Generators for Windows PC and MacBook
 
  If you are looking for a**text voice maker** that can work on your computers, we have just the tools for you. Below are 2 remarkable tools that act best on Windows and Mac computers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. Virbo
 
@@ -435,10 +443,6 @@ Moreover, UnicTool MagicVox and WooTechy Soundbot can help you change your voice
 2. The**text-to-speech video maker** offers an impressively diverse range of options when it comes to accents and languages. With its focus on inclusivity, you get a comprehensive list of choices to opt from.
 3. If you do not have a particular script, you can also use Virbo to generate AI scripts. You can provide keywords, and the tool will generate perfect content for all purposes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2. UnicTool VoxMaker
 
  If you are searching for a fast and secure tool that can act as a**text-to-speech generator** , you can try out UnicTool VoxMaker. Available for the Windows and Mac platforms, this handy tool can help users make their favorite characters say anything they want.
@@ -453,13 +457,13 @@ Moreover, UnicTool MagicVox and WooTechy Soundbot can help you change your voice
 2. You can transform your text into more than 45 languages and in thousands of voices on UnicTool VoxMaker.
 3. Besides the conventional voices, UnicTool VoxMaker also offers users to choose from various famous character voices, such as SpongeBob and Trump. This can help users add a fun and humorous element to their speech.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## The Final Words
 
  Converting your text to speech is a fairly simple process that can yield great results. With the curated selection of**text-to-speech generator** tools mentioned above, you can now harness their power to instantly convert your text into premium-quality speech. Use them across multiple platforms and generate speech from text in no time.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is an AI Editor? | Wondershare Virbo Glossary
 
@@ -516,10 +520,6 @@ This type of AI Editor is used for editing and processing video content. It can 
 This type of AI Editor aims to assist developers in writing and modifying code. It can provide features such as automatic code completion, syntax checking, error fixing, and refactoring suggestions, improving code quality and development efficiency.
 
 In addition to the above types, various other specific domain-specific AI Editors, such as AI Legal Editor, AI Medical Editor, etc., focus on editing and improving text or content in specific domains. These AI Editor extension types aim to leverage artificial intelligence technology to provide more efficient, accurate, and intelligent editing and processing capabilities to meet the needs of different domains and tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. What advantages do AI editors have compared to traditional editors?
 
@@ -637,6 +637,10 @@ Overall, AI Editors offer increased speed, accuracy, intelligent assistance, and
 
 ## AI Script Generator | Virbo Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Create videos with an AI script generator
 
 You can complete your video creation using Virbo's [AI Script Generator](https://virbo.wondershare.com/ai-script.html) tool. The specific steps are as follows:
@@ -701,10 +705,6 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 
 ![export video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###### Note
 
 Please note that free users are limited to exporting videos of up to 30 seconds in duration. Should you exceed this limit, upgrading to the premium version is required to export longer videos.
@@ -735,10 +735,6 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ## **Part 3\. Best 4 Morgan Freeman Voice Generators?**
 
  Now, without wasting much time, let's jump in to discuss some of the best Morgan Freeman voice changer apps for mobile, desktop, and online use.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1. Uberduck
 
@@ -785,7 +781,7 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 3. Multiple celebrity characters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Cons
@@ -795,6 +791,10 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ### 4. Voicer Famous AI Voice Changer
 
 ![morgan-freeman-voice-generator-4.jpg](https://images.wondershare.com/virbo/features/ai-voice/morgan-freeman-voice-generator-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Last but definitely not least, use Voicer to transform your voice into multiple celebrity characters using Voicer on your iPhone. It's a relatively simple app that requires you to simply speak to your iPhone or iPad and let the AI transform your voice into fun narrations. With Voicer, you can create engaging videos with celebrity voiceovers like Morgan Freeman, Bill Clinton, Donald Trump, Elon Musk, you name them.
 
@@ -829,7 +829,7 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 ![morgan-freeman-voice-generator-7.jpg](https://images.wondershare.com/virbo/features/ai-voice/morgan-freeman-voice-generator-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4.** Customize the audio by adjusting the speed, pitch, and volume. You can also edit the video by removing subtitles, changing the background, rotating, flipping, and more.
@@ -866,22 +866,20 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-choosing-between-gopro-max-and-hero-11-top-cameras-compared/"><u>[New] Choosing Between GoPro Max and Hero 11 Top Cameras Compared</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevating-your-instagram-conversations-an-in-depth-guide/"><u>[Updated] Elevating Your Instagram Conversations An In-Depth Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-ai-translator-to-translate-videos-online/"><u>2024 Approved The Best AI Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-translator-to-translate-videos-online/"><u>2024 Approved The Best Translator to Translate Videos Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ppt-wondershare-virbo/"><u>Create Video with PPT | Wondershare Virbo</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-poco-m6-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Poco M6 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass Instantly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-oppo-reno-10-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Oppo Reno 10 Pro 5G FRP</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-7-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved Best 7 Whiteboard Explainer Videos to Inspire You</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-chart-a-course-for-success-top-5-effective-video-marketing-strategies-on-youtube/"><u>[New] 2024 Approved Chart a Course for Success Top 5 Effective Video Marketing Strategies on YouTube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-cutting-edge-tips-for-using-colored-backdrops-in-video-making/"><u>2024 Approved Cutting-Edge Tips for Using Colored Backdrops in Video Making</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-exploring-av1-a-first-look-for-beginners/"><u>2024 Approved Exploring AV1 A First Look for Beginners</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>2024 Approved Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>5 Best Route Generator Apps You Should Try On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-samsung-galaxy-a14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/cost-breakdown-for-youtube-ads/"><u>Cost Breakdown for YouTube Ads</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-from-play-to-view-a-guide-to-recording-overwatch-games/"><u>In 2024, From Play to View A Guide to Recording Overwatch Games</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-instantaneous-ease-in-podcast-broadcasts/"><u>In 2024, Instantaneous Ease in Podcast Broadcasts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-recommended-natural-ai-hindi-voice-generator/"><u>New 2024 Approved The Recommended Natural AI Hindi Voice Generator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-stream-on-twitch-the-ultimate-guide/"><u>New In 2024, How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-an-ai-video-editor/"><u>New In 2024, What Is an AI Video Editor?</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-introduction-of-wondershare-virbo-for-2024/"><u>New Introduction of Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-recommended-natural-ai-hindi-voice-generator/"><u>New The Recommended Natural AI Hindi Voice Generator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-artist-for-2024/"><u>New What Is an AI Artist for 2024</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/optimizing-with-cookiebot-smart-website-analytics-and-personalization-tools/"><u>Optimizing with Cookiebot: Smart Website Analytics and Personalization Tools</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/solving-the-error-scanning-problem-a-step-by-step-guide-expert-tips-from-yl-computing/"><u>Solving the 'Error Scanning' Problem: A Step-by-Step Guide - Expert Tips From YL Computing</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-the-risks-is-chatgpt-being-misused-to-create-viruses-and-trojans/"><u>Understanding the Risks: Is ChatGPT Being Misused to Create Viruses and Trojans?</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/unlock-fcpxs-full-potential-the-top-10-plugins-you-should-know-about-for-2024/"><u>Unlock FCPXs Full Potential The Top 10 Plugins You Should Know About for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-7-best-explainer-video-makers-you-may-like/"><u>Updated 2024 Approved 7 Best Explainer Video Makers You May Like</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-fixing-error-code-5-in-minecraft/"><u>Troubleshooting Guide: Fixing Error Code #5 in Minecraft</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-step-by-step-guide-how-to-translate-tiktok-videos-for-2024/"><u>Updated Step-by-Step Guide How to Translate TikTok Videos for 2024</u></a></li>
 </ul></div>
 

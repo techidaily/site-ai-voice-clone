@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy"
-date: 2024-12-08T23:00:00.972Z
-updated: 2024-12-12T08:36:19.233Z
+date: 2024-12-12T19:23:43.330Z
+updated: 2024-12-18T18:51:00.206Z
 categories:
   - BestProducts
 description: "This Article Describes Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/fd283428cd4cb2c0907e2d15b8c7aa3306b361f3c
 ![Halo Bolt Portable Charger/Jump Starter](https://www.lifewire.com/thmb/VanJTMWZjo_p7o3jv1uHBa1hAf8=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-HeroSquare-889ebc2fc6b54573a26c09cabb34bd5c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -43,13 +43,13 @@ Lifewire / Andrew Hayward
 
 3.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Halo Bolt Portable Charger/Jump Starter
 
 ![Halo Bolt Portable Charger/Jump Starter](https://www.lifewire.com/thmb/wNeN4Rq5GyM9MuDOzyg5QlRT-U4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-HeroSquare-889ebc2fc6b54573a26c09cabb34bd5c.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
 
@@ -69,10 +69,6 @@ Lifewire / Andrew Hayward
 
  Granted, it doesn’t pack as much power as some dedicated laptop chargers, which may be a better option for that need. Still, the added versatility gives the Halo Bolt a unique edge in the market. I tested the Halo Bolt for a week with multiple devices, including laptops and smartphones.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Design: The shiny brick**
 
  While certainly portable, the Halo Bolt isn’t designed to be pocket-friendly. This big brick of a battery pack comes in at 7.2 x 1.6 x 3.8 inches (HWD) with a weight of more than 1.5 pounds. Smaller, cheaper battery packs are available for smartphones, but this beast is made for heavier-duty needs and is designed accordingly.
@@ -88,7 +84,7 @@ Lifewire / Andrew Hayward
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/nYYltjJN71EGK1Dwv2_XABixuhs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-04-85b590a9939a4f44b0c7a510a456b80f.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
@@ -100,6 +96,10 @@ Lifewire / Andrew Hayward
  The whole process for jump-starting a car is detailed in the included instructions. The Halo Bolt has built-in safety features that ensure you have correctly aligned the jumper cables before starting the connected car, boat, lawnmower, or other vehicles.
 
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/mUdXUjWxeupVqNR_y43_eFTC0ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-02-69b93dc934684ef5b71a40215f6162f2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Lifewire / Andrew Hayward
 
@@ -120,7 +120,7 @@ Lifewire / Andrew Hayward
 ![Halo Bolt ACDC 58830](https://www.lifewire.com/thmb/MNFqifirQ0sn61GPO1e-bLQ1t8s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Halo-06-8bc3449bd35243aaaf67272c1d3774a6-bc803e0a114b4116adf3078af6a2de00.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Andrew Hayward
@@ -167,24 +167,24 @@ Lifewire / Andrew Hayward
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-expert-advice-to-recover-missing-thumbnails-from-videos-for-2024/"><u>[Updated] Expert Advice to Recover Missing Thumbnails From Videos for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-guide-youtube-keyword-research-made-easy/"><u>[Updated] In 2024, The Ultimate Guide YouTube Keyword Research Made Easy</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-turbocharge-video-on-snapchat-new-users-edition/"><u>[Updated] Turbocharge Video on Snapchat New Users Edition</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-droning-shadows-action-camera-analysis/"><u>2024 Approved Droning Shadows Action Camera Analysis</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/discovering-income-monetization-through-youtube-sponsored-videos-in-2024/"><u>Discovering Income Monetization Through YouTube Sponsored Videos, In 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-poco-c51-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Poco C51 Phone? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-videos-from-poco-c51-by-fonelab-android-recover-video/"><u>Easy steps to recover deleted videos from Poco C51</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-how-to-turn-off-igtv/"><u>In 2024, How to Turn Off IGTV?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-video-with-ai-avatar-wondershare-virbo/"><u>New 2024 Approved Create AI Video with AI Avatar | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-generate-videos-from-text-with-ai/"><u>New 2024 Approved How to Generate Videos From Text with AI</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
-<li><a href="https://win-popular.techidaily.com/transform-your-windows-look-with-easy-customization-tips-learn-more-at-yl-computing/"><u>Transform Your Windows Look with Easy Customization Tips - Learn More at YL Computing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions-for-2024/"><u>Updated Handling Exceptions for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210912640-9798888515365-what-dying-taught-me-about-living/"><u>What Dying Taught Me About Living | Free Book</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastering-close-up-cinematography-through-zooming/"><u>[Updated] 2024 Approved Mastering Close-Up Cinematography Through Zooming</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-top-5-must-know-aspects-of-using-tiktok-macos/"><u>[Updated] In 2024, Top 5 Must-Know Aspects of Using TikTok (macOS)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-managing-who-accesses-your-youtube-videography/"><u>[Updated] Managing Who Accesses Your YouTube Videography</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-stream-your-success-a-step-by-step-guide-to-earning/"><u>[Updated] Stream Your Success A Step-by-Step Guide to Earning</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-talking-avatar-wondershare-virbo-glossary/"><u>2024 Approved What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-11-5g-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme 11 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comparing-ai-chatbots-is-chatgpt-superior-to-gemini-in-programming-skills/"><u>Comparing AI Chatbots: Is ChatGPT Superior to Gemini in Programming Skills?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-wondershare-virbo-for-2024/"><u>Create AI Avatar Video with AI Script | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/free-online-converter-avi-to-mjpeg-movavi/"><u>Free Online Converter: AVI to MJPEG - Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-create-a-digital-signature-online-for-docx-file-document-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to Create a Digital Signature Online for .docx file document</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-videos-wondershare-virbo-online/"><u>In 2024, Create AI Avatar Videos | Wondershare Virbo Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-12-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 12 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-video-with-templates/"><u>New 2024 Approved Create AI Avatar Video with Templates</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators/"><u>New How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/unlocking-the-value-in-twitters-archives/"><u>Unlocking the Value in Twitters Archives</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-list-best-5-tools-for-creating-talking-avatars/"><u>Updated 2024 Approved Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-editor/"><u>Updated 2024 Approved What Is an AI Editor?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-generated-text-in-2024/"><u>Updated What Is AI Generated Text, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

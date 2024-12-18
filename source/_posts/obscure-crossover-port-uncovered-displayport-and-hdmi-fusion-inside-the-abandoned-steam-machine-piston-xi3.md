@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2024-12-10T01:16:31.850Z
-updated: 2024-12-12T00:13:38.357Z
+date: 2024-12-17T16:19:20.461Z
+updated: 2024-12-18T18:30:53.376Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,24 +68,20 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>[New] In 2024, Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-augmenting-film-quality-integrating-letterboxing-in-digital-spaces-for-2024/"><u>[Updated] Augmenting Film Quality Integrating Letterboxing in Digital Spaces for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-elite-matches-best-8-stability-systems-for-4k-cameras-for-2024/"><u>[Updated] Elite Matches Best 8 Stability Systems for 4K Cameras for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-preserve-the-illusion-professional-tactics-for-vr-gaming-logging/"><u>[Updated] In 2024, Preserve the Illusion Professional Tactics for VR Gaming Logging</u></a></li>
-<li><a href="https://driver-download.techidaily.com/accelerate-your-webcam-experience-with-fast-and-easy-to-download-drivers/"><u>Accelerate Your Webcam Experience with Fast and Easy to Download Drivers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline-for-2024/"><u>Best 12 AI Voice Cloning Tools Online & Offline for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-installing-hewlett-packard-scanner-drivers-for-windows-computers/"><u>Easy Guide: Installing Hewlett-Packard Scanner Drivers for Windows Computers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step-for-2024/"><u>Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-call-logs-from-vivo-by-fonelab-android-recover-call-logs/"><u>How to retrieve erased call logs from Vivo ?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-wondershare-virbo-online/"><u>In 2024, AI Script | Wondershare Virbo Online</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/navigating-in-style-the-ultimate-review-of-the-swagtrn-swagger-electric-commuter/"><u>Navigating in Style: The Ultimate Review of the Swagtrn Swagger Electric Commuter</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-ai-movie-script-generators/"><u>New 2024 Approved Best 5 AI Movie Script Generators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-finding-the-best-voice-changers-to-sound-like-star-warss-stormtrooper/"><u>New Finding The Best Voice Changers To Sound Like Star Warss Stormtrooper</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-narakeet-review-text-to-speech-convenient-voice-maker/"><u>New In 2024, Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo-wondershare-virbo-for-2024/"><u>New Talking Photo | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/secrets-of-filming-without-background-noises/"><u>Secrets of Filming Without Background Noises</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-script-for-2024/"><u>Updated Create AI Avatar Video with AI Script for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/why-your-realme-narzo-60-5g-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Realme Narzo 60 5G Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-assemble-an-impactful-visual-saga-with-montage-skills/"><u>[New] 2024 Approved Assemble an Impactful Visual Saga with Montage Skills</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-harmonious-hub-choosing-the-best-free-apps-for-your-youtube-music-streams/"><u>[New] In 2024, Harmonious Hub Choosing the Best Free Apps for Your YouTube Music Streams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhancing-workflow-zipping-up-zoom-integrations-in-gmail/"><u>[Updated] 2024 Approved Enhancing Workflow Zipping Up Zoom Integrations in Gmail</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-spark-conversation-crafting-questions-for-ig-story-boost/"><u>2024 Approved Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-puzzled-to-proficient-the-complete-handbook-for-decoding-snapchat-emojis-in-chats/"><u>From Puzzled to Proficient: The Complete Handbook for Decoding Snapchat Emojis in Chats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-high-definition-war-av1-vs-vp9-codecs-comparison/"><u>In 2024, High-Definition War Av1 vs VP9 Codecs Comparison</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A2 FRP Without Computer</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-monochrome-modification-for-2024/"><u>Mastering the Art of Monochrome Modification for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-video-with-ai-avatar-wondershare-virbo/"><u>New 2024 Approved Create AI Video with AI Avatar | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-generate-videos-from-text-with-ai/"><u>New 2024 Approved How to Generate Videos From Text with AI</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions-for-2024/"><u>Updated Handling Exceptions for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
 </ul></div>
 

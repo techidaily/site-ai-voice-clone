@@ -1,7 +1,7 @@
 ---
 title: New In 2024, What Is Talking Avatar? | Wondershare Virbo Glossary
-date: 2024-12-09T23:54:33.873Z
-updated: 2024-12-12T11:51:47.257Z
+date: 2024-12-17T19:55:20.589Z
+updated: 2024-12-18T18:06:56.456Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -51,6 +51,10 @@ Prominent examples of talking avatars include:
 **3\. Mycroft AI**: An open-source voice assistant that utilizes an avatar for user interactions.
 
 **4\. Soul Machines**: Creating highly realistic avatars for various applications, including customer service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -182,11 +186,11 @@ Virbo Photo Talking features include:
 
 ![Add voiceover to your iPhone talking emoji](https://images.wondershare.com/virbo/article/2024/02/speak-emoji-iphone-6.jpg)
 
- Once you've finished editing your video, click "Generate Video" to export your creation. If you need assistance with creating your talking Memoji, you can refer to the video tutorial to make [talking emoji for iPhone](https://www.youtube.com/watch?v=GDqbSvhec9M) .
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Once you've finished editing your video, click "Generate Video" to export your creation. If you need assistance with creating your talking Memoji, you can refer to the video tutorial to make [talking emoji for iPhone](https://www.youtube.com/watch?v=GDqbSvhec9M) .
 
 ## Conclusion
 
@@ -203,7 +207,7 @@ AI voice is an advanced application of AI language technology that utilizes arti
 The application of AI voice is extensive, and one of the latest applications is providing voiceover for AI-generated videos. Wondershare Virbo is a powerful AI video maker that utilizes advanced AI algorithms to enhance your scripts and allows you to select ideal characters from a pool of 150+ digital personas. Furthermore, it offers a library of 120+ AI voices for voiceover, enabling you to quickly generate various marketing, educational, social media, and news videos.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: What are the advantages of using AI voices?
@@ -261,10 +265,6 @@ AI voiceover services automate the process of narrating videos and audio content
 Free AI voice generators provide a budget-friendly option for individuals and small businesses to access high-quality voice synthesis without investing in expensive recording equipment or professional voice talent.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: What are AI voices used for?
 
@@ -304,39 +304,39 @@ Login Virbo
 
 ![login](https://images.wondershare.com/virbo/guide/online-guide/register-2.jpg)
 
+Log in with Wondershare ID
+
+❹ After a successful login, click the **Avatar** icon to verify your activation status.
+
+![activate](https://images.wondershare.com/virbo/guide/online-guide/register-3.jpg)
+
+Check Your Activation Status
+
+❸ Log in with your Wondershare ID. You can also sign up and log in with your Google account.
+
+![login](https://images.wondershare.com/virbo/guide/online-guide/register-2.jpg)
+
+Log in with Wondershare ID
+
+❹ After a successful login, click the **Avatar** icon to verify your activation status.
+
+![activate](https://images.wondershare.com/virbo/guide/online-guide/register-3.jpg)
+
+Check Your Activation Status
+
+❸ Log in with your Wondershare ID. You can also sign up and log in with your Google account.
+
+![login](https://images.wondershare.com/virbo/guide/online-guide/register-2.jpg)
+
+Log in with Wondershare ID
+
+❹ After a successful login, click the **Avatar** icon to verify your activation status.
+
+![activate](https://images.wondershare.com/virbo/guide/online-guide/register-3.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Log in with Wondershare ID
-
-❹ After a successful login, click the **Avatar** icon to verify your activation status.
-
-![activate](https://images.wondershare.com/virbo/guide/online-guide/register-3.jpg)
-
-Check Your Activation Status
-
-❸ Log in with your Wondershare ID. You can also sign up and log in with your Google account.
-
-![login](https://images.wondershare.com/virbo/guide/online-guide/register-2.jpg)
-
-Log in with Wondershare ID
-
-❹ After a successful login, click the **Avatar** icon to verify your activation status.
-
-![activate](https://images.wondershare.com/virbo/guide/online-guide/register-3.jpg)
-
-Check Your Activation Status
-
-❸ Log in with your Wondershare ID. You can also sign up and log in with your Google account.
-
-![login](https://images.wondershare.com/virbo/guide/online-guide/register-2.jpg)
-
-Log in with Wondershare ID
-
-❹ After a successful login, click the **Avatar** icon to verify your activation status.
-
-![activate](https://images.wondershare.com/virbo/guide/online-guide/register-3.jpg)
 
 Check Your Activation Status
 
@@ -376,13 +376,13 @@ for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 for Android
 
 secure download
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
@@ -414,6 +414,10 @@ for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 for Android
 
 secure download
@@ -423,6 +427,10 @@ secure download
 01 [Video Tutorial](#part1)
 
 02 [Step Guidance](#part2)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -442,10 +450,6 @@ secure download
 
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1\. Create a new project
 
 Open the Wondershare Virbo app and tap the talking photo function to enter the operation interface.
@@ -471,7 +475,7 @@ Download Virbo App for Free
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 for iOS
@@ -570,10 +574,6 @@ After uploading the reference audio on the tool, approve the terms by checking �
 
 ![generate synthesized audio in openvoice](https://images.wondershare.com/virbo/article/hugging-face-voice-cloning-review-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, Hugging Face aids users with various ML applications, datasets, and more. Among these spaces, the HuggingFace voice cloning spaces can clone your voice within a few easy steps. Any individual seeking such services can go across this comprehensive platform to dissect the best voice cloning content.
@@ -650,10 +650,6 @@ In conclusion, Hugging Face aids users with various ML applications, datasets, a
 * Can only promote Amazon products
 * Users cannot redirect traffic to their own websites
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Facebook Live Shopping
 
  This live shopping feature within Facebook combines live video streaming with ecommerce. Businesses can sell their products using live video broadcasts on Facebook. With Facebook having a huge user base, the live shopping platform is ideal for businesses of all shapes and sizes. Local businesses and craftsmen can use the platform to reach a broader audience while fashion and beauty industry businesses can leverage the platform to demonstrate makeup techniques or provide styling tips.
@@ -721,6 +717,10 @@ In conclusion, Hugging Face aids users with various ML applications, datasets, a
  Channelize.io is an end-to-end solution that enables ecommerce brands to add live shopping experiences to their apps and websites. It offers a wide range of features that allow sellers to interact live with customers. These include product demonstrations and live chat for enhanced live shopping experience.
 
 ![channelize.io](https://images.wondershare.com/virbo/article/choose-the-right-live-selling-platform-our-handpicked-8-and-recommended-tool-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Integrations** : Shopify, Magento, WooCommerce, Wix, PrestaShop, and Shoplazza
 
@@ -802,7 +802,7 @@ In conclusion, Hugging Face aids users with various ML applications, datasets, a
 ![interact with audience](https://images.wondershare.com/virbo/article/choose-the-right-live-selling-platform-our-handpicked-8-and-recommended-tool-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FAQs about Live Selling Platforms
@@ -833,22 +833,24 @@ In conclusion, Hugging Face aids users with various ML applications, datasets, a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-navigating-the-virtual-stage-your-pc-guide-to-engaging-live-on-tiktok/"><u>[Updated] 2024 Approved Navigating the Virtual Stage Your PC Guide to Engaging Live on TikTok</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-essential-list-for-game-sharing-and-streaming-for-2024/"><u>[Updated] Essential List for Game Sharing and Streaming for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-how-to-document-your-nintendo-switch-adventures-for-2024/"><u>[Updated] How to Document Your Nintendo Switch Adventures for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-generator-virbo-guide/"><u>2024 Approved AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-sync-your-device-pace-youtube-audio-control-guide/"><u>2024 Approved Sync Your Device Pace YouTube Audio Control Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/first-row-fun-beyond-the-game-top-alternatives/"><u>First Row Fun Beyond the Game Top Alternatives</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-comprehensive-review-of-vivavideo-app/"><u>In 2024, Comprehensive Review of VivaVideo App</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Vivo T2 5G</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-iphone-experts-guide-to-capturing-and-reducing-pace-in-footage/"><u>In 2024, The iPhone Expert’s Guide to Capturing and Reducing Pace in Footage</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>New 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video/"><u>New Create AI Avatar Video</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-video-with-ai-avatar-wondershare-virbo-for-2024/"><u>New Create AI Video with AI Avatar | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations-for-2024/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/zuckerberg-announces-cross-device-whatsapp-functionality/"><u>Zuckerberg Announces Cross-Device WhatsApp Functionality</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-streaming-success-story-which-video-site-tops-others-vimeo-youtube/"><u>[New] 2024 Approved Streaming Success Story Which Video Site Tops Others – Vimeo, YouTube?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-playback-of-srt-audio-files-in-computers-windowsmacos/"><u>[New] Playback of SRT Audio Files in Computers (Windows/macOS)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-your-soundtrack-anytime-anywhere-6-top-ranked-free-apps-to-download-youtube-music/"><u>[Updated] In 2024, Your Soundtrack, Anytime, Anywhere 6 Top-Ranked Free Apps to Download Youtube Music</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-poco-x6-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-ai-script/"><u>In 2024, Create AI Avatar Video with AI Script</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-narzo-60-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme Narzo 60 5G to Protect Your Individual Information</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-7-best-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved 7 Best Whiteboard Explainer Videos to Inspire You</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-voice-wondershare-virbo-online/"><u>New AI Voice | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-video-with-ai-avatar/"><u>New Create Video with AI Avatar</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-templates-wondershare-virbo-online/"><u>New Diverse Templates | Wondershare Virbo Online</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/quick-fix-for-plodding-video-playbacks/"><u>Quick Fix for Plodding Video Playbacks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/small-yet-mighty-discover-the-surprising-capabilities-of-a-budget-friendly-handheld-amazingness-why-this-8-in-1-adapter-outperforms-expensive-rivals-on-feat3/"><u>Small Yet Mighty: Discover the Surprising Capabilities of a Budget-Friendly, Handheld Amazingness! Why This 8-in-1 Adapter Outperforms Expensive Rivals on Features and Convenience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-drone-enthusiasts-compendium-of-must-haves/"><u>The Drone Enthusiast's Compendium of Must-Haves</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-dynamic-duo-approach-using-two-photos-in-one-instagram-story/"><u>The Dynamic Duo Approach Using Two Photos in One Instagram Story</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-avatar-wondershare-virbo-online/"><u>Updated AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-avatar-online-for-2024/"><u>Updated Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-power-of-ai-thumbnail-generators-for-2024/"><u>Updated Power of AI Thumbnail Generators for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-sora-by-openai-everything-you-need-to-know/"><u>What Is Sora by OpenAI Everything You Need To Know</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/1728498893643-windowspc/"><u>マインクラフトのセーブデータを安全に保存するためのWindowsPC向け手順</u></a></li>
 </ul></div>
 

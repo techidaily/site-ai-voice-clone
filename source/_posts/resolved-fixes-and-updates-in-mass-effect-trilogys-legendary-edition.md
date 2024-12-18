@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2024-12-06T05:27:28.353Z
-updated: 2024-12-12T00:46:46.830Z
+date: 2024-12-14T21:43:21.338Z
+updated: 2024-12-18T19:31:28.467Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 * If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
 
@@ -61,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
@@ -69,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
@@ -83,10 +87,14 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
 
@@ -108,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -124,10 +128,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -152,18 +152,20 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-best-green-screen-recording-tools/"><u>[New] 2024 Approved Best Green Screen Recording Tools</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-groundbreaking-feedback-vllo-review/"><u>[New] 2024 Approved Groundbreaking Feedback VLLO Review</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-video-popularity-with-strategic-hashtags/"><u>[New] In 2024, Elevate Video Popularity with Strategic #Hashtags</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-high-definition-spectrum-selecting-best-screen-recorders-for-2024/"><u>[Updated] High Definition Spectrum Selecting Best Screen Recorders for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/digital-dive-capturing-the-days-lifelike-snapshots-on-fb-for-2024/"><u>Digital Dive Capturing the Day's Lifelike Snapshots on FB for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210364420-9780645073263-etica-yogica-per-una-mente-equilibrata/"><u>Etica Yogica per Una Mente Equilibrata | Free Book</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-y78-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo Y78 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/installation-and-registration-wondershare-virbo/"><u>Installation and Registration | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-registration-and-login-virbo-ai-live-stream/"><u>New Registration and Login | Virbo AI Live Stream</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/top-10-escape-houses-challenges-for-intellects/"><u>Top 10 Escape Houses Challenges for Intellects</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/unveiling-the-mystery-of-youtubes-monetization-rates/"><u>Unveiling the Mystery of YouTube's Monetization Rates</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-registration-and-login/"><u>Updated 2024 Approved Registration and Login</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-talking-avatar/"><u>Updated What Is Talking Avatar?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-simplify-your-collaboration-with-easy-steps-to-use-a-virtual-board-on-all-zoom-devices/"><u>[Updated] 2024 Approved Simplify Your Collaboration with Easy Steps to Use a Virtual Board on All Zoom Devices</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mp4twitterstreamer-sound-tweet-tool/"><u>[Updated] MP4TwitterStreamer Sound Tweet Tool</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-humour-haven-strategies-for-parody-video-creation/"><u>2024 Approved Humour Haven Strategies for Parody Video Creation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-4-ways-of-instagram-video-promotion-for-2024/"><u>Best 4 Ways of Instagram Video Promotion for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/best-under-20-review-of-uphere-c5c-and-d6sec-air-coolers-revealed/"><u>Best Under $20? Review of UpHere C5C & D6Sec Air Coolers Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/correcting-failed-uploads-with-onedrive-in-w11/"><u>Correcting Failed Uploads with OneDrive in W11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-dancefloor-dynamics-free-pristine-dj-template-videos/"><u>In 2024, Dancefloor Dynamics Free, Pristine DJ Template Videos</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-oppo-find-n3-flip-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Oppo Find N3 Flip Phone that is Locked?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-transform-your-tiktok-experience-with-new-user-numbers/"><u>In 2024, Transform Your TikTok Experience with New User Numbers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-diverse-template-online/"><u>New 2024 Approved Diverse Template | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-video-translator-online/"><u>Updated 2024 Approved AI Video Translator | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-talking-photo-feature/"><u>Updated In 2024, Talking Photo Feature</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

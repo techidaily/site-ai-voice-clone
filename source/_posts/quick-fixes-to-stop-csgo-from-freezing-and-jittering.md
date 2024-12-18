@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes to Stop CS:GO From Freezing and Jittering"
-date: 2024-12-07T12:00:12.042Z
-updated: 2024-12-12T03:19:43.169Z
+date: 2024-12-12T19:49:35.213Z
+updated: 2024-12-18T20:50:16.008Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 
 **Dauntless crashes on your computer** ? Don’t worry. While this can be a very frustrating issue, it’s often not hard to fix at all…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/64ebd0c332825585bbf71b718defd7fd5f0995165
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -44,12 +44,16 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
@@ -60,6 +64,10 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -87,10 +95,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -111,6 +115,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -121,10 +129,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
@@ -132,10 +136,6 @@ Here is how to verify the integrity of Dauntless:
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
@@ -166,24 +166,24 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-enduring-removal-protocol-say-no-to-youtube-shorts/"><u>[New] Enduring Removal Protocol Say No to YouTube Shorts</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-inspiring-leadership-the-top-35-recruiter-talks/"><u>[New] Inspiring Leadership The Top 35 Recruiter Talks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-intuitive-mac-videographer-plus-voice-support-for-2024/"><u>[New] Intuitive Mac Videographer + Voice Support for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-4-ways-of-instagram-video-promotion-for-2024/"><u>Best 4 Ways of Instagram Video Promotion for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/evaluating-virtual-realms-pros-and-cons-for-2024/"><u>Evaluating Virtual Realms Pros and Cons for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-set-up-and-benefit-from-extra-storage-with-an-external-hard-drive-on-your-xbox-one-console/"><u>How to Set Up and Benefit From Extra Storage with an External Hard Drive on Your Xbox One Console</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-honor-magic-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Honor Magic 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/inclusive-iptv-broadcast-architecture/"><u>Inclusive IPTV Broadcast Architecture</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/kobo-nia-book-reader-review-the-ultimate-challenge-to-the-amazon-kindle/"><u>Kobo Nia Book Reader Review - The Ultimate Challenge to the Amazon Kindle</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-diverse-template-online/"><u>New 2024 Approved Diverse Template | Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>[Updated] In 2024, Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-money-smart-aerial-explorers-5-best-drones-for-less-than-100-for-2024/"><u>[Updated] Money-Smart Aerial Explorers 5 Best Drones for Less Than $100 for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-downloadinstallregisteruninstall/"><u>2024 Approved Download/Install/Register/Uninstall</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comparacion-de-dvd-blu-ray-y-archivos-digitales-que-opcion-es-la-mejor-para-ti/"><u>Comparación De DVD, Blu-Ray Y Archivos Digitales: ¿Qué Opción Es La Mejor Para Ti?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-11-pro-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-note-12-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi Note 12 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-api/"><u>In 2024, What Is AI API?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-video-from-text-easily-step-by-step/"><u>New 2024 Approved How To Create Video From Text Easily Step-by-Step</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-options-top-live-streaming-platforms-according-to-types/"><u>New Best Options Top Live Streaming Platforms According to Types</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-epic-video-editing-add-mind-blowing-effects-to-your-videos-for-2024/"><u>New Epic Video Editing Add Mind-Blowing Effects to Your Videos for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-have-apps-for-real-time-video-translation/"><u>New In 2024, Must-Have Apps for Real-Time Video Translation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-techniques-and-tips-for-ultimate-performance-with-a-portable-pc/"><u>Top Techniques and Tips for Ultimate Performance with a Portable PC</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiled-wonders-talk-to-chatgpt/"><u>Unveiled Wonders: Talk to ChatGPT</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-video-translator-online/"><u>Updated 2024 Approved AI Video Translator | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-talking-photo-feature/"><u>Updated In 2024, Talking Photo Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-troubleshooting-error-1114-during-windows-library-loading-issues/"><u>Resolved! Troubleshooting Error 1114 During Windows Library Loading Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed-for-2024/"><u>Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-4-gpu-glitches-diagnosing-and-fixing-quickly/"><u>Top 4 GPU Glitches: Diagnosing & Fixing Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/transformer-automatiquement-un-fichier-flv-en-format-asf-sans-cout-avec-movavi/"><u>Transformer Automatiquement Un Fichier FLV en Format ASF Sans Coût - Avec Movavi</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-for-2024/"><u>Updated What Is AI API for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-api-wondershare-virbo-glossary/"><u>Updated What Is AI API? | Wondershare Virbo Glossary</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-artist-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Artist? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 
