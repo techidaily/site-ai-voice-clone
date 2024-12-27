@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2024-12-17T16:19:20.461Z
-updated: 2024-12-18T18:30:53.376Z
+date: 2024-12-19T16:21:29.088Z
+updated: 2024-12-27T02:15:24.240Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,20 +68,20 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-assemble-an-impactful-visual-saga-with-montage-skills/"><u>[New] 2024 Approved Assemble an Impactful Visual Saga with Montage Skills</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-harmonious-hub-choosing-the-best-free-apps-for-your-youtube-music-streams/"><u>[New] In 2024, Harmonious Hub Choosing the Best Free Apps for Your YouTube Music Streams</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-enhancing-workflow-zipping-up-zoom-integrations-in-gmail/"><u>[Updated] 2024 Approved Enhancing Workflow Zipping Up Zoom Integrations in Gmail</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-spark-conversation-crafting-questions-for-ig-story-boost/"><u>2024 Approved Spark Conversation Crafting Questions for IG Story Boost</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/from-puzzled-to-proficient-the-complete-handbook-for-decoding-snapchat-emojis-in-chats/"><u>From Puzzled to Proficient: The Complete Handbook for Decoding Snapchat Emojis in Chats</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-high-definition-war-av1-vs-vp9-codecs-comparison/"><u>In 2024, High-Definition War Av1 vs VP9 Codecs Comparison</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-oppo-a2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Oppo A2 FRP Without Computer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/mastering-the-art-of-monochrome-modification-for-2024/"><u>Mastering the Art of Monochrome Modification for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-video-with-ai-avatar-wondershare-virbo/"><u>New 2024 Approved Create AI Video with AI Avatar | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-generate-videos-from-text-with-ai/"><u>New 2024 Approved How to Generate Videos From Text with AI</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions-for-2024/"><u>Updated Handling Exceptions for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-compreranium-of-hand-tracking-systems/"><u>[Updated] A Compreranium of Hand Tracking Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-clone-your-voice-harness-the-potential-of-ai/"><u>2024 Approved Clone Your Voice Harness the Potential of AI</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-quieting-background-sounds-in-media-capture-free-and-paid/"><u>2024 Approved Quieting Background Sounds in Media Capture (Free & Paid)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/freeze-the-frame-overcoming-shake-phenomena-for-2024/"><u>Freeze the Frame Overcoming Shake Phenomena for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fundamentals-of-narrative-crafting-for-2024/"><u>Fundamentals of Narrative Crafting for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-poco-x6-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Poco X6 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/los-mejores-clientes-de-torrents-y-su-audiencia-una-guia-completa/"><u>Los Mejores Clientes De Torrents Y Su Audiencia: Una Guía Completa</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-the-search-for-master-video-artists/"><u>Navigating the Search for Master Video Artists</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-script-generator-virbo-guide/"><u>New 2024 Approved AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New 2024 Approved Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-ubisoft-connect-errors-a-comprehensive-guide-users/"><u>Overcoming Ubisoft Connect Errors: A Comprehensive Guide Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-apple-ai-how-realsenses-on-device-system-surpasses-googles-gpt-4-in-performance-says-apple-tech-news-by-zdnet/"><u>Revolutionary Apple AI: How RealSense's On-Device System Surpasses Google's GPT-4 in Performance, Says Apple | Tech News by ZDNet</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-create-marketing-videos/"><u>Updated In 2024, How to Create Marketing Videos?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-introduction-wondershare-virbo/"><u>Updated Introduction | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-headshot-generator-wondershare-virbo-glossary/"><u>Updated What Is an AI Headshot Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

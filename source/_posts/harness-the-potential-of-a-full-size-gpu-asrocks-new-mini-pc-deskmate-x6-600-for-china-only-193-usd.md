@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2024-12-14T18:13:30.925Z
-updated: 2024-12-18T20:16:15.984Z
+date: 2024-12-24T00:11:45.880Z
+updated: 2024-12-27T08:24:13.372Z
 tags:
   - desktop
 categories:
@@ -18,7 +18,7 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  (Image credit: ASRock (via ITHome.com))
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ASRock DeskMate X600 Mini PC core specifications
@@ -45,7 +45,7 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -71,18 +71,17 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-slow-fade-to-action/"><u>[New] 2024 Approved Slow Fade to Action</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>2024 Approved The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
-<li><a href="https://win11.techidaily.com/essential-6-task-management-apps-optimized-for-windows-11-systems/"><u>Essential 6 Task Management Apps Optimized for Windows 11 Systems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-do-biometric-identification-methods-work/"><u>How Do Biometric Identification Methods Work?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-x50ipluswithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor X50i+with/without a PC</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12r-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12R Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-regular-payment-structures-in-youtuber-economics/"><u>In 2024, Regular Payment Structures in YouTuber Economics</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-ultimate-guide-to-b2b-video-marketing/"><u>In 2024, The Ultimate Guide to B2B Video Marketing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-talking-emoji-on-iphone-in-easy-steps/"><u>New How To Make Talking Emoji on iPhone in Easy Steps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>New In 2024, Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211237049-9798890419200-the-pathway-to-healing-is-painful/"><u>The Pathway to Healing Is Painful | Free Book</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-online/"><u>Updated In 2024, AI Script | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-designing-with-dirt-incorporating-natural-elements-into-urban-areas/"><u>[New] 2024 Approved Designing with Dirt Incorporating Natural Elements Into Urban Areas</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-capture-time-bending-reels-with-slow-motion-hacks-on-ig/"><u>[New] In 2024, Capture Time-Bending Reels with Slow Motion Hacks on IG</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-new-dawn-of-creativity-spotlight-on-six-visionary-nftos/"><u>[Updated] The New Dawn of Creativity Spotlight on Six Visionary NFTOs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/enhanced-windows-drivers-by-aoc-fwu-v1659/"><u>Enhanced Windows Drivers by AOC FWU V1659</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/ensuring-long-term-accessibility-transferring-photos-from-snapchat-for-2024/"><u>Ensuring Long-Term Accessibility Transferring Photos From Snapchat for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-translate-instagram-videos-easily-a-step-by-step-guide/"><u>In 2024, Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/navigating-movavis-unique-rules-for-reimbursement-policies/"><u>Navigating Movavi's Unique Rules for Reimbursement Policies</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-video-with-ppt-wondershare-virbo/"><u>Updated In 2024, Create Video with PPT | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-steps-to-create-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Easy Steps to Create AI Twitch Streamer with Animated Avatars</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-generated-text-for-2024/"><u>Updated What Is AI Generated Text for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-advertising-wondershare-virbo-glossary/"><u>What Is AI Advertising? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

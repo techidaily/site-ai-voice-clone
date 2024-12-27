@@ -1,7 +1,7 @@
 ---
 title: Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More
-date: 2024-12-17T16:38:04.269Z
-updated: 2024-12-18T19:57:26.008Z
+date: 2024-12-20T18:17:13.762Z
+updated: 2024-12-27T05:20:56.453Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,15 +76,21 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-driveease-expert-review/"><u>[New] In 2024, DriveEase Expert Review</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-blending-binaries-digital-photographic-techniques/"><u>[Updated] Blending Binaries Digital Photographic Techniques</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728469940625-aomei-backupper/"><u>成功複製文件：如何有效使用 AOMEI Backupper系統</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-future-of-youtube-branding-top-titles-for-video-content-creators-limited-to-156-characters/"><u>In 2024, The Future of Youtube Branding Top Titles for Video Content Creators (Limited to 156 Characters)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-common-platforms/"><u>New 2024 Approved Common Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-reaching-a-wider-audience-using-video-translation-in-tamil/"><u>New In 2024, Reaching a Wider Audience Using Video Translation in Tamil</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcome-nba-2k23-stability-issues-on-pc-with-our-seven-step-guide-to-recovery/"><u>Overcome NBA 2K23 Stability Issues on PC with Our Seven-Step Guide to Recovery</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/securing-your-digital-assets-expert-tips-on-safe-cryptocurrency-storage-from-yl-computing/"><u>Securing Your Digital Assets: Expert Tips on Safe Cryptocurrency Storage From YL Computing</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-10-cost-free-multi-os-video-player-releases/"><u>[Updated] 2024 Approved 10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-pros-and-cons-of-tiktok-and-youtube-shorts-for-personal-usage/"><u>[Updated] 2024 Approved The Pros & Cons of TikTok and YouTube Shorts for Personal Usage</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/access-private-text-interactions-converse-with-chatgpt-through-duckduckgos-secure-ai-messaging-app/"><u>Access Private Text Interactions: Converse with ChatGPT Through DuckDuckGo’s Secure AI Messaging App</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/avoid-grounding-disaster-ultimate-tips-and-tricks-for-stable-pc-performance/"><u>Avoid Grounding Disaster: Ultimate Tips and Tricks for Stable PC Performance</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/crush-glitches-not-combos-the-definitive-fix-guide-for-street-fighter-6-pc-issues/"><u>Crush Glitches, Not Combos: The Definitive Fix Guide for Street Fighter 6 PC Issues</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fishing-footage-frontier-top-action-cameras-for-the-sea-for-2024/"><u>Fishing Footage Frontier Top Action Cameras for the Sea for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-oculus-link-issues-6-rapid-solutions-for-a-functional-vr-experience/"><u>Fixing Oculus Link Issues: 6 Rapid Solutions for a Functional VR Experience</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-issue-when-mass-effect-legendary-edition-wont-start/"><u>Fixing the Issue When Mass Effect Legendary Edition Won't Start</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-bold-and-bright-the-best-tiktok-pfp-strategies-to-impress/"><u>In 2024, Bold and Bright The Best TikTok PFP Strategies to Impress</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/master-the-art-of-permanently-disconnect-from-tiktok-for-2024/"><u>Master the Art of Permanently Disconnect From TikTok for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-city-skylines-2-pc-optimization-strategies-to-stop-frequent-game-crashes/"><u>Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes</u></a></li>
+<li><a href="https://win-community.techidaily.com/page-missing-oops-we-cant-find-it/"><u>Page Missing: Oops, We Can't Find It!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/solving-compatibility-problems-for-intels-drivers-and-support-suite-on-pc/"><u>Solving Compatibility Problems for Intel's Drivers & Support Suite on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-most-advanced-and-best-quality-pc-displays-on-the-market-202-text/"><u>The Most Advanced and Best Quality PC Displays on the Market, 202 [TEXT]</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Vivo Y100t | Dr.fone</u></a></li>
 </ul></div>
 
