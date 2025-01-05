@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved AI Script Generator | Virbo Guide
-date: 2024-12-14T16:20:26.977Z
-updated: 2024-12-18T18:58:24.401Z
+date: 2025-01-01T18:40:50.033Z
+updated: 2025-01-05T17:33:50.010Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -30,17 +30,9 @@ You can complete your video creation using Virbo's [AI Script Generator](https:/
 
 ![open ai generator](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** After providing all information, select the “Generate script” button on the bottom to start the process.
 
 ![generate script](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** It takes time to complete, but once finished, the script will be displayed on the next screen. You can make specific edits to the script as desired. Then, proceed to select the "Create video" button to generate an AI video based on the script.
 
@@ -87,10 +79,6 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 **Step 2:** At the same time, you can customize the template style, video background, [voiceover](https://virbo.wondershare.com/ai-voice.html), and text style. Additionally, you can add stickers and music. If you are satisfied with the result, you can proceed to export the final video.
 
 ![export video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###### Note
 
@@ -266,6 +254,10 @@ Export Video
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step2 Set your preferences and start translating videos
 
  Upload a video, set its original language and the language you want it translated into. Now select the rest of the settings as per your requirements. Finally, Click the Translate this video button to begin translation.
@@ -277,6 +269,10 @@ Export Video
  When the auto translation completes, preview the translated content. Check for any mistakes and correct them if necessary. If everything is good, then click the Download button at the bottom to save it on your device.
 
 ![Preview the translated video, make changes and download](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-without-cc-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -291,6 +287,10 @@ Export Video
 ### 02 Clear Up any Ambiguities
 
  Ambiguous phrases are words in a language that convey more than one meaning, which can lead to inaccurate translations. So, clear up any ambiguous terms or expressions. Selecting a particular meaning of a phrase for your translation requires a keen eye for detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 03 Consider the Cultural Nuances
 
@@ -462,6 +462,10 @@ Some AI Editors also have translation capabilities, automatically translating th
 
 AI Editors aims to provide efficient, accurate, and intelligent editing assistance, helping users enhance the quality and efficiency of their writing. However, AI editing technology is still in development, and there may be certain limitations, requiring users to perform further proofreading and corrections.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Specific extension types of AI editors
 
 Because AI editor is a collective concept, the AI sub-products derived from it are the applications that have more practical value. Here are some common AI editors and their advantages compared to their traditional counterparts.
@@ -487,10 +491,6 @@ This type of AI Editor is used for editing and processing video content. It can 
 This type of AI Editor aims to assist developers in writing and modifying code. It can provide features such as automatic code completion, syntax checking, error fixing, and refactoring suggestions, improving code quality and development efficiency.
 
 In addition to the above types, various other specific domain-specific AI Editors, such as AI Legal Editor, AI Medical Editor, etc., focus on editing and improving text or content in specific domains. These AI Editor extension types aim to leverage artificial intelligence technology to provide more efficient, accurate, and intelligent editing and processing capabilities to meet the needs of different domains and tasks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. What advantages do AI editors have compared to traditional editors?
 
@@ -606,6 +606,10 @@ Some AI Editors offer specialized features tailored to specific domains. For exa
 
 Overall, AI Editors offer increased speed, accuracy, intelligent assistance, and specialized features, making them powerful tools for content editing and processing compared to traditional products.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Talking Photo Feature
 
 ## Create a video with Talking Photo
@@ -617,10 +621,6 @@ Follow the instructions, and you will learn how to create a video with the talki
 The [talking photo function](https://virbo.wondershare.com/talking-photo.html) of the APP allows a single video to be created for up to 30 seconds.
 
 02 [Step Guidance](#part2)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Video Tutorial to Create a Talking Photo AI Avatar
 
@@ -645,6 +645,14 @@ secure download
 Open the Wondershare Virbo app and tap the talking photo function to enter the operation interface.
 
 ![talking-photo-app-1.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2\. Upload a portrait
 
@@ -696,10 +704,6 @@ secure download
 
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 1\. Create a new project
 
 Open the Wondershare Virbo app and tap the talking photo function to enter the operation interface.
@@ -711,6 +715,10 @@ Open the Wondershare Virbo app and tap the talking photo function to enter the o
 Tap “try now” and upload a portrait you want to use as your talking avatar by following the instruction.
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 3\. Edit and export your video
 
@@ -725,7 +733,7 @@ Download Virbo App for Free
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 for iOS
@@ -735,6 +743,10 @@ for iOS
 for Android
 
 secure download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Is an AI Video Maker?
 
@@ -749,10 +761,6 @@ The use of AI in video creation has significantly simplified the process and mad
 ## Part 2\. Any differences between an AI video maker and a generator?
 
 Yes, there is a difference between an AI video maker and an AI video generator, although they are related concepts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AI Video Maker
 
@@ -772,17 +780,9 @@ With AI video makers, users can create professional-looking videos more efficien
 
 The use of AI in video creation has significantly simplified the process and made it accessible to individuals and businesses without specialized video editing skills. As AI technology advances, AI video makers will likely become even more sophisticated, allowing for more creative and innovative video productions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Any differences between an AI video maker and a generator?
 
 Yes, there is a difference between an AI video maker and an AI video generator, although they are related concepts.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AI Video Maker
 
@@ -804,24 +804,24 @@ In summary, the main difference lies in their primary functions: an AI video mak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-audio-recorder-performance-assessment/"><u>[Updated] 2024 Approved Audio Recorder Performance Assessment</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-perfecting-yt-aesthetics-in-depth-guide-to-banner-and-art-sizing/"><u>[Updated] Perfecting YT Aesthetics In-Depth Guide to Banner & Art Sizing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-top-hd-cameras-for-elk-and-mule-deer/"><u>2024 Approved Top HD Cameras for Elk and Mule Deer</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/chinese-innovation-shines-with-the-release-of-cixin-p1-chip-arm-powered-6nm-design-and-impressive-ebytessec-performance/"><u>Chinese Innovation Shines with the Release of Cixin P1 Chip - Arm-Powered, 6Nm Design and Impressive Ebytes/Sec Performance</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ntaneous-youtube-profit-projections-for-2024/"><u>Instantaneous YouTube Profit Projections for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mac-display-recorder-tips-and-tricks-for-2024/"><u>Mac Display Recorder Tips & Tricks for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>New 2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-presentation-maker/"><u>New 2024 Approved What Is an AI Presentation Maker?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-laptop-audio-input-a-step-by-step-guide/"><u>Solving Common Problems with Laptop Audio Input: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-s23-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Itel S23? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars-for-2024/"><u>Top List Best 5 Tools for Creating Talking Avatars for 2024</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/understanding-the-potential-hazards-of-windows-file-recovery-tools-a-yl-software-analysis/"><u>Understanding the Potential Hazards of Windows File Recovery Tools - A YL Software Analysis</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-to-the-newest-dolby-acoustic-drivers-for-windows-operating-systems-11-10-81/"><u>Update to the Newest Dolby Acoustic Drivers for Windows Operating Systems: 11 / 10 / 8.1</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions/"><u>Updated Handling Exceptions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools-for-2024/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/oosting-your-yt-subs-a-complete-strategy-guide/"><u>[New] Boosting Your YT Subs A Complete Strategy Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-enjoy-your-old-favorites-top-5-ps1-game-simulators-on-pc-for-2024/"><u>[New] Enjoy Your Old Favorites Top 5 PS1 Game Simulators on PC for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-free-top-10-subtitles-tools-srt-file-transformers/"><u>[New] Free Top 10 Subtitles Tools SRT File Transformers</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-step-by-step-guide-to-joining-and-initiating-zoom-meetings-on-android/"><u>[Updated] 2024 Approved Step-By-Step Guide to Joining & Initiating Zoom Meetings on Android</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/2023s-leading-electric-scooters-reviewed-find-the-perfect-match-for-you-cnet/"><u>2023'S Leading Electric Scooters Reviewed: Find the Perfect Match for You | CNET</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-wondershare-virbo/"><u>2024 Approved AI Script | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-best-5-ai-powered-script-to-video-makers/"><u>2024 Approved Best 5 AI-Powered Script to Video Makers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-edit-like-a-championtop-strategies-for-beginner-youtubers/"><u>2024 Approved Edit Like a Champion—Top Strategies for Beginner YouTubers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline/"><u>Best 12 AI Voice Cloning Tools Online & Offline</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-an-airtag-from-your-apple-id-account-on-apple-iphone-14-pro-by-drfone-ios/"><u>How to Remove an AirTag from Your Apple ID Account On Apple iPhone 14 Pro?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-android-image-editing-software/"><u>In 2024, Prime Android Image Editing Software</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>New Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-5-tools-to-convert-text-to-audio-online-for-free/"><u>New In 2024, Top 5 Tools to Convert Text to Audio Online for Free</u></a></li>
+<li><a href="https://techtrends.techidaily.com/pixel-phone-2023-anticipated-launch-details-pricing-insights-and-latest-tech-leaks/"><u>Pixel Phone 2023: Anticipated Launch Details, Pricing Insights & Latest Tech Leaks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/snapstream-app-rating-analysis-for-2024/"><u>SnapStream App Rating Analysis for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/"><u>Updated In 2024, 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-5-quandale-dingle-voice-generators/"><u>Updated In 2024, Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online-for-2024/"><u>Updated Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor/"><u>Updated What Is an AI Video Editor?</u></a></li>
 </ul></div>
 

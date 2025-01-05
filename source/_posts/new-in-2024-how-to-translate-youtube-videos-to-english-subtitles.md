@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Translate YouTube Videos to English Subtitles
-date: 2024-12-26T00:23:53.316Z
-updated: 2024-12-27T04:39:57.755Z
+date: 2024-12-29T17:12:33.566Z
+updated: 2025-01-05T16:53:15.859Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 ## How to Translate YouTube Videos to English Subtitles
 
  As we all know, English is the universal language spoken by the majority of people. If you are looking for the best translator that helps you to **translate YouTube videos into English** , stick to the article. This guide will help you to translate YouTube videos or any type of video in multiple languages. If we talk about YouTube videos, you can translate the captions, titles, descriptions, and videos without any hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Best Tool to Translate YouTube Videos to English Subtitles - Virbo
 
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
 * **Generate Voice in Multiple Languages:** Virbo allows you to select the accent, language, and gender according to your video.
 * **Cost-effective in Multiple Languages:** Virbo offers a user-friendly interface under the budget. You can translate YouTube videos to English subtitles for free.
 * **Add AI avatars to the Video to Promote Your Brand:** It provides 300+ real human avatars' voices and languages.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pros of Wondershare Virbo - Video Translator
 
@@ -81,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e171
  You will see an option of subtitles, click on the auto-translate option. A list of languages appears, and select the English language to translate a YouTube video to English subtitles for free.
 
 ![translate subtitles of YouTube videos](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-5.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.Translate YouTube Video to English Without CC
 
@@ -138,6 +134,10 @@ _**Translated Languages:** English, Spanish, German, Portuguese, Italian, Indone
 
  More features and languages for translations will be updated in the future.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Whether you are watching YouTube videos or creating them, sometimes you may need to translate your videos into a specific language to remove the communication barrier. YouTube allows users to enjoy the original video with subtitles and captions. Sometimes, it produces the wrong subtitles of the videos because of the distortions. The best way to avoid this problem is to choose the best tool that allows you to translate the video into your desired language.
@@ -169,7 +169,7 @@ _**Translated Languages:** English, Spanish, German, Portuguese, Italian, Indone
  First, you need to select a tool that can give you results in optimized quality. There is no rush to select an**AI voice generator in Hindi** . Look at the templates and exemplary content to learn about the quality of the voices. Moreover, you also need to ensure the tool can pronounce the Hindi words accurately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\. Expression and Controls
@@ -181,6 +181,10 @@ _**Translated Languages:** English, Spanish, German, Portuguese, Italian, Indone
  While selecting a tool, make sure you select the one that offers a wide array of language support. A good Hindi tool shouldn't stop with the Hindi language. It should let you generate speeches in several languages to ensure flexibility.
 
  In addition to this, always go with the tool that comprehends a wide array of features. With many features, you will be able to manage the audio and make it more personalized. It can also help in adding uniqueness to the AI-generated voices.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Integration and Adaptability
 
@@ -438,10 +442,6 @@ Cons:
 
 ![access live button in tiktok](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** After that, tap “Add a Title” to write a creative title for the livestream within 32 characters. Lastly, hit the “Go Live” button to initiate your live streaming.
 
 ![proceed to enable tiktok live](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-4.jpg)
@@ -500,10 +500,6 @@ Cons:
 
 ![add text through ai smart script](https://images.wondershare.com/virbo/article/2024/03/guide-to-excel-in-tiktok-live-shopping-2024-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 4\. Choose AI Avatars To Showcase Your Personality
 
  Choose the “AI Avatars” tab from the given options in the top bar. It displays various avatars with a variety of poses and attire. Before moving forward, preview your favorite AI avatar on the right side.
@@ -539,7 +535,7 @@ Cons:
  TikTok live selling improves when you engage with a broad audience. You can try multiple ways to promote your livestream and get more viewers. One way is to share your live stream link on other platforms or directly text the people. The second method is that you can create a promotional video of the scheduled live event. Viewers can watch your video as a trailer of the event to hype their interest.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -664,6 +660,10 @@ Go to the [online Virbo site](https://tools.techidaily.com/wondershare/virbo/dow
 
 ![text to speech](https://images.wondershare.com/virbo/guide/online-guide/tts-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Create a project
 
 #### Step 2\. Input your text
@@ -714,10 +714,6 @@ To preview the effect, simply click the play button above or select "**Play Scri
 
 Preview the Speech
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create AI Videos Using Synthesia Avatar and Voices
 
  In this busy world, every person wishes to save as much time as they can. Along with this, people want their social media to grow more through videos but don't want to invest much time in video creation. Thus, most users wish to create videos for both professional and personal use without compromising their spare time. It's a genuine wish which can be true thanks to AI-powered tools.
@@ -731,6 +727,10 @@ Preview the Speech
  It also offers blazing-fast processing speed, which never fails to amaze users. You can even use this AI video generator without having any prior experience in video editing. It also works as an all-in-one video editor for all platforms. You can even use this AI-powered tool for creating tutorials, marketing, sales, and educational videos.
 
 ![synthesia-video-creator-1.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What Are The Features of Synthesia AI Video Creator
 
@@ -760,6 +760,10 @@ Preview the Speech
 
  While working on the videos, you can also create automated subtitles and captions. This makes your videos more understandable and approachable. In addition to this, you can also attract a broader audience and boost comprehension through this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Export Options and Integrations
 
 **Synthesia AI video creator** shows integration with other software and platforms such as Shopify, Lectora, Eduflow, ETU, and 360Learning. It makes the incorporation and workflow easier. Above all, it also supports a wide array of export options and shows compatibility with various formats, which is extremely helpful.
@@ -788,10 +792,6 @@ Preview the Speech
 **Step 3:** After making all the layout adjustments, go to "Script Box" and paste your script there. Make sure you paste the scripts in a scene-by-scene manner. To change the language, go to the “Voice Selector" option in the top-right corner. You can also make videos more modified by adding multiple metrics.
 
 ![synthesia-video-creator-4.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4:** For instance, click "Text" and select the text prompt you want to add to the video. Moreover, you can also add shapes by clicking on "Shapes," and by clicking on "Media," you can insert images, icons, and videos. If you are creating software tutorial videos and want to record the screen, tap the "Record' button.
 
@@ -825,6 +825,10 @@ Preview the Speech
 
 ![synthesia-video-creator-8.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Points
 
 1. By using HeyGen, you can customize the AI avatars and can also choose the outfit of your choice to act as a main character.
@@ -836,10 +840,6 @@ Preview the Speech
  If you wish to create videos with the help of scripts, this amazing tool got you covered. Through this, you can turn text into videos in a few taps. You can also do this with the help of photo-realistic avatars. There are tons of unique AI avatars in it, and you can also customize them as needed. Moreover, it also ensures that you save time and cost by 80%.
 
 ![synthesia-video-creator-9.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Points
 
@@ -861,21 +861,24 @@ Preview the Speech
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-elite-cameras-for-face-recording-facing-screen-included-for-2024/"><u>[Updated] Elite Cameras for Face Recording Facing Screen Included for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-make-sense-of-iphone-video-repetition-tech-for-2024/"><u>[Updated] Make Sense of iPhone Video Repetition Tech for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-unlocking-the-potential-of-your-ppt-with-professional-recording/"><u>[Updated] Unlocking the Potential of Your PPT with Professional Recording</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now</u></a></li>
-<li><a href="https://blog-min.techidaily.com/17-superior-screen-capture-software-tools-the-ultimate-ranking-by-movavi/"><u>17 Superior Screen Capture Software Tools: The Ultimate Ranking by Movavi</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-streamline-your-shots-a-windows-11-guide/"><u>2024 Approved Streamline Your Shots A Windows 11 Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/choosing-your-console-compare-the-features-of-nintendos-switch-lite-and-oled-editions/"><u>Choosing Your Console? Compare the Features of Nintendo's Switch Lite & OLED Editions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratuitierter-h265-encoder-fur-hochauflosendes-4k-und-8k-streaming/"><u>Gratuitierter H.265 Encoder Für Hochauflösendes 4K Und 8K Streaming</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-action-cam-showdown-which-holds-the-crown-gopro-or-yi/"><u>In 2024, Action Cam Showdown Which Holds the Crown - GoPro or Yi?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-battle-of-might-and-machine-join-the-2024-global-server-smash-contest/"><u>The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/touchscreen-computing-revolutionized-by-microsoft-introducing-an-ai-msi-desktop-with-a-stunning-1080p-viewfinder/"><u>Touchscreen Computing Revolutionized by Microsoft: Introducing an AI MSI Desktop with a Stunning 1080P Viewfinder</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-elevating-your-show-top-podcast-hosting-services-unveiled/"><u>Updated In 2024, Elevating Your Show Top Podcast Hosting Services Unveiled</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-crafting-engaging-voiceovers-for-powerpoint-slides/"><u>[Updated] 2024 Approved Crafting Engaging Voiceovers for PowerPoint Slides</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-guide-to-pc-mac-and-phone-movie-playback/"><u>[Updated] The Complete Guide to PC, Mac & Phone Movie Playback</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/miomiopc-2024/"><u>「Miomioアプリ起動失敗時の詳しい原因と解決策(PC/スマホ/タブレット) - 2024年ガイド」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-nokia-c210-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Nokia C210 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/draw-laughter-dont-pay-quickmemes-guide/"><u>Draw Laughter, Don't Pay - QuickMemes Guide</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-download-and-install-printer-drivers-epson-et-2750-on-windows-systems/"><u>Easy Guide to Download & Install Printer Drivers: Epson ET-2750 on Windows Systems</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/harnessing-the-benefits-with-creative-commons-licenses/"><u>Harnessing the Benefits with Creative Commons Licenses</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-oneplus-open-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass OnePlus Open FRP In 3 Different Ways</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>New 2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-presentation-maker/"><u>New 2024 Approved What Is an AI Presentation Maker?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-translate-videos-and-subtitles-with-veedio-for-2024/"><u>New Translate Videos and Subtitles with Veed.io for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars-for-2024/"><u>Top List Best 5 Tools for Creating Talking Avatars for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions/"><u>Updated Handling Exceptions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools-for-2024/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

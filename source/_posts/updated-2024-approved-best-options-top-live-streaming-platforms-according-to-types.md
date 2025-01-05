@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Best Options Top Live Streaming Platforms According to Types
-date: 2024-12-15T16:21:47.674Z
-updated: 2024-12-18T21:15:42.446Z
+date: 2025-01-01T20:25:10.224Z
+updated: 2025-01-05T18:20:55.164Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 ### 1\. Live Shopping Streaming Platforms
 
  The online places to shop while watching live videos are called live shopping streaming platforms. Through such shopping streams, sellers can directly interact with the buyers to generate revenue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Music and Podcast Streaming Platforms
 
@@ -84,6 +88,10 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 ![top-live-streaming-platforms-with-types-4.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * Step 2\. Give Prompt to Virbo To Generate AI Script
@@ -108,15 +116,15 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 ![top-live-streaming-platforms-with-types-7.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Twitch
 
  Twitch is a well-known gaming platform loved by gamers worldwide. The forum has everything from live gameplay to eSports tournaments and gaming discussions. It boasts a vast selection of gaming content and a vibrant community. Users can enjoy its customizable streaming options to discover new content.
 
 ![top-live-streaming-platforms-with-types-8.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. The Best Music and Podcast Streaming Platforms in 2024
 
@@ -144,6 +152,14 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 ![top-live-streaming-platforms-with-types-11.jpg](https://images.wondershare.com/virbo/article/2024/03/top-live-streaming-platforms-with-types-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Popcorn Flix
 
  Popcorn Flix offers free live TV streams and over 1500 full-length movies for viewing on all your devices. It features a variety of genres like spotlight films, comedies, and horror movies. The video quality is decent at 720p HD, which is suitable for watching TV shows.
@@ -153,6 +169,10 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 ## Part 6\. The Best Live Sports Streaming Platform in 2024
 
  For the best sports streaming platform, we should consider the video quality and what games they offer. In the following section, you’ll find the best options for watching sports live:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1. ESPN+
 
@@ -256,10 +276,6 @@ thumbnail: https://thmb.techidaily.com/1ee4d598dddce3a6246087c27cdd3992445e17b0d
 
 ## Create Video with AI Avatar
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create AI Avatar Videos
 
 Clicking the [AI Avatars](https://virbo.wondershare.com/ai-avatar.html) displayed on the homepage is also a good way to start producing your new video.
@@ -298,10 +314,6 @@ Once you finished producing the video, click “export” to generate the video.
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Export Video
 
 #### FAQs about AI Avatars
@@ -338,11 +350,19 @@ Enter the user interface and start editing the video. You can also customize the
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Edit Video
 
 Select "Background Music > None" to pick music for the video, or upload your preferred audio for use. Once you are satisfied with the results, click “Create a video” to enter the video generation interface.
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Background Music
 
@@ -351,10 +371,6 @@ Choose Background Music
 Once you finished producing the video, click “export” to generate the video.
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Export Video
 
@@ -527,26 +543,6 @@ All-in-one AI Video Generator
 
 ###
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-### Get To Know Our AI Script Feature
-
-![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
-
-AI-generated voices for videos
-
-All-in-one AI Video Generator
-
-###
-
 ### Get To Know Our AI Script Feature
 
 ![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
@@ -563,9 +559,17 @@ All-in-one AI Video Generator
 
 ![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
+Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
+
+AI-generated voices for videos
+
+All-in-one AI Video Generator
+
+###
+
+### Get To Know Our AI Script Feature
+
+![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
 
 Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
 
@@ -587,10 +591,6 @@ Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-scri
 
 **AI voice generators** are advanced technologies that utilize artificial intelligence algorithms to generate lifelike and natural-sounding voices. These innovative tools analyze speech patterns, intonations, and other linguistic elements from extensive datasets, enabling them to generate voices that closely resemble human speech. By inputting text or speech, AI voice generators can generate high-quality voice output that ranges from conversational to professional-grade voices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: What are AI voice generators used for?
 
 AI voice generators have numerous applications across various fields:
@@ -699,15 +699,15 @@ Creating your own AI voice requires advanced technical expertise and extensive r
 
 In conclusion, AI voice generators have transformed the landscape of voice generation. From content creation to accessibility and virtual assistants, these tools offer wide-ranging applications. Explore popular examples like Siri and Google AI, and take advantage of the best AI voice generators available to create lifelike voices effortlessly. While creating your own AI voice is still a developing field, the possibilities for generating realistic and personalized voices continuously evolve.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Netflix Subtitle Translation Methods: Comprehensive Guide
 
  Subtitle translation on Netflix plays a pivotal role in enhancing the global viewership experience. With Netflix's expansive reach across diverse linguistic demographics, accurate**Netflix translation** ensures accessibility and inclusivity for audiences worldwide. Subtitles not only cater to non-native speakers but also serve the needs of the deaf and hard-of-hearing community fostering a more comprehensive viewing environment.
 
  The importance of precise translation lies in preserving the nuances of dialogue, cultural references, and context, thus maintaining the authenticity of the content. To address this, various software tools and methods, including**Netflix subtitles translator** , are employed, leveraging technology and human expertise to ensure high-quality translations. In this article, we will explore various software and methods for translating subtitles on Netflix effectively.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Difficulties Lies in Netflix Subtitle Translation
 
@@ -724,10 +724,6 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 ### ●**Balancing Linguistic Accuracy and Cultural Sensitivity**
 
  Achieving a balance between linguistic precision and cultural relevance is crucial to avoid misinterpretations or causing offense. Translators must ensure that their translations accurately reflect the original meaning while remaining sensitive to cultural differences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### ●**Interpreting Context**
 
@@ -835,6 +831,10 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 
  By embracing these best practices, translators can effectively bridge linguistic and cultural barriers that will ensure Netflix subtitles resonate with diverse audiences worldwide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
  In this comprehensive guide to**Netflix subtitle translation** , we’ve explored the intricate process of making content accessible across languages. We’ve discussed the hurdles faced by translators, from preserving cultural nuances to maintaining linguistic precision. Subtitle translation transcends mere word conversion; it is about facilitating seamless viewer immersion across diverse linguistic backgrounds. The significance of Netflix subtitle translation cannot be understated—it promotes inclusivity and cultural exchange, enriching the global viewing experience.
@@ -853,22 +853,18 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-comprehensive-vlc-use-manual-for-mac-users/"><u>[New] Comprehensive VLC Use Manual for Mac Users</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-easy-to-follow-obs-setup-on-thriftier-tech/"><u>[Updated] 2024 Approved Easy-to-Follow OBS Setup on Thriftier Tech</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-ig-video-trends-building-your-next-marketing-plan-for-2024/"><u>[Updated] Navigating IG Video Trends Building Your Next Marketing Plan for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-guide-to-efficiently-retrieve-youtubes-srt-files/"><u>2024 Approved Guide to Efficiently Retrieve YouTube's SRT Files</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-the-great-screen-capture-debate-obs-studio-versus-fraps/"><u>2024 Approved The Great Screen Capture Debate OBS Studio Versus Fraps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator/"><u>2024 Approved Video Translator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-5-viral-video-marketing-techniques-for-big-sellers/"><u>Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/coqui-voice-cloning-the-ultimate-solution-to-streamline-audio-content/"><u>Coqui Voice Cloning The Ultimate Solution to Streamline Audio Content</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-updated-realtek-bluetooth-driver-software-for-enhanced-compatibility-with-windows-11-10/"><u>Download Updated Realtek Bluetooth Driver Software for Enhanced Compatibility with Windows 11, 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-ensure-smooth-downloading-and-setup-of-age-of-empires-iv-via-microsoft-store/"><u>How to Ensure Smooth Downloading & Setup of Age of Empires IV via Microsoft Store</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>New 2024 Approved Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>New Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-an-ai-avatar-video/"><u>New Create An AI Avatar Video</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>New In 2024, The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/quick-tips-for-iphones-screen-recording-for-2024/"><u>Quick Tips for iPhones Screen Recording for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/1728504996021-sdsd/"><u>SD卡數據轉移技巧：簡單步驟教你如何從一張SD卡備份到另一張</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-intel-centrino-advanced-n-6205-driver/"><u>[Download] Intel Centrino Advanced-N 6205 Driver</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-excellent-ears-in-scholarly-spaces/"><u>[Updated] 2024 Approved Excellent Ears in Scholarly Spaces</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-streaming-gopro-on-social-platforms-a-step-by-step-guide/"><u>[Updated] In 2024, Streaming GoPro on Social Platforms A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-windows-movie-maker-the-spectrum-of-releases/"><u>[Updated] In 2024, Windows Movie Maker The Spectrum of Releases</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-best-text-voice-generators-for-all-platforms/"><u>In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-seamless-guide-to-saving-gifs-on-iphonesandroids/"><u>In 2024, The Seamless Guide to Saving GIFs on iPhones/Androids</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/mastering-hdr-photography-your-essential-list/"><u>Mastering HDR Photography Your Essential List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-legislation-key-strategies-for-government-control-over-ai-systems/"><u>Navigating Legislation: Key Strategies for Government Control Over AI Systems</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-avatar-wondershare-virbo-online/"><u>New AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>New Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ultimate-guide-to-shopee-livestream-selling-maximize-profits/"><u>New Ultimate Guide to Shopee Livestream Selling Maximize Profits</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/step-by-step-guide-compatibility-and-tricks-to-enjoy-flac-music-on-all-ipod-variants/"><u>Step-by-Step Guide: Compatibility & Tricks to Enjoy FLAC Music on All iPod Variants</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-8-ai-titles-generators-for-creating-catchy-titles-for-all-platforms/"><u>Updated Top 8 AI Titles Generators for Creating Catchy Titles For All Platforms</u></a></li>
 </ul></div>
 

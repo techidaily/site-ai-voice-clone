@@ -1,7 +1,7 @@
 ---
 title: AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch
-date: 2024-12-26T01:58:27.501Z
-updated: 2024-12-26T22:15:24.763Z
+date: 2025-01-02T18:28:51.653Z
+updated: 2025-01-05T17:56:35.469Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,16 +74,24 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-boost-your-farming-skills-with-stardews-top-7-mods/"><u>[New] Boost Your Farming Skills with Stardew's Top 7 Mods</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-compre-cooked-tweets-the-complete-tweet-vids-guide/"><u>[New] In 2024, Compre Cooked Tweets The Complete Tweet Vids Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-most-efficient-tools-to-convert-text-to-mp3-with-the-best-natural-voices/"><u>2024 Approved The Most Efficient Tools to Convert Text to MP3 With the Best Natural Voices</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/automated-lead-generation-with-cookiebot-technology/"><u>Automated Lead Generation with Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-s21-fe-5g-2023-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy S21 FE 5G (2023) Phone FRP Lock</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210650289-9781398827363-natural-magic/"><u>Natural Magic | Free Book</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>New In 2024, Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-windows-compatible-options-sony-vegas-alternatives-revealed/"><u>New Windows-Compatible Options Sony Vegas Alternatives Revealed</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-review-of-murfai-ai-text-to-speech-tool/"><u>Updated In 2024, A Detailed Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-depth-review-of-ivona-text-to-speech-by-nextup-technologies/"><u>Updated In-Depth Review of Ivona Text to Speech by NextUp Technologies</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[New] 2024 Approved Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-craft-stunning-photos-with-color-correction-for-2024/"><u>[New] Craft Stunning Photos with Color Correction for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-webcam-applications-in-windows-our-choices/"><u>[New] Essential Webcam Applications in Windows Our Choices</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[New] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-lenovos-full-potential-with-screen-recordings/"><u>[Updated] 2024 Approved Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-spotlight-on-success-top-tiktok-tweets/"><u>[Updated] In 2024, Spotlight on Success Top TikTok Tweets</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-subscriber-supremacy-leading-youtube-figures/"><u>2024 Approved Subscriber Supremacy Leading YouTube Figures</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-script-generator-virbo-guide-for-2024/"><u>AI Script Generator | Virbo Guide for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-creating-ai-videos-with-templates/"><u>In 2024, Creating AI Videos With Templates</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-13c-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi 13C 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool-wondershare-virbo-glossary/"><u>New What Is an AI Tool? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-over-traditional-laptops-insights/"><u>Top 6 Advantages of Choosing a Chromebook Over Traditional Laptops: Insights</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/troubleshooting-tips-how-to-strengthen-a-fading-wi-fi-connection-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: How to Strengthen a Fading Wi-Fi Connection - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatar-wondershare-virbo-user-guide/"><u>Updated 2024 Approved AI Avatar | Wondershare Virbo User Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online-for-2024/"><u>Updated AI Translation | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-animated-explainer-videos/"><u>Updated How to Make Animated Explainer Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-wondershare-virbo-glossary/"><u>What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-in-2024/"><u>What Is AI Voice, In 2024</u></a></li>
 </ul></div>
 
