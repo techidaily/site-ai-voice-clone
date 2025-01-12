@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Generate Video with Talking Photo Feature
-date: 2024-12-29T19:56:08.533Z
-updated: 2025-01-05T19:03:31.270Z
+date: 2025-01-11T06:44:37.643Z
+updated: 2025-01-12T05:58:45.851Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -56,10 +56,6 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Edit and export your video
 
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
@@ -71,10 +67,6 @@ Enter text and choose a voiceover provided below to generate the voiceover of yo
 Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 for iOS
 
@@ -120,11 +112,19 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3\. Edit and export your video
 
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
 
 ![talking-photo-app-3.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Generate AI Video Free](#)
 
@@ -222,10 +222,6 @@ secure download
 
 * No voice editing capabilities.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Bonus Tip: How to Generate Celebrity Voices in Different Styles and Languages**
 
  One of the limitations that you might have noticed in the voice generator apps above is the limited selection of languages and styles. Fortunately, you can address this concern with Wondershare Virbo. It's a desktop program that comes with multiple male and female voices. You can create video presentations for casual, blogger, staff, business, fashion, fitness, medicine, and other industries. Wondershare Virbo also allows you to create celebrity voices in English, Thai, Indonesian, Filipino, and more.
@@ -250,29 +246,17 @@ Below are the steps:
 
 ![celebrity-ai-voice-generator-free-8.jpg](https://images.wondershare.com/virbo/features/ai-voice/celebrity-ai-voice-generator-free-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ## **Conclusion**
 
  These are the best celebrity AI voice generator tools for online and offline use. But always remember that the best program should give you multiple customization options, including various languages, adding subtitles, applying backgrounds, and more. That's what you'll get and many more with Wondershare Virbo. Try it today!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **FAQs About Celebrity Voice Generator**
 
 ### 1.**What are the most widely used celebrity voices?**
 
  Some celebrity voices are more widely used than others, depending on your preference. For example, Morgan Freeman's voice might complement documentary narrations perfectly. You can use voices like Donald Trump, Elon Musk, and Biden, which are more common online. Remember to stick to a more professional tone if you're creating voices for educational or marketing purposes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.**What is the best free celebrity voice generator?**
 
@@ -308,10 +292,6 @@ AI voice generators power virtual assistants like Siri and Google AI, enabling t
 
 AI audio generator s aid language learners in practicing pronunciation and improving their speaking skills. These tools offer accurate and consistent pronunciation models, helping learners develop fluency and confidence.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: What are examples of AI voice generators?
 
 Popular examples of AI voice generators include:
@@ -337,10 +317,6 @@ Microsoft Azure Text to Speech service provides a powerful AI voice generator th
 #### **5\. Amazon Polly**
 
 Amazon Polly is an AI-driven service that converts text into lifelike speech, offering multiple language options and customizable voices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Can I create my own AI voice?
 
@@ -419,7 +395,7 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 01 Unique Features of Virbo
@@ -462,6 +438,10 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. What Challenges Can Occur if Video Translators Do Not Exist
 
  Videos play a crucial role in delivering the message worldwide. People prefer to create video advertisements instead of putting ads in newspapers. Colorful and catchy videos grab the attention of the viewers and encourage them to buy the product. The main problem can occur if your target audience cannot understand the language that you have used in videos.
@@ -474,10 +454,6 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Failed to Reach a Large Audience
 
  In this modern world, people create videos for marketing purposes. What happens if the translators do not come into our lives? If your target is to reach a large audience that will see your videos and love your content, then you need a video translator.
@@ -485,6 +461,10 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
  Without a translator, viewers will skip your content, and you cannot reach to a broad audience. Video translators can provide subtitles or translate the audio into video, which will help to boost the connectivity.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/article/free-online-video-translator-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Tips to Choose the Best and Free Online Video Translator
 
@@ -610,6 +590,10 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
 | **Starter**      | $79/month  |
 | **Professional** | $199/month |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Pictory
 
  Pictory is an efficient**script to video generator** AI tool. It uses the power of artificial intelligence to make your video production fast and affordable. Pictory comes loaded with useful features to help you highlight the main parts of your long-form videos using AI.
@@ -638,6 +622,10 @@ In conclusion, AI voice generators have transformed the landscape of voice gener
  Within a few minutes, HeyGen can create top-quality AI videos. You can also change the clothes of your AI avatars to customize them according to your marketing campaign. It even allows you to swap the face of the AI avatar with yours to make the video more realistic and unique.
 
 ![ai-script-to-video-maker-5.jpg](https://images.wondershare.com/virbo/features/ai-script/ai-script-to-video-maker-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Main Features
 
@@ -734,6 +722,10 @@ Moreover, you can also work on previously made WAV or MP3 files without complica
 
 ![voicemod mickey voice generator](https://images.wondershare.com/virbo/features/ai-voice/mickey-mouse-voice-generator-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. You can enable the Resonator option anytime to ensure more realistic voices in your audio.
@@ -768,6 +760,10 @@ As it supports multiple formats for both input and output audio formats, you wil
 2. You can also turn PDF, image, and simple text into speech and add customized intervals.
 3. This tool can also handle audio editing, audio plus video conversion, text extraction, and transliteration for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip: Efficient and AI-Powered AI Voice Generator For Creating Business Videos
 
 Generate Engaging  
@@ -794,6 +790,10 @@ In the following article, you have discovered the information about **Mickey Mou
 The best online **Mickey voice generators** are Uberduck, FakeYou, and voicechanger.ai. Voicemod, UnicTool, and iMyFone can assist you as offline tools. You can also use Virbo to generate highly engaging text-to-speech videos.
 
 ## Registration and Login | Virbo AI Live Stream
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Registration and Login
 
@@ -887,24 +887,18 @@ Authorization Refresh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-unseen-marvels-of-vr-elite-headset-comparisons/"><u>[New] 2024 Approved Unseen Marvels of VR Elite Headset Comparisons</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-defining-techniques-for-e-narrative-construction/"><u>[New] In 2024, Defining Techniques for E-Narrative Construction</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-instagram-video-edge-planning-for-maximum-marketing-success-for-2024/"><u>[New] The Instagram Video Edge Planning for Maximum Marketing Success for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-accelerate-follower-count-key-strategies-unlocked/"><u>[Updated] 2024 Approved Accelerate Follower Count Key Strategies Unlocked</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-a-treasure-trove-discovering-the-most-inspiring-5-book-tts/"><u>[Updated] A Treasure Trove Discovering the Most Inspiring 5 Book TTs</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-downloadinstallregisteruninstall/"><u>In 2024, Download/Install/Register/Uninstall</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-google-pixel-fold-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Google Pixel Fold Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-drone-selections-to-enhance-gopro-videos/"><u>In 2024, Prime Drone Selections to Enhance GoPro Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-y78-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo Y78 5G? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video/"><u>New In 2024, Create AI Avatar Video</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>New The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-power-of-ai-thumbnail-generators/"><u>New The Power of AI Thumbnail Generators</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ultimate-guide-to-affordable-video-players-a-comprehensive-list-pc-and-mobile/"><u>Ultimate Guide to Affordable Video Players A Comprehensive List (PC & Mobile)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-5-tips-about-youtube-shorts-to-grow-your-business-for-2024/"><u>Updated 5 Tips About YouTube Shorts to Grow Your Business for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-wondershare-virbo/"><u>Updated In 2024, AI Script | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-chatgpt-in-2024/"><u>Updated What Is ChatGPT, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/video-translator-wondershare-virbo-online-for-2024/"><u>Video Translator | Wondershare Virbo Online for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-users-samsung-driver-installation/"><u>Windows Users: Samsung Driver Installation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-master-essential-zoom-techniques-for-iphone-users/"><u>[New] In 2024, Master Essential Zoom Techniques for iPhone Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guaranteed-safe-approaches-for-turning-youtube-songs-into-mp3-files/"><u>2024 Approved Guaranteed Safe Approaches for Turning YouTube Songs Into MP3 Files</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-demystifying-ai-game-generators-from-definition-to-distinction/"><u>In 2024, Demystifying AI Game Generators From Definition to Distinction</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-update-6-best-voice-changers-you-cant-miss/"><u>New Update 6 Best Voice Changers You Cant Miss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-api-wondershare-virbo-glossary/"><u>New What Is AI API? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/premium-talker-alteration-tech-for-bloggers-and-streamers-for-2024/"><u>Premium Talker Alteration Tech for Bloggers and Streamers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/ultimate-guide-to-top-video-recorders/"><u>Ultimate Guide to Top Video Recorders</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online-for-2024/"><u>Updated Create AI Avatar Video with AI Avatar | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-a-detailed-review-and-alternatives-of-vocaloid6-voice-generator/"><u>Updated In 2024, A Detailed Review & Alternatives of VOCALOID6 Voice Generator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-access-and-watch-nonstop-nba-live-stream-free-online/"><u>Updated In 2024, How To Access and Watch Nonstop NBA Live Stream Free Online</u></a></li>
+<li><a href="https://facebook.techidaily.com/your-key-to-unlocking-meanings-behind-online-social-media-symbols/"><u>Your Key to Unlocking Meanings Behind Online Social Media Symbols</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GPT and Bing Duels for Ultimate Generative Chat Excellence
-date: 2025-01-03T18:43:15.444Z
-updated: 2025-01-05T20:22:52.553Z
+date: 2025-01-10T07:43:16.333Z
+updated: 2025-01-12T14:22:25.957Z
 tags:
   - chatgpt
   - open-ai
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
@@ -38,12 +38,16 @@ False news can be categorized into three types:
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -54,6 +58,10 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -69,7 +77,7 @@ Here's the fictitious article that ChatGPT came up with:
  These examples all illustrate how chatbots can be utilized to mislead people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Creating AI DeepFakes
@@ -88,10 +96,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Spot AI-Spread Disinformation
 
  Combating the spread of disinformation facilitated by AI is a pressing issue in today's world. So how can you spot false information that's been made by AI?
@@ -102,10 +106,6 @@ Here's the fictitious article that ChatGPT came up with:
 4. Use fact-checking websites to verify the accuracy of information.
 
  By following these steps, you can identify and protect yourself from AI-driven misinformation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Beware of Disinformation Spread by AI
 
@@ -128,24 +128,18 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-in-2024-efficient-tools-and-tips-for-webp-to-jpeg-transformation/"><u>[New] In 2024, Efficient Tools and Tips for WebP to JPEG Transformation</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-no-pay-necessary-the-art-of-unpaid-football-editing/"><u>[New] No Pay Necessary The Art of Unpaid Football Editing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-syncopated-patterns-in-youtube-music-collections/"><u>2024 Approved Syncopated Patterns in YouTube Music Collections</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/1732515093796-yl/"><u>等待时刻：与YL计算公司一起深入分析房地产股票 - 新视野</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-civi-3-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Civi 3 Phone with Broken Screen</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-swiftly-restore-working-airdrop-between-apple-gadgets-and-macs/"><u>In 2024, Swiftly Restore Working AirDrop Between Apple Gadgets & Macs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/introducing-lenovos-new-contender-a-mac-studio-inspired-device-tailored-for-the-windows-crowd-zdnet/"><u>Introducing Lenovo's New Contender: A Mac Studio-Inspired Device Tailored for the Windows Crowd | ZDNet</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-8-best-multi-subtitles-translators-you-shouldnt-miss-for-2024/"><u>New 8 Best Multi-Subtitles Translators You Shouldnt Miss for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-master-deepface-live-download-and-train-your-live-model/"><u>New In 2024, Master Deepface Live Download and Train Your Live Model</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-video-translator-wondershare-virbo/"><u>New In 2024, Video Translator | Wondershare Virbo</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/offizielle-winx-dvd-ripper-goldcode-fur-profis-aktionstage-mit-ersparnissen-und-sonderangeboten/"><u>OFFIZIELLE WINX DVD-Ripper Goldcode Für Profis - Aktionstage Mit Ersparnissen Und Sonderangeboten</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-tutorial-how-to-set-up-the-idt-hd-audio-drivers-for-windows-10/"><u>Step-by-Step Tutorial: How to Set Up the IDT HD Audio Drivers for Windows 10</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/transform-youtube-live-with-these-must-know-secrets-for-2024/"><u>Transform YouTube Live with These Must-Know Secrets for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-sora-by-openai-everything-you-need-to-know-for-2024/"><u>Updated What Is Sora by OpenAI Everything You Need To Know for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-editor-wondershare-virbo-glossary/"><u>What Is an AI Editor? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expert-choice-top-12-non-time-restricted-recorders-for-2024/"><u>[New] Expert Choice Top 12 Non-Time Restricted Recorders for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-kiddos-best-gaming-delights-top-girls-adventures/"><u>[Updated] 2024 Approved Kiddo's Best Gaming Delights - Top Girls' Adventures</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-ultimate-strategy-for-superior-videos-with-vce-22/"><u>[Updated] 2024 Approved The Ultimate Strategy for Superior Videos with VCE 2.2</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-easy-steps-for-ipad-video-capture/"><u>[Updated] Easy Steps for iPad Video Capture</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-experiential-playground-vr-innovations/"><u>[Updated] In 2024, Experiential Playground VR Innovations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-maximize-your-consoles-potential-top-monitors-explored/"><u>[Updated] Maximize Your Console's Potential - Top Monitors Explored</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>2024 Approved The Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-guide-to-generating-speech-in-different-languages-with-the-best-tools/"><u>In 2024, Guide to Generating Speech in Different Languages With the Best Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-common-platforms/"><u>New 2024 Approved Common Platforms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-avatar-wondershare-virbo-user-guide/"><u>New AI Avatar | Wondershare Virbo User Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-how-to-translate-youtube-videos-without-cc/"><u>New In 2024, How to Translate YouTube Videos Without CC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-7-online-auto-subtitle-translators-for-content-creators/"><u>New Top 7 Online Auto Subtitle Translators for Content Creators</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-itunes-m4p-songs-into-unprotected-mp3s-for-no-cost/"><u>Transform Your ITUNES M4P Songs Into Unprotected MP3s for No Cost!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated Create AI Avatar Videos | Wondershare Virbo for 2024
-date: 2024-12-31T16:10:01.709Z
-updated: 2025-01-05T20:19:45.812Z
+date: 2025-01-09T06:02:12.088Z
+updated: 2025-01-12T06:26:39.307Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -60,6 +60,10 @@ You can also modify the background, select text style, or add adorable sticker t
 
 ![create-ai-avatar-video-5.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-ai-avatar-video-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Edit Video
 
 Moreover, click on "Music" to select the soundtrack for your video. You can choose from extensive music library and customize the volume to suit your preferences.
@@ -93,6 +97,10 @@ Create a Project
 Choose your preferred video aspect ratio: opt for a landscape or portrait video, depending on your requirements. Then, click on "Create Video."
 
 ![create-ai-avatar-video-2.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-ai-avatar-video-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Choose Aspect Ratio
 
@@ -145,6 +153,10 @@ Export Video
 
  Take a look at the following read to explore the realm of AI content creation. Discover the top AI tools to help you create**YouTube shorts with AI** and learn how to harness their power to fuse creativity with technology efficiently.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: 5 Best AI-Integrated YouTube Shorts Video Generators
 
  The internet is filled with tools to help you create YouTube**Shorts videos with AI** . Not sure which one to use? Here are our top 5 picks for**AI YouTube Shorts generator** tools that can help you create engaging content.
@@ -193,10 +205,6 @@ Export Video
 * You can add image overlays to your videos on QuickVid. It is perfect for amplifying videos with relevant branding.
 * This**AI short video** tool features PNG Tuber-style avatars for Shorts. You can customize them and add them to your videos easily on QuickVid.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4. Steve.ai
 
  Steve.ai is a versatile AI video-making tool that is perfect as an**AI YouTube Shorts generator** . The YouTube Video Maker of Steve.ai makes creating content that stands out easy. From live action to dynamic animations, this tool can help with all types of videos.
@@ -204,6 +212,10 @@ Export Video
  On Steve.ai, you don’t need any expert-level editing skills. The AI algorithm allows users to tweak their videos to the fullest automatically. You can even boost your video content using Steve.ai with high-quality graphics and seamless editing options.
 
 ![ai-youtube-shorts-video-maker-4.jpg](https://images.wondershare.com/virbo/features/text-to-speech/ai-youtube-shorts-video-maker-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Points
 
@@ -219,6 +231,10 @@ Export Video
 
 ![nova.ai](https://images.wondershare.com/virbo/features/text-to-speech/photo-to-video-ai-generator-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Points
 
 * Nova A.I offer various editing options for videos. You can use features such as trim, crop, and split to refine your content easily.
@@ -229,15 +245,15 @@ Export Video
 
  Although the AI tools mentioned above can help you generate YouTube Shorts according to your need, they cannot entirely replace human creativity. Are you looking to improve the quality of your YouTube Shorts? Here are a few tips that may come in handy in making your videos more entertaining.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Keep it Short
 
  Remember, these short videos on YouTube are called “YouTube Shorts” for a reason. It is important to keep your content minimal and to the point. Your key focus should be on content delivery and making your videos as concise as possible.
 
  Moreover, you should value your viewer’s time as well. Studies also suggest that the attention span of users is gradually decreasing. So it is a good practice to determine the length of the video beforehand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Customize Thumbnails
 
@@ -254,10 +270,6 @@ Export Video
 ### 5\. Optimize the Viewing Options
 
  If you wish to boost engagement on your YouTube Shorts, catering to your viewer’s varying needs is imperative. Keep in mind the platforms that users will be viewing the video on. Most users view Shorts on their mobile phones. Hence, ensure your videos are optimized for vertical viewing. It also helps to make them easily navigable on small screens.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wrapping Up
 
@@ -467,10 +479,6 @@ AI influencers are revolutionizing the digital landscape with their unique advan
 
 ![understanding how to make talking head video](https://images.wondershare.com/virbo/article/2024/02/details-of-making-the-perfect-talking-face-content-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. List of Impressive Talking Face Tools To Consider in 2024
 
  You can generate a**talking face** for posting on social media to capture people’s attention. Many tools are available in the market to help you in**talking face generation.** Below aresome of the best tools to generate such creative content.
@@ -500,10 +508,6 @@ AI influencers are revolutionizing the digital landscape with their unique advan
 1. This tool offers 400+ AI avatars to produce videos in different languages and accents.
 2. It provides a voice library to give voiceover to any uploaded picture.
 3. You can create a custom AI avatar using the “AI Generate” feature.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2. Dupdub
 
@@ -631,10 +635,6 @@ Text to video is a technology that transforms written text into visually compell
 
 Text to video technology utilizes AI algorithms to analyze the provided text and extract critical elements such as keywords, sentences, and semantic meaning. It then generates corresponding visuals, including images, animations, and transitions, to create a cohesive and engaging video presentation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: What is text to video used for?
 
 Text to video has numerous applications, including:
@@ -687,13 +687,13 @@ Script to video helps social media marketers and influencers create attention-gr
 
 With text to video, traditional slide presentations can be transformed into dynamic videos, incorporating text, visuals, and audio. This enhances the effectiveness and impact of exhibitions in various settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. What are examples of AI video generator from text?
 
 One example of an AI text to video generator is Wondershare Virbo. It leverages the latest AI technology in text-to-video conversion. With Virbo, users can input essential information, and the platform automatically generates compelling scripts. It then uses digital avatars to synthesize vibrant videos for marketing, news, education, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## RTMP Streaming on Instagram: A Comprehensive Tutorial
 
@@ -702,10 +702,6 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
  However, the discussion is about**how to stream to Instagram with an RTMP** . This detailed guide helps you in using**RTMP Instagram** for live streaming. Furthermore, you will also learn about a recommended tool that offers AI-powered features for broadcasting.
 
 ![streaming instagram with rtmp](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. Some Rules and Requirements To Understand Before Live Streaming on Instagram
 
@@ -737,6 +733,10 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![set up text properties](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * **Step 5.** Afterward, select the “Stream” option in the settings window of OBS Studio. Set the “Service” to “Custom” from the dropdown. Then, you need to enter the server and stream key to proceed.
 
 ![lead to stream settings](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-6.jpg)
@@ -744,6 +744,10 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 * **Step 6.** To get the server and stream key, visit [rtmp.in](https://rtmp.in/) on your browser. On the main interface of this**Instagram RTMP** , hit the “GO LIVE ON INSTAGRAM” widget. Then, it asks you to log in to your Instagram account.
 
 ![proceed to rtmp website](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Step 7.** Once you're logged in, it gives you a stream server URL and Stream key. First, copy the Server link and return to the OBS Studio software. Then, paste the link in the "Server" bar. After that, open the RTMP site again and hit the "Create New Broadcast" option.
 
@@ -786,7 +790,7 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 ![set up a new livestream room](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Step 3\. Customize Your Livestream Template and Background
@@ -813,10 +817,6 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![start livestream of live video](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-15.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  Conclusively, this article intends to provide information about rules and requirements for live streaming on Instagram. You also learned**how to live** **stream to Instagram with an RTMP** like OBS Studio. Tools like Wondershare Virbo Live simplify your live streams with AI integration. Also, you can make your broadcast exciting for viewers by using different interactive elements.
@@ -831,22 +831,19 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-ensuring-seamless-entry-for-your-show-for-2024/"><u>[New] Ensuring Seamless Entry for Your Show for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-explore-the-best-iphone-vr-games-today/"><u>[New] Explore the Best iPhone VR Games Today</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-expressive-film-conclusions-available-on-the-free-shelf-for-2024/"><u>[Updated] Expressive Film Conclusions Available on the Free Shelf for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-creating-impactful-youtube-conclusion/"><u>[Updated] In 2024, Creating Impactful YouTube Conclusion</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-guide-to-efficient-video-capture-with-zd-software-tools/"><u>[Updated] Step-by-Step Guide to Efficient Video Capture with ZD Software Tools</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-online/"><u>2024 Approved AI Script | Online</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-complete-snapchat-gif-connoisseurs-guidebook/"><u>2024 Approved The Complete Snapchat GIF Connoisseur's Guidebook</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-for-2024/"><u>Create AI Avatar Video with AI Script for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/dark-mode-adjustment-absent-in-win-oses/"><u>Dark Mode Adjustment Absent in Win OSes</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/generate-video-with-talking-photo-feature-for-2024/"><u>Generate Video with Talking Photo Feature for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review-for-2024/"><u>Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/mastering-bulk-audio-extraction-a-step-by-step-guide-for-converting-videos-into-soundtracks/"><u>Mastering Bulk Audio Extraction: A Step-by-Step Guide for Converting Videos Into Soundtracks</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>New The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-influencer-wondershare-virbo-glossary-for-2024/"><u>New What Is AI Influencer? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/unlock-new-dimensions-of-sound-best-free-valorant-audio-alterer-revealed/"><u>Unlock New Dimensions of Sound Best Free Valorant Audio Alterer Revealed</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-create-ai-avatar-video-with-template-wondershare-virbo/"><u>Updated 2024 Approved Create AI Avatar Video with Template | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-7-best-explainer-video-makers-you-may-like/"><u>Updated 7 Best Explainer Video Makers You May Like</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-uncovering-the-practical-benefits-of-photo-stability-features/"><u>[New] In 2024, Uncovering the Practical Benefits of Photo Stability Features</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-editing-elegance-into-news-summations/"><u>[Updated] Editing Elegance Into News Summations</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline-for-2024/"><u>Best 12 AI Voice Cloning Tools Online & Offline for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-samsung-galaxy-a24-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Samsung Galaxy A24 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-wondershare-virbo-online/"><u>In 2024, AI Script | Wondershare Virbo Online</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jolt-dampening-snapcam-accessory-kit/"><u>In 2024, Jolt Dampening SnapCam Accessory Kit</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/intellectual-property-dispute-cooler-master-challenges-competitors-for-copying-patented-radial-flow-cooling-system/"><u>Intellectual Property Dispute: Cooler Master Challenges Competitors for Copying Patented Radial Flow Cooling System</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/lens-legends-library-your-query-guide/"><u>Lens Legends' Library Your Query Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-finding-the-best-voice-changers-to-sound-like-star-warss-stormtrooper/"><u>New Finding The Best Voice Changers To Sound Like Star Warss Stormtrooper</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo-wondershare-virbo-for-2024/"><u>New Talking Photo | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-resource-for-instagram-livestreams-via-obs-software/"><u>The Ultimate Resource for Instagram Livestreams via OBS Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-s23-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy S23 Location | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transform-mod-videos-into-mov-online-at-no-cost-using-our-guide/"><u>Transform MOD Videos Into MOV Online at No Cost Using Our Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-script-for-2024/"><u>Updated Create AI Avatar Video with AI Script for 2024</u></a></li>
 </ul></div>
 

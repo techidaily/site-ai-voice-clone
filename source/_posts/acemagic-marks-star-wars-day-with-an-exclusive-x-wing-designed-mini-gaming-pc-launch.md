@@ -1,7 +1,7 @@
 ---
 title: AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch
-date: 2025-01-02T18:28:51.653Z
-updated: 2025-01-05T17:56:35.469Z
+date: 2025-01-06T06:25:47.995Z
+updated: 2025-01-12T03:06:48.704Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,24 +74,20 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[New] 2024 Approved Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-craft-stunning-photos-with-color-correction-for-2024/"><u>[New] Craft Stunning Photos with Color Correction for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-essential-webcam-applications-in-windows-our-choices/"><u>[New] Essential Webcam Applications in Windows Our Choices</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-the-right-tool-for-your-youtube-to-avi-desire/"><u>[New] In 2024, Choosing the Right Tool for Your YouTube-to-AVI Desire</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-unlocking-lenovos-full-potential-with-screen-recordings/"><u>[Updated] 2024 Approved Unlocking Lenovo's Full Potential with Screen Recordings</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-spotlight-on-success-top-tiktok-tweets/"><u>[Updated] In 2024, Spotlight on Success Top TikTok Tweets</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-subscriber-supremacy-leading-youtube-figures/"><u>2024 Approved Subscriber Supremacy Leading YouTube Figures</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-script-generator-virbo-guide-for-2024/"><u>AI Script Generator | Virbo Guide for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-creating-ai-videos-with-templates/"><u>In 2024, Creating AI Videos With Templates</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-13c-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi 13C 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool-wondershare-virbo-glossary/"><u>New What Is an AI Tool? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-6-advantages-of-choosing-a-chromebook-over-traditional-laptops-insights/"><u>Top 6 Advantages of Choosing a Chromebook Over Traditional Laptops: Insights</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-tips-how-to-strengthen-a-fading-wi-fi-connection-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: How to Strengthen a Fading Wi-Fi Connection - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatar-wondershare-virbo-user-guide/"><u>Updated 2024 Approved AI Avatar | Wondershare Virbo User Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online-for-2024/"><u>Updated AI Translation | Wondershare Virbo Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-animated-explainer-videos/"><u>Updated How to Make Animated Explainer Videos</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-wondershare-virbo-glossary/"><u>What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-in-2024/"><u>What Is AI Voice, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-unraveling-rtmp-streams-overcoming-premieres-export-hurdle/"><u>[New] Unraveling RTMP Streams Overcoming Premiere's Export Hurdle</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-stop-motion-cinema-ranking-the-best-15/"><u>[Updated] 2024 Approved Innovative Stop-Motion Cinema Ranking the Best 15</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-live-video-logging-on-mac-free-in-2024/"><u>[Updated] Live Video Logging on Mac, Free, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ace-your-computer-needs-with-expert-tips-from-toms-hardware/"><u>Ace Your Computer Needs with Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/elevate-your-computing-with-the-gem1n-pro-mini-pc-built-with-a-superior-ryzen-apu-onboard-display-and-oculink-feature-for-enhanced-performance/"><u>Elevate Your Computing with the Gem1n Pro Mini PC: Built with a Superior Ryzen APU, Onboard Display & OCuLink Feature for Enhanced Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/guide-easy-steps-for-setting-up-screen-mirroring-with-your-lg-smart-tv/"><u>Guide: Easy Steps for Setting Up Screen Mirroring with Your LG Smart TV</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/innovative-modded-computer-system-integrating-a-built-in-coffee-brewer-complete-bean-roasting-and-grinding-capabilities/"><u>Innovative Modded Computer System Integrating a Built-In Coffee Brewer: Complete Bean Roasting & Grinding Capabilities</u></a></li>
+<li><a href="https://review-topics.techidaily.com/insert-signature-in-word-2013-by-ldigisigner-sign-a-word-sign-a-word/"><u>Insert signature in Word 2013</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/leading-uninterruptible-power-supply-solutions-reviewed/"><u>Leading Uninterruptible Power Supply Solutions Reviewed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-world-with-toms-comprehensive-hardware-insights/"><u>Navigating the Digital World with Tom’s Comprehensive Hardware Insights</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-editing-sony-digital-camcorder-videos-for-stunning-results-for-2024/"><u>New The Ultimate Guide to Editing Sony Digital Camcorder Videos for Stunning Results for 2024</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/quick-guide-to-adding-videos-to-apple-tv-effortlessly-bring-your-collection-onboard/"><u>Quick Guide to Adding Videos to Apple TV - Effortlessly Bring Your Collection Onboard</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/1723262419753-transport-your-massive-data-on-the-go-the-wd-ultrastar-transporter-equipped-with-368tb-nvme-ssds-and-powerful-features/"><u>Transport Your Massive Data on the Go: The WD Ultrastar Transporter - Equipped with 368TB NVMe SSDs and Powerful Features!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unravel-the-mystery-stop-windows-10-from-continuous-rebooting-swiftly/"><u>Unravel the Mystery: Stop Windows 10 From Continuous Rebooting Swiftly</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/movavi-au-wmv/"><u>オンラインで簡単にセットアップ！ - Movavi AU WMVフリー変換サービス</u></a></li>
 </ul></div>
 

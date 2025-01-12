@@ -1,7 +1,7 @@
 ---
 title: Updated What Is Sora by OpenAI Everything You Need To Know for 2024
-date: 2024-12-29T18:38:20.836Z
-updated: 2025-01-05T17:52:11.211Z
+date: 2025-01-10T09:06:20.026Z
+updated: 2025-01-11T21:36:23.474Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
 
  While Sora is arguably the most advanced text-to-video AI generator to date, it introduces some huge potential across many industries. Here, we will give you a full review of what OpenAI’s Sorais, what you can do with it, how to use it, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. What Is Sora by OpenAI
 
 [**Sora**](https://openai.com/sora) is a text-to-video generative AI model by OpenAI, which also developed ChatGPT. With **Sora AI** , you can write a text prompt, and it will create a video up to a minute long that matches the description of the prompt.
@@ -31,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5
  Currently, OpenAI is teaching computers to understand and recreate moving things in the real world through**Sora** . The goal is to make computer programs that can help people generate videos involving real-life situations.
 
 ![Sora AI video example 1.](https://images.wondershare.com/virbo/article/2024/03/sora-review-1.gif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How Sora AI Works
 
@@ -322,10 +322,6 @@ Amazon Polly is an AI-driven text-to-speech service that converts written text i
 
 In conclusion, AI text to speech technology transforms how we interact with written content by converting it into spoken language. From accessibility to language learning and content creation, AI TTS offers diverse applications. Explore famous examples like Murf and Uberduck, and leverage the power of AI text to speech for enhanced communication and content accessibility.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is AI Generated Text? | Wondershare Virbo Glossary
 
 ## Part 1: What is AI Generated Text?
@@ -358,10 +354,6 @@ AI generated text offers several advantages:
 
 **5\. Creativity Boost**: AI can suggest novel ideas and perspectives, enhancing the creative process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 AI generated text is reshaping content creation across industries. Its efficiency, scalability, and potential for enhancing creativity make it a valuable tool for businesses and creators alike. As technology continues to advance, AI text generators are likely to play an increasingly significant role in content production.
@@ -381,6 +373,10 @@ AI generated text finds applications in various domains:
 **3\. Creative Writing**: AI can assist authors and writers in generating plot ideas, dialogues, and creative pieces.
 
 **4\. Data Entry**: Automating text generation is valuable for tasks like generating reports and summaries.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Advantages of AI Generated Text Over Traditional Solutions
 
@@ -424,6 +420,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 ![Login or Sign Up for Virbo](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once you are officially in Virbo’s Video Translator tool, you need to select the file that you want to translate and select the original video language and target language. Tap on “**Translate this video** ” to start.
 
 ![Translate video](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-4.jpg)
@@ -431,10 +431,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
 1. Now wait for the file to be successfully completed, and you will see your translated video that you can download and see the final result.
 
 ![translate-youtube-video-to-english-2.jpg](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Pros of Virbo
 
@@ -456,6 +452,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 ## **Part 2.** Other 8 Recommend French Video Translator
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Happy Scribe
 
 ![Happy Scribe](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-5.jpg)
@@ -469,6 +469,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
 1. **Extended Formats:** Happy Scribe supports 50+ audio and video formats.
 2. **Subtitles Export:**  The tool allows you to download your subtitles in a matter of seconds.
 3. **Easy to use:**  You can convert videos from French to English within just three simple steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Translate.Video
 
@@ -489,10 +493,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
 ### 3\. Synthesia
 
 ![Synthesia](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Synthesia](https://www.synthesia.io/features/video-translator) offers video content in over 70+ languages in just a few clicks. Not only can you generate a video from 70+ languages, but Synthesia’s strong point is automatically translating audio from video.
 
@@ -547,6 +547,10 @@ AI generated text is reshaping content creation across industries. Its efficienc
 1. **Save time and resources:**  With Nova Ai, you can save hundreds of hours by directly translating without having the need to hire a full-time translator.
 2. **Language support:**  Aside from French-to-English, you have over 100+ languages to translate into.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. VoiceOverMaker
 
 ![VoiceOverMaker](https://images.wondershare.com/virbo/article/9-best-french-video-translators-online-and-download-options-11.jpg)
@@ -559,10 +563,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 1. **Video and Audio Transcription:**  You can automatically transcribe videos and audio, download them as text files, or even create .WebVTT subtitle files.
 2. **Easy to edit:**  At every step of the process, VoiceOverMaker makes it easier for you to edit simply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 8\. Maestra
 
@@ -586,10 +586,6 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What Is an AI Video Generator? | Wondershare Virbo Glossary
 
 ## Part 1\. What is an AI video generator?
@@ -599,10 +595,6 @@ An AI video generator is a software or system that automatically generates video
 AI video generators can create videos from scratch or enhance existing videos by adding visual effects, altering scenes, or synthesizing new content. They can also assist in automating the video production process, including tasks like video editing, scene transitions, and object tracking.
 
 These generators leverage the power of AI to streamline and enhance video creation, allowing for more efficient workflows, creative possibilities, and personalized video experiences.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. What are some AI video generators worth trying?
 
@@ -615,6 +607,10 @@ HeyGen is a video platform designed to help you effortlessly create captivating 
 ### 2\. Synthesia
 
 Synthesia is a cutting-edge platform that specializes in AI-driven video synthesis and automation. It offers advanced technology that allows users to create and customize videos featuring realistic virtual presenters. With Synthesia, users can transform the text into dynamic video presentations, leveraging various virtual characters, languages, and styles. This innovative platform revolutionizes the way video content is created, making it easier, faster, and more accessible for businesses, creators, and individuals to produce professional-looking videos with ease. Whether for marketing, training, or storytelling purposes, Synthesia empowers users to captivate their audience and deliver impactful messages through engaging and lifelike virtual presenters.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Wondershare Virbo
 
@@ -632,6 +628,10 @@ AI video generators can create videos from scratch or enhance existing videos by
 
 These generators leverage the power of AI to streamline and enhance video creation, allowing for more efficient workflows, creative possibilities, and personalized video experiences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. What are some AI video generators worth trying?
 
 With the maturity of AI technology, an increasing number of advanced AI video generators have emerged and achieved impressive results. Here are three highly recommended products currently available on the market:
@@ -639,6 +639,10 @@ With the maturity of AI technology, an increasing number of advanced AI video ge
 ### 1\. HeyGen
 
 HeyGen is a video platform designed to help you effortlessly create captivating business videos using generative AI. With HeyGen, creating videos for different use cases becomes as simple as making PowerPoints. Its user-friendly interface and AI-powered features enable you to generate engaging and professional videos that effectively convey your message and capture your audience's attention.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Synthesia
 
@@ -666,10 +670,6 @@ In the definition above of AI videos, various use cases can be observed, which a
 
 In videos, computer vision techniques can be used for object detection, tracking, and segmentation to identify and extract specific objects or regions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Image Synthesis
 
 Image synthesis techniques leverage AI algorithms to generate realistic visual effects, allowing virtual objects or effects to integrate into videos and create imaginative scenes.
@@ -708,6 +708,10 @@ In the definition above of AI videos, various use cases can be observed, which a
 
 In videos, computer vision techniques can be used for object detection, tracking, and segmentation to identify and extract specific objects or regions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Image Synthesis
 
 Image synthesis techniques leverage AI algorithms to generate realistic visual effects, allowing virtual objects or effects to integrate into videos and create imaginative scenes.
@@ -723,10 +727,6 @@ By employing AI algorithms, videos can be automatically restored by addressing i
 ### 5\. Video editing and clipping
 
 AI technology can automate video editing and clipping tasks, including scene recognition, shot transitions, and audio processing, improving the efficiency and quality of video production.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 6\. Video generation
 
@@ -750,21 +750,17 @@ These technologies enhance video production efficiency, elevate visual effects, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-freepaid-screen-recorders-a-google-meet-users-choice/"><u>[New] Free/Paid Screen Recorders A Google Meet User's Choice</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-tailored-ending-scenes-get-em-for-free/"><u>[New] Tailored Ending Scenes - Get 'Em for Free</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-10-leading-flv-to-youtube-video-converters-for-2024/"><u>[Updated] 10 Leading FLV to YouTube Video Converters for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-superior-photos-repository-hubs/"><u>[Updated] 2024 Approved Superior Photos Repository Hubs</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-eyecapture-master-series-version-x/"><u>[Updated] In 2024, EyeCapture Master Series - Version X</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/hddwindows-pc-windows-1011/"><u>古HDDをWindows PCに統合・増設:最適な方法 | Windows 10/11入門</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/idpidp-unprecedented-triumphs-in-idp-strategies/"><u>IDP破天荒，IDP享勝 - Unprecedented Triumphs in IDP Strategies!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-motorola-moto-g23-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Motorola Moto G23 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-a-guide-on-starting-private-live-streams-on-youtube/"><u>New 2024 Approved A Guide on Starting Private Live Streams on YouTube</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>New 2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-live-deepfakes-made-easy-how-to-download-and-make-your-own-live-model/"><u>New In 2024, Live Deepfakes Made Easy How to Download and Make Your Own Live Model</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/time-hopping-through-facebook-stories-a-device-based-expedition/"><u>Time-Hopping Through Facebook Stories A Device-Based Expedition</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-devicenetworkbrowser-requirements/"><u>Updated 2024 Approved Device/Network/Browser Requirements</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-ever-changing-era-of-ai-video-translation-a-reality-to-be-fulfilled/"><u>Updated Ever-Changing Era of AI Video Translation A Reality to Be Fulfilled</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-cutting-through-complexity-simplifying-your-approach-to-lut-design/"><u>[New] Cutting Through Complexity Simplifying Your Approach to LUT Design</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gopro-hero-series-clash-with-polaroid-cube-which-wins/"><u>[New] GoPro Hero Series Clash with Polaroid Cube Which Wins?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-from-backdrops-to-blending-understanding-green-screen-technology/"><u>[New] In 2024, From Backdrops to Blending Understanding Green Screen Technology</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-embracing-constructive-feedback-ignoring-the-rest/"><u>[Updated] In 2024, Embracing Constructive Feedback, Ignoring the Rest</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-8-types-of-explainer-videos-with-examples/"><u>2024 Approved 8 Types of Explainer Videos with Examples</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-photodirector-masterclass-review/"><u>2024 Approved PhotoDirector Masterclass Review</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-for-2024/"><u>New Diverse Template for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>New In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-converter-for-2024/"><u>New In-Depth Review of Ivona Text to Speech Converter for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-the-samsung-cf591-a-game-changer-in-monitor-technology/"><u>Unveiling the Power of the Samsung CF591: A Game Changer in Monitor Technology</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-common-platforms/"><u>Updated Common Platforms</u></a></li>
 </ul></div>
 

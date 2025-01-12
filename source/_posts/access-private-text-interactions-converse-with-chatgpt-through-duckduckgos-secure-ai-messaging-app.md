@@ -1,7 +1,7 @@
 ---
 title: "Access Private Text Interactions: Converse with ChatGPT Through DuckDuckGo’s Secure AI Messaging App"
-date: 2025-01-03T20:24:09.246Z
-updated: 2025-01-05T20:53:16.429Z
+date: 2025-01-06T09:39:18.651Z
+updated: 2025-01-11T22:34:13.254Z
 tags:
   - chatgpt
   - open-ai
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
 ## Enhance ChatGPT Conversations with Our User-Friendly Chrome Extension – Quick and Effective Prompting Made Easy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is AIPRM for ChatGPT?](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#what-is-aiprm-for-chatgpt)
@@ -23,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 * [How to Use the AIPRM for ChatGPT Chrome Extension](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-use-the-aiprm-for-chatgpt-chrome-extension)
 * [How to Filter and Favorite AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-filter-and-favorite-aiprm-prompts)
 * [How to Create AIPRM Prompts](https://www.makeuseof.com/aiprm-chrome-extension-makes-chatgpt-prompting-easy/#how-to-create-aiprm-prompts)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -51,14 +51,10 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 ![AIPRM for ChatGPT plans](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-pricing-plan.jpeg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The free version of AIPRM can access the extensive library of Community Prompts, save two private prompt templates, and set favorite prompt templates, which is more than enough to get you started.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Install the AIPRM for ChatGPT Chrome Extension
 
@@ -72,15 +68,15 @@ thumbnail: https://thmb.techidaily.com/afcb9c2878394644f41c39d4475ac640d665c7524
 
 You should now see the AIPRM dashboard on your ChatGPT page.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Use the AIPRM for ChatGPT Chrome Extension
 
  To get started, go to your ChatGPT account. You should see the AIPRM dashboard on your homepage. Click the**thumbs-up or down** icon on the green popup that appears to dismiss it. You can now use the extension directly from your ChatGPT account.
 
 ![The AIPRM green popup in ChatGPT](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-green-popup.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, there are several tabs in the AIPRM dashboard, including:
 
@@ -92,10 +88,6 @@ You should now see the AIPRM dashboard on your ChatGPT page.
 6. **Add List** to create a custom prompt list. This feature is only accessible to premium subscribers.
 
 ![The AIPRM for ChatGPT dashboard](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-chatgpt-dashboard.jpeg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can start using AIPRM prompts by clicking the**Public** tab and scrolling through the list of available prompts. For instance, you can select the**Midjourney Prompt Generator** to get a detailed and descriptive prompt to generate a unique AI image. Type a keyword, and it will generate a detailed and descriptive prompt, which you can copy and paste into Midjourney.
 
@@ -121,6 +113,10 @@ To create a custom AIPRM prompt:
 
 ![AIPRM screenshot showing how to create a template](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/create-aiprm-prompt-template.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For instance, "Write a Facebook post with emojis and a call to action about**\[PROMPT\]** ." Make sure to add the prompt variable**\[PROMPT\]** in your template, as it will be replaced by what you type whenever you use this prompt. In this example, the prompt variable**\[PROMPT\]** will be the topic for the Facebook post. You can also provide one or more examples of what you want the output to look like.
 
  Next, fill in the**Teaser** field. This is a description to help you remember the prompt easily. The**Prompt Hint** reminds you of what you will type in when using the prompt. This replaces the prompt variable**\[PROMPT\]** .
@@ -130,6 +126,10 @@ To create a custom AIPRM prompt:
  Lastly, select the**Topic** ,**Activity** ,**Who can see this?** and**Made for** (the ChatGPT model). Write your**Author Name** and**Author URL** . Click**Save Prompt** to finalize the creation of your prompt.
 
 ![AIPRM for ChatGPT prompt template creation page](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/aiprm-prompt-template-creation.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once your prompt is saved, you can find it under the**Own** tab.
 
@@ -152,18 +152,22 @@ To create a custom AIPRM prompt:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-step-into-the-details-the-quickest-ways-to-zoom-in-minecraft/"><u>[New] Step Into the Details The Quickest Ways to ZOOM in Minecraft</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/resolved-incompatibility-vehicle-and-gear/"><u>[Resolved] Incompatibility: Vehicle & Gear</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-troubleshoot-vanished-facebook-videos-discover-our-top-12-fixes/"><u>[Updated] 2024 Approved Troubleshoot Vanished Facebook Videos - Discover Our Top 12 Fixes</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-for-2024/"><u>Create AI Avatar Video with AI Script for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/crush-glitches-not-combos-the-definitive-fix-guide-for-street-fighter-6-pc-issues/"><u>Crush Glitches, Not Combos: The Definitive Fix Guide for Street Fighter 6 PC Issues</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enrich-your-pc-with-fresh-graphics-drive/"><u>Enrich Your PC with Fresh Graphics Drive</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ineffective-auto-brightness-on-iphone-discover-7-corrective-steps-now/"><u>Ineffective Auto-Brightness on iPhone? Discover 7 Corrective Steps Now!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review-for-2024/"><u>Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/relive-the-best-of-sonys-classics-top-rated-ps3-emulators-on-pc/"><u>Relive the Best of Sony's Classics: Top-Rated PS3 Emulators on PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/solving-the-no-ping-issue-steps-to-correct-halo-infinite-connection-problems/"><u>Solving the 'No Ping' Issue: Steps to Correct Halo Infinite Connection Problems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/stellartracewipe-v5-customizing-schedules-and-standards-for-windows-privacy-cleaning/"><u>StellarTraceWipe v5: Customizing Schedules & Standards for Windows Privacy Cleaning</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-step-by-step-process-for-seamlessly-uploading-imovie-projects-as-mp4-files/"><u>Ultimate Step-by-Step Process for Seamlessly Uploading iMovie Projects as MP4 Files</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>Updated In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-bridging-shadows-and-highlights-the-lightroom-hdr-methodology/"><u>[New] Bridging Shadows and Highlights The Lightroom HDR Methodology</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-action-filming-simplified-your-shooting-essentials-guide/"><u>[New] In 2024, Action Filming Simplified – Your Shooting Essentials Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-blueprint-for-influential-video-arrangements/"><u>[New] In 2024, The Blueprint for Influential Video Arrangements</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-zenith-of-leisure-top-12-pc-gamez-for-2024/"><u>[New] Zenith of Leisure Top 12 PC Gamez for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-preparing-for-twitter-know-the-required-aspect-ratio/"><u>[Updated] In 2024, Preparing for Twitter Know the Required Aspect Ratio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-depth-analysis-navigating-zoom-for-webinars-and-livestreams-for-2024/"><u>[Updated] In-Depth Analysis Navigating Zoom for Webinars and Livestreams for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-best-text-voice-generators-for-all-platforms/"><u>In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/installing-microsoft-365-on-pcs-made-easy-a-comprehensive-walkthrough/"><u>Installing Microsoft 365 on PCs Made Easy - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-videos-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Videos | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-ai-avatar-wondershare-virbo-online/"><u>New AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-guide-to-generating-speech-in-different-languages-with-the-best-tools-for-2024/"><u>New Guide to Generating Speech in Different Languages With the Best Tools for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-comprehensive-guide-for-free-video-translator-downloading/"><u>New In 2024, Comprehensive Guide for Free Video Translator Downloading</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solve-your-androids-wi-fi-password-troubles-a-step-by-step-guide/"><u>Solve Your Android's Wi-Fi Password Troubles - A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-8-ai-titles-generators-for-creating-catchy-titles-for-all-platforms/"><u>Updated Top 8 AI Titles Generators for Creating Catchy Titles For All Platforms</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-for-2024/"><u>Updated What Is AI Voice for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/verdant-visualizations-compiling-30plus-free-screen-templates-for-videographers/"><u>Verdant Visualizations Compiling 30+ Free Screen Templates for Videographers</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-generator-wondershare-virbo-glossary/"><u>What Is an AI Video Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 
