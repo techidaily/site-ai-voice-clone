@@ -1,7 +1,7 @@
 ---
 title: Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More
-date: 2025-01-08T13:35:04.887Z
-updated: 2025-01-11T16:01:24.499Z
+date: 2025-01-10T16:37:49.696Z
+updated: 2025-01-17T20:45:08.474Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,14 +76,20 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/he-webs-deception-caution-against-buying-non-real-subscribers/"><u>[New] The Web's Deception Caution Against Buying Non-Real Subscribers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-ai-translation-online/"><u>New In 2024, AI Translation | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/restoring-memories-gigantic-photo-returns-happy-customer-tells/"><u>Restoring Memories: Gigantic Photo Returns, Happy Customer Tells</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/step-by-step-tutorial-how-to-view-mov-videos-on-your-android-phone-or-tablet/"><u>Step-by-Step Tutorial: How to View MOV Videos on Your Android Phone or Tablet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-blaze-2-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Blaze 2 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467579508-troubleshoot-iphone-notification-issues-with-7-proven-tips/"><u>Troubleshoot iPhone Notification Issues with 7 Proven Tips.</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>Updated 2024 Approved Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-powered-script-to-video-makers/"><u>Updated Top 5 AI-Powered Script to Video Makers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-hacky-podcast-transmission-tactic/"><u>[New] Hacky Podcast Transmission Tactic</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-evolutionary-journey-of-metaverse-laughter/"><u>[New] The Evolutionary Journey of Metaverse Laughter</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-become-a-windows-pro-learn-to-trim-videos-like-an-editor/"><u>[Updated] Become a Windows Pro Learn to Trim Videos Like an Editor</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-top-10-budget-friendly-jpeg-to-gif-apps/"><u>2024 Approved Expert Picks Top 10 Budget-Friendly JPEG to GIF Apps</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-registration-and-login/"><u>2024 Approved Registration and Login</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>2024 Approved Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/a-detailed-review-of-murfai-ai-text-to-speech-tool-for-2024/"><u>A Detailed Review of Murf.ai AI Text-to-Speech Tool for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-asus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Asus Pattern Lock Screen</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-paving-a-path-to-prominence-instagrams-power-brokers-in-your-sphere/"><u>In 2024, Paving a Path to Prominence Instagram's Power Brokers in Your Sphere</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/maximize-video-clarity-with-obs-tweaks/"><u>Maximize Video Clarity with OBS Tweaks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-easy-steps-to-translate-video-on-twitter/"><u>New 2024 Easy Steps to Translate Video on Twitter</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-breakthrough-how-to-make-a-picture-speak-for-2024/"><u>New Breakthrough How to Make A Picture Speak for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-voice-text-to-speech-in-2024/"><u>New What Is AI Voice Text to Speech, In 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/rtx-2060-super-graphics-card-drivers-compatible-with-windows-11-download-now/"><u>RTX 2060 Super Graphics Card Drivers Compatible with Windows 11 – Download Now</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-over-in-2024/"><u>Updated What Is AI Voice Over, In 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Updated What Is AI Text to Video?
-date: 2024-12-30T22:20:10.300Z
-updated: 2025-01-05T21:19:07.331Z
+date: 2025-01-14T19:34:24.940Z
+updated: 2025-01-17T19:55:26.212Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -48,17 +48,9 @@ With text to video, traditional slide presentations can be transformed into dyna
 
 One example of an AI text to video generator is Wondershare Virbo. It leverages the latest AI technology in text-to-video conversion. With Virbo, users can input essential information, and the platform automatically generates compelling scripts. It then uses digital avatars to synthesize vibrant videos for marketing, news, education, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: What is text to video?
 
 Text to video is a technology that transforms written text into visually compelling videos. Using artificial intelligence algorithms, text to video AI tools can automatically generate video content from textual input, saving time and effort in video creation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How does AI text to video technology work?
 
@@ -141,10 +133,6 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![proceed to rtmp website](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Step 7.** Once you're logged in, it gives you a stream server URL and Stream key. First, copy the Server link and return to the OBS Studio software. Then, paste the link in the "Server" bar. After that, open the RTMP site again and hit the "Create New Broadcast" option.
 
  You can also give a name to your broadcast in the "Broadcast Title" bar. After creating the broadcast, it shows the "Stream Key," which you can copy. Then, move again to the OBS Stream setting panel and paste the key in the "Stream Key" bar. Lastly, hit the "Apply" option to save all these settings for your stream.
@@ -154,6 +142,10 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 * **Step 8.** After getting ready, choose the "Start Streaming" option from the "Controls" panel. It starts your stream with selected parameters. To stop the stream, you can select the "Stop Streaming" option.
 
 ![start instagram live stream from obs](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How To Attract a Better Audience During Live Streaming on Instagram?
 
@@ -209,6 +201,10 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![start livestream of live video](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Conclusively, this article intends to provide information about rules and requirements for live streaming on Instagram. You also learned**how to live** **stream to Instagram with an RTMP** like OBS Studio. Tools like Wondershare Virbo Live simplify your live streams with AI integration. Also, you can make your broadcast exciting for viewers by using different interactive elements.
@@ -247,10 +243,6 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![virbo live](https://images.wondershare.com/virbo/article/level-up-your-ai-streaming-game-a-quick-guide-and-tool-recommendation-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 #### Compatibility
@@ -281,6 +273,10 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 * Limited emotional range as AI avatars cannot capture the full range of human emotions.
 * Ethical concerns such as the potential for deception associated with AI technology in general.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Getting Started with Virbo Live
 
  Virbo allows you to host live shoring with AI streamers and keep your viewers engaged. The transformative AI technology saves you costs and allows you to reach a wider global audience. With AI-driven avatars or Vtubers, you can boost your revenue during live shopping events on social media. The multilingual avatars are available 24/7 for a seamless streaming experience. Getting started with Virbo Live is simple and does not require complicated technical skills:
@@ -310,6 +306,10 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
  Next, click “Start Live Streaming” to launch your AI avatar. Add the live windows to OBS and experience AI live streaming in the OBS software.
 
  ![start live stream](https://images.wondershare.com/virbo/article/level-up-your-ai-streaming-game-a-quick-guide-and-tool-recommendation-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 5 Interact With the Audience
 
@@ -399,10 +399,6 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![bosscast sports streaming site](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 9. Fubo TV
 
  Fubo TV offers live sports to people for half of the cost of a similar cable package. You can cancel this package anytime online without paying fees. The package includes 200+ channels of live sports to view different sports matches. Fubo is an app-based solution that can be used on mobile phones and TVs to watch the latest sports updates.
@@ -419,6 +415,14 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![totalsportek sports streaming site](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. Promote Live Sports Online With Better Results Using Wondershare Virbo Live
 
  You can choose one of the above-discussed**websites to stream sports for free.** To promote the upcoming match of your favorite sports league, you need an effective tool to enhance streaming. With its AI functionalities,[Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) is the ultimate solution for this problem. This tool provides an AI script generation feature to generate scripts for promotional videos.
@@ -430,10 +434,6 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 1. This tool provides AI-driven avatars that can mimic natural movements. It helps you select the right avatar that suits your live video motive.
 2. You can use its multiple language feature to reach a diverse audience for promotion purposes. This can make your streaming coverage wider for better viewership results.
 3. The option to connect a microphone during the live stream helps you interact with your customers in real-time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step-by-Step Guide on Creating Stream Room by Wondershare Virbo Live
 
@@ -465,11 +465,23 @@ One example of an AI text to video generator is Wondershare Virbo. It leverages 
 
 ![change elements for sports streaming promotion](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Step 5: Start Live Stream for Promoting Sports Streaming
 
  Once you customized this promotional video, click the “Start livestream” button. In this way, you can promote any upcoming sports match.
 
 ![proceed to livestream with virbo](https://images.wondershare.com/virbo/article/2024/03/top-free-streaming-sport-sites-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -514,10 +526,6 @@ AI generative models can automatically create new video content, such as generat
 AI video technology can identify faces in videos and analyze facial expressions and emotions, enabling applications such as human-computer interaction, emotion analysis, and personalized recommendations.
 
 These technologies enhance video production efficiency, elevate visual effects, and enable the creation of compelling and innovative AI video content.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1\. How to define AI video?
 
@@ -587,6 +595,10 @@ It can suggest or apply transitions, filters, and effects to enhance the visual 
 
 It can optimize audio levels, remove background noise, and even generate or recommend suitable background music or sound effects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Content-aware editing
 
 It can intelligently remove or replace elements within the video, such as removing unwanted objects or replacing green screens with other backgrounds.
@@ -635,10 +647,6 @@ It can streamline the video editing process by automating repetitive tasks, savi
 
 Overall, an AI video editor harnesses the power of artificial intelligence to simplify and enhance the video editing process, enabling users to create professional-looking videos with greater ease and efficiency.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Top 5 Viral Video Marketing Techniques For Big Sellers
 
  Videos are the most powerful medium for sharing everything with the world. There are several types of**viral video marketing** present on the web. This may include product marketing, viral video marketing, UGC video marketing, and more. These videos can give you massive reachability and build reliable emotional connections.
@@ -672,10 +680,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 ### 5\. User Generated Content and Shareability
 
  Viral videos can potentially encourage the use of and improve their online visibility. You can also experience the creation of user-generated content with it. Moreover, you can also get a chance to engage potential customers. Sharing videos to get reliable global impact is also possible with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Best 5 Viral Video Marketing Techniques
 
@@ -725,10 +729,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 4. There are versatile AI Voices in Virbo, and you can also use them for creating best-in-class text-to-speech videos.
 5. You can even use Virbo for optimizing the pre-written scripts on a Windows computer. It can also write new scripts for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  Conclusively, you can use**viral video marketing** to attract potential clients. This helps in displaying your products and services all across the world in a limited time. Above all, you can also get effective social presence and brand awareness with this.
@@ -759,15 +759,24 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-transformative-tips-to-take-your-lunapic-skills-up/"><u>2024 Approved Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-avatar-online/"><u>Create AI Avatar Video with Avatar | Online</u></a></li>
-<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-magic-6-lite-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor Magic 6 Lite Phone? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-generator-virbo-guide/"><u>In 2024, AI Script Generator | Virbo Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-vivo-y78-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Vivo Y78 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-purifypicture-premium-bg-eraser-and-editor/"><u>In 2024, PurifyPicture Premium BG Eraser & Editor</u></a></li>
-<li><a href="https://common-error.techidaily.com/master-the-art-of-diagnosing-and-resolving-fn-key-malfunctions-on-a-dell-device/"><u>Master the Art of Diagnosing and Resolving FN Key Malfunctions on a Dell Device</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-registration-and-login/"><u>New Registration and Login</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/transforming-footage-the-ultimate-guide-to-youtube-video-editing/"><u>Transforming Footage The Ultimate Guide to YouTube Video Editing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-generator-virbo-guide/"><u>Updated In 2024, AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-core-auditory-stimulation-channels/"><u>[New] 2024 Approved Core Auditory Stimulation Channels</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-easy-guide-speed-up-videos-like-a-pro-new-user-style/"><u>[New] In 2024, Easy Guide Speed Up Videos Like a Pro, New User Style</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-six-pioneering-steps-for-moving-mov-files-to-win-11-for-2024/"><u>[New] Six Pioneering Steps for Moving MOV Files to Win 11 for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nleashing-video-potential-with-effective-tagging-techniques-on-youtube-for-2024/"><u>[New] Unleashing Video Potential with Effective Tagging Techniques on YouTube for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-talking-avatar-wondershare-virbo-glossary/"><u>2024 Approved What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-ai-script-wondershare-virbo-for-2024/"><u>Create AI Avatar Video with AI Script | Wondershare Virbo for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-i-tell-if-someone-has-read-my-email-tips-and-tricks-for-gmail-tracking/"><u>How Can I Tell If Someone Has Read My Email? Tips & Tricks for Gmail Tracking</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-videos-wondershare-virbo-online/"><u>In 2024, Create AI Avatar Videos | Wondershare Virbo Online</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-tecno-camon-20-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Tecno Camon 20 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-stream-on-twitch-the-ultimate-guide/"><u>New 2024 Approved How to Stream on Twitch The Ultimate Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-use-korean-to-english-video-translators-for-creators/"><u>New How To Use Korean to English Video Translators for Creators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-mac-video-editing-made-easy-yosemite-edition/"><u>New In 2024, Mac Video Editing Made Easy Yosemite Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidiaintel-hybrid-gpu-woes-in-win10-resolved/"><u>NVIDIA/Intel Hybrid GPU Woes in Win10 - Resolved</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-top-list-best-5-tools-for-creating-talking-avatars/"><u>Updated 2024 Approved Top List Best 5 Tools for Creating Talking Avatars</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-avatar-wondershare-virbo-user-guide-for-2024/"><u>Updated AI Avatar | Wondershare Virbo User Guide for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-generated-text-in-2024/"><u>Updated What Is AI Generated Text, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/zdnets-top-picks-for-excellence-in-web-development-education/"><u>ZDNet's Top Picks for Excellence in Web Development Education</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/watermark/"><u>ビデオ添付用Watermark設定 - 初学者向けプロセス解説</u></a></li>
 </ul></div>
 

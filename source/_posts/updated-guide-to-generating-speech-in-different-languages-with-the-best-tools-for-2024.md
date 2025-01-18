@@ -1,7 +1,7 @@
 ---
 title: Updated Guide to Generating Speech in Different Languages With the Best Tools for 2024
-date: 2025-01-11T07:54:38.310Z
-updated: 2025-01-12T04:02:32.516Z
+date: 2025-01-15T18:51:30.113Z
+updated: 2025-01-17T18:08:21.559Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -108,19 +108,11 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 
 ![generate-speech-in-different-languages-5.jpg](https://images.wondershare.com/virbo/images2023/new/generate-speech-in-different-languages-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. From the “Say As” option on this tool, the AI voice can correctly speak date, time, unit, address, etc.
 2. The audio settings allow you to select the desired sample rate and audio file format.
 3. This tool consists of many voice effects such as happy, sad, natural, breathing, soft, whispered, etc.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus Tip: The Best AI Text to Speech App With Realistic and Natural Voices
 
@@ -129,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
  You can either type or paste the text on its interface. After inserting the text, the tool will also display the estimated duration of the AI voice. It also has a wide range of tones and speaking styles of each language. Moreover, it provides AI avatars and an AI script generator which can further help display your content. Thus, Virbo is a professional TTS converter supporting many languages and accents.
 
 ![generate-speech-in-different-languages-6.jpg](https://images.wondershare.com/virbo/images2023/new/generate-speech-in-different-languages-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -169,10 +157,6 @@ You can complete your video creation using Virbo's [AI Script Generator](https:/
 
 ![generate script](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** It takes time to complete, but once finished, the script will be displayed on the next screen. You can make specific edits to the script as desired. Then, proceed to select the "Create video" button to generate an AI video based on the script.
 
 ![creat video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-3.png)
@@ -209,27 +193,27 @@ Please note that free users are limited to exporting videos of up to 30 seconds 
 
 ![creat video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### 02 Create AI videos based on the script
 
 **Step 1:** Upon clicking the "Create video" button, you will be directed to the AI video creation screen, where you can choose your preferred avatar.
 
 ![choose ai avatar](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** At the same time, you can customize the template style, video background, [voiceover](https://virbo.wondershare.com/ai-voice.html), and text style. Additionally, you can add stickers and music. If you are satisfied with the result, you can proceed to export the final video.
 
 ![export video](https://images.wondershare.com/virbo/guide/create-videos-ai-script/create-videos-with-ai-script-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###### Note
 
 Please note that free users are limited to exporting videos of up to 30 seconds in duration. Should you exceed this limit, upgrading to the premium version is required to export longer videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Text To Speech | Wondershare Virbo Online
 
@@ -268,10 +252,6 @@ Input your text
 To preview the effect, simply click the play button above or select "**Play Scripts**" at the bottom right.
 
 ![export video](https://images.wondershare.com/virbo/guide/online-guide/tts-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Preview the Speech
 
@@ -318,6 +298,10 @@ Preview the Speech
  Customers perceive it as a lively shopping experience instead of websites loading products. It creates a sense of connection as people feel like shopping in physical stores. As**live selling** has a core element of being in real time, people can question and know about the product. Compared with traditional shopping, one can place an order through links mentioned in the livestream.
 
 ![preview of live selling](https://images.wondershare.com/virbo/article/2024/03/guide-to-live-selling-in-todays-work-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Is It Beneficial To Sell Live in This Digital Industry?
 
@@ -370,6 +354,10 @@ Preview the Speech
 
  Anyone can**live sale online** because you have to explain products and respond to queries. Yet not everyone generates the same revenue and gets immense popularity. The reason is operative strategies and tips, which you can use in the below discussion to gear up your shopping stream.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Use 24/7 Hours Seamless AI Live Streaming Software
 
  Most sellers are unaware of current digital trends and the right actions for live selling. In that context, you need a platform to provide everything from script to selling videos. However, using [Wondershare Virbo Live](https://virbo.wondershare.com/virbo-live.html) and staying in a single place is suggested to plan and execute the live shopping. Virbo Live is an AI tool that connects sellers with customers through streaming videos.
@@ -409,10 +397,6 @@ Preview the Speech
 ### 2\. Pick an Appropriate Date and Time
 
  Another tip to consider is choosing the right time and date for the maximum viewers. In this regard, retailers should avoid a popular shopping period such as Black Friday. In contrast, it is suggested to pick weekends or holidays where customers must be free to join. Also, never choose the working hours of any day and consider the time zones for a global audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Keep the Conversation Engaging and Funny
 
@@ -462,6 +446,10 @@ For this example, we are selecting Hindi.
 
 ![youtube auto translate - step 5](https://images.wondershare.com/virbo/article/auto-translate-for-youtube-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 6
 
  As you can see in the screenshot below, subtitles are now auto-translated into Hindi.
@@ -479,6 +467,10 @@ For this example, we are selecting Hindi.
 3. If the video has a lower audio quality or the dialogue uses a specific word multiple times, it is hard to decipher for the auto-translate AI.
 4. Long periods of silence at the beginning or end of the video can also throw off the software.
 5. If a video has multiple speakers with overlapping dialogue, it can confuse the software and make errors in translation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Virbo: A Powerful Tool That Translates Accurately
 
@@ -688,6 +680,10 @@ For a translated synchronized video, you can follow these steps:
 
  Are you looking for a**celebrity AI voice generator free** ? This is the right learning spot for you. We will discuss the best AI-powered celebrity voice generator tools for online and offline use. In this article, you will realize your dream of looking, acting, and sounding like your favorite celebrity crush in video or audio. Let's jump in!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1\. What Is a Celebrity Voice Generator Online Free?**
 
  First, you must define a celebrity before choosing an**AI celebrity voice generator for free** . A celebrity is someone with a lot of public recognition through media coverage. Put simply, celebrity personalities are famous and notable people in society. These people are popular in industries like politics, music, entertainment, sports, and so on.
@@ -696,13 +692,13 @@ For a translated synchronized video, you can follow these steps:
 
  People often want to sound like a celebrity for entertainment, to educate, to prank friends, and so on. For example, you might want to share an inspirational video or documentary on YouTube, Instagram, Facebook, or TikTok. It might be best to transform your voice into a popular celebrity like Barak Obama, Morgan Freeman, or Donald Trump to achieve your goal. In short, there are many uses for a**free AI celebrity voice generator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2\. Top 4 Online Celebrity Voice Generator Tools to Use**
 
 ### 1. Play.ht
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### celebrity-ai-voice-generator-free-1.jpg
 ![celebrity-ai-voice-generator-free-1.jpg](https://images.wondershare.com/virbo/features/ai-voice/celebrity-ai-voice-generator-free-1.jpg)
@@ -788,7 +784,7 @@ Below are the steps:
 ![celebrity-ai-voice-generator-free-8.jpg](https://images.wondershare.com/virbo/features/ai-voice/celebrity-ai-voice-generator-free-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Generate Voice Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
@@ -796,6 +792,10 @@ Below are the steps:
 ## **Conclusion**
 
  These are the best celebrity AI voice generator tools for online and offline use. But always remember that the best program should give you multiple customization options, including various languages, adding subtitles, applying backgrounds, and more. That's what you'll get and many more with Wondershare Virbo. Try it today!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **FAQs About Celebrity Voice Generator**
 
@@ -823,22 +823,20 @@ Below are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-deciding-the-best-live-streamer-vmix-against-wirecast/"><u>[Updated] In 2024, Deciding the Best Live Streamer VMix Against Wirecast</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-secrets-to-smoothly-resolving-youtube-short-issues/"><u>[Updated] Secrets to Smoothly Resolving YouTube Short Issues</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-material-preparation/"><u>2024 Approved Material Preparation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator/"><u>2024 Approved Video Translator</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/coqui-voice-cloning-the-ultimate-solution-to-streamline-audio-content/"><u>Coqui Voice Cloning The Ultimate Solution to Streamline Audio Content</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-compelling-end-screens-in-youtube-videos/"><u>Crafting Compelling End Screens in YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ideal-techniques-for-noiseless-recording/"><u>Ideal Techniques for Noiseless Recording</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y17s? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-realms-unchained-guide-to-the-best-of-no-cost-mmos/"><u>In 2024, Realms Unchained Guide to the Best of No-Cost MMOs</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-marketing/"><u>In 2024, What Is AI Marketing?</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/maximize-window-11-with-these-6-desirable-android-apps/"><u>Maximize Window 11 With These 6 Desirable Android Apps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>New 2024 Approved Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-an-ai-avatar-video/"><u>New Create An AI Avatar Video</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>New In 2024, The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
-<li><a href="https://fox-that.techidaily.com/static-not-relative-how-to-stop-your-airpods-from-changing-tunes-based-on-head-position/"><u>Static, Not Relative: How to Stop Your AirPods From Changing Tunes Based on Head Position</u></a></li>
-<li><a href="https://win-tips.techidaily.com/transferring-powerpoint-links-into-flipbook-format-with-ease-a-step-by-step-guide/"><u>Transferring PowerPoint Links Into FlipBook Format with Ease - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-avatar-online/"><u>Updated Create AI Avatar Video with Avatar | Online</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-innovator-in-visual-symphony-production/"><u>[Updated] 2024 Approved Innovator in Visual Symphony Production</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-video-translator-wondershare-virbo/"><u>2024 Approved Video Translator | Wondershare Virbo</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/5-solutions-for-samsung-galaxy-a15-5g-unlock-without-password-by-drfone-android/"><u>5 Solutions For Samsung Galaxy A15 5G Unlock Without Password</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-premier-photographic-tool-is-pickup-at-the-forefront/"><u>Android’s Premier Photographic Tool – Is PickUp at the Forefront?</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-back-on-track-with-volume-control-in-windows-11-the-ultimate-guide-solution/"><u>Get Back on Track with Volume Control in Windows 11: The Ultimate Guide (SOLUTION)</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-digital-dimensions-metaverse-vs-omniverse-explained/"><u>In 2024, Digital Dimensions Metaverse Vs. Omniverse Explained</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/realtek-net-adapter-non-operational-post-win11-update-fixed/"><u>Realtek Net Adapter Non-Operational Post Win11 Update (Fixed)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/reclaiming-gone-reddit-content-a-time-saving-guide-for-2024/"><u>Reclaiming Gone-Reddit Content A Time-Saving Guide for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/taking-control-with-microsoft-how-experiencing-surface-pro-and-laptop-made-me-say-goodbye-to-my-apple-devices/"><u>Taking Control with Microsoft: How Experiencing Surface Pro and Laptop Made Me Say Goodbye to My Apple Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-installation-and-registration-wondershare-virbo/"><u>Updated 2024 Approved Installation and Registration | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-define-ai-video/"><u>Updated How to Define AI Video?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-latest-top-darth-vader-voice-generators-for-all-platforms-for-2024/"><u>Updated Latest Top Darth Vader Voice Generators for All Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-presentation-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Presentation Maker? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-background-generator-in-2024/"><u>What Is AI Background Generator, In 2024</u></a></li>
 </ul></div>
 

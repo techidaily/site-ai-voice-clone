@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2025-01-08T00:57:53.571Z
-updated: 2025-01-11T17:01:53.001Z
+date: 2025-01-11T16:00:57.262Z
+updated: 2025-01-18T04:40:09.237Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,20 +68,15 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-master-video-editing-on-a-shoestring-budget-top-9-picks/"><u>[New] 2024 Approved Master Video Editing on a Shoestring Budget - Top 9 Picks</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-edge-of-creativity-best-4k-displays-for-editing-excellence/"><u>[New] Edge of Creativity Best 4K Displays for Editing Excellence</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-event-ensemble-curating-best-dj-templates/"><u>[Updated] In 2024, Event Ensemble Curating Best DJ Templates</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-tunes-unlimited-playlist/"><u>[Updated] In 2024, FB Tunes Unlimited Playlist</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>2024 Approved Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro Max without Passcode or Face ID</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-a-comprehensive-review-of-descript-overdub-ai-feature/"><u>New 2024 Approved A Comprehensive Review of Descript Overdub AI Feature</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-gaming-platforms-top-sites-to-download-games/"><u>New 2024 Approved Best Gaming Platforms Top Sites to Download Games</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-10-streaming-services-worth-a-try/"><u>New In 2024, Top 10 Streaming Services Worth a Try</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-realistic-ai-avatars-for-2024/"><u>New Realistic AI Avatars for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-voice-over-wondershare-virbo-glossary/"><u>New What Is AI Voice Over? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-voice-text-to-speech/"><u>New What Is AI Voice Text to Speech?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-tool/"><u>Updated What Is an AI Tool?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-speaker-malfunctions-diagnosis-and-solutions-available-here/"><u>Windows 10 Speaker Malfunctions: Diagnosis and Solutions Available Here!</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-premier-pdf-enhancements-for-2024/"><u>[New] Premier PDF Enhancements for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-screen-saver-saviors-how-to-download-and-save-your-favorite-tweets/"><u>[Updated] 2024 Approved Screen Saver Saviors How to Download and Save Your Favorite Tweets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>[Updated] In 2024, Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-masterclass-on-blending-sound-and-sight-for-media-professionals/"><u>[Updated] Masterclass on Blending Sound & Sight for Media Professionals</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-quickrestore-reviewers-thoughts/"><u>[Updated] QuickRestore Reviewers Thoughts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-connection-memory-frequency-delay-and-your-pcs-speed/"><u>Unveiling the Connection: Memory Frequency, Delay & Your PC's Speed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-everything-you-want-to-know-about-kapwing-video-translation/"><u>Updated Everything You Want To Know About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-material-preparation/"><u>Updated In 2024, Material Preparation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-video-generator-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Video Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 

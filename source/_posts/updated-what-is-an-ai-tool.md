@@ -1,7 +1,7 @@
 ---
 title: Updated What Is an AI Tool?
-date: 2024-12-30T22:46:00.596Z
-updated: 2025-01-05T19:23:25.479Z
+date: 2025-01-15T20:04:06.296Z
+updated: 2025-01-18T06:27:37.760Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6
 ---
 
 ## What Is an AI Tool?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is an AI Tool?
 
@@ -71,6 +75,10 @@ AI tools are software or systems that leverage artificial intelligence technique
 ## Part 1: What is an AI Tool?
 
 An AI tool refers to software or systems that leverage artificial intelligence algorithms and techniques to perform specific tasks or address complex problems. These tools aim to replicate human intelligence by analyzing vast amounts of data, identifying patterns, and generating predictions or recommendations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How does an AI Tool Work?
 
@@ -149,6 +157,10 @@ AI tools are software or systems that leverage artificial intelligence technique
 * Your social media shares can become that much more interesting and engaging.
 * Presentations and financial charts and graphs could be made easier to understand.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Where Can You Download Talking Stock Photos For Free?
 
  “Okay, I’m sold on talking photos! Where can I get them?”
@@ -193,6 +205,10 @@ AI tools are software or systems that leverage artificial intelligence technique
 
 ![freepik talking photos](https://images.wondershare.com/virbo/article/2024/04/talking-stock-photo-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Freepik has been around since 2010 and is part of the Freepik Company that features other brands such as Flaticon, Slidesgo and Wepik. Freepik has over 1,052,000 talking photos for you to choose from.
 
 ## Part 3: Learn How To Create Talking Photos Yourself
@@ -212,10 +228,6 @@ AI tools are software or systems that leverage artificial intelligence technique
 **Step 1:** We start with creating a project. Simply download Wondershare Virbo to your computer and click Talking Photo.
 
 ![create talking photo with wondershare virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![add image in virbo](https://images.wondershare.com/virbo/guide/windows/talking-photo-feature-1.jpg)
 
@@ -275,12 +287,16 @@ The talking photo will be saved under My Creations.
 
  Now that we know the uses of AI voice cloning let’s list some of the best voice cloning programs to use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. FineShare Online Voice Cloner
 
 ![fineshare real time ai voice changer](https://images.wondershare.com/virbo/article/real-time-ai-voice-changer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  FineShare Online Voice Cloner is an incredible program for vloggers, gamers, filmmakers, and video content creators. It can transform your voice into characters like demons, robots, older men, kids, ghosts, and anyone else. FineShare Online Voice Cloner has multiple celebrity voices like Morgan Freeman, Donald John Trump, Kim Kardashian, Barack Obama, and more.
@@ -384,17 +400,9 @@ All-in-one AI Video Generator
 
 ![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
 
-Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
-
-AI-generated voices for videos
-
-All-in-one AI Video Generator
-
-###
-
-### Get To Know Our AI Script Feature
-
-![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
 
@@ -407,12 +415,24 @@ All-in-one AI Video Generator
 ### Get To Know Our AI Script Feature
 
 ![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
-
-Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
+
+AI-generated voices for videos
+
+All-in-one AI Video Generator
+
+###
+
+### Get To Know Our AI Script Feature
+
+![Virbo AI Script](https://images.wondershare.com/virbo/images2023/product-win/power-pic1.png)
+
+Click here to learn more about [AI Script](https://virbo.wondershare.com/ai-script.html) \>>
 
 ## Easy Tutorial How to Record and Send Talking Emoji for iPhone
 
@@ -501,10 +521,6 @@ Virbo Photo Talking features include:
 
  Users can record short video messages or take photos with these animated emoji characters and send them to their friends to add a fun touch to their communication. You can also use Wondershare Virbo’s Photo Talking feature to make this**Apple talking emoji** talk from an image.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Create AI Video with AI Avatar | Wondershare Virbo
 
 ## Create AI Avatar Videos
@@ -523,10 +539,6 @@ Place the cursor over the avatar you wish to select and choose the mode of the v
 
 ![ai avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar-to-start.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose AI Avatar
 
 #### Step 2\. Edit Video
@@ -614,6 +626,10 @@ Yes, these avatars are all based on video footage using real actors.
 **3**Can I Control Avatars' Gestures or Expressions?
 
 For personalized avatars on Virbo, you can enjoy the liberty to craft gestures and expressions to your liking. Click now to explore [Virbo's Customization Service!](https://virbo.wondershare.com/ai-avatar-voice-cloning-service.html)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Guide to Discovering the Voice Generators/Changers with the Most Anime
 
@@ -642,10 +658,6 @@ You will also discover significant information about the voices you can change w
 
 Now that you are aware of the tools that can provide you with versatile voice-changing and generating properties, you may want to learn more about them. You can discover more valuable information about these amazing tools from here:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. FineShare Online
 
 FineShare Online is a digital solution to change the voices in lossless quality. With this **Ghostface voice generator**, you can change the voices in the smoothest way. In addition, it comprehends more than 30 voices, categorized into celebrity, male & female, and roles. There is a specialized 48kHz voice recorder in it which lets you record audio in clearer quality.
@@ -653,10 +665,6 @@ FineShare Online is a digital solution to change the voices in lossless quality.
 Moreover, there is no need to have specialized skills in audio editing because you can use it without mastering any learning curves. 87+ voice effects of this tool can also streamline your workflow efficiency.
 
 ![anime-voice-generator-1.jpg](https://images.wondershare.com/virbo/features/ai-voice/anime-voice-generator-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Key Features
 
@@ -672,19 +680,11 @@ It integrates over 2,600 voices that can be tweaked further to get better output
 
 ![anime-voice-generator-2.jpg](https://images.wondershare.com/virbo/features/ai-voice/anime-voice-generator-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Features
 
 1. You can use its Voice-to-Voice feature to speak in the voice of another person in real time. This **Yoda voice generator** also allows you to convert the audio to other formats.
 2. This tool lets you work on several formats, such as MP3, WAV, OGG, FLAC, and more. You can also control the pitch from preset pitch options such as DIO, CREPE, and Harvest.
 3. There are tons of Video Lip Sync Templates in it through which you can make lip sync videos by selecting the template of your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. TopMediaAi
 
@@ -699,10 +699,6 @@ One of the best things is you can also convert text into many audio formats, suc
 1. Using its AI Song Cover feature, you can create natural-sounding music covers in the voices of famous singers. This includes Taylor Swift, Drake, The Weeknd, and more.
 2. It also lets you turn simple text into dazzling art with a few taps. You can also recreate the previously existing images with this.
 3. The AI-powered Passport Photo Maker Online lets you create passport-sized pictures with a few clicks. You can do this without compromising the quality of the photo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Voicemod
 
@@ -731,6 +727,10 @@ Along with this, it also integrates more than 200 voice memes. So, you can also 
 1. WooTechy Soundbot can help you in selecting a voice with full customization. You can also change female-to-male or male-to-female voices.
 2. You can also preview the voices before actually selecting them. This also lets you add and play voice effects in several ways, such as cycle, overlap, mute, etc.
 3. It allows you to import the audio file in multiple formats, such as WAV and MP3\. You can also create voiceovers with this.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. iMyFone VoxBox
 
@@ -814,21 +814,19 @@ Other than this, the introduction of the tools, along with exemplary key feature
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-video-lessons-to-visual-gigs-youtube-videos-converted-seamlessly/"><u>[New] In 2024, From Video Lessons to Visual Gigs YouTube Videos Converted Seamlessly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-revolutionizing-gaming-analyzing-kinemasters-android-version/"><u>[Updated] 2024 Approved Revolutionizing Gaming Analyzing KineMaster's Android Version</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-content-with-essential-ratio-knowledge-for-youtube-for-2024/"><u>[Updated] Streamline Your Content with Essential Ratio Knowledge for YouTube for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-motorola-moto-g14-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/a-historical-milestone-explored-the-rise-of-the-chinese-communist-party-with-perspectives-by-yl-software/"><u>A Historical Milestone Explored: The Rise of the Chinese Communist Party with Perspectives by YL Software</u></a></li>
-<li><a href="https://windows11.techidaily.com/boosting-speed-with-wordpad-embedding-keyboard-macros-into-windows-menu/"><u>Boosting Speed with WordPad: Embedding Keyboard Macros Into Windows Menu</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-narzo-n55-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Narzo N55.</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-ai-youtube-script-writers-and-the-ultimate-guide/"><u>New 2024 Approved Best AI YouTube Script Writers and The Ultimate Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-avatar-online-for-2024/"><u>New Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>New In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/review-of-the-acefasts-portable-gan-based-pd65w-charging-hub-featuring-high-definition-video-output-and-extra-power-for-devices/"><u>Review of the ACEFAST's Portable GaN-Based PD65W Charging Hub: Featuring High Definition Video Output and Extra Power for Devices</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/synology-cloud-sync-die-effektivsten-moglichkeiten-fur-schrittweises-datensicherung/"><u>Synology Cloud Sync: Die Effektivsten Möglichkeiten Für Schrittweises Datensicherung</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-videos-using-synthesia-avatar-and-voices/"><u>Updated Create AI Videos Using Synthesia Avatar and Voices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-tool/"><u>What Is an AI Tool?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/lluminating-your-content-youtube-video-lighting-secrets-for-2024/"><u>[New] Illuminating Your Content YouTube Video Lighting Secrets for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-excellent-html5-video-tools-you-must-check/"><u>[Updated] Excellent HTML5 Video Tools You Must Check</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-jumpstart-your-journey-essential-youtubing-skills-course-for-2024/"><u>[Updated] Jumpstart Your Journey Essential YouTubing Skills Course for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-clone-your-voice-harness-the-potential-of-ai/"><u>2024 Approved Clone Your Voice Harness the Potential of AI</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-seamlessly-weaving-melodies-using-audacitys-features/"><u>2024 Approved Seamlessly Weaving Melodies Using Audacity's Features</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-upgrade-your-mac-with-macos-sierra-simplified-for-2024/"><u>How to Upgrade Your Mac with macOS Sierra Simplified for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-se-2022-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone SE (2022) Properly</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-script-generator-virbo-guide/"><u>New 2024 Approved AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New 2024 Approved Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-potentials-three-key-methods-to-leverage-chatgpt-with-wolfram-integration/"><u>Unlocking Potentials: Three Key Methods to Leverage ChatGPT with Wolfram Integration</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-fcpx-video-editing-how-to-crop-and-resize-images-like-a-pro/"><u>Updated 2024 Approved FCPX Video Editing How to Crop and Resize Images Like a Pro</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-create-marketing-videos/"><u>Updated In 2024, How to Create Marketing Videos?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-headshot-generator-wondershare-virbo-glossary/"><u>Updated What Is an AI Headshot Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 
