@@ -1,7 +1,7 @@
 ---
 title: New Easy Steps to Make a Talking Avatar with AI From Any Photos for 2024
-date: 2025-01-15T17:00:58.189Z
-updated: 2025-01-17T18:09:30.977Z
+date: 2025-01-20T03:05:05.209Z
+updated: 2025-01-24T09:06:22.461Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -90,10 +90,6 @@ Some of Virbo Talking Avatar features include:
 
 ![How to create a talking avatar free](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 **Step 2:** Upload your photo.
@@ -154,6 +150,10 @@ It can be problematic if you select a tool that comprehends no customizing metri
 ### 3\. Formats of Audio
 
 It is evident that not all people can work with MP3\. Sometimes, you have to work on other file formats, and eventually, you need to use a tool that is [compatible with versatile formats](https://virbo.wondershare.com/ai-voice.html). Thus, avoid selecting a tool that only works with a few numbered audio formats. This will save you from facing any restrictions and limitations.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Accuracy and Quality
 
@@ -272,6 +272,10 @@ You can also customize the voice to give a more personalized experience to the l
 
 ![imyfone hatsune miku voice generator](https://images.wondershare.com/virbo/features/ai-voice/hatsune-miku-voice-generator-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. There are specialized Keybinds and keyboard shortcuts in it, which can help you in saving time and effort.
@@ -337,6 +341,10 @@ Explore the seamless integration of advanced language transformation designed fo
 
 ![input](https://images.wondershare.com/virbo/guide/online-guide/ai-translation-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Input Text
 
 #### Step 2\. Choose Language
@@ -391,7 +399,7 @@ Input Text
 ![Choose Language](https://images.wondershare.com/virbo/guide/online-guide/ai-translation-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Choose Language
@@ -526,7 +534,7 @@ In an era where visual appeal can make or break digital content's success, AI th
 AI thumbnail generators are revolutionizing the way we present digital content. Their ability to craft visually compelling thumbnails with precision and efficiency is transforming the digital landscape. As the demand for engaging visuals continues to rise, these AI-powered tools stand as invaluable allies for creators seeking to make a lasting impact in the digital realm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review
@@ -536,10 +544,6 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 The **Coqui voice cloning** tool can help you do much more than simple voice cloning. This article will discuss the **Coqui TTS voice cloning** and other such features in detail.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Coqui Voice Cloning: Exploring the Technology
 
@@ -558,6 +562,10 @@ Windows, Mac, and Online
 Free to Use
 
 ![coqui voice cloning tool](https://images.wondershare.com/virbo/article/coqui-ai-voice-cloning-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Coqui Voice Cloning: Exploring the Technology
 
@@ -587,10 +595,6 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 * Users need to learn the XTTS coding language for this tool before using any of its advanced features.
 * This deep learning tool for speech cloning requires a lot of data processing resources to run.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Master Coqui TTS Voice Cloning: A Step-by-Step Tutorial
 
 Imagine that you are a short-film producer who does not have many voice actors for their movie. What you should use is the **Coqui TTS Voice Cloning** feature to produce impressive voices. Thus, let's discover what steps to take to create a perfect cloned voice:
@@ -607,10 +611,6 @@ After accessing the interface, type the desired text that you want to listen to 
 
 ![input text prompt and select language](https://images.wondershare.com/virbo/article/coqui-ai-voice-cloning-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##### Step 3 Clone Your Own Voice
 
 You can upload a preferably 6-second audio recording in the interface as a reference audio simply by dragging and dropping. You can even record it directly using the “Record a microphone" button if you don't have a recording file.
@@ -623,9 +623,17 @@ Then, check the desired settings for your output voice and tick the "Agree" chec
 
 ![agree terms to get synthesized audio](https://images.wondershare.com/virbo/article/coqui-ai-voice-cloning-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To summarize, we can say that **Coqui AI voice cloning** is the perfect tool that lets you clone your voice in different languages. Now, you can take your video projects to the next level as it uses XTTS language. You just need a bit of coding knowledge and clear reference audio. This will help you produce a perfect voice clone to ease the audio content creation process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Descript Overdub: Controlling the Audio in Video
 
@@ -678,6 +686,10 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Limitations
 
 Despite how many features Descript offers, there are still some limitations to using this tool. In the following section, we have highlighted some of these:
@@ -686,10 +698,6 @@ Despite how many features Descript offers, there are still some limitations to u
 * This tool can sometimes be a bit slow, especially on a MacBook. While this is common for video editing tools, it can be irritating while making videos.
 * While you can find various templates within the Descript library, the options are not flexible. Users are unable to find different options to choose template themes.
 * Although the transcription quality is generally great, it always needs some post-editing. Descript does not automatically update all changes of a word after fixing it in the transcript.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Pricing Plans
 
@@ -700,6 +708,10 @@ The pricing plan of Descript is very reasonable for content creators and provide
 | Basic        | $12 per month |
 | Pro          | $24 per month |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Descript Overdub Feature: A Step-by-Step Guide
 
 If you cannot upload any recorded podcasts due to scripting errors, we have a solution for you. Previously, we have understood what Descript Overdub AI is capable of and how much we can take advantage of it. Below, let's learn about **Descript and how to use the Overdub** feature to enhance your videos:
@@ -707,10 +719,6 @@ If you cannot upload any recorded podcasts due to scripting errors, we have a so
 **Step 1\.** Begin by downloading Descript and launch it on your desktop. When the interface appears, click the “Projects” tab from your left-side panel. Now, press the “+ New” button, and from the extended menu, choose the “Video Project” option.
 
 ![create new video project](https://images.wondershare.com/virbo/article/descript-overdub-to-manage-audio-content-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2\.** When a new window opens, you can write your project name above the options available. Following this hit the "Add file" option to proceed. Once the dialogue box opens, choose your desired video and import the video content.
 
@@ -754,19 +762,11 @@ Access the user interface to commence video editing. Tailor the avatar, voiceove
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Edit Video
 
 Choose "Background Music > None" to select video music or upload your preferred audio. When content with your edits, click "Create a Video" to access the video generation interface.
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose Background Music
 
@@ -852,22 +852,24 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-optimize-your-screen-sessions-with-obs-and-skype/"><u>[New] Optimize Your Screen Sessions with OBS & Skype</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-premier-ios-platforms-for-ps2-gaming/"><u>[New] Premier iOS Platforms for PS2 Gaming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-end-computers-a-showcase-of-excellence/"><u>[Updated] High-End Computers A Showcase of Excellence</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://driver-install.techidaily.com/configure-canon-printer-mx870-os-versions/"><u>Configure Canon Printer MX870, OS Versions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/exclusive-presidents-day-promotion-save-200-on-latest-macbook-pro-equipped-with-m3-pro-chip-special-offer/"><u>Exclusive Presidents' Day Promotion: Save $200 on Latest MacBook Pro Equipped with M3 Pro Chip - Special Offer</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-video-with-ai-avatar-wondershare-virbo/"><u>New 2024 Approved Create AI Video with AI Avatar | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-generate-videos-from-text-with-ai/"><u>New 2024 Approved How to Generate Videos From Text with AI</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-unveiling-the-secrets-of-shopee-livestream-selling-system/"><u>New In 2024, Unveiling the Secrets of Shopee Livestream Selling System</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721460972444-no-luck-with-whatsapp-backups-on-icloud-heres-what-you-need-to-know/"><u>No Luck with WhatsApp Backups on iCloud? Here's What You Need to Know!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/seamlessly-enjoy-ebooks-on-desktop-learn-how-to-bypass-drm-protection/"><u>Seamlessly Enjoy eBooks on Desktop: Learn How to Bypass DRM Protection</u></a></li>
-<li><a href="https://games-able.techidaily.com/story-1-believing-that-the-technology-only-complicates-data-analysis-wrong-answer/"><u>Story 1: Believing that the Technology only Complicates Data Analysis (Wrong Answer)</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-the-sudden-shutdown-of-windows-processes-understanding-error-1067/"><u>Troubleshooting the Sudden Shutdown of Windows Processes - Understanding Error 10^67</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-script-generator-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is an AI Script Generator? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Updated Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-text-to-video/"><u>Updated What Is AI Text to Video?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-avatar-in-2024/"><u>What Is an AI Avatar, In 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-the-guide-to-procuring-and-utilizing-free-visual-frame-content-for-2024/"><u>[New] The Guide to Procuring and Utilizing Free Visual Frame Content for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-advice-at-your-screen-the-finest-15-stock-channels-for-2024/"><u>[Updated] Expert Advice at Your Screen The Finest 15 Stock Channels for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-gamers-guide-to-affordable-yet-powerful-keyboards-for-2024/"><u>[Updated] Gamer's Guide to Affordable, Yet Powerful Keyboards for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-all-about-kapwing-video-translation/"><u>2024 Approved All About Kapwing Video Translation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-clone-your-voice-harness-the-potential-of-ai/"><u>2024 Approved Clone Your Voice Harness the Potential of AI</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-5-tools-to-convert-text-to-audio-online-for-free/"><u>2024 Approved Top 5 Tools to Convert Text to Audio Online for Free</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bring-life-to-your-photos-motion-blur-techniques-for-illustration/"><u>Bring Life to Your Photos Motion Blur Techniques for Illustration</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-video-with-ai-avatar-wondershare-virbo/"><u>Create AI Video with AI Avatar | Wondershare Virbo</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discover-the-full-screen-fusion-potential-with-sierras-multimedia-capabilities-for-2024/"><u>Discover the Full-Screen Fusion Potential with Sierra's Multimedia Capabilities for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/diverse-template-online-for-2024/"><u>Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/downloadinstallregisteruninstall-wondershare-virbo/"><u>Download/Install/Register/Uninstall | Wondershare Virbo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-creative-filmmakers-guide-prime-15-color-grading-look-ups-for-gopro/"><u>In 2024, Creative Filmmaker's Guide Prime 15 Color Grading Look-Ups for GOPRO</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Poco X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, Translate Audio/Video Content From Spanish to English and Vice Versa</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/inside-the-drone-world-detailed-look-at-dji-phantom-4-for-2024/"><u>Inside the Drone World Detailed Look at DJI Phantom 4 for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-script-generator-virbo-guide/"><u>New 2024 Approved AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New 2024 Approved Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-oppo-find-x7-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Oppo Find X7 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-10-android-and-ios-facelift-apps/"><u>Top 10 Android & iOS Facelift Apps</u></a></li>
 </ul></div>
 

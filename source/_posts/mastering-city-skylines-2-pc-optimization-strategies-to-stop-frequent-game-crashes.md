@@ -1,7 +1,7 @@
 ---
 title: "Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes"
-date: 2025-01-12T23:55:50.285Z
-updated: 2025-01-17T21:12:24.200Z
+date: 2025-01-20T21:40:03.430Z
+updated: 2025-01-24T09:26:52.606Z
 tags:
   - win11
   - win10
@@ -30,10 +30,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 7. **[Reinstall the BattlEye service](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Meet the minimum system requirements
 
  The minimum computer specs need to be met to run Arma 3 properly. Here are the minimum requirements to play _Arma 3_ :
@@ -56,6 +52,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
 
@@ -106,6 +106,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -135,10 +139,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -179,16 +179,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change your PC power plan
 
@@ -200,10 +196,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -211,6 +203,10 @@ OR
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -231,12 +227,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Arma 3**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
@@ -249,10 +249,6 @@ OR
 **6)** Type**\-malloc=system** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Restart_Arma 3_ to see this helped.
 
@@ -272,6 +268,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-40.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Paste**C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Arma 3** on the address bar, then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-41.png)
@@ -279,6 +279,10 @@ OR
 **4)** Delete the**BattlEye folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-43.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Go to the following directories to delete the**BattlEye folder** and the**BEClient.dll** .
 
@@ -290,10 +294,6 @@ OR
 **7)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Right-click **Arma 3**  and select **Properties.**
 
@@ -330,10 +330,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-49.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Relaunch Steam to download and reinstall_Arma 3_ .
 
  Try launching Arma 3 again. If your problem still exists, try the fix below.
@@ -344,6 +340,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
@@ -352,13 +352,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
@@ -399,20 +399,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-revive-the-unseen-watch-video-icon-on-fb/"><u>[New] 2024 Approved Revive the Unseen Watch Video Icon on FB</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/new-direct-transition-from-youtube-to-instagram-reels/"><u>[New] Direct Transition From YouTube to Instagram Reels</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tand-out-with-yt-shorts-essential-guidelines-to-follow/"><u>[New] Stand Out with YT Shorts Essential Guidelines to Follow</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-checklist-for-incorporating-srt-in-mp4-files/"><u>[Updated] Comprehensive Checklist for Incorporating SRT in MP4 Files</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-enhancing-your-social-presence-facebook-bios-101/"><u>[Updated] Enhancing Your Social Presence Facebook Bios 101</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/250-deal-alert-invest-in-an-elite-rtx-4090-powered-gaming-tower-now/"><u>$250 Deal Alert: Invest in an Elite RTX 4090 Powered Gaming Tower Now</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/choosing-your-console-compare-the-features-of-nintendos-switch-lite-and-oled-editions/"><u>Choosing Your Console? Compare the Features of Nintendo's Switch Lite & OLED Editions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-oppo-a56s-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Oppo A56s 5G Safely | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-iphone-6s-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove iPhone 6s Plus Device from iCloud</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-12r-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus 12R FRP Bypass</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/lessons-visualized-storytelling-on-your-channel-for-2024/"><u>Life Lessons Visualized Storytelling on Your Channel for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/revolutionize-your-computing-with-the-innovative-atomman-g7-pt-first-ever-amd-advantage-tiny-pc-sporting-an-amd-r9-and-rx-graphics-suite/"><u>Revolutionize Your Computing with the Innovative AtomMan G7 Pt: First Ever AMD Advantage Tiny PC, Sporting an AMD R9 & RX Graphics Suite</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-battle-of-might-and-machine-join-the-2024-global-server-smash-contest/"><u>The Ultimate Battle of Might and Machine - Join the 2024 Global Server Smash Contest!</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/touchscreen-computing-revolutionized-by-microsoft-introducing-an-ai-msi-desktop-with-a-stunning-1080p-viewfinder/"><u>Touchscreen Computing Revolutionized by Microsoft: Introducing an AI MSI Desktop with a Stunning 1080P Viewfinder</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-from-tweeting-short-videos-to-interactive-shareable-customized-gifs/"><u>[New] In 2024, From Tweeting Short Videos to Interactive, Shareable Customized GIFS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-overcoming-anxiety-in-your-camera-lens-youtube-wisdom/"><u>[New] In 2024, Overcoming Anxiety in Your Camera Lens YouTube Wisdom</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-innovative-photo-display-solutions/"><u>[New] Innovative Photo Display Solutions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-exploring-the-magic-of-ai-selfie-generators/"><u>2024 Approved Exploring the Magic of AI Selfie Generators</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhancing-visual-settings-accessibility-in-nvidia/"><u>Enhancing Visual Settings Accessibility in Nvidia</u></a></li>
+<li><a href="https://techidaily.com/how-to-change-screen-resolution-windows-11-solved/"><u>How to Change Screen Resolution Windows 11 [Solved]</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-htc-u23-pro-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It HTC U23 Pro Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-templates/"><u>In 2024, Create AI Avatar Video with Templates</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-free-mov-asf/"><u>Online FREE MOV ASF 형식 갱신 - 모바이 - 제한 없는 친화적인 방법</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-for-2024/"><u>Updated Create AI Avatar Video for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-text-generator/"><u>Updated In 2024, What Is an AI Text Generator?</u></a></li>
 </ul></div>
 

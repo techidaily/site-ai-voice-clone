@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step
-date: 2025-01-12T21:19:44.074Z
-updated: 2025-01-17T21:50:25.613Z
+date: 2025-01-20T19:03:45.449Z
+updated: 2025-01-24T08:21:48.219Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325
  Creating a talking animation is possible with the help of AI and the right tool we have covered in this article. These talking animated characters are not only for entertainment. Educational content, tutorials, and presentations can benefit significantly from this approach, as it enhances the clarity and engagement of the information you want to convey.
 
  If you are ready to learn**how to make animation talk** , let’s jump right in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. How To Create Simple Animation From a Template
 
@@ -72,10 +76,6 @@ How to create a simple animated character:
 
 ![Download the talking cartoon video](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3\. Best Direct Way: How to Make Anime Character Talks from A Photo
 
  Is there an easier method**how to make animation talk** ? If you find the process of animating challenging, an alternative and simpler way can be using a talking avatar from a photo.[Wondershare Virbo](https://virbo.wondershare.com) offers an easy solution for this purpose. Virbo is a versatile video production tool that utilizes AIGC technology to create talking avatars.
@@ -119,7 +119,7 @@ Some of Virbo Talking Avatar features include:
 ![Add audio to the animated character’s photo](https://images.wondershare.com/virbo/article/2024/02/how-to-make-animation-talk-9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Export the talking avatar
@@ -129,10 +129,6 @@ Some of Virbo Talking Avatar features include:
 **Note:** Wondershare Virbo for desktops currently offers the best conversion effect. But if you prefer to [create talking animation online](https://virbo.wondershare.com/app/talkingphoto/) , you can also use Wondershare Virbo online through their website. You can also watch this video on [**how to make animation talk**](https://youtu.be/GDqbSvhec9M) .
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Bonus: What Kind of Anime Pictures Are Suitable to Make Talking Animation
 
@@ -215,6 +211,10 @@ AI script generators analyze large amounts of existing script data to learn patt
 
 These tools can be helpful for writers, content creators, and developers who need to generate scripts quickly or seek inspiration for their creative projects. However, it's important to note that while AI script generators can provide valuable suggestions and assistance, they may not replace the creative input and human touch required for crafting high-quality scripts. Human oversight and editing are usually necessary to refine and tailor the generated content to specific needs and artistic visions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2\. How can an AI script generator revolutionize your work?**
 
 An AI script generator can be a valuable tool in several ways to help with your work:
@@ -245,11 +245,19 @@ However, it's important to remember that an AI script generator should be seen a
 
  With the launch of its Studio App for brands and creators,**TalkShopLive** empowered sellers to live stream their shows in HD. The broadcast-quality app is lauded for its multiple capabilities, including a built-in broadcast studio and HD-quality streaming. In this article, we introduce Talk Shop Live as a live shopping platform and provide a brief guide on how to start your livestream on the platform.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is TalkShopLive?
 
 [TalkShopLive](https://talkshop.live/) is a social-selling network for home shopping and live streaming shows. It comes with a built-in buying experience for all kinds of shoppers. With Talk Shop Live, anyone can sell and buy products from anywhere through interactive video shows. You can think of ShopTalk Live as a combination of HSN, QVC, and social media tolled into one.
 
 ![talk shop live](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The TalkShopLive studio app for brands and creators brings an array of broadcast and management tools to mobile. The platform boasts of enabling users to promote and sell their shows before and after going live. This means that you can create a shoppable and shareable video for promoting your show even before it goes live. Technically, you do not have to worry about the aftermath since your content will remain shoppable after the live streaming event comes to an end.
 
@@ -260,6 +268,10 @@ However, it's important to remember that an AI script generator should be seen a
  The Walmart Talk Shop Live can potentially benefit a wide range of people. It offers an exceptional way of promoting products that can complement traditional shopping methods. This makes it an ideal live shopping platform for anyone with reliable internet and who is interested in quality products.
 
 ![talk shop live benefits](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here are some specific groups who might find it particularly beneficial:
 
@@ -272,10 +284,6 @@ However, it's important to remember that an AI script generator should be seen a
  TalkShopLive does more than just live streaming. Creators, hosts, and brands can broadcast live shows to demonstrate their products to viewers. On the other hand, viewers experience interactive shopping by chatting with the host, asking questions, and purchasing products directly within the live stream.
 
 ![talk shop live beginners](https://images.wondershare.com/virbo/article/is-talkshoplive-right-for-you-live-shop-pros-tips-before-you-start-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As a social selling network, Talk Shop Live is a community of viewers who follow their favorite hosts, discover new products, and connect with other shoppers. Based on TalkShopLive reviews, here are the pros and cons of the platform:
 
@@ -369,10 +377,6 @@ However, it's important to remember that an AI script generator should be seen a
 
 ![How to make your Memoji talk on iPhone](https://images.wondershare.com/virbo/article/2024/02/how-to-make-memoji-talk-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. How To Easily Make Your Own Memoji on iPhone
 
  Before we get into**how to make your Memoji talk** , let’s prepare and make your own Memoji on iPhone first. To create your own Memoji that truly captures your essence, you'll want to customize it to closely resemble yourself or any characters you had in mind.
@@ -440,10 +444,6 @@ Virbo Photo Talking features include:
  Tap on "Upload a photo" and select the Memoji picture saved on your camera roll.
 
 ![Upload the Memoji picture](https://images.wondershare.com/virbo/article/2024/02/how-to-make-memoji-talk-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Customize and export your talking Memoji video
 
@@ -519,10 +519,6 @@ Click “**Video Template**” from the left-hand side of the homepage. Choose f
 
 ![choose template](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-templates-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose Template
 
 #### Step 2\. Edit Video
@@ -557,6 +553,10 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ## What Is Talking Avatar? | Wondershare Virbo Glossary
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Advantages of Talking Avatars
 
 Talking avatars offer several advantages for communication:
@@ -580,6 +580,10 @@ Talking avatars find applications in diverse fields:
 **3\. Marketing**: Avatars offer a novel way to present product information and promotional messages.
 
 **4\. Virtual Assistants**: Avatars act as AI-powered virtual assistants for tasks like appointment scheduling.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Examples of Talking Avatars
 
@@ -597,6 +601,10 @@ Prominent examples of talking avatars include:
 
 In conclusion, talking avatars are revolutionizing communication across industries. Their ability to engage, educate, and provide personalized interactions presents exciting opportunities for businesses and individuals. As technology advances, talking avatars are expected to play an increasingly significant role in shaping the way we communicate and engage online.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Advantages of Talking Avatars
 
 Talking avatars offer several advantages for communication:
@@ -632,16 +640,16 @@ Prominent examples of talking avatars include:
 **3\. Mycroft AI**: An open-source voice assistant that utilizes an avatar for user interactions.
 
 **4\. Soul Machines**: Creating highly realistic avatars for various applications, including customer service.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
 In conclusion, talking avatars are revolutionizing communication across industries. Their ability to engage, educate, and provide personalized interactions presents exciting opportunities for businesses and individuals. As technology advances, talking avatars are expected to play an increasingly significant role in shaping the way we communicate and engage online.
 
 ## What Are AI Tools?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1\. What are AI tools?
 
@@ -679,10 +687,6 @@ In conclusion, the emergence of AI tools is the result of multiple factors inter
 
 Our attitude towards AI tools can vary because they can be influenced by various factors, including cultural differences, societal demands, ethical considerations, responsible usage, and understanding of their limitations. The key is to strike a balance between embracing the potential benefits of AI tools while also addressing the ethical considerations and potential challenges they may present.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1\. What are AI tools?
 
 AI tools, also known as artificial intelligence tools, refer to software applications or systems that utilize artificial intelligence techniques to automate tasks, solve complex problems, or enhance human capabilities in various domains. AI tools leverage the capabilities of machine learning, language processing, computer vision, and other AI techniques to analyze data, make predictions, generate valuable insights, and accomplish tasks that were traditionally dependent on human intelligence.
@@ -714,10 +718,6 @@ Businesses face increasingly fierce competition and ever-changing market demands
 The investment in AI technology by academia and research institutions has been a driving force behind the development of AI tools. The efforts and innovations of researchers have propelled advancements in algorithms and models, providing a theoretical and practical foundation for the development of AI tools.
 
 In conclusion, the emergence of AI tools is the result of multiple factors interacting, including the growth of data, advancements in hardware and computing power, progress in algorithms and models, as well as business needs, and the drive from scientific research. These background factors collectively contribute to the development and application of AI tools.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. How to treat AI tools?
 
@@ -733,20 +733,16 @@ Our attitude towards AI tools can vary because they can be influenced by various
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-how-to-master-iphone-video-screening-for-2024/"><u>[New] How to Master iPhone Video Screening for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-request-for-full-media-sharing-viewability-via-messaging-platforms-for-2024/"><u>[New] Request for Full Media Sharing Viewability via Messaging Platforms for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-essential-tips-for-mastering-instagram-reels/"><u>[Updated] 2024 Approved Essential Tips for Mastering Instagram Reels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-8-must-play-virtual-reality-titles-for-now/"><u>[Updated] 2024 Approved Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-the-best-text-to-speech-online-tools-to-use/"><u>2024 Approved The Best Text-to-Speech Online Tools To Use</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-keyboard-brightness-failure/"><u>ASUS Keyboard Brightness Failure</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/can-you-unlock-iphone-14-after-forgetting-the-passcode-by-drfone-ios/"><u>Can You Unlock iPhone 14 After Forgetting the Passcode?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/easy-tutorial-how-to-make-a-talking-cartoon-video-step-by-step-for-2024/"><u>Easy Tutorial How To Make a Talking Cartoon Video Step-by-Step for 2024</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/how-to-prevent-and-troubleshoot-pc-overheating-expert-advice-from-yl-software/"><u>How to Prevent and Troubleshoot PC Overheating: Expert Advice From YL Software</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-step-by-step-process-to-get-a-clean-canvas-in-figma/"><u>In 2024, Step-by-Step Process to Get a Clean Canvas in Figma</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-finding-the-best-voice-changers-to-sound-like-star-warss-stormtrooper/"><u>New Finding The Best Voice Changers To Sound Like Star Warss Stormtrooper</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-narakeet-review-text-to-speech-convenient-voice-maker/"><u>New In 2024, Narakeet Review Text to Speech Convenient Voice Maker</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-script-for-2024/"><u>Updated Create AI Avatar Video with AI Script for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-video-editor-wondershare-virbo-glossary/"><u>Updated In 2024, What Is an AI Video Editor? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-building-captivating-online-media-summaries-for-2024/"><u>[New] Building Captivating Online Media Summaries for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-realme-12-proplus-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Realme 12 Pro+ 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/improving-game-immersion-troubleshooting-and-fixes-for-cyberpunk-2nk-2077s-auditory-glitches/"><u>Improving Game Immersion: Troubleshooting & Fixes for Cyberpunk 2Nk 2077'S Auditory Glitches</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-french-salutations-the-ultimate-guide-to-bonjour/"><u>Mastering French Salutations: The Ultimate Guide to 'Bonjour'</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online-for-2024/"><u>New Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New In 2024, Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://extra-support.techidaily.com/quick-peek-at-windows-files-heres-how-for-2024/"><u>Quick Peek at Windows Files, Here's How for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-templates/"><u>Updated Create AI Avatar Video with Templates</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210630985-9789948041337-agna-khoatry/"><u>أَجِنَّة خواطري | Free Book</u></a></li>
 </ul></div>
 

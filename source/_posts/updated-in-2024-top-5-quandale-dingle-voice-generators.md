@@ -1,7 +1,7 @@
 ---
 title: Updated In 2024, Top 5 Quandale Dingle Voice Generators
-date: 2025-01-13T06:35:16.607Z
-updated: 2025-01-18T06:29:00.861Z
+date: 2025-01-22T19:48:20.421Z
+updated: 2025-01-24T07:55:45.596Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
 ![imyfone-voxbox-quandale-ai-voice-generator.jpg](https://images.wondershare.com/virbo/features/marketing/imyfone-voxbox-quandale-ai-voice-generator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The simplest and most user-friendly free voice generator online is Filme iMyFone. You can produce the most lifelike human voice overs online thanks to Filme iMyFone cutting-edge AI engine. It gives you a lot of control over the voices and lets you make AI sounds that sound like Quandale.
 
  Filme iMyFone gives users the ability to make video-based memes with its 1000+ video template possibilities and stock photos. That is appropriate for those who wish to make amusing, animated Dingle memes, particularly ones with voice effects. So, it would be wise to think about using this software. Furthermore, it can modify its voice to fit the style and tone of any text you write due to AI. Simply sign up for a free account and begin recording your vocals right now.
@@ -54,13 +58,13 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 
  The FakeYou program is extremely easy to use since users can quickly locate the voice effect of this football player and recent graduate of Pennsauken High School on the list. One would have to play with a variety of effect settings to get the ideal fit if using it expressly as a Quandale Dingle voice changer. But given that FakeYou can assist you in changing your voice into a variety of personalities, the possibilities are endless. What’s more, the generating process moves quickly as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4. Uberduck
 
 ![uberduck-quandale-ai-voice-generator.jpg](https://images.wondershare.com/virbo/features/marketing/uberduck-quandale-ai-voice-generator.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Uberduck.ai is a good option if you're seeking for a top-notch open-source application for immediately producing voice effects like Quandale. It has a robust library of more than thousands of voices and facilitates the creation of AI voiceovers. Additionally, there is a strong and constantly growing community of inventors for AI-based solutions. It provides a huge collection of unusual voices, including Quandale Dingle's peculiar voice.
 
@@ -77,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 ## **Bonus tips – Generate best AI voice videos with Virbo**
 
  Real-time voice alteration capabilities are available in a number of voice changer applications and internet tools that may be used to make films, live streams, memes, and other things. However, Virbo is the most user-friendly and has Quandale Dingle text-to-speech features in addition to other sound effects. The powerful AI technology behind Virbo guarantees that voice alterations are crystal clear and distortion-free. This
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **What is** **Wondershare Virbo**
 
@@ -141,10 +141,6 @@ AI Video in Minutes!
 
 ![virbo-quandale-ai-voice-generator-save-video.jpg](https://images.wondershare.com/virbo/features/marketing/virbo-quandale-ai-voice-generator-save-video.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
  Audiences on TikTok and other social media platforms have been drawn to Quandale Dingle's distinctive voice, and many others have tried to imitate it. Here is a list of tools, along with their benefits and drawbacks, that might make you sound exactly like Quandale Dingle, whether it be for making funny memes or becoming an expert at real-time voiceovers.
@@ -165,13 +161,13 @@ AI Video in Minutes!
 
 ## **Part 1:** Best 5 Free MSNBC Live Streaming Sites
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. LiveNewsChat
 
 ![LiveNewsChat](https://images.wondershare.com/virbo/article/msnbc-live-online-stream-for-the-latest-shows-for-all-devices-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [LiveNewsChat](https://livenewschat.eu/politics/) is one of the most comprehensive and fastest websites if you want to watch the live stream of MSNBC. When it comes to**MSNBC Live** , this website allows you to watch your favorite shows on the device of your choice.
 
@@ -344,19 +340,15 @@ AI Video in Minutes!
 
 ![enable the subtitles of YouTube videos](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-4.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###### Step 3: Change the language of your subtitles
 
  You will see an option of subtitles, click on the auto-translate option. A list of languages appears, and select the English language to translate a YouTube video to English subtitles for free.
 
 ![translate subtitles of YouTube videos](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-5.JPG)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.Translate YouTube Video to English Without CC
 
@@ -381,6 +373,10 @@ AI Video in Minutes!
  Select the original language of the video and the translated video. You can also enable the option of subtitles, its advanced AI technology will show subtitles along with the video.
 
 ![adjust the settings of translation in Virbo](https://images.wondershare.com/virbo/article/translate-youtube-video-to-english-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###### Step 4: Go to My Creations to download the video
 
@@ -424,10 +420,6 @@ _**Translated Languages:** English, Spanish, German, Portuguese, Italian, Indone
 
 ## AI Translation | Wondershare Virbo Online
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## AI Translation (Online Version)
 
 Embark on a journey into the world of **AI Translation** with our intuitive guide.
@@ -444,6 +436,10 @@ Explore the seamless integration of advanced language transformation designed fo
 
 ![input](https://images.wondershare.com/virbo/guide/online-guide/ai-translation-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Input Text
 
 #### Step 2\. Choose Language
@@ -452,10 +448,6 @@ Input Text
 * Click **"Apply"** to finalize the AI translation.
 
 ![Choose Language](https://images.wondershare.com/virbo/guide/online-guide/ai-translation-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose Language
 
@@ -534,6 +526,10 @@ The Vribo AI Translation feature boasts exceptionally high translation accuracy,
 
 ![tamil woman working at a café](https://images.wondershare.com/virbo/article/2024/03/video-translate-in-tamil-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Notice to Readers: Difference of Translating or Transcribing in Tamil
 
  Translating and transcribing are two distinct processes. Each is crucial in its own right when it comes to**Tamil language translate to English** :
@@ -609,6 +605,10 @@ Here are many scenarios where you can take advantage of Virbo:
 
  Additionally, the Monthly Plan supports videos of up to 2 minutes long. Meanwhile, both Yearly Plans allow for videos of up to 5 minutes. Regardless of your plan, they all have a maximum resolution of 1080p and unlimited time for AI scripts.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3\. Other Methods to Translate in Tamil
 
  There are alternative methods available if you prefer different English to Tamil translate approaches. Yet, it’s important to note that these methods cater to text translation. They may not capture the nuances and context of video content. Let’s explore two common alternatives:
@@ -675,6 +675,10 @@ Here are many scenarios where you can take advantage of Virbo:
 
  While making videos with AI avatars, you can also synchronize the lip movement of avatars with the spoken text. It helps in giving a more natural and realistic look to speech. Moreover, you also have an opportunity to control other gestures, such as facial expressions, hand movements, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Templates and Customization
 
  There are almost 60+ predesigned templates in**Synthesia video creator** , which you can access for video creation. Above all, you can also customize the AI avatars in it. You can create customized avatars just like your identical twin.
@@ -708,6 +712,10 @@ Here are many scenarios where you can take advantage of Virbo:
 
 ![synthesia-video-creator-3.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** After making all the layout adjustments, go to "Script Box" and paste your script there. Make sure you paste the scripts in a scene-by-scene manner. To change the language, go to the “Voice Selector" option in the top-right corner. You can also make videos more modified by adding multiple metrics.
 
 ![synthesia-video-creator-4.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-4.jpg)
@@ -719,10 +727,6 @@ Here are many scenarios where you can take advantage of Virbo:
 **Step 5:** Following this, you also have a chance to add animations, transitions, and music tracks in videos. Hereafter, tap the "Play" icon and see the video results. Once satisfied with the results, add a Title, Description, and enable the "Include Captions" option. Finally, hit the "Generate" button, and after this, you can click "Download" to save the AI avatar video on your device.
 
 ![synthesia-video-creator-6.jpg](https://images.wondershare.com/virbo/features/ai-avatar/synthesia-video-creator-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 5: The Most Reliable Alternatives to Synthesia AI Video Creator
 
@@ -741,10 +745,6 @@ Here are many scenarios where you can take advantage of Virbo:
 1. Virbo is pretty cost-friendly because it allows you to use one premium account on all the supported devices and store your projects on the cloud.
 2. Using the Virbo**io** alternative, you can turn the text prompts into descriptive speech videos without compromising quality.
 3. It also helps in creating AI scripts with the help of its integration with ChatGPT. Furthermore, you can even optimize already-written scripts on your Windows PC using Virbo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2. HeyGen
 
@@ -784,15 +784,22 @@ Here are many scenarios where you can take advantage of Virbo:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-community.techidaily.com/quest-ce-que-la-recuperation-de-systemes-par-rapport-a-la-restauration-definitions-claires-et-comparaisons/"><u>« Qu’est-Ce Que La Récupération De Systèmes Par Rapport À La Restauration ? Définitions Claires Et Comparaisons</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-professional-voice-recording-made-easy-with-ipad/"><u>[Updated] In 2024, Professional Voice Recording Made Easy with iPad</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/digital-audio-prowess-the-top-9-mic-recorders-for-23-for-2024/"><u>Digital Audio Prowess The Top 9 Mic Recorders for '23 for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-get-closer-to-the-artistic-marvels-of-ai-portrait-generator/"><u>In 2024, Get Closer to the Artistic Marvels of AI Portrait Generator</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/intersection-of-labor-constraint-and-material-cost-constraint/"><u>Intersection of Labor Constraint and Material Cost Constraint:</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-5-tiktok-voice-generators-you-should-try/"><u>New Best 5 TikTok Voice Generators You Should Try</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/translate-instagram-videos-easily-a-step-by-step-guide/"><u>Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Editor? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-xiaomi-14-pro-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Xiaomi 14 Pro Auto Does Not Work | Dr.fone</u></a></li>
-<li><a href="https://win-guides.techidaily.com/shroaa-balastnsakh-mhrk-usb-mn-ssd-afdl-mmarsat-altmhyd/"><u>شروع بالاستنساخ محرك USB من SSD - أفضل ممارسات التمهيد</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-ai-script-generator-virbo-guide/"><u>2024 Approved AI Script Generator | Virbo Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-5-ai-voice-generators-online-supports-all-browsers/"><u>2024 Approved Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargar-sin-costo-alguno-transforma-tu-opus-en-mp3-con-facilidad-online-movavi/"><u>Descargar Sin Costo Alguno: Transforma Tu OPUS en MP3 Con Facilidad Online - Movavi</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-by-drfone-ios/"><u>How to Unlock Apple iPhone 13?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-top-5-strategies-for-implementing-tiktok-video-descriptions/"><u>In 2024, Top 5 Strategies for Implementing TikTok Video Descriptions</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/live-commerce-success-stories-lessons-learned-and-predictions-for-the-future/"><u>Live Commerce Success Stories Lessons Learned & Predictions for the Future</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-a-brief-review-of-capcut-translate-with-alternative/"><u>New 2024 Approved A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video/"><u>New Create AI Avatar Video</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video/"><u>New In 2024, Create AI Avatar Video</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-reno-10-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Reno 10 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-non-functioning-overwatch-voice-communication/"><u>Quick Fixes for Non-Functioning Overwatch Voice Communication</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/system-enhancement-techniques-expert-advice-from-yl-computing-and-yl-software/"><u>System Enhancement Techniques: Expert Advice From YL Computing & YL Software</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-selection-best-portable-screen-tech-in-202-cuisine-for-gaming-excellence-and-office-efficiency/"><u>The Ultimate Selection: Best Portable Screen Tech in 202 Cuisine for Gaming Excellence & Office Efficiency</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-udemy-subtitle-translation-tools-for-seamless-auto-translations-for-2024/"><u>Updated Top 5 Udemy Subtitle Translation Tools for Seamless Auto Translations for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-creatives-for-backdrops-pixelpioneers-realm/"><u>Visionary Creatives for Backdrops PixelPioneer's Realm</u></a></li>
+<li><a href="https://win-info.techidaily.com/1728477928723-win11/"><u>Win11 和其他版本相容解決策: 讓無法運行的軟件再次工作</u></a></li>
 </ul></div>
 

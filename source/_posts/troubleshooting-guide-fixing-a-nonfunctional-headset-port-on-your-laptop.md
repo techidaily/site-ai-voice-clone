@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing a Nonfunctional Headset Port on Your Laptop"
-date: 2025-01-14T02:07:50.434Z
-updated: 2025-01-17T17:45:57.059Z
+date: 2025-01-23T12:38:27.127Z
+updated: 2025-01-23T18:14:11.605Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
  If you’re experiencing this problem, don’t worry. You should be able to fix the problem quite easily using one of the solutions we’ve listed below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -32,6 +28,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 3. [**Update your audio drivers**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Close other apps that have access to your headset microphone**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Troubleshoot hardware issues](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Solution for 3.5mm wired headset
 
@@ -53,16 +53,8 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/open-settings-from-start-button.jpg)
 2. Select the**Privacy & security** section and click**Microphone** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone.jpg)
 3. Click the Change button, then make sure the**Microphone for this device** is turned**on** . Also, make sure to put**Let apps access your microphone** at On.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/win-11-settings-privacy-microphone-access-1.jpg)
 4. Hopefully this fixes your microphone issue. But if not, there are still three fixes you can try.
@@ -77,6 +69,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da30462b97.png)
 2. In Control Panel, select**Large icons** from the**View by** drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da34f9240e.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select **Sound** .![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4da41a7f6f0.jpg)
 
 4. Select the Recording tab, then right-click on any empty place inside the device list and tick Show Disabled Devices.  
@@ -85,7 +81,7 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 5. Right click the Headset Microphone and click Enable.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4daac96f5e7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Right-click it again and select Set as Default Device.  
@@ -93,16 +89,20 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 7. Right-click Headset Microphone and click Properties.![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4dae7338d5d.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Click the Levels tab, then drag the volume slider toward the_largest value_ .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4db71801655.jpg)
 9. Click**OK** , then click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that the microphone of your headset is enabled and set as the default device, and you’ve turned up your microphone volume, try it and see if it works. If it does, then you’ve solved the problem.
 
@@ -119,10 +119,6 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ![](https://www.drivereasy.com/wp-content/uploads/2018/12/scan.jpg)
 3. Click the**Activate & Update** button next to your sound device or your headset to update the latest and correct driver for it. You can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (You’ll be prompted to upgrade when you click Update All. If you are not sure whether Driver Easy is right for you, our free trial version lets you try out the_full features_ of the Pro version for 7 days. You won’t be charged before your trial ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Intel-display-audio-1.jpg)
 
@@ -134,6 +130,10 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 ### Fix 4: Close other apps that have access to your headset microphone
 
  Sometimes, some communication apps like Discord, Skype, Zoom, etc. can play with your headset microphone when they’re not in use and make your headset mic not working properly. Shutting down all other programs that utilize the headset microphone is the easiest way to do it. Then check whether the problem is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Troubleshoot hardware issues
 
@@ -167,18 +167,18 @@ Many **headset** users are reporting that their headset**microphone** is not wor
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/approved-smooth-cinematography-premium-stabilizer-recommendations/"><u>2024 Approved Smooth Cinematography Premium Stabilizer Recommendations</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/battle-of-the-e-readers-comparing-features-and-benefits-of-ipads-kindles-and-nooks/"><u>Battle of the E-Readers: Comparing Features and Benefits of iPads, Kindles, and Nooks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/celebrating-androids-best-moba-players-today/"><u>Celebrating Android's Best MOBA Players Today</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210398609-9781667414218-consciencia-plena-maneja-tus-emociones-y-calma-tu-mente-con-consciencia/"><u>Consciencia plena - maneja tus emociones y calma tu mente con consciencia. | Free Book</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/generate-video-with-talking-photo-feature-for-2024/"><u>Generate Video with Talking Photo Feature for 2024</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/guida-rapida-a-installare-windows-10-su-una-pen-drive-usb-con-due-metodi-pratici/"><u>Guida Rapida a Installare Windows 10 Su Una Pen Drive USB Con Due Metodi Pratici</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Moto G04? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-influencer-wondershare-virbo-glossary-for-2024/"><u>New What Is AI Influencer? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/spectacular-scrutiny-and-variant-solutions-for-2024/"><u>Spectacular Scrutiny & Variant Solutions for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-oculus-quest-2-outstanding-vr-gaming-on-a-budget/"><u>Unveiling the Oculus Quest 2: Outstanding VR Gaming on a Budget</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-create-ai-avatar-video-with-template-wondershare-virbo/"><u>Updated 2024 Approved Create AI Avatar Video with Template | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-7-best-explainer-video-makers-you-may-like/"><u>Updated 7 Best Explainer Video Makers You May Like</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-marketing/"><u>What Is AI Marketing?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-elevate-your-profiles-visual-appeal/"><u>[New] 2024 Approved Elevate Your Profile's Visual Appeal</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-digital-domination-diaries-for-2024/"><u>[Updated] Digital Domination Diaries for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-the-complexities-of-facebook-slideshow-tools/"><u>[Updated] Navigating the Complexities of Facebook Slideshow Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/10-best-facebook-meme-pages-you-never-know-before-for-2024/"><u>10 Best Facebook Meme Pages You Never Know Before for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-translate-youtube-videos-to-english-subtitles/"><u>2024 Approved How to Translate YouTube Videos to English Subtitles</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-brawlers-domain-vs-twitch-territory/"><u>2024 Approved The Brawler's Domain Vs. Twitch Territory</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/diy-home-remedies-effective-techniques-for-restoring-your-dvd-collection/"><u>DIY Home Remedies: Effective Techniques for Restoring Your DVD Collection</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo/"><u>New Talking Photo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-5-quandale-dingle-voice-generators-for-2024/"><u>New Top 5 Quandale Dingle Voice Generators for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-easy-steps-to-make-a-talking-avatar-with-ai-from-any-photos/"><u>Updated 2024 Approved Easy Steps to Make a Talking Avatar with AI From Any Photos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-script-generator/"><u>Updated What Is an AI Script Generator?</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/winx-dvd-ripper-and-video-transformation-tools-the-ultimate-guide-to-streamlined-digital-file-management/"><u>WinX DVD Ripper & Video Transformation Tools: The Ultimate Guide to Streamlined Digital File Management</u></a></li>
 </ul></div>
 

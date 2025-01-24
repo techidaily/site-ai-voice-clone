@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How To Easily Use Korean to English Video Translators
-date: 2025-01-16T01:59:17.846Z
-updated: 2025-01-18T03:14:35.808Z
+date: 2025-01-21T12:52:39.993Z
+updated: 2025-01-23T20:25:28.832Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
  Consult user reviews and ratings to gauge the reliability and effectiveness of the translator. Feedback from other users gives you ideas about the tool’s strengths and weaknesses. It helps you make an informed decision based on real-world experiences.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2\. What Makes Virbo the Top Translation Tool in 2024
 
 [W ondershare Virbo](https://virbo.wondershare.com) is a premier app for**Korean video translations** . It offers a wide range of features powered by advanced AI technology. Here’s why Virbo has earned its reputation as the top choice for content creators:
@@ -119,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ![wondershare virbo banner](https://images.wondershare.com/virbo/article/2024/03/korean-to-english-video-translator-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 * **Step 2:** Configure the video translator settings according to your preferences. Select the original language (Korean) and the translated language (English). Use the advanced settings mode to add subtitles and lip-sync. Afterward, click**Translate Video** .
@@ -144,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/e9e9b7ca60047014bff6bb18f8c482a86a228fe45
 
 ## Introduction | Wondershare Virbo
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Get Started with Virbo (App Version)
 
 Wondershare Virbo has introduced itself as a video production tool focusing on creating AIGC "real-person" short videos on marketing. You can easily create overseas artifacts on marketing with its unique core functions, which include [AI Avatar](https://virbo.wondershare.com/ai-avatar.html) (AI Digital Human), Scene Templates, Multilingual Dubbing, Intelligent Script Creation, and much more. These functionalities allow users to easily improve their efficiency in creating overseas short videos.
@@ -171,6 +175,10 @@ Download Virbo App for Free
 
 ![guide-qrcode-ios](https://images.wondershare.com/virbo/common/guide.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/guide.png)
@@ -196,10 +204,6 @@ After downloading and installing is complete, open the Virbo App. Choose the reg
 Register Virbo on iOS
 
 ![register virbo on android](https://images.wondershare.com/virbo/guide/get-started/registration-andorid.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Register Virbo on Android
 
@@ -231,10 +235,6 @@ Download Virbo App for Free
 
 ![guide-qrcode-ios](https://images.wondershare.com/virbo/common/guide.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/guide.png)
@@ -278,6 +278,10 @@ With the platform's available templates, you can quickly select the ideal scenes
 ###### Create videos with an AI script generator
 
 Use the AI script generator to incorporate your keywords and complete the video creation. For detailed steps, [click here to view](https://virbo.wondershare.com/guide/ai-script.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create AI Avatar Video with AI Avatar | Wondershare Virbo Online
 
@@ -306,7 +310,7 @@ Enter the user interface and start editing the video. You can also customize the
 ![create-video-with-avatar-2.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Edit Video
@@ -350,10 +354,6 @@ Select the AI avatar you like from those presented on the homepage.
 Hover your mouse over the chosen avatar and pick your preferred video mode.
 
 ![create-video-with-avatar-1.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose AI Avatar
 
@@ -401,6 +401,10 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ![streaming instagram with rtmp](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. Some Rules and Requirements To Understand Before Live Streaming on Instagram
 
  Like every platform, Instagram has some protocols for broadcasting content to global audiences. Therefore, learning the rules and requirements before going live on Instagram is necessary. First, your account should be at least 30 days old; otherwise, they can restrict your stream.
@@ -418,10 +422,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 * **Step 1.** Start with downloading and launching OBS Studio on your PC. The first thing to do is set up vertical camera dimensions for**RTMP Instagram live** streaming. To access the settings window, hit the “Settings” option in the “Controls” panel.
 
 ![proceed to settings in obs](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * **Step 2.** Look for the “Video” tab in the “Settings” window that opens. After that, enter “1080x1920” in the “Base (Canvas) Resolution” bar. Similarly, add a “1080x1920” value in the “Output (Scaled) Resolution” bar to set a 9:16 aspect ratio for vertical display. Then, hit the “OK” button to apply these changes to your Instagram streams.
 
@@ -465,10 +465,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 2. Users can write or generate scripts manually using the AI Smart Script feature. For this, they need to add prompts according to the script's purpose.
 3. This tool helps to translate scripts into multiple languages and accents. Also, you can get dubbed audio in different AI voices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Simple Guide To Start Live Streaming Using Wondershare Virbo Live
 
  Many live streaming tools exist, but Wondershare Virbo Live provides more controls. Now, the thing is how to create a live stream room with this tool. For this, follow the given steps one by one to start live streaming with Virbo Live:
@@ -511,6 +507,10 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ![start livestream of live video](https://images.wondershare.com/virbo/article/2024/03/guide-to-stream-to-instagram-with-rtmp-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
  Conclusively, this article intends to provide information about rules and requirements for live streaming on Instagram. You also learned**how to live** **stream to Instagram with an RTMP** like OBS Studio. Tools like Wondershare Virbo Live simplify your live streams with AI integration. Also, you can make your broadcast exciting for viewers by using different interactive elements.
@@ -540,10 +540,6 @@ The discriminator network acts as the critic in the AI face generator setup. It 
 
 The latent space is a multidimensional mathematical space where the generator operates. It's a representation of all possible facial features that the generator can create. A noise vector, often random values, serves as the starting point in the latent space. As the generator refines these noise vectors through its network layers, they transform into intricate facial characteristics, creating diverse and unique faces.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Loss Functions
 
 Loss functions are crucial in training AI face generators, particularly in the context of Generative Adversarial Networks (GANs). The generator's loss function encourages it to create images convincing to the discriminator. The discriminator's loss function aims to correctly classify authentic and generated images. The interplay between these loss functions compels both networks to improve iteratively, resulting in increasingly realistic facial photos.
@@ -569,6 +565,10 @@ The Latent Space The concept of a "latent space" is pivotal to the functioning o
 
 AI face generators are complex systems that harness deep learning capabilities to craft lifelike facial images. Understanding their key components is essential to appreciating how these systems create convincing synthetic faces.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Generator Network
 
 At the heart of an AI face generator is the generator network. This network learns to transform random noise or latent vectors into detailed and coherent facial images. The generator deciphers patterns in the latent space through layers of neural connections to generate different facial features like eyes, nose, and mouth. As the network refines its understanding through training, it becomes increasingly adept at producing realistic faces.
@@ -581,10 +581,6 @@ The discriminator network acts as the critic in the AI face generator setup. It 
 
 The latent space is a multidimensional mathematical space where the generator operates. It's a representation of all possible facial features that the generator can create. A noise vector, often random values, serves as the starting point in the latent space. As the generator refines these noise vectors through its network layers, they transform into intricate facial characteristics, creating diverse and unique faces.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Loss Functions
 
 Loss functions are crucial in training AI face generators, particularly in the context of Generative Adversarial Networks (GANs). The generator's loss function encourages it to create images convincing to the discriminator. The discriminator's loss function aims to correctly classify authentic and generated images. The interplay between these loss functions compels both networks to improve iteratively, resulting in increasingly realistic facial photos.
@@ -592,6 +588,10 @@ Loss functions are crucial in training AI face generators, particularly in the c
 ### 5\. Training Data and Preprocessing
 
 The quality of training data significantly impacts the AI face generator's output. Diverse and representative datasets containing images of various ages, ethnicities, and expressions contribute to more realistic results. Preprocessing techniques like normalization and augmentation ensure consistency and enhance the generator's capacity to generate coherent faces.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Styling and Customization
 
@@ -782,10 +782,6 @@ It's essential to adhere to ethical guidelines and legal requirements when using
 
 ![microsoft video language translator](https://images.wondershare.com/virbo/article/video-language-translator-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Features
 
 1. It boasts an extensive language portfolio, covering a diverse range of languages to facilitate global communication.
@@ -808,6 +804,10 @@ It's essential to adhere to ethical guidelines and legal requirements when using
  Venturing into the realm of voice translation, SayHi captures attention with its real-time translation capabilities. Ideal for creators looking for**video language translator** app to**auto translate video** in different languages, it provides a seamless experience for translating spoken words, enriching the audiovisual dimension of your videos.
 
 ![sayhi video language translator](https://images.wondershare.com/virbo/article/video-language-translator-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Features
 
@@ -888,18 +888,17 @@ It's essential to adhere to ethical guidelines and legal requirements when using
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-9plus-innovative-strategies-for-streaming-live-cricket-events/"><u>[Updated] 9+ Innovative Strategies for Streaming Live Cricket Events</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-designing-customized-instagram-feed-narratives-for-2024/"><u>[Updated] Designing Customized Instagram Feed Narratives for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-thrifty-aerial-assemblies-top-drones-for-(500/"><u>[Updated] In 2024, Thrifty Aerial Assemblies Top Drones for <$500</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-premium-serene-pc-games-catalog-for-2024/"><u>[Updated] Premium Serene PC Games Catalog for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-our-picks-the-six-greatest-solo-translation-tools/"><u>Discover Our Picks: The Six Greatest Solo Translation Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-latest-upgrades-to-your-apple-watch-coverage-of-watchos-11-features/"><u>Discover the Latest Upgrades to Your Apple Watch Coverage of WatchOS 11 Features</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-life-is-strange-true-colors-game-crashes-a-comprehensive-guide/"><u>How to Fix 'Life Is Strange: True Colors' Game Crashes - A Comprehensive Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-depth-review-is-aurora-revolutionary/"><u>In-Depth Review Is Aurora Revolutionary?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-marketing-videos/"><u>New 2024 Approved How to Create Marketing Videos?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-detailed-guide-on-video-speech-to-text-conversion-for-2024/"><u>New Detailed Guide on Video Speech to Text Conversion for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-in-2024/"><u>New What Is an AI Video Editor, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>New What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/premium-mobile-and-desktop-discord-recorders/"><u>Premium Mobile & Desktop Discord Recorders</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-expert-advice-on-screen-recorders-for-zoom-meetings/"><u>[New] 2024 Approved Expert Advice on Screen Recorders for Zoom Meetings</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-custom-your-youtube-channel-url-super-easy/"><u>[New] In 2024, How to Custom Your YouTube Channel URL – Super Easy</u></a></li>
+<li><a href="https://win-web3.techidaily.com/windows-word/"><u>如何查找 Windows 上 Word 的默认自动保存文件路径</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-3d-video-player-for-android-for-2024/"><u>Best 3D Video Player for Android for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a25-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A25 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/decode-your-insta-performance-a-complete-look-at-user-behavior-for-2024/"><u>Decode Your Insta Performance A Complete Look at User Behavior for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 Pro</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Reasons why Pokémon GPS does not Work On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-step-by-step-guide-how-to-translate-twitter-video-easily-for-2024/"><u>New Step-by-Step Guide How to Translate Twitter Video Easily for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-influencer-wondershare-virbo-glossary/"><u>New What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions-for-2024/"><u>Updated Handling Exceptions for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-10-free-football-streaming-websites-for-live-matches-for-2024/"><u>Updated Top 10 Free Football Streaming Websites for Live Matches for 2024</u></a></li>
 </ul></div>
 

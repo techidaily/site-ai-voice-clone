@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue When Mass Effect Legendary Edition Won't Start
-date: 2025-01-11T21:50:27.435Z
-updated: 2025-01-17T19:04:29.043Z
+date: 2025-01-22T16:06:46.142Z
+updated: 2025-01-24T01:49:39.269Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
 7. **[Disable Windows 10 gaming features](https://tools.techidaily.com/drivereasy/download/)**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-legendary-edition-fps-drops.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Disable Origin/ Steam Overlay
 
@@ -61,13 +65,13 @@ And you’ll need to disable overlay from the Origin client:
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After you save the changes, test your gameplay.
 
@@ -83,6 +87,10 @@ After you save the changes, test your gameplay.
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
 **Verify game files integrity on Steam**
@@ -93,11 +101,11 @@ After you save the changes, test your gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the process is finished, play Mass Effect. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -113,6 +121,10 @@ After you save the changes, test your gameplay.
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -134,10 +146,6 @@ Here’s how to update drivers with Driver Easy:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Run your game in high priority
 
@@ -162,7 +170,7 @@ To run Mass Effect in high priority, follow these steps:
 If this didn’t give you any luck, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable high-performance power plan
@@ -188,7 +196,7 @@ If this didn’t give you any luck, try the next fix below.
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Select **High performance**  and click **Save** .  
@@ -210,16 +218,12 @@ If this didn’t give you any luck, try the next fix below.
 ![disable Chrome hardware acceleration](https://images.drivereasy.com/wp-content/uploads/2021/01/disable-hardware-acceleration-Google-Chrome-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down to the bottom and click on **Advanced** .  
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/advanced-disable-hardware-acceleration-Google-Chrome.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down to the **System**  section, toggle off the option **Use hardware acceleration when available** . Then click **Relaunch** .  
   
@@ -231,17 +235,9 @@ If this didn’t give you any luck, try the next fix below.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you can’t notice much difference after disabling hardware acceleration, try the next fix below.
 
@@ -257,10 +253,6 @@ Here’s how to do this:
   
 ![disable windows 10 gaming features disable game mode](https://images.drivereasy.com/wp-content/uploads/2021/01/gaming-in-the-settings.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) From the left pane, select **Game bar** and toggle off **Record game clips, screenshots, and broadcast using Game bar** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
@@ -269,9 +261,17 @@ Here’s how to do this:
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -294,17 +294,18 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transform-your-photos-into-musical-masterpieces-withwithout/"><u>[New] 2024 Approved Transform Your Photos Into Musical Masterpieces (With/Without)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminating-unexpected-shutdowns-in-ark-games-expert-advice-and-fixes/"><u>Eliminating Unexpected Shutdowns in ARK Games - Expert Advice & Fixes</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/geekoms-mega-mini-g1-by-tecno-x-an-unparalleled-gaming-experience-with-liquid-cooling-and-rtx-graphics-housed-in-a-fish-tank-case/"><u>Geekom's Mega Mini G1 by Tecno X: An Unparalleled Gaming Experience with Liquid Cooling and RTX Graphics Housed in a Fish-Tank Case</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-effectively-shrink-mov-video-files-a-step-by-step-guide/"><u>How to Effectively Shrink MOV Video Files: A Step-by-Step Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-insider-knowledge-from-toms-review-team/"><u>Mastering Tech Choices: Insider Knowledge From Tom's Review Team</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-giggle-and-graphics-editor-for-2024/"><u>Premium Giggle & Graphics Editor for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-steps-for-the-vcruntime140dll-could-not-be-located-error-message/"><u>Solution Steps for the 'vcruntime140.dll Could Not Be Located' Error Message</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Motorola Razr 40? | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/unveiling-technology-secrets-toms-compreh/"><u>Unveiling Technology Secrets: Tom's Compreh</u></a></li>
-<li><a href="https://extra-information.techidaily.com/vid-tribute-the-power-in-customer-endorsements/"><u>Vid Tribute The Power in Customer Endorsements</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-advanced-tricks-for-creating-captivating-slow-motion-videos-on-snapchat/"><u>[New] Advanced Tricks for Creating Captivating Slow-Motion Videos on Snapchat</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-become-a-9gag-meme-connoisseur-with-these-simple-steps/"><u>[New] Become a 9GAG Meme Connoisseur with These Simple Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-demystifying-screen-record-snapchat-a-beginners-handbook/"><u>[Updated] 2024 Approved Demystifying Screen Record Snapchat A Beginner's Handbook</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>[Updated] In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-xiaomi-redmi-note-13-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Xiaomi Redmi Note 13 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-4-ways-of-instagram-video-promotion/"><u>New Best 4 Ways of Instagram Video Promotion</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-recognizing-the-top-deepfake-voice-app-and-software-in-the-market/"><u>New In 2024, Recognizing The Top Deepfake Voice App and Software in the Market</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-repairing-d3dx933dll-missing-or-corrupted-files/"><u>The Ultimate Guide to Repairing 'd3dx9_33.dll' Missing or Corrupted Files</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722727547558-unbeatable-price-performance-ratio-with-budget-long-range-traffic-detectors-here-are-some-options-to-consider-on-escortpassport/"><u>Unbeatable Price-Performance Ratio with Budget Long Range Traffic Detectors - Here Are Some Options to Consider on EscortPassport</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-text-to-video/"><u>What Is AI Text to Video?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: GPT and Bing Duels for Ultimate Generative Chat Excellence
-date: 2025-01-14T01:44:07.936Z
-updated: 2025-01-17T20:59:37.758Z
+date: 2025-01-22T23:27:35.671Z
+updated: 2025-01-23T16:31:20.291Z
 tags:
   - chatgpt
   - open-ai
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 ## Generative AI and Its Potential Role in Propagating Disinformation Tactics
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -33,16 +37,12 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
@@ -54,6 +54,10 @@ False news can be categorized into three types:
 Here's the fictitious article that ChatGPT came up with:
 
 ![ChatGPT created a fictitious news article about corruption charges against Joe Biden](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/07/chatgpt-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Surprisingly, the output was highly persuasive. It included the names and statements of authoritative figures to make the article more convincing. This shows how anyone can use such tools to generate false news and easily spread it online.
 
@@ -68,10 +72,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  These examples all illustrate how chatbots can be utilized to mislead people.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Creating AI DeepFakes
 
  Someone can use deepfakes to create false videos of an individual saying or doing things they never did. They can use such tools for social engineering or running smear campaigns against others. Moreover, in today's meme culture, deepfakes can serve as tools for cyberbullying on social media.
@@ -81,7 +81,7 @@ Here's the fictitious article that ChatGPT came up with:
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4\. Cloning Human Voices
@@ -93,7 +93,7 @@ Here's the fictitious article that ChatGPT came up with:
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
@@ -128,20 +128,24 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-maiden-shoot-revelations-and-critique/"><u>[New] 2024 Approved Maiden Shoot Revelations and Critique</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-swiftly-survey-your-windows-documentation-for-2024/"><u>[Updated] Swiftly Survey Your Windows Documentation for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/americas-leading-foreign-language-curriculum-choices/"><u>Americas Leading Foreign Language Curriculum Choices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discover-the-latest-satechi-charging-stands-compatible-with-qi2-and-apples-magsafe/"><u>Discover the Latest Satechi Charging Stands: Compatible with Qi2 & Apple's MagSafe</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/effortless-dvd-to-video-conversion-on-mac-with-macx-dvd-video-converter-pro-software/"><u>Effortless DVD-to-Video Conversion on Mac with MacX DVD Video Converter Pro Software</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-tecno-spark-10-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Tecno Spark 10 5G to iPod | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/installing-logitech-c525-high-definition-camera-drivers-in-windows-step-by-step/"><u>Installing Logitech C525 High Definition Camera Drivers in Windows (Step-by-Step)</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-complete-guide-of-top-video-language-translators/"><u>New 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New 2024 Approved Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-text-to-speech-for-2024/"><u>New Text to Speech for 2024</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/no-response-from-my-canon-printout-machine/"><u>No Response From My Canon Printout Machine</u></a></li>
-<li><a href="https://some-skills.techidaily.com/orbital-odyssey-interrupted-how-boeings-stranded-astronauts-could-hitch-a-ride-with-competitor-spacex/"><u>Orbital Odyssey Interrupted: How Boeing's Stranded Astronauts Could Hitch a Ride with Competitor SpaceX</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-ai-video-makers-to-create-captivating-videos-with-pictures/"><u>Top AI Video Makers to Create Captivating Videos with Pictures</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-voice-text-to-speech/"><u>Updated In 2024, What Is AI Voice Text to Speech?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-immersive-exploration-mastering-close-up-views-in-minecraft/"><u>[New] In 2024, Immersive Exploration Mastering Close-Up Views in Minecraft</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boost-your-twitter-following-in-just-a-few-steps-beginners-guide/"><u>Boost Your Twitter Following in Just a Few Steps – Beginner's Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/deciphering-chinese-script-basics/"><u>Deciphering Chinese Script Basics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-windows-118s-smartscreen-protection-a-comprehensive-tutorial/"><u>Disabling Windows 11/8'S SmartScreen Protection: A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-giants-of-online-networking-fb-tw-insta-yt/"><u>Exploring the Giants of Online Networking: FB, TW, INSTA, YT</u></a></li>
+<li><a href="https://network-issues.techidaily.com/flip-screen-resolution-rightside-up/"><u>Flip Screen Resolution Rightside Up</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-infinix-note-30-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Infinix Note 30 FRP Locks</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-deathloop-doesnt-launch-problem-for-smooth-gaming-experience/"><u>How to Resolve 'Deathloop Doesn't Launch' Problem for Smooth Gaming Experience</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-creating-ai-videos-with-templates/"><u>In 2024, Creating AI Videos With Templates</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-get-closer-to-the-artistic-marvels-of-ai-portrait-generator/"><u>In 2024, Get Closer to the Artistic Marvels of AI Portrait Generator</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-art-generator-wondershare-virbo-glossary/"><u>New 2024 Approved What Is an AI Art Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-5-tiktok-voice-generators-you-should-try/"><u>New Best 5 TikTok Voice Generators You Should Try</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-common-platforms-for-2024/"><u>New Common Platforms for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://win-superb.techidaily.com/step-by-step-guide-importing-excel-spreadsheet-content-into-a-sql-database/"><u>Step-by-Step Guide: Importing Excel Spreadsheet Content Into a SQL Database</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformacion-ogv-a-mov-online-gratuita-guia-paso-a-paso-con-movavi/"><u>Transformación OGV a MOV Online Gratuita: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/translate-instagram-videos-easily-a-step-by-step-guide/"><u>Translate Instagram Videos Easily A Step-by-Step Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-7-video-language-converter-online-free/"><u>Updated Top 7 Video Language Converter Online Free</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Editor? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Unleash Unprecedented Portable Performance - WD Ultrastar Briefcase Featuring 368 TB SSDs, Ice Lake Xeon CPU & More
-date: 2025-01-10T16:37:49.696Z
-updated: 2025-01-17T20:45:08.474Z
+date: 2025-01-22T05:06:50.419Z
+updated: 2025-01-24T12:41:45.825Z
 tags:
   - desktop
 categories:
@@ -50,7 +50,7 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
  Pre-orders for a 32 GB RAM / 1 TB SSD OneXPlayer M1 are already in Japan at JPY142,310 (or around $900). But if you bundle it with the OneXGPU, you get a 10% discount on the eGPU. So, if you’re looking for a small PC you can quickly move around but don’t sacrifice performance and graphical power, you should watch out for the OneXPlayer M1 mini-PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -76,20 +76,20 @@ One-Netbook, the team behind the OneXPlayer handheld console and the OneXGPU GPU
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-hacky-podcast-transmission-tactic/"><u>[New] Hacky Podcast Transmission Tactic</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-evolutionary-journey-of-metaverse-laughter/"><u>[New] The Evolutionary Journey of Metaverse Laughter</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-become-a-windows-pro-learn-to-trim-videos-like-an-editor/"><u>[Updated] Become a Windows Pro Learn to Trim Videos Like an Editor</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-picks-top-10-budget-friendly-jpeg-to-gif-apps/"><u>2024 Approved Expert Picks Top 10 Budget-Friendly JPEG to GIF Apps</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-registration-and-login/"><u>2024 Approved Registration and Login</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-unlock-pinterests-treasure-trove-with-top-free-video-downloads/"><u>2024 Approved Unlock Pinterest's Treasure Trove with Top Free Video Downloads</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/a-detailed-review-of-murfai-ai-text-to-speech-tool-for-2024/"><u>A Detailed Review of Murf.ai AI Text-to-Speech Tool for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-asus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Asus Pattern Lock Screen</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-paving-a-path-to-prominence-instagrams-power-brokers-in-your-sphere/"><u>In 2024, Paving a Path to Prominence Instagram's Power Brokers in Your Sphere</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/maximize-video-clarity-with-obs-tweaks/"><u>Maximize Video Clarity with OBS Tweaks</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-easy-steps-to-translate-video-on-twitter/"><u>New 2024 Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-breakthrough-how-to-make-a-picture-speak-for-2024/"><u>New Breakthrough How to Make A Picture Speak for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-voice-text-to-speech-in-2024/"><u>New What Is AI Voice Text to Speech, In 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/rtx-2060-super-graphics-card-drivers-compatible-with-windows-11-download-now/"><u>RTX 2060 Super Graphics Card Drivers Compatible with Windows 11 – Download Now</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-over-in-2024/"><u>Updated What Is AI Voice Over, In 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mp4-capture-and-analysis-toolkit/"><u>[New] In 2024, MP4 Capture & Analysis Toolkit</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-thriving-in-the-youtube-landscape-with-data-driven-approach/"><u>[Updated] 2024 Approved Thriving in the YouTube Landscape with Data-Driven Approach</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-independent-android-adventures-the-ultimate-list-of-unplugged-titles/"><u>[Updated] In 2024, Independent Android Adventures - The Ultimate List of Unplugged Titles</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-strategies-for-securing-an-original-tiktok-hashtag/"><u>[Updated] In 2024, Strategies for Securing an Original TikTok Hashtag</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-maximize-engagement-with-ideal-video-dimensions-on-insta-for-2024/"><u>[Updated] Maximize Engagement with Ideal Video Dimensions on Insta for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-ultimate-guide-to-viral-instagram-unboxing-vids-for-2024/"><u>[Updated] The Ultimate Guide to Viral Instagram Unboxing Vids for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-10-chinese-video-to-english-translator/"><u>In 2024, Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soundscapes-of-restfulness-high-rated-asmr-experts/"><u>In 2024, Soundscapes of Restfulness High-Rated ASMR Experts</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/july-microsoft-patch-could-trigger-bitlocker-lockout-on-windows-essential-solutions-unveiled-technews/"><u>July Microsoft Patch Could Trigger BitLocker Lockout on Windows: Essential Solutions Unveiled | TechNews</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-wondershare-virbo-online/"><u>New 2024 Approved Text To Speech | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>New 2024 Approved The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>New Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-presentation-maker-in-2024/"><u>New What Is an AI Presentation Maker, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/what-lies-behind-the-unlisted-tag-on-youtube-in-2024/"><u>What Lies Behind the 'Unlisted' Tag on YouTube, In 2024</u></a></li>
 </ul></div>
 
