@@ -1,7 +1,7 @@
 ---
 title: AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch
-date: 2025-01-21T16:48:41.552Z
-updated: 2025-01-24T02:50:45.444Z
+date: 2025-01-28T20:32:47.316Z
+updated: 2025-01-31T20:01:06.134Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
  In tests, the canned air soon ran out of pressure between bursts, but more consistent shock diamonds were pictured from the nozzle of an air compressor (90 PSI). However, the YouTuber's favorite demo was delivered using the ball pump nozzle on the air compressor hose. Have a look through the gallery above for some of the great shock diamonds emitted from the canned air and various nozzles attached to a shop compressor.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -74,21 +74,22 @@ Ordinary canned air products shoot out jets of gas with a surprising amount of v
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-vlc-player-tips-10-hidden-features/"><u>[New] 2024 Approved Vlc Player Tips 10 Hidden Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-k850-ultrahd-samsung-2023-tech-review/"><u>[New] K850 UltraHD Samsung 2023 Tech Review</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-record-webcam-video-with-vlc-for-2024/"><u>[New] Record Webcam Video with VLC for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-understanding-the-impact-activating-auto-hdr-feature-on-windows-11-for-2024/"><u>[Updated] Understanding the Impact Activating Auto HDR Feature on Windows 11 for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-video-with-templates-online-for-2024/"><u>Create AI Avatar Video with Templates | Online for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/expert-secrets-for-effective-ipad-sound-capture-for-2024/"><u>Expert Secrets for Effective iPad Sound Capture for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-create-ai-avatar-video-with-ai-script/"><u>In 2024, Create AI Avatar Video with AI Script</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-the-full-spectrum-slomo-recording-app-evaluation/"><u>In 2024, The Full Spectrum SloMo Recording App Evaluation</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mp3-file-splitting-guide-effortlessly-trim-tracks-and-save-space-across-any-device/"><u>MP3 File Splitting Guide: Effortlessly Trim Tracks & Save Space Across Any Device</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-7-best-whiteboard-explainer-videos-to-inspire-you/"><u>New 2024 Approved 7 Best Whiteboard Explainer Videos to Inspire You</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-ai-voice-wondershare-virbo-online/"><u>New AI Voice | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/-steps-to-authenticate-your-youtube-login-for-2024/"><u>Quick Steps to Authenticate Your YouTube Login for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nubia-red-magic-8s-pro-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nubia Red Magic 8S Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-avatar-online-for-2024/"><u>Updated Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-power-of-ai-thumbnail-generators-for-2024/"><u>Updated Power of AI Thumbnail Generators for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-mastering-rapid-srt-to-txt-transformation-techniques/"><u>[New] Mastering Rapid SRT to TXT Transformation Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-teacher-technology-cutting-edge-classroom-recorders-of-the-year/"><u>[Updated] 2024 Approved Teacher Technology Cutting-Edge Classroom Recorders of the Year</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>[Updated] 2024 Approved Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-choosing-top-subtitle-editors-online/"><u>[Updated] The Ultimate Guide to Choosing Top Subtitle Editors Online</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>[Updated] The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/free-webinar-creation-and-management-on-youtube/"><u>Free Webinar Creation & Management on Youtube</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-magic-6-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor Magic 6 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/1723262413640-introducing-the-am01-by-ayaneo-the-perfect-blend-of-classic-appeal-and-modern-power-available-now-in-stores/"><u>Introducing the AM01 by Ayaneo: The Perfect Blend of Classic Appeal and Modern Power – Available Now in Stores</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-gadgets-and-components-with-toms-essential-hardware-wisdom/"><u>Mastering Gadgets and Components with Tom's Essential Hardware Wisdom</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-digital-landscape-with-precision-the-ultimate-guide-by-tom-hardware/"><u>Navigating the Digital Landscape with Precision: The Ultimate Guide by Tom Hardware</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/obscure-crossover-port-uncovered-displayport-and-hdmi-fusion-inside-the-abandoned-steam-machine-piston-xi3/"><u>Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/revolutionize-your-computing-with-the-innovative-atomman-g7-pt-first-ever-amd-advantage-tiny-pc-sporting-an-amd-r9-and-rx-graphics-suite/"><u>Revolutionize Your Computing with the Innovative AtomMan G7 Pt: First Ever AMD Advantage Tiny PC, Sporting an AMD R9 & RX Graphics Suite</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/slash-prices-get-250-discount-on-high-end-rtx-4090-gamers-dream-pc/"><u>Slash Prices! Get $250 Discount on High-End RTX 4090 Gamer's Dream PC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-review-of-mophie-powerstation-ac-expensive-yet-incredibly-handy/"><u>Ultimate Review of Mophie PowerStation AC: Expensive Yet Incredibly Handy</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ultimate-selection-of-compatible-mice-for-your-apple-tablet/"><u>Ultimate Selection of Compatible Mice for Your Apple Tablet</u></a></li>
 </ul></div>
 

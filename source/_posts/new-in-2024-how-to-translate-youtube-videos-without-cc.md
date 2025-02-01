@@ -1,7 +1,7 @@
 ---
 title: New In 2024, How to Translate YouTube Videos Without CC
-date: 2025-01-20T08:02:15.372Z
-updated: 2025-01-24T03:11:20.190Z
+date: 2025-01-29T20:13:32.762Z
+updated: 2025-01-31T20:59:13.404Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 ## Part 1\. Tool Introduction for Translating YouTube Videos Without CC
 
  In this section, we will introduce you to software that can help you translate YouTube video without cc. And the tool is Wondershare Virbo.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### What is Wondershare Virbo for YouTube Translation
 
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
  Go to the official Virbo link and download its latest version (or you can directly click the following download button). Install it on your computer. Once the setup finishes, launch Virbo and go to Video Translator as seen above.
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step2 Set your preferences and start translating videos
 
@@ -156,6 +156,10 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
 ![b2b-video-marketing-1.jpg](https://images.wondershare.com/virbo/images2023/virboai3/b2b-video-marketing-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Types of B2B Video Marketing
 
 1. **Explainer Videos:** In explainer videos, you can describe the usage, directions, and key benefits of your product or service. You can also highlight your USP to give tough competition to your business rivals.
@@ -175,13 +179,13 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  B2B videos can instantly add authenticity to your brand or product. Once your audience verifies your brand's true identity, it will automatically establish a trustworthy relationship. Moreover, this will add credibility to your business, optimizing your growth. Therefore, B2B videos can bridge the gap between you and your targeted business organization.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Offers Expertise and Clear Demonstration
 
  To sell your business product, you should demonstrate its key advantages. You can give your expertise through B2B videos with visual representation. Moreover, you can give your audience a proper demonstration to use your product without difficulty. Your viewers would also be able to absorb the guidelines through a video rather than reading a descriptive text.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Free Advertisement
 
@@ -200,10 +204,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
  The start of your video should be attractive so that viewers can watch the whole video. You can ask intriguing questions or a relevant incident to engage your audience instantly. The main goal should be to hook the audience throughout your video.
 
  Moreover, you should follow a defined structure to display your product professionally. Also, make sure to give proper closure to your video. This will help the audience understand your true motive behind this.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Ensure Appropriate Video Formats
 
@@ -269,10 +269,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 
  In corporate settings, talking AI avatars offer a unique alternative to traditional presentations. They can serve as virtual hosts, delivering key messages with charisma and clarity. Create personalized, interactive virtual video presentations that potential buyers can access from the comfort of their homes. Make property showcasing more effective and efficient, which can lead to quicker sales with talking avatar.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Hospitality promotion
 
  Hotels, resorts, and travel agencies can learn**how to create talking avatar** to promote their services and attractions. These avatars can act as virtual tour guides, showcasing amenities, highlighting local attractions, and providing personalized recommendations to potential guests, enhancing the overall customer experience.
@@ -290,10 +286,6 @@ thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9
 ## Part 2\. Prominent Features of Talking Avatar
 
  If you are learning**how to make a talking avatar** , the avatars also come equipped with a range of features that contribute to their versatility and effectiveness in content creation. Let's get into the key features that make talking avatars a powerful tool for communication and storytelling:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Royalty-free assets and templates
 
@@ -341,11 +333,19 @@ Some of Virbo Talking Avatar features include:
 
 ![Upload a photo to create talking avatar from photos](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Edit your video
 
  Next, input text and select a voiceover option from those provided below to create the voiceover for your video. You can adjust the accent, speed, pitch, and volume as desired. You can also choose to include subtitles, background music, or even change the background.
 
 ![Edit and create your own talking avatar](https://images.wondershare.com/virbo/article/2024/02/how-to-create-talking-avatar-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you prefer to use your own voice, you can select “Audio Upload” to upload your audio or “Online Recording” to record your voice directly within the software. If your audio is embedded in a video, choose “Extract audio” and Virbo will extract the audio from your video.
 
@@ -370,10 +370,6 @@ Some of Virbo Talking Avatar features include:
  A lot of people consume **Facebook Live** content as it provides a fun experience for the audience. Today, Facebook Live is being displayed across all genres. From gaming, vlogging, and sports, to basically anything under the Sun, going live on Facebook has become a new trend.
 
  However, even to this date, a lot of users are confused about how to livestream on Facebook. That is why we have created this guide so you can**livestream on Facebook** without any hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Easy-to-follow Step Guidance to Start Facebook Live
 
@@ -419,19 +415,11 @@ Some of Virbo Talking Avatar features include:
 
 ![Live Video](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Firstly, you will need to be logged in to your Facebook account. Once you are logged in, at the top of the News Feed, click on the**What’s on your mind** section and click on the three dots action button. There, you will find**Live Video** which will ultimately redirect you to Live Producer. So click on it.
 
 ##### Step 2 Setting up livestream
 
 ![Go Live](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you are on Facebook Live Producer, you can add your title, and description, choose the equipment, and set a lot of things right on your Facebook account. You can do this before the live stream starts which is great because you can start live in a professional manner.
 
@@ -449,6 +437,10 @@ Some of Virbo Talking Avatar features include:
 
  For Facebook live streaming,[Virbo Live](https://virbo.wondershare.com/virbo-live.html) is one of the most amazing tools that is transforming traditional boring live shopping into an AI-driven shopping experience. Let’s discover some of the features related to Facebook Live.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Features of Virbo Live
 
 ![Virbo Live Features](https://images.wondershare.com/virbo/article/how-to-live-stream-on-facebook-6.jpg)
@@ -456,10 +448,6 @@ Some of Virbo Talking Avatar features include:
 * **Cost-effective:** When it comes to going live on Facebook using the traditional method, you will need a lot of equipment like a camera, mic, and more. With Virbo Live, you don’t need anything because everything is handled by AI.
 * **24/7 broadcasting:** The regular Facebook live stream can be interrupted but with Virbo Live, you get continuous 24/7 broadcasting without interruptions.
 * **Live shopping made it easier:** Virbo Live makes it easier for brands to showcase their products in the most user-friendly way possible. You can have the AI describe everything as your product gets bought by the audience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: FAQs about Facebook Live
 
@@ -523,6 +511,10 @@ Look for AI voice over solutions that offer customization options, allowing you 
 
 It's essential to adhere to ethical guidelines and legal requirements when using AI voice over. Respect copyright laws, obtain necessary permissions, and be transparent with your audience about using AI-generated voices to maintain trust and credibility.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Does AI Voice Over Refer to?
 
 AI voice-over uses artificial intelligence algorithms and technologies to generate high-quality and natural-sounding voices for audio production. With AI voiceover generators, text or speech can be transformed into professional-grade voiceovers, eliminating the need for human voice actors.
@@ -558,6 +550,10 @@ Look for AI voice over solutions that offer customization options, allowing you 
 #### **Ethical Use and Legal Compliance**
 
 It's essential to adhere to ethical guidelines and legal requirements when using AI voice over. Respect copyright laws, obtain necessary permissions, and be transparent with your audience about using AI-generated voices to maintain trust and credibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## AI Video Translator | Online
 
@@ -741,10 +737,6 @@ Place the cursor over the avatar you wish to select and choose the mode of the v
 
 ![ai avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar-to-start.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose AI Avatar
 
 #### Step 2\. Edit Video
@@ -759,6 +751,10 @@ Select "Background Music > None" to pick music for the video, or upload your pre
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Background Music
 
 #### Step 3\. Export Video
@@ -766,6 +762,10 @@ Choose Background Music
 Once you finished producing the video, click “export” to generate the video.
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Export Video
 
@@ -793,18 +793,19 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-crafting-gentle-sound-declines-with-logic-pro/"><u>[New] 2024 Approved Crafting Gentle Sound Declines with Logic Pro</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-acquire-high-quality-sounds-for-media-creators/"><u>[New] In 2024, Acquire High-Quality Sounds for Media Creators!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/error-code-0x800f0831-easily-correct-with-these-steps-on-windows-update/"><u>Error Code 0X800f0831? Easily Correct with These Steps on Windows Update</u></a></li>
-<li><a href="https://solve-help.techidaily.com/free-high-performance-cuda-enabled-video-processing-tools-for-2023/"><u>Free High-Performance CUDA-Enabled Video Processing Tools for 202#3</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-itel-s23plus-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Itel S23+ FRP</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>New 2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-free-msnbc-live-online-stream-for-the-latest-shows-for-all-devices/"><u>New 2024 Approved Free MSNBC Live Online Stream for the Latest Shows for All Devices</u></a></li>
-<li><a href="https://fox-info.techidaily.com/no-expense-full-experience-the-fcp-way/"><u>No Expense, Full Experience The FCP Way</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211380867-9781835380888-revoice/"><u>Revoice | Free Book</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Updated 2024 Approved Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-amazon-live-for-beginners-features-pro-tips-and-future-trends-for-2024/"><u>Updated Amazon Live for Beginners Features, Pro Tips & Future Trends for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-complete-guide-of-top-video-language-translators/"><u>Updated In 2024, Complete Guide of Top Video Language Translators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-create-ai-avatar-video-online/"><u>Updated In 2024, Create AI Avatar Video | Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-smooth-watchers-guide-to-pacing-down-videos-on-youtube-60-chars-minor-exception-due-to-title-length-but-provides-rich-context/"><u>[New] In 2024, The Smooth Watcher's Guide to Pacing Down Videos on YouTube (60 Chars, Minor Exception Due to Title Length but Provides Rich Context)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovations-in-live-broadcast-with-periscope/"><u>[New] Innovations in Live Broadcast with Periscope</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unlocking-the-secrets-to-effective-instagram-scheduling/"><u>[Updated] 2024 Approved Unlocking the Secrets to Effective Instagram Scheduling</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-infographic-exploration-premier-fifa-videos/"><u>[Updated] In 2024, Infographic Exploration Premier FIFA Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-streamline-photo-editing-key-pixlr-insights/"><u>[Updated] Streamline Photo Editing Key Pixlr Insights</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-portrait-generator-getting-closer-to-the-artistic-marvels-for-2024/"><u>AI Portrait Generator Getting Closer to the Artistic Marvels for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/blackout-alert-driver-change/"><u>Blackout Alert: Driver Change</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-developers-playground-windows-11s-enhanced-dev-drive/"><u>Exploring Developer's Playground: Windows 11'S Enhanced Dev Drive</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/how-to-define-ai-video/"><u>How to Define AI Video?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-waht-is-ai-pixel-art-generator-wondershare-virbo-glossary/"><u>New 2024 Approved Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone-for-2024/"><u>New Easy Tutorial How to Record and Send Talking Emoji for iPhone for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-5-ai-youtube-shorts-generators-for-2024/"><u>New Top 5 AI YouTube Shorts Generators for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unraveling-the-world-of-gadgets-with-toms-hardware-insights/"><u>Unraveling the World of Gadgets with Tom's Hardware Insights</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-an-ai-video-editor/"><u>Updated 2024 Approved What Is an AI Video Editor?</u></a></li>
 </ul></div>
 

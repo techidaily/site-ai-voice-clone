@@ -1,7 +1,7 @@
 ---
 title: "Harness the Potential of a Full-Size GPU: ASRock's New Mini PC - DeskMate X6 600 for China, Only $193 USD"
-date: 2025-01-17T06:50:49.647Z
-updated: 2025-01-24T05:28:58.186Z
+date: 2025-01-28T16:30:36.401Z
+updated: 2025-01-31T21:23:02.029Z
 tags:
   - desktop
 categories:
@@ -18,7 +18,7 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  (Image credit: ASRock (via ITHome.com))
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ASRock DeskMate X600 Mini PC core specifications
@@ -45,7 +45,7 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
  ASRock's advertising is correct in that a proper PCIe 4.0 x16 link to an external GPU will provide far[better performance than Thunderbolt or even OCuLink](https://www.tomshardware.com/news/gpd-win-max-2-egpu-benchmarks) , but this design decision unfortunately introduces plenty of its own problems. There aren't exactly any PCIe riser cable-compatible eGPU docking stations, and if you're going to have a bulky high-end graphics card, you'd probably want it properly supported and shielded from damage. A look at that top image makes us think it would be quite easy to accidentally knock over the GPU while the system is powered on, which could be a recipe for disaster.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -71,18 +71,18 @@ ASRock's new DeskMate X600 Mini PC, for sale at Chinese retailer[JD.com](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-zoom-mastery-maximizing-your-podcast-recording-quality/"><u>[New] Zoom Mastery Maximizing Your Podcast Recording Quality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-top-11-economical-cameras-for-professional-vloggers/"><u>[Updated] 2024 Approved Top 11 Economical Cameras for Professional Vloggers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-innovative-steps-to-preserve-voice-memos-of-whatsapp-calls/"><u>[Updated] Innovative Steps to Preserve Voice Memos of WhatsApp Calls</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-precision-in-memory-keeping-organizing-photos-on-iphone-and-uploading-to-icloud/"><u>[Updated] Precision in Memory Keeping Organizing Photos on iPhone and Uploading to iCloud</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-the-ultimate-guide-to-setting-up-a-group-conversation-that-caters-to-all-systems-in-skype/"><u>[Updated] The Ultimate Guide to Setting up a Group Conversation that Caters to All Systems in Skype</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-artist/"><u>2024 Approved What Is an AI Artist?</u></a></li>
-<li><a href="https://article-posts.techidaily.com/crafting-subc-from-srt-efficient-actionable-paths-for-2024/"><u>Crafting SUBC From SRT Efficient, Actionable Paths for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/essential-drone-motors-guide-for-optimal-flight-for-2024/"><u>Essential Drone Motors Guide for Optimal Flight for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/melody-in-motion-incorporating-music-into-powerpoint/"><u>Melody in Motion Incorporating Music Into PowerPoint</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-transform-youtube-live-with-these-must-know-secrets/"><u>New Transform YouTube Live with These Must-Know Secrets</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-zte-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of ZTE</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-embed-audios-in-microsoft-powerpoint-slides-for-2024/"><u>[New] Embed Audios in Microsoft PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-countdown-to-love-top-10-timing-tools-for-your-big-day/"><u>[Updated] Countdown to Love Top 10 Timing Tools for Your Big Day</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-dodging-derailed-video-playback-at-your-photo-booth/"><u>[Updated] Dodging Derailed Video Playback at Your Photo Booth</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-motorola-edge-40-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-analysis-of-apples-latest-airpods-pro-gen-3-spotlight-on-key-enhancements-a-detailed-review/"><u>In-Depth Analysis of Apple's Latest AirPods Pro (Gen 3): Spotlight on Key Enhancements - A Detailed Review</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Top 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-4-ways-of-instagram-video-promotion/"><u>New Best 4 Ways of Instagram Video Promotion</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-ai-avatar-video-with-template-wondershare-virbo-online/"><u>New In 2024, Create AI Avatar Video with Template | Wondershare Virbo Online</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-504-gateway-timeout-errors-efficiently/"><u>Troubleshooting and Resolving 504 Gateway Timeout Errors Efficiently</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-netflix-silence-problems-easy-steps/"><u>Troubleshooting Netflix Silence Problems - Easy Steps!</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-text-to-video/"><u>What Is AI Text to Video?</u></a></li>
 </ul></div>
 

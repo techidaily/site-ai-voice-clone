@@ -1,7 +1,7 @@
 ---
 title: In 2024, Talking Photo Feature
-date: 2024-11-22T18:52:02.372Z
-updated: 2024-11-26T17:36:47.418Z
+date: 2025-01-24T17:09:45.492Z
+updated: 2025-01-31T17:40:51.124Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -15,10 +15,6 @@ thumbnail: https://thmb.techidaily.com/d24f731fb7d4e16e9e3dad20fbd83add26d8b00ef
 ---
 
 ## Talking Photo Feature
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Create a video with Talking Photo
 
@@ -54,6 +50,10 @@ Open the Wondershare Virbo app and tap the talking photo function to enter the o
 
 ![talking-photo-app-1.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 2\. Upload a portrait
 
 Tap “try now” and upload a portrait you want to use as your talking avatar by following the instruction.
@@ -71,10 +71,6 @@ Enter text and choose a voiceover provided below to generate the voiceover of yo
 Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 for iOS
 
@@ -97,6 +93,10 @@ secure download
 Download Virbo App for Free
 
 ![qrcode-ios](https://images.wondershare.com/virbo/common/feature.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 for iOS
 
@@ -135,10 +135,6 @@ Download Virbo App for Free
 for iOS
 
 ![qrcode-android](https://images.wondershare.com/virbo/common/feature.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 for Android
 
@@ -211,6 +207,10 @@ Some AI artists can create paintings, drawings, or digital art, while others can
 
 AI artists are not meant to replace human creativity but rather to augment it and inspire new ideas. They can be valuable tools for artists to experiment with different styles, generate concepts, or overcome creative blocks. AI art is continually evolving, and the creations of AI artists often spark discussions about the intersection of technology and creativity in the art world.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2\. Guidelines for responsible use of AI artists**
 
 When utilizing AI artists, it is essential to consider the following factors:
@@ -268,10 +268,6 @@ By paying attention to these considerations, users can make the most of AI artis
  It automatically detects and translates your voiceover in video content into different languages. All you need to do is upload your video and select the target language. That’s all. Virbo’s AI algorithm automatically translates and synchronizes the dubbing in your videos. This eliminates the need to manually add overdubs in post-production. This tool is available on Windows PC and Mobile Apps, and you can also use it online.
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Unique Features of Virbo Auto Translate
 
@@ -372,6 +368,10 @@ By paying attention to these considerations, users can make the most of AI artis
 
 [Translate Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Top 8 Live Selling Platforms  & Beginner's Tool Suggestion
 
 **Live selling platforms**  are widely considered as the future of commerce. As more**live selling platforms** emerge, it can be confusing to figure out which one is best for your needs. You will likely want to work with a**live stream shopping platform** that allows you to create an interactive and engaging shopping experience for your viewers. Such a platform will allow your viewers to watch live product demonstrations, ask questions, and make purchases directly. In this article, we review our top 8 handpicked**livestream shopping platforms** and recommend a tool to help in making the right choice for your brand.
@@ -401,6 +401,10 @@ By paying attention to these considerations, users can make the most of AI artis
 * Higher pricing compares to other service providers
 * Limited platform integrations
 * Some advanced features have a steeper learning curve
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. NTWRK
 
@@ -555,10 +559,6 @@ By paying attention to these considerations, users can make the most of AI artis
 
 ![future of ai-powered streaming](https://images.wondershare.com/virbo/article/choose-the-right-live-selling-platform-our-handpicked-8-and-recommended-tool-14.jpg) [](https://virbo.wondershare.com/virbo-live.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Virbo Live](https://virbo.wondershare.com/virbo-live.html) allows users to create AI streamers that keep live shoppers engaged. The realistic AI-powered avatars will provide your viewers will all the information they need to make a purchase decision. With multi-lingual capabilities and the ability to interact with the audience in real-time, you can boost your sales even without being directly involved.
 
 #### 02 Simplified live selling experience with Virbo
@@ -570,10 +570,6 @@ By paying attention to these considerations, users can make the most of AI artis
  Log in to your account on the [official Virbo Live website](https://virbo.wondershare.com/virbo-live.html) , and click “Create a Black Livestream Room” to get started. You may also select a template of choice to start your livestream room.
 
 ![virbo live](https://images.wondershare.com/virbo/article/choose-the-right-live-selling-platform-our-handpicked-8-and-recommended-tool-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Step 2 Choose AI Streamers and Background
 
@@ -703,10 +699,6 @@ Eye-catching thumbnails on social media platforms can significantly boost conten
 
 Thumbnails play a crucial role in enticing readers to explore articles and blog posts, making them an essential component of content marketing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. Top AI Tools That Deserve a Try
 
 #### Canva
@@ -726,10 +718,6 @@ In an era where visual appeal can make or break digital content's success, AI th
 #### Conclusion
 
 AI thumbnail generators are revolutionizing the way we present digital content. Their ability to craft visually compelling thumbnails with precision and efficiency is transforming the digital landscape. As the demand for engaging visuals continues to rise, these AI-powered tools stand as invaluable allies for creators seeking to make a lasting impact in the digital realm.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The Best Tools to Convert Text to MP3 With the Best Natural Voices
 
@@ -761,6 +749,10 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 
  There are some unfortunate groups of people who cannot access textual information due to their disabilities. However, with MP3 TTS converters, they can convert text into speech to absorb the information easily. In this way, they can access digital content in the form of a natural human voice without challenges.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: The Best 5 Tools to Convert Text to MP3 With the Highest Accuracy
 
  Have you ever tried MP3 TTS converters? This section will discuss the top 5 tools that can convert text to MP3 with accuracy and reliability.
@@ -785,10 +777,6 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 
 * 85/5
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2. FreeTTS
 
  FreeTTS is a basic tool that can**convert text to MP3** efficiently. You can use this tool for commercial purposes with high security. It supports over 50 languages to facilitate a global audience. It is a free-to-use text-to-MP3 converter and does not require registration. By buying its premium plans, you can get 5000 characters for each conversion.
@@ -806,6 +794,10 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 #### Rating
 
 * 1/5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. PlayHT
 
@@ -825,10 +817,6 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 
 * 3/5
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4. SpeechGen.io
 
  SpeechGen.io is a powerful tool that can generate realistic voices from your textual script. You can find over 270 natural AI voices on this tool with accurate accents. The interface of this tool lets you test the AI voices for free. After listening to the voices, you can select your favorite AI voice from the provided options.
@@ -846,6 +834,10 @@ AI thumbnail generators are revolutionizing the way we present digital content. 
 #### Rating
 
 * 5/5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5. Voicemaker
 
@@ -901,6 +893,10 @@ Select "Music" to choose the video's soundtrack. Browse through our extensive mu
 
 ![create-video-with-avatar-3.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Background Music
 
 #### Step 3\. Export Video
@@ -908,6 +904,10 @@ Choose Background Music
 Once you finished producing the video, click “export” to generate the video.
 
 ![create-video-with-avatar-4.jpg](https://images.wondershare.com/virbo/guide/online-guide/create-video-with-avatar-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Export Video
 
@@ -985,22 +985,18 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-embrace-pure-gaming-essential-ios-games-played-offline/"><u>[New] In 2024, Embrace Pure Gaming Essential iOS Games Played Offline</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-key-games-for-every-sandbox-enthusiast/"><u>[New] In 2024, Key Games for Every Sandbox Enthusiast</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/solved-epic-games-launcher-black-screen/"><u>[SOLVED] Epic Games Launcher Black Screen</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-fonepaw-screen-recorder-downloadreview/"><u>[Updated] Fonepaw Screen Recorder Download|Review</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-play-anywhere-anytime-the-ultimate-collection-of-the-best-gb-advance-emulators-on-pcs/"><u>[Updated] Play Anywhere, Anytime The Ultimate Collection of the Best GB Advance Emulators on PCs</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-quick-guide-to-capturing-timelapses-with-gopro-hero5/"><u>[Updated] Quick Guide to Capturing Timelapses with GoPro Hero5</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-restoring-the-function-of-your-malfunctioning-sennheiser-game-one-mic/"><u>Expert Advice: Restoring the Function of Your Malfunctioning Sennheiser Game One Mic</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-the-silence-ultimate-guide-to-troubleshoot-lenovo-laptop-audio-problems/"><u>Fixing the Silence: Ultimate Guide to Troubleshoot Lenovo Laptop Audio Problems</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/fixing-vrchat-solutions-when-it-wont-load-or-work/"><u>Fixing VRChat: Solutions When It Won't Load or Work</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/gpt-and-bing-duels-for-ultimate-generative-chat-excellence/"><u>GPT and Bing Duels for Ultimate Generative Chat Excellence</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-navigating-screen-capture-in-google-video-conferencing/"><u>In 2024, Navigating Screen Capture in Google Video Conferencing</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/quick-fixes-to-stop-csgo-from-freezing-and-jittering/"><u>Quick Fixes to Stop CS:GO From Freezing and Jittering</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/resolved-fixes-and-updates-in-mass-effect-trilogys-legendary-edition/"><u>Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/save-1058-on-a-lenovo-legion-desktop-with-nvidia-rtx-4080-order-now-for-just-2091/"><u>Save $1,058 on a Lenovo Legion Desktop with NVIDIA RTX 4080 - Order Now for Just $2,091</u></a></li>
-<li><a href="https://win11.techidaily.com/step-by-step-guide-recording-your-tango-calls-across-all-platforms/"><u>Step-by-Step Guide: Recording Your Tango Calls Across All Platforms</u></a></li>
-<li><a href="https://win11.techidaily.com/the-end-of-an-era-microsofts-abandonment-of-windows-7-and-81/"><u>The End of an Era: Microsoft's Abandonment of Windows 7 and 8.1</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/troubleshooting-woes-solving-lords-of-mayhem-computer-freeze-issues/"><u>Troubleshooting Woes: Solving 'Lords of Mayhem' Computer Freeze Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-emulate-action-by-adding-blur-to-stillness/"><u>[New] 2024 Approved Emulate Action by Adding Blur to Stillness</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-becoming-an-audacity-recording-virtuoso/"><u>[New] Becoming an Audacity Recording Virtuoso</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-intuitivestepsforyoucamuseandrecording-for-2024/"><u>[New] IntuitiveStepsForYouCamUseAndRecording for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-directly-connect-tweeting-with-videos-on-whatsapp-for-2024/"><u>[Updated] Directly Connect Tweeting with Videos on WhatsApp for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-gt-5-pro-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme GT 5 Pro</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ai-infused-title-engine-your-ultimate-video-marketing-tool/"><u>In 2024, AI-Infused Title Engine Your Ultimate Video Marketing Tool</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-reach-more-users-by-using-instagram-live-shopping/"><u>New 2024 Approved How To Reach More Users by Using Instagram Live Shopping</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New 2024 Approved RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-recognizing-the-top-deepfake-voice-app-and-software-in-the-market/"><u>New In 2024, Recognizing The Top Deepfake Voice App and Software in the Market</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/quick-and-easy-apods-episodes-access-on-gadgets/"><u>Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-high-cpu-usage-by-msmpengexe-on-windows-10-solved/"><u>Resolving High CPU Usage by MsMpEng.exe on Windows 10 - Solved</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-explanation-of-what-constitutes-a-meme/"><u>The Ultimate Explanation of What Constitutes a Meme</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-text-generator/"><u>Updated In 2024, What Is an AI Text Generator?</u></a></li>
 </ul></div>
 

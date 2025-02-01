@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2025-01-22T07:19:12.551Z
-updated: 2025-01-23T17:48:15.161Z
+date: 2025-01-30T17:13:07.509Z
+updated: 2025-01-31T18:28:16.137Z
 tags:
   - desktop
 categories:
@@ -42,7 +42,7 @@ These are the specifications of the two Asus ROG NUC models:
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
@@ -68,22 +68,22 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-essential-8-platforms-for-private-screenings/"><u>[Updated] Essential 8 Platforms for Private Screenings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ideal-screen-capturing-solutions-for-igadgets/"><u>2024 Approved Ideal Screen Capturing Solutions for iGadgets</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-insiders-srt-primer-must-know-elements/"><u>2024 Approved The Insider's SRT Primer Must-Know Elements</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-hatsune-miku-ai-voice-generators-for-all-times/"><u>Best Hatsune Miku AI Voice Generators for All Times</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ppt-wondershare-virbo/"><u>Create Video with PPT | Wondershare Virbo</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/from-still-to-stunning-how-to-create-stop-motion-videos-on-instagram/"><u>From Still to Stunning How to Create Stop Motion Videos on Instagram</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/guide-facile-pour-rotation-de-videos-mp4-a-90180270-degres-sans-baisse-de-definition/"><u>Guide Facile Pour Rotation De Vidéos MP4 À 90/180/270 Degrés Sans Baisse De Définition!</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms-for-2024/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-what-is-talking-avatar-wondershare-virbo-glossary/"><u>New In 2024, What Is Talking Avatar? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-impact-of-generative-algorithms-on-interactive-entertainment/"><u>The Impact of Generative Algorithms on Interactive Entertainment</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/unlock-superior-video-conversion-for-your-iphone-with-the-latest-upgrade-imovie-factory-v30-now-available/"><u>Unlock Superior Video Conversion for Your iPhone with the Latest Upgrade: IMovie Factory v3.0 Now Available!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/unraveling-the-mystery-why-cant-you-send-presents-through-an-iphone-or-ipad/"><u>Unraveling the Mystery: Why Can't You Send Presents Through an iPhone or iPad?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>Updated 2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-downloadinstallregisteruninstall/"><u>Updated In 2024, Download/Install/Register/Uninstall</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo-wondershare-virbo-for-2024/"><u>Updated Talking Photo | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-headshot-generator-in-2024/"><u>Updated What Is an AI Headshot Generator, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-unveiled-list-leading-top-10-facebook-video-downloaders-for-android/"><u>[New] 2024 Approved Unveiled List Leading Top 10 Facebook Video Downloaders for Android</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-srt-conversion-made-simple-3-actionable-solutions/"><u>[New] SRT Conversion Made Simple 3 Actionable Solutions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-ultimate-guide-to-brightening-up-your-youtube-content-for-2024/"><u>[New] The Ultimate Guide to Brightening Up Your YouTube Content for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-ultimate-list-of-ios-solutions-to-play-your-favorite-psp-games-for-2024/"><u>[New] The Ultimate List of iOS Solutions to Play Your Favorite PSP Games for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-smart-snapchat-gifting-step-by-step-for-success/"><u>2024 Approved Smart Snapchat Gifting Step-by-Step for Success</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>Best 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-tool-to-translate-youtube-video-to-arabic/"><u>Best Tool to Translate YouTube Video to Arabic</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-guides-on-tech-equipment-by-tomhardware-your-source-for-gadget-analysis/"><u>Expert Guides on Tech Equipment by TomHardware - Your Source for Gadget Analysis</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Pro Phone without PIN</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-complete-guide-of-top-video-language-translators/"><u>New 2024 Approved Complete Guide of Top Video Language Translators</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-translate-instagram-videos-for-global-engagement/"><u>New 2024 Approved How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New 2024 Approved Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-text-to-speech-for-2024/"><u>New Text to Speech for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-ai-video-makers-to-create-captivating-videos-with-pictures/"><u>Top AI Video Makers to Create Captivating Videos with Pictures</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-voice-text-to-speech/"><u>Updated In 2024, What Is AI Voice Text to Speech?</u></a></li>
 </ul></div>
 

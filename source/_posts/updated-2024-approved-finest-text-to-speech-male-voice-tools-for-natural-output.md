@@ -1,7 +1,7 @@
 ---
 title: Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output
-date: 2025-01-19T00:42:03.725Z
-updated: 2025-01-24T09:19:25.341Z
+date: 2025-01-26T17:15:16.683Z
+updated: 2025-01-31T20:51:45.212Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -39,6 +39,10 @@ The procedure of converting text into speech with Speechify is not as complicate
 **Step 2:** Next, choose “Select Voice” and choose a male voice that fits your need. To convert speech into text, click the “Listen” icon and listen to your text as speech.
 
 ![press the listen button](https://images.wondershare.com/virbo/features/text-to-speech/text-to-speech-male-voice-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Speakatoo
 
@@ -110,7 +114,7 @@ Mac users mainly have no idea that they can use the in-built **text-to-speech ma
 ![adjust the spoken content settings](https://images.wondershare.com/virbo/features/text-to-speech/text-to-speech-male-voice-8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Wrapping Up
@@ -198,6 +202,10 @@ Below is a step-by-step process for the Kapwing translate video tool.
 
  That’s all. Pretty easy, right? This is how you use the**Kapwing video translator** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Best Alternative to Kapwing: Wodnershare Virbo
 
  While Kapwing is a great platform for video editing online, some other platforms provide similar features with better AI tools. One such notable tool is [Wondershare Virbo](https://virbo.wondershare.com/) .
@@ -254,10 +262,6 @@ Below is a step-by-step process for the Kapwing translate video tool.
 **Step 2:** Upload a video to Virbo. Note that there are some limitations to the input video, as mentioned below.
 
 ![upload video to virbo video translator](https://images.wondershare.com/virbo/guide/windows/video-translate-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **INPUT REQUIREMENTS**
 
@@ -402,6 +406,10 @@ By meticulously preparing these materials, you are setting the stage for a capti
 
 **3** The maximum duration for video backgrounds is **30** minutes, with a file size limit of **1GB**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Easy Tutorial How to Record and Send Talking Emoji for iPhone
 
  Have you noticed the animated emojis in your friends' messages on iPhone and wondered how to use them yourself? This**iPhone talking emoji** is called Animoji or animated memoji. You can make it talk by recording it on your iPhone.
@@ -415,6 +423,10 @@ By meticulously preparing these materials, you are setting the stage for a capti
  You can make and share Animoji with other Apple users through the Messages app. There are over 25 of these iPhone talking emojis available, including your own avatar, poop, panda, pig, robot, and ghost that can mirror your facial expressions.
 
 ![Types of Apple talking emoji](https://images.wondershare.com/virbo/article/2024/02/speak-emoji-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How Does iPhone Talking Emoji Work?
 
@@ -467,10 +479,6 @@ Virbo Photo Talking features include:
 
 ![How to make talking emoji on iPhone](https://images.wondershare.com/virbo/article/2024/02/speak-emoji-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 **Step 2:** Upload Your Memoji Photo
@@ -479,31 +487,23 @@ Virbo Photo Talking features include:
 
 ![Upload your iPhone talking emoji photo](https://images.wondershare.com/virbo/article/2024/02/speak-emoji-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Customize and Export Your Talking Memoji Video
 
  Enter your desired text and choose a voiceover from the provided options below to create the audio for your video. Alternatively, you can record your own voice by selecting "record audio."
 
 ![Add voiceover to your iPhone talking emoji](https://images.wondershare.com/virbo/article/2024/02/speak-emoji-iphone-6.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you've finished editing your video, click "Generate Video" to export your creation. If you need assistance with creating your talking Memoji, you can refer to the video tutorial to make [talking emoji for iPhone](https://www.youtube.com/watch?v=GDqbSvhec9M) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
 **iPhone talking emoji** , also known as Animoji, is a feature that uses Apple's facial recognition technology to animate emoji characters using the user's facial expressions and voice. This feature was introduced with the iPhone X and has since been expanded to include various emoji characters, including animals, aliens, and even robots.
 
  Users can record short video messages or take photos with these animated emoji characters and send them to their friends to add a fun touch to their communication. You can also use Wondershare Virbo’s Photo Talking feature to make this**Apple talking emoji** talk from an image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos
 
@@ -538,6 +538,10 @@ Virbo Photo Talking features include:
  The powerful AI algorithms of 2short.ai mean you can save time editing and customizing your Shorts. This tool can even help highlight the captivating parts of your content. Moreover, the robust features of 2short.ai are crafted to help your channel grow.
 
 ![ai-youtube-shorts-video-maker-2.jpg](https://images.wondershare.com/virbo/features/text-to-speech/ai-youtube-shorts-video-maker-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Key Points
 
@@ -581,10 +585,6 @@ Virbo Photo Talking features include:
 
 ![nova.ai](https://images.wondershare.com/virbo/features/text-to-speech/photo-to-video-ai-generator-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Key Points
 
 * Nova A.I offer various editing options for videos. You can use features such as trim, crop, and split to refine your content easily.
@@ -605,6 +605,10 @@ Virbo Photo Talking features include:
 
  Thumbnails play an important role in the engagement of your video. It is how viewers decide if they want to click on your video or not. It is advisable to create custom thumbnails for your YouTube Shorts. Design a thumbnail that complements your content. Incorporate catchy and attention-grabbing elements to increase views.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Consistency is Key
 
  It is important to remain consistent across your Shorts videos. Maintaining a consistent style and tone is a key element. It helps build a recognizable brand identity. Making a regular posting schedule is also a key factor on the YouTube platform. Sticking to a routine is always helpful whether you choose to upload weekly, bi-weekly, or another interval.
@@ -612,10 +616,6 @@ Virbo Photo Talking features include:
 ### 4\. Dynamic and Appealing Aesthetics
 
  Focusing on the visuals of your Shorts can enhance viewer engagement and make your content stand out. Aesthetically pleasing visuals capture viewers' attention. Dynamic aesthetics maintain their interest throughout the video. Unique and engaging elements also make your videos more memorable.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 5\. Optimize the Viewing Options
 
@@ -699,6 +699,10 @@ Click “Create Video” to start creating a new video.
 
 ![create a project](https://images.wondershare.com/virbo/guide/windows/create-a-project.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Create a Project
 
 Select the video aspect ratio that you desire. You can choose either to make a landscape video or a portrait video based on your needs. Click “Create Video”.
@@ -749,10 +753,6 @@ Export Video
 
 AI generated text refers to content produced by artificial intelligence-powered text generators. These tools utilize advanced algorithms and language models to create written content automatically, ranging from articles and product descriptions to creative writing and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: Applications of AI Generated Text
 
 AI generated text finds applications in various domains:
@@ -782,10 +782,6 @@ AI generated text offers several advantages:
 ## Conclusion
 
 AI generated text is reshaping content creation across industries. Its efficiency, scalability, and potential for enhancing creativity make it a valuable tool for businesses and creators alike. As technology continues to advance, AI text generators are likely to play an increasingly significant role in content production.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: What is AI Generated Text?
 
@@ -817,6 +813,10 @@ AI generated text offers several advantages:
 
 **5\. Creativity Boost**: AI can suggest novel ideas and perspectives, enhancing the creative process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 AI generated text is reshaping content creation across industries. Its efficiency, scalability, and potential for enhancing creativity make it a valuable tool for businesses and creators alike. As technology continues to advance, AI text generators are likely to play an increasingly significant role in content production.
@@ -831,22 +831,20 @@ AI generated text is reshaping content creation across industries. Its efficienc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-effective-methods-for-responding-to-negative-youtube-feedback/"><u>[Updated] In 2024, Effective Methods for Responding to Negative YouTube Feedback</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-from-novice-to-vlogger-the-top-10-editing-techniques/"><u>[Updated] In 2024, From Novice to Vlogger The Top 10 Editing Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-from-playtime-to-pixels-the-ultimate-list-of-6-ways-to-record-minecraft/"><u>[Updated] In 2024, From Playtime to Pixels The Ultimate List of 6 Ways to Record Minecraft</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-creating-captivating-insta-vids-3-description-strategies/"><u>2024 Approved Creating Captivating Insta Vids 3 Description Strategies</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-exploring-the-best-tools-for-snapshots-and-video-capture/"><u>2024 Approved Exploring the Best Tools for Snapshots and Video Capture</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online/"><u>AI Avatars | Online</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/comprehensive-fixes-for-unresolved-kmode-error-codes-on-modern-windows-versions-windows-1011/"><u>Comprehensive Fixes for Unresolved kMODE Error Codes on Modern Windows Versions (Windows 10/11)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Xiaomi Redmi Note 12R?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-3-sites-to-find-free-meizu-unlock-codes-to-unlock-your-meizu-phone-by-drfone-android/"><u>In 2024, Top 3 Sites to Find Free Meizu Unlock Codes to Unlock Your Meizu Phone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/is-coqui-voice-cloning-worth-the-hype-a-comprehensive-review/"><u>Is Coqui Voice Cloning Worth the Hype? A Comprehensive Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-introduction-of-wondershare-virbo/"><u>New 2024 Approved Introduction of Wondershare Virbo</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-8-best-multi-subtitles-translators-you-shouldnt-miss-for-2024/"><u>New 8 Best Multi-Subtitles Translators You Shouldnt Miss for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-video-translator-wondershare-virbo/"><u>New In 2024, Video Translator | Wondershare Virbo</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-poco-x5-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Poco X5 Device</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-sora-by-openai-everything-you-need-to-know-for-2024/"><u>Updated What Is Sora by OpenAI Everything You Need To Know for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-editor-wondershare-virbo-glossary/"><u>What Is an AI Editor? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-fixing-dark-mode-issues-during-recording/"><u>[New] In 2024, Fixing Dark Mode Issues During Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-audio-avenger-your-pathway-to-sound-in-story-posts/"><u>[Updated] 2024 Approved The Audio Avenger Your Pathway to Sound in Story Posts</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-beat-bazaar-curation-of-superior-dj-video-samples-for-download/"><u>[Updated] Beat Bazaar Curation of Superior DJ Video Samples for Download</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-syma-x5c-reviewed-ideal-entry-level-flying-machine/"><u>[Updated] In 2024, Syma X5C Reviewed Ideal Entry-Level Flying Machine</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/create-ai-avatar-videos-wondershare-virbo-online-for-2024/"><u>Create AI Avatar Videos | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/galactic-encounters-and-exciting-firefights-discovering-a-fascinating-sci-fi-tale-with-the-outer-worlds/"><u>Galactic Encounters and Exciting Firefights: Discovering a Fascinating Sci-Fi Tale with 'The Outer Worlds'</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigating-through-the-best-picks-in-instagram-ringtone-and-exceptional-alerts/"><u>Navigating Through the Best Picks in Instagram Ringtone & Exceptional Alerts</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-ai-translation-online/"><u>New 2024 Approved AI Translation | Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-voice-generator/"><u>New 2024 Approved What Is an AI Voice Generator?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-avatar-online-for-2024/"><u>New Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-create-video-with-ppt/"><u>New In 2024, Create Video With PPT</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-wax-video-editing-software-tips-tricks-and-tutorials-for-2024/"><u>New Wax Video Editing Software Tips, Tricks, and Tutorials for 2024</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/redefining-innovation-my-take-on-microsofts-encouragement-to-think-outside-the-box-with-excel-analysis-by-zdnet/"><u>Redefining Innovation: My Take on Microsoft's Encouragement to Think Outside the Box with Excel | Analysis by ZDNet</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-the-best-text-to-audio-converters-of-all-times/"><u>Updated In 2024, The Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-in-2024/"><u>What Is ChatGPT, In 2024</u></a></li>
 </ul></div>
 

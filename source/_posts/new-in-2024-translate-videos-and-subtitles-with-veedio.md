@@ -1,7 +1,7 @@
 ---
 title: New In 2024, Translate Videos and Subtitles with Veed.io
-date: 2025-01-17T21:55:38.145Z
-updated: 2025-01-24T04:35:09.741Z
+date: 2025-01-27T16:51:06.566Z
+updated: 2025-01-31T20:52:36.027Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -53,6 +53,10 @@ Easily convert text into professional spokesperson videos in over 120+ voices & 
 
 [![google-play](https://images.wondershare.com/virbo/images2023/google-play-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt) [![app-store](https://images.wondershare.com/virbo/images2023/app-store-btn.svg)](https://app.adjust.com/1187btki%5F11xz9mlt)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![article-product-download](https://images.wondershare.com/virbo/images2023/article-product-download.png)
 
 ## Part 2\. **Veed.io Translate Video**: Step-by-Step Tutorial
@@ -62,10 +66,6 @@ Let’s take a look now at the step-by-step tutorial to translate a video with V
 Step 1 Launch Veed and Import Your Video
 
 ![how to translate with Veed – Step 1](https://images.wondershare.com/virbo/article/veed-translate-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Start Veed and click on the big Add media to this project button you see in the middle. You can add audio, video, or subtitle files to the Veed platform and edit them if you want.
 
@@ -78,10 +78,6 @@ Next, go to your project’s settings by clicking the **Settings** button on the
 Step 3 Translate your Voice
 
 ![how to translate with Veed – Step 3](https://images.wondershare.com/virbo/article/veed-translate-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Next, click on the **Translate Voice** button. Note: Veed supports multiple languages. It lets you translate and then add these translations in multiple languages.
 
@@ -121,6 +117,10 @@ Once you download Virbo from its official website, launch this Veed.io alternati
 
 ![access video translator feature](https://images.wondershare.com/virbo/article/2024/03/comprehensive-guide-video-and-subtitle-translation-with-veed-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2 Import Your Video to Start the Video Translation Process
 
 Upon entering this feature, click on the “Click to Upload Video” option to add your desired video to the tool. However, there is only an option to import MP4 or MOV videos that are under 5 minutes in length.
@@ -140,10 +140,6 @@ Now, you can adjust the advanced settings for your video translation process. Fo
 ![set other settings and translate](https://images.wondershare.com/virbo/article/2024/03/comprehensive-guide-video-and-subtitle-translation-with-veed-4.jpg)
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4\. FAQs about Veed.io Subtitle Translation
 
@@ -204,10 +200,6 @@ All said, Veed is a fantastic tool that makes translation into multiple language
 * **Self-expression:** Lip-sync allows users to embody their favorite artists or characters by showcasing their personality and creativity.
 * **Entertainment:** Many users lip-sync to entertain followers. They offer comedic performances, heartfelt renditions, or engaging storytelling.
 * **Virality:** TikTok’s algorithm favors engaging content and well-executed lip-sync videos. They have the potential to go viral, rapidly gaining likes, shares, and followers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Make Lip Sync Video on TikTok
 
@@ -353,10 +345,6 @@ Here's how to slow down the recording:
 
 ![Upload video and translate speech in the videos](https://images.wondershare.com/virbo/article/2024/03/tiktok-lip-sync-13.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Step 5.** Click "Translate this video" to start translating the video.
 
  Virbo’s Video Translator will use its advanced algorithms to translate the audio and synchronize it with the video seamlessly. Depending on the length and complexity of the video, the translation process may take some time.
@@ -389,17 +377,21 @@ Image synthesis techniques leverage AI algorithms to generate realistic visual e
 
 AI video technology can use deep learning algorithms to upscale low-resolution video images, enhancing the clarity and details of the video.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Video restoration
 
 By employing AI algorithms, videos can be automatically restored by addressing issues such as noise, artifacts, and blurriness, restoring the quality and visual appeal of the video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Video editing and clipping
 
 AI technology can automate video editing and clipping tasks, including scene recognition, shot transitions, and audio processing, improving the efficiency and quality of video production.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Video generation
 
@@ -438,6 +430,10 @@ By employing AI algorithms, videos can be automatically restored by addressing i
 ### 5\. Video editing and clipping
 
 AI technology can automate video editing and clipping tasks, including scene recognition, shot transitions, and audio processing, improving the efficiency and quality of video production.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6\. Video generation
 
@@ -500,6 +496,10 @@ These technologies enhance video production efficiency, elevate visual effects, 
  Click on the export button to save your video in the tool. Click on "My creations" to see your recent or previous videos. Download the video to your device.
 
 ![Virbo allows export high-quality videos](https://images.wondershare.com/virbo/guide/online-guide/ai-video-translator-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Translate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -588,6 +588,10 @@ Here are the steps to turn on closed captions videos on Twitter:
 
  However, closed captions on Twitter are not perfect. Not every video on Twitter shows this feature. That's why this feature is not a popular option for many users.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 3\. How to Translate Twitter Video With Twitter Translator Bots**
 
  Users must use external tools such as bot accounts and AI video translators to translate videos on Twitter. These tools can help translate video content on Twitter. Making it more accessible to diverse audiences. While****Twitter video translation** features are limited, alternative methods can overcome these language barriers.
@@ -658,10 +662,6 @@ Key features of Virbo’s Video Translator include:
 
 ![Wondershare Virbo Interface](https://images.wondershare.com/virbo/article/2024/03/translate-twitter-video-7.jpeg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * **Step 4.** Upload the video you want to translate. Specify the original language and choose the target language. You can activate the Lip Sync feature for accurate audio translation aligned with lip movements or enable the Subtitle feature.
 
 ![Upload video and translate speech in the videos](https://images.wondershare.com/virbo/article/2024/03/translate-twitter-video-8.jpeg)
@@ -696,6 +696,10 @@ Place the cursor over the avatar you wish to select and choose the mode of the v
 
 ![ai avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar-to-start.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose AI Avatar
 
 #### Step 2\. Edit Video
@@ -709,10 +713,6 @@ Edit Video
 Select "Background Music > None" to pick music for the video, or upload your preferred audio for use. Once you are satisfied with the results, click “Create a video” to enter the video generation interface.
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose Background Music
 
@@ -764,10 +764,6 @@ Select "Background Music > None" to pick music for the video, or upload your pre
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Choose Background Music
 
 #### Step 3\. Export Video
@@ -794,6 +790,10 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ## Exploring the Magic of AI Selfie Generators
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1\. What is an AI Selfie Generator?
 
 An AI Selfie Generator is a groundbreaking tool that employs advanced AI algorithms, often based on deep learning and neural networks, to create realistic and artistic selfies. These generators analyze facial features, expressions, and patterns from a vast dataset of human faces, resulting in stunning self-portraits that resonate with authenticity.
@@ -866,13 +866,13 @@ Artists and designers use AI Selfie Generators to experiment with unique visual 
 
 Influencers and content creators can establish a consistent and striking visual identity by utilizing AI-generated selfies.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4\. Free AI Selfie Generator - Wondershare Virbo
 
 Experience the wonder of Wondershare Virbo - an AI Selfie Generator that stands out for its user-friendly interface and diverse creative asserts. Virbo’s avatar studio empowers users to transform their selfies into stunning visuals with just a few clicks, enhancing facial features, correcting imperfections, and adding artistic flair.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -888,20 +888,21 @@ The era of AI Selfie Generators has arrived, redefining how we capture and prese
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>[New] In 2024, Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-ultimate-playbook-capturing-ps3-game-highlights/"><u>[New] The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-create-ai-avatar-video-online/"><u>2024 Approved Create AI Avatar Video | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-registration-and-login/"><u>2024 Approved Registration and Login</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-clarity-overcoming-gopro-haze-challenges/"><u>2024 Approved Unveiling Clarity Overcoming GoPro Haze Challenges</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/a-detailed-review-of-murfai-ai-text-to-speech-tool-for-2024/"><u>A Detailed Review of Murf.ai AI Text-to-Speech Tool for 2024</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/creating-high-quality-youtube-content-a-guide-to-producing-hd-videos-with-stunning-visuals-and-audio-on-pcmac/"><u>Creating High-Quality YouTube Content: A Guide to Producing HD Videos with Stunning Visuals & Audio on PC/Mac</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/creating-memes-on-9gag-tips-and-tricks/"><u>Creating Memes on 9GAG Tips and Tricks</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/guide-on-how-to-enable-the-text-to-speech-function-on-iphone-for-2024/"><u>Guide on How to Enable the Text to Speech Function on iPhone for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/handling-exceptions-for-2024/"><u>Handling Exceptions for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/humorhatchery-app/"><u>HumorHatchery App</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>New 2024 Approved Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/prove-youre-a-pro-lightning-fast-editing-in-windows-11-videos/"><u>Prove You're a Pro Lightning-Fast Editing in Windows 11 Videos</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transform-your-home-office-with-ipad-pro-a-complete-guide-for-productivity-enthusiasts-ciotrends/"><u>Transform Your Home Office with iPad Pro: A Complete Guide for Productivity Enthusiasts | CIOTrends</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-an-ai-headshot-generator/"><u>Updated In 2024, What Is an AI Headshot Generator?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-through-the-top-10-making-magic-on-youtube-for-2024/"><u>[New] Navigating Through the Top 10 Making Magic on YouTube for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-avatars-online/"><u>AI Avatars | Online</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/discover-alternatives-how-to-utilize-chatgpt-without-signing-up-with-openai/"><u>Discover Alternatives: How to Utilize ChatGPT without Signing Up with OpenAI</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-photographic-snipping-techniques-windows-11/"><u>Efficient Photographic Snipping Techniques, Windows 11</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-oppo-a1-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-introduction-of-wondershare-virbo/"><u>New 2024 Approved Introduction of Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-voice-text-to-speech-wondershare-virbo-glossary/"><u>New 2024 Approved What Is AI Voice Text to Speech? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-downloadinstallregisteruninstall-wondershare-virbo/"><u>New In 2024, Download/Install/Register/Uninstall | Wondershare Virbo</u></a></li>
+<li><a href="https://win-unique.techidaily.com/recuperez-rapidement-votre-sonnerie-personnalisee-perdu-sur-windows-11/"><u>Récupérez Rapidement Votre Sonnerie Personnalisée Perdu Sur Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/resolving-mfplatdll-file-not-found-a-step-by-step-troubleshooting-guide/"><u>Resolving 'mfplat.dll' File Not Found: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solving-the-dxgkrnl-critical-failure-in-videos-on-your-pc/"><u>Solving the Dxgkrnl Critical Failure in Videos on Your PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-magic-vs-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-definitive-ranking-of-mp4-encoders-which-one-should-you-pick/"><u>The Definitive Ranking of MP4 Encoders - Which One Should You Pick?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/top-5-ai-youtube-shorts-generators-to-create-diverse-and-engaging-videos-for-2024/"><u>Top 5 AI YouTube Shorts Generators to Create Diverse and Engaging Videos for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-influencer-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-material-preparation/"><u>Updated Material Preparation</u></a></li>
 </ul></div>
 
