@@ -1,7 +1,7 @@
 ---
 title: "A Critique on Capcom's Latest Quest: Hunting and Defeating Extraordinary Beasts in Monster Hunter: World"
-date: 2025-01-27T21:20:06.654Z
-updated: 2025-01-31T18:12:41.941Z
+date: 2025-02-08T16:27:48.144Z
+updated: 2025-02-14T23:48:33.533Z
 categories:
   - BestProducts
 description: "This Article Describes A Critique on Capcom's Latest Quest: Hunting and Defeating Extraordinary Beasts in Monster Hunter: World"
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/d6e8710c36c5978badec227a1052e8c4e84f42f10
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/HYgHMUDMFh7JI98Hj0JMbI2wcpw=/1000x1000/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
@@ -40,13 +40,13 @@ Lifewire / Kelsey Simon
 
 2.7
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## inXile Entertainment Torment: Tides of Numenera
 
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/rhT3ygZshpoBNXjxqRjfylp4VYU=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-HeroSquare-0a4f2ccb7a35418fa2204c7d42b630f8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lifewire / Kelsey Simon
 
@@ -65,10 +65,6 @@ Lifewire / Kelsey Simon
 * [Specs](https://www.lifewire.com/#toc-full-spec)
 
  Torment: Tides of Numenera is the second game in the Torment series, offering players a rich world inspired by combining science-fiction and fantasy elements. Loaded with heavy-handed storytelling, players might find it hard to push through the poor graphics and the boring[gameplay](https://www.lifewire.com/record-gameplay-on-ps4-5074215) to truly enjoy the game’s plot. We had a rough time even making it through 10 hours of the game, latching on to the game’s one highlight, it’s rich and unique worldbuilding. Read on to see how it stacked up to the other games on our[best PC games](https://flow.dotdash.com/flow-queue?backTo=%2Fmy-projects%2F1804&source=todo&doc%5Fid=4580331&task%5Fid=1289817&project%5Fid=1804) roundup.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Story: Heavy-handed writing to the exclusion of all else**
 
@@ -91,7 +87,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/8H4QhkgilcsrFlNL40KO1tDnKvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-02-cca6ebdc67d6477ab973b796fb7e773c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -117,7 +113,7 @@ Lifewire / Kelsey Simon
 ![Torment: Tides of Numenera](https://www.lifewire.com/thmb/DfXjCwwtXMVBL58JZmix5sR3vBQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/1LW4580331-Torment-Tides-of-Numeria-04-7f9c8617b9cd41738ad2ac02abf0aec9.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Kelsey Simon
@@ -129,6 +125,10 @@ Lifewire / Kelsey Simon
  That said, if role-playing games with a text-heavy focus are of interest to you, then the game does have a lot to offer for the cost. The world of Numenera is vast, and considering all the prompts that alter the story, the game also has a lot of replayability. While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else, and for those players, the $50 cost will be worth it.
 
  While Tides of Numenera wasn’t really my thing, it could be a fun adventure for someone else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Competition: Other story focused RPGs**
 
@@ -165,16 +165,22 @@ Lifewire / Kelsey Simon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ai-voice-clone.techidaily.com/engineering-the-impossible-how-ordinary-canned-air-reaches-supersonic-performance/"><u>Engineering the Impossible: How Ordinary Canned Air Reaches Supersonic Performance</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-by-toms-technology-hub/"><u>Expert Analysis by Tom's Technology Hub</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/from-monotonous-exercises-to-virtual-adventures-how-i-swapped-traditional-workouts-for-an-epic-journey-with-meta-quests-supernatural-insights-and-tips-from-6/"><u>From Monotonous Exercises to Virtual Adventures: How I Swapped Traditional Workouts for an Epic Journey with Meta Quest's Supernatural | Insights & Tips From a ZDNET Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/geekoms-mega-mini-g1-by-tecno-x-an-unparalleled-gaming-experience-with-liquid-cooling-and-rtx-graphics-housed-in-a-fish-tank-case/"><u>Geekom's Mega Mini G1 by Tecno X: An Unparalleled Gaming Experience with Liquid Cooling and RTX Graphics Housed in a Fish-Tank Case</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/mac-gaming-triumphs-except-for-the-unseen-restrictions-in-fortnite/"><u>Mac Gaming Triumphs – Except for the Unseen Restrictions in Fortnite</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-insider-knowledge-from-toms-review-team/"><u>Mastering Tech Choices: Insider Knowledge From Tom's Review Team</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premium-free-excellence-analyzing-and-sharing-best-free-luts/"><u>Premium-Free Excellence Analyzing and Sharing Best Free LUTs</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-ranked-essential-gadgets-for-your-iphone/"><u>Top-Ranked Essential Gadgets for Your iPhone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-perfecting-eq-adjustments-in-ableton/"><u>[New] 2024 Approved Perfecting EQ Adjustments in Ableton</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-prime-video-communication-platforms-for-modern-tech-for-2024/"><u>[New] Prime Video Communication Platforms for Modern Tech for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-streamline-your-experience-fix-instagrams-video-pains-for-2024/"><u>[New] Streamline Your Experience - Fix Instagram's Video Pains for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-expert-picks-top-6-fb-lite-extractors/"><u>[Updated] 2024 Approved Expert Picks Top 6 FB Lite Extractors</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-perfectly-merged-clips-the-power-of-blending-modes/"><u>[Updated] 2024 Approved Perfectly Merged Clips The Power of Blending Modes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-revolutionizing-how-you-record-and-archive-ps3-gaming-for-2024/"><u>[Updated] Revolutionizing How You Record and Archive PS3 Gaming for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/best-4-ways-of-instagram-video-promotion-for-2024/"><u>Best 4 Ways of Instagram Video Promotion for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-ai-api/"><u>In 2024, What Is AI API?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/infuse-music-into-mpeg-animation-using-microsoft-os-for-2024/"><u>Infuse Music Into MPEG Animation Using Microsoft OS for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-create-video-from-text-easily-step-by-step/"><u>New 2024 Approved How To Create Video From Text Easily Step-by-Step</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-have-apps-for-real-time-video-translation/"><u>New In 2024, Must-Have Apps for Real-Time Video Translation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-tips-for-perfecting-your-talking-face-content-a-complete-guide/"><u>New In 2024, Tips for Perfecting Your Talking Face Content A Complete Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-job-hunting-on-linkedin-using-these-10-innovative-chatgpt-tips/"><u>Revolutionize Job Hunting on LinkedIn Using These 10 Innovative ChatGPT Tips</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-power-of-escort-max-360-the-ultimate-guide-to-a-multi-featurradar-detector-with-integrated-gps/"><u>Unveiling the Power of Escort Max 360: The Ultimate Guide to a Multi-FeaturRadar Detector with Integrated GPS</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-artist-wondershare-virbo-glossary-for-2024/"><u>What Is an AI Artist? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-chatgpt-wondershare-virbo-glossary/"><u>What Is ChatGPT? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

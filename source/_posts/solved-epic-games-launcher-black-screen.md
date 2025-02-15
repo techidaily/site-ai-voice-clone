@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Epic Games Launcher Black Screen"
-date: 2025-01-28T23:52:55.213Z
-updated: 2025-01-31T20:35:17.207Z
+date: 2025-02-14T00:30:34.981Z
+updated: 2025-02-14T19:58:51.279Z
 tags:
   - win11
   - win10
@@ -46,13 +46,13 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down to**Display resolution** and click on the**down arrow** button.
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down and choose**1280×768** .
 
@@ -71,7 +71,7 @@ Here’s how you can do this:
 ![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
@@ -83,6 +83,10 @@ Here’s how you can do this:
  When you have a black screen, whether on your computer or any app, your outdated or faulty graphics driver might be the culprit. If you can’t remember when was the last time you updated your graphics driver, then you should do it. And you can benefit a lot from updating the graphics driver. Because it can fix performance bottlenecks and introduce improvements that make games run significantly faster.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -108,7 +112,7 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -141,6 +145,10 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2? Select the tab**Compatibility** and click**Run compatibility troubleshooter** . (Make sure that you’ve unchecked any boxes under the Compatibility tab.)
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-1-1.png)
@@ -153,23 +161,19 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
 
  If the problem persists, then select**No, try again using different settings** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
 
@@ -191,21 +195,17 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 12) Now, the issue is fixed.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Allow the launcher through the firewall
 
@@ -230,7 +230,7 @@ Here’s how you can do this:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7: Change your DNS server to the Google Public DNS
@@ -261,10 +261,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7) Click**Use the following DNS server addresses:** .  
  In**Preferred DNS server:** section, type**8888** .  
  In**Alternate DNS server:** section, type**8844** .  
@@ -294,6 +290,10 @@ To do this, simply follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9: Change high DPI settings
 
  1) Right-click on the launcher’s shortcut and select**Properties** .
@@ -309,7 +309,7 @@ To do this, simply follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -353,22 +353,22 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-top-3-ipad-voice-logging-strategies/"><u>[Updated] In 2024, Top 3 iPad Voice Logging Strategies</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-insiders-look-at-the-most-effective-instagram-tags-for-growth-for-2024/"><u>[Updated] The Insider's Look at the Most Effective Instagram Tags for Growth for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-meme-magic-perfect-10-design-tips-and-tricks/"><u>2024 Approved Meme Magic Perfect 10 Design Tips & Tricks</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1723808276940-get-your-free-up-to-date-dell-drivers-for-windows-11-here/"><u>Get Your Free Up-to-Date Dell Drivers for Windows 11 Here</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-ai-youtube-script-writers-and-the-ultimate-guide/"><u>New 2024 Approved Best AI YouTube Script Writers and The Ultimate Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-best-toolbox-to-translate-youtube-videos-to-english-subtitles-for-2024/"><u>New Best Toolbox to Translate YouTube Videos to English Subtitles for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-avatar-online-for-2024/"><u>New Create AI Avatar Video with Avatar | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>New In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/transform-your-grammar-skills-with-9-top-strategies-by-esl-pioneers/"><u>Transform Your Grammar Skills with 9 Top Strategies by ESL Pioneers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/transform-your-ideas-into-visuals-leveraging-chatgpt-for-ai-image-synthesis/"><u>Transform Your Ideas Into Visuals: Leveraging ChatGPT for AI Image Synthesis</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/unleash-your-creativity-a-guide-to-crafting-custom-audio-on-android-phones-for-2024/"><u>Unleash Your Creativity A Guide to Crafting Custom Audio on Android Phones for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-options-top-live-streaming-platforms-according-to-types/"><u>Updated 2024 Approved Best Options Top Live Streaming Platforms According to Types</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-videos-using-synthesia-avatar-and-voices/"><u>Updated Create AI Videos Using Synthesia Avatar and Voices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated In 2024, Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-an-ai-tool/"><u>What Is an AI Tool?</u></a></li>
-<li><a href="https://games-able.techidaily.com/workstation-vs-console-a-technical-dichotomy/"><u>Workstation Vs. Console: A Technical Dichotomy</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-quick-start-utilizing-zoom-in-windows-10-environment/"><u>[New] In 2024, Quick Start Utilizing Zoom in Windows 10 Environment</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-synergistic-campaigns-brands-and-youtube-hand-in-hand/"><u>[New] Synergistic Campaigns Brands & YouTube Hand in Hand</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-fortnite-not-loading-issues-quickly-and-easily/"><u>[Solved] Fortnite Not Loading Issues | Quickly & Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-review-prime-cars-surveillance-devices/"><u>[Updated] Exclusive Review Prime Cars Surveillance Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-multiplatform-iptv-interoperability/"><u>[Updated] In 2024, Multiplatform IPTV Interoperability</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-securing-an-edge-how-to-successfully-install-windows-11/"><u>2024 Approved Securing an Edge How to Successfully Install Windows 11</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-13-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 13 Pro Max in Lost Mode</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/inicio-rapido-y-seguro-de-windows-11-tres-soluciones-faciles-de-implementar/"><u>Inicio Rápido Y Seguro De Windows 11: Tres Soluciones Fáciles De Implementar</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-top-voice-cloning-apps-for-android-and-ios-devices/"><u>New In 2024, Top Voice Cloning Apps for Android & iOS Devices</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-best-english-voice-generator-to-convert-text-into-desired-accent-for-2024/"><u>New The Best English Voice Generator To Convert Text Into Desired Accent for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-the-power-of-ai-thumbnail-generators/"><u>New The Power of AI Thumbnail Generators</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/troubleshooting-guide-solving-common-issues-after-installing-the-latest-ios-17-upgrade/"><u>Troubleshooting Guide: Solving Common Issues After Installing the Latest iOS 17 Upgrade</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-5-tips-about-youtube-shorts-to-grow-your-business-for-2024/"><u>Updated 5 Tips About YouTube Shorts to Grow Your Business for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-ai-script-wondershare-virbo/"><u>Updated In 2024, AI Script | Wondershare Virbo</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-how-to-translate-instagram-videos-for-global-engagement/"><u>Updated In 2024, How to Translate Instagram Videos for Global Engagement</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-chatgpt-in-2024/"><u>Updated What Is ChatGPT, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/video-translator-wondershare-virbo-online-for-2024/"><u>Video Translator | Wondershare Virbo Online for 2024</u></a></li>
 </ul></div>
 

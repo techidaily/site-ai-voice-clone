@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue When Mass Effect Legendary Edition Won't Start
-date: 2025-01-30T21:21:03.895Z
-updated: 2025-01-31T21:17:43.895Z
+date: 2025-02-08T23:01:23.094Z
+updated: 2025-02-14T20:26:58.945Z
 tags:
   - win11
   - win10
@@ -37,13 +37,13 @@ When Mass Effect Legendary Edition finally came out, players can’t hide their 
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/game-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the GENERAL tab, uncheck the box**Enable Origin In Game for Mass Effect Legendary Edition** . Then click**Save** .  
   
 ![disable overlay Mass Effect Overlay Origin](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay-on-Origin.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 And you’ll need to disable overlay from the Origin client:
 
@@ -52,7 +52,7 @@ And you’ll need to disable overlay from the Origin client:
 ![Disable Origin Overlay Mass Effect Legendary Edition FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Origin-overlay-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**ORIGIN IN-GAME** . Down below, find**Enable Origin In-Game** . Click on the button to disable this option.
@@ -69,6 +69,10 @@ And you’ll need to disable overlay from the Origin client:
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
   
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
@@ -76,6 +80,10 @@ And you’ll need to disable overlay from the Origin client:
 After you save the changes, test your gameplay.
 
  Can’t get a noticeable performance increase? Then proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Verify integrity of game files
 
@@ -86,6 +94,10 @@ After you save the changes, test your gameplay.
  1) Open your Origin client. Click**My Game Library** . Then right-click on your game title and select**Repair** .  
   
 ![repair game files Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this didn’t help, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -149,10 +161,6 @@ To run Mass Effect in high priority, follow these steps:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Select the **Details**  tab. Locate **MassEffectLegendaryEdition.exe** . Right-click it and select **Set priority > High** .
 
  5) Click **Change priority** .
@@ -162,7 +170,7 @@ To run Mass Effect in high priority, follow these steps:
 If this didn’t give you any luck, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5\. Enable high-performance power plan
@@ -174,22 +182,22 @@ If this didn’t give you any luck, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click on the **Browse**  button.  
   
 ![enable high performance power plan for Valheim](https://images.drivereasy.com/wp-content/uploads/2021/02/select-Browse.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Locate your game’s exe file on your system.
 
 4) Click **MassEffectLauncher**  and click **Add** .  
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Options** .  
   
@@ -200,10 +208,6 @@ If this didn’t give you any luck, try the next fix below.
 ![set high performance power plan Genshin Impact](https://images.drivereasy.com/wp-content/uploads/2021/01/high-performance.png)
 
  Still can’t fix your issues? No worries! There are other effective methods below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Turn off hardware acceleration
 
@@ -225,15 +229,15 @@ If this didn’t give you any luck, try the next fix below.
   
 ![disable hardware acceleration Google Chrome](https://images.drivereasy.com/wp-content/uploads/2020/12/disable-google-hardware-acceleration.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### In Discord
 
  1) Open Discord app. Click on **Settings** (the gear icon beside your avatar).  
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
@@ -262,16 +266,12 @@ Here’s how to do this:
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -294,18 +294,24 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-insider-knowledge-instagrams-music-copyright-landscape-decoded/"><u>[New] In 2024, Insider Knowledge Instagram's Music Copyright Landscape Decoded</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-principles-of-documentary-storytelling/"><u>[Updated] 2024 Approved Principles of Documentary Storytelling</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-deconstructing-the-limits-to-longer-instagram-videos-for-2024/"><u>[Updated] Deconstructing the Limits to Longer Instagram Videos for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-why-are-your-video-shorts-thumbnails-not-showing/"><u>[Updated] Why Are Your Video Shorts' Thumbnails Not Showing?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ace-your-iphone-and-ipad-purchase-with-amazing-prime-day-prices/"><u>Ace Your iPhone & iPad Purchase with Amazing Prime Day Prices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/chrome-video-translators-top-5-video-translation-chrome-extensions/"><u>Chrome Video Translators Top 5 Video Translation Chrome Extensions</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/essential-tips-for-restoring-mpow-microphone-functionality-on-your-windows-device/"><u>Essential Tips for Restoring MPOW Microphone Functionality on Your Windows Device</u></a></li>
-<li><a href="https://win11.techidaily.com/leveraging-powershell-to-extract-concurrent-zips-on-pc/"><u>Leveraging PowerShell to Extract Concurrent ZIPs on PC</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-finding-the-best-voice-changers-to-sound-like-star-warss-stormtrooper/"><u>New Finding The Best Voice Changers To Sound Like Star Warss Stormtrooper</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-talking-photo-wondershare-virbo-for-2024/"><u>New Talking Photo | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/surprise-on-climbing-stairs-with-apple-decoding-the-unexpected-alerts-and-their-significance-zdnet/"><u>Surprise on Climbing Stairs with Apple: Decoding the Unexpected Alerts and Their Significance | ZDNet</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-script-for-2024/"><u>Updated Create AI Avatar Video with AI Script for 2024</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-the-step-by-step-guide-to-personalizing-mobile-notifications/"><u>Updated The Step-by-Step Guide to Personalizing Mobile Notifications</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-tips-for-high-quality-vr-gametime-recordings/"><u>[New] In 2024, Tips for High-Quality VR Gametime Recordings</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-blended-vocalists-one-platform-at-a-time-for-2024/"><u>[Updated] Blended Vocalists, One Platform at a Time for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-clear-background-in-picsart/"><u>[Updated] Step-by-Step Guide Clear Background in Picsart</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-script-generator-virbo-guide-for-2024/"><u>AI Script Generator | Virbo Guide for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A34 5G Phones with/without a PC</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-creating-ai-videos-with-templates/"><u>In 2024, Creating AI Videos With Templates</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-pop-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-seamlessly-integrate-zoom-into-your-life-via-windows-10/"><u>In 2024, Seamlessly Integrate Zoom Into Your Life via Windows 10</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/learn-the-ins-and-outs-of-online-photo-cropting-tools/"><u>Learn the Ins and Outs of Online Photo Cropting Tools</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-a-talking-ai-avatar-from-photos-easy-guide/"><u>New How to Make a Talking AI Avatar From Photos Easy Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-tool-wondershare-virbo-glossary/"><u>New What Is an AI Tool? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://some-tips.techidaily.com/quality-control-tests-should-be-performed-at-various-stages-throughout-the-compaction-process-to-ensure-consistent-results/"><u>Quality Control Tests Should Be Performed at Various Stages Throughout the Compaction Process to Ensure Consistent Results.</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-voice-chat-issues-in-among-us-pc/"><u>Troubleshooting Steps: Resolving Voice Chat Issues in Among Us (PC)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-ai-avatar-wondershare-virbo-user-guide/"><u>Updated 2024 Approved AI Avatar | Wondershare Virbo User Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-ai-translation-wondershare-virbo-online-for-2024/"><u>Updated AI Translation | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-how-to-make-animated-explainer-videos/"><u>Updated How to Make Animated Explainer Videos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/wake-on-lan-activation-guide-setting-up-on-windows-10-and-11/"><u>Wake-on-LAN Activation Guide: Setting Up on Windows 10 & 11</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-influencer-wondershare-virbo-glossary/"><u>What Is AI Influencer? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/what-is-ai-voice-in-2024/"><u>What Is AI Voice, In 2024</u></a></li>
 </ul></div>
 

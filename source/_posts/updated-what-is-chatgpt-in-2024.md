@@ -1,7 +1,7 @@
 ---
 title: Updated What Is ChatGPT, In 2024
-date: 2025-01-25T19:06:03.208Z
-updated: 2025-01-31T19:51:43.752Z
+date: 2025-02-08T16:23:17.757Z
+updated: 2025-02-14T19:12:07.472Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -121,6 +121,10 @@ Select the video aspect ratio that you desire. You can choose either to make a l
 
 ![choose video ratio](https://images.wondershare.com/virbo/guide/windows/choose-ratio.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Aspect Ratio
 
 #### Step 2\. Choose Avatar & Voiceover
@@ -128,10 +132,6 @@ Choose Aspect Ratio
 Once inside the user interface, click “Avatars” to pick an AI avatar for your video. Click the shown avatar in the screen, and an action bar will appear on the right side of the screen, where you can choose to adjust the style and location of the displayed video persona.
 
 ![choose avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose Avatar
 
@@ -202,6 +202,10 @@ Play Scripts
 You can also adjust the background, choose the text style, or add the sticker to the video.
 
 ![edit video](https://images.wondershare.com/virbo/guide/windows/edit-video.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Edit Video
 
@@ -292,11 +296,19 @@ Export Video
 
 ![Always Show Translations](https://images.wondershare.com/virbo/guide/online-guide/video-translate-online-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Translate Tiktok Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
 ### 2\. VEED.IO
 
 ![Always Show Translations](https://images.wondershare.com/virbo/article/tiktok-translation-essentials-top-5-auto-translate-tools-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When it comes to the king of subtitles and auto-translation tools, VEED IO is undoubtedly a dominant name in the online space. You can translate your subtitles online by simply adding an audio, video, or even SRT. Moreover, VEED is used by some of the biggest brands around the globe, meaning they have credible beginnings.
 
@@ -306,10 +318,6 @@ Export Video
 
 1. **Accurate and efficient results:** Its 98.5% accuracy is quite impressive. VEED IO is also known for its efficiency, meaning that in just three steps, you can get your auto-translated subtitles for TikTok.
 2. **Online video editor:** VEED provides an online video editor where you can edit the video as you please. Whether it’s the font of these subtitles or background music, you have options to do anything you want.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Rask.ai
 
@@ -424,15 +432,15 @@ On the main interface of Virbo, you can click on the "Video Template" tab to swi
 
 ![template-type.jpg](https://images.wondershare.com/virbo/guide/windows/template-type.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Choose Template
 
 There is also a ratio selection switch beside it, where you can choose your preferred video aspect ratio.
 
 ![template-ratio.jpg](https://images.wondershare.com/virbo/guide/windows/template-ratio.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose Aspect Ratio
 
@@ -514,11 +522,11 @@ Yes, these avatars are all based on video footage using real actors.
 
 For personalized avatars on Virbo, you can enjoy the liberty to craft gestures and expressions to your liking. Click now to explore [Virbo's Customization Service!](https://virbo.wondershare.com/ai-avatar-voice-cloning-service.html)
 
-## What Is an AI Art Generator? | Wondershare Virbo Glossary
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## What Is an AI Art Generator? | Wondershare Virbo Glossary
 
 ## Part 1\. What is an AI art generator?
 
@@ -529,10 +537,6 @@ AI art generators can produce various art forms, including paintings, drawings, 
 The generated art results from a collaboration between the AI system and the artist or user. The AI provides suggestions and inspirations or even autonomously creates art pieces based on given parameters or prompts. The artist or user can refine, modify, or incorporate the generated artwork into their creative process.
 
 AI art generators have sparked new debates and discussions around the definition of art, creativity, and the role of machines in artistic expression. They are a fascinating example of how artificial intelligence can be applied in artistic creation, pushing the boundaries of traditional artistic practices and opening up new avenues for creative exploration and innovation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. What are the applications and development directions for AI art generators?
 
@@ -567,10 +571,6 @@ AI art generators can be used for the evaluation and research of artworks, gener
 AI art generators can combine digital art and virtual reality technologies, creating interactive digital artworks and immersive virtual reality experiences.
 
 These usage types demonstrate the diverse applications of AI art generators in art, driving artistic innovation, exploration, and the fusion of art and technology.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. Which AI art generators are available on the market?
 
@@ -678,6 +678,10 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
 
 **Viral video marketing** involves the creation of videos that can spread rapidly. These videos can become visible to social media and other online communities rapidly. The main goal of these videos is to get better brand exposure and boost brand awareness. Moreover, you have to ensure some of the key factors in viral videos. This may include short length, creativity, retention, etc.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Importance of Viral Video Marketing
 
  You must be thinking, why can’t you just use simple videos instead of**viral advertising** ? Viral videos can provide endless benefits instead of simple videos. Some of the key benefits of viral videos are discussed here for you:
@@ -685,10 +689,6 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
 ### 1\. Higher Brand Recognition Ratio
 
  A viral video can reach millions of people in the smallest amount of time. This gives massive exposure to the brands. If you are a small business or a new setup, viral**video marketing** can be beneficial. With this, you can get a better amount of audience and customers without hassle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Better Engagement and Web Traffic
 
@@ -715,6 +715,10 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
  Before anything else, you must ensure your videos are not boring. Go the extra mile and add a sense of storytelling to the videos. This can help you establish an emotional connection with the world. Moreover, you can also build a strong and dependable bond with your viewers. Improving retention and enhancing brand identity are also part of**viral advertisements** .
 
  You can also communicate complex ideas to get the solution better. It can also help you build trust, credibility, and universal appeal. Memorable stories of your videos can also cast a long-term impact on your followers, which is highly beneficial.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Emotionally Driven Content
 
@@ -754,10 +758,6 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
 4. There are versatile AI Voices in Virbo, and you can also use them for creating best-in-class text-to-speech videos.
 5. You can even use Virbo for optimizing the pre-written scripts on a Windows computer. It can also write new scripts for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  Conclusively, you can use**viral video marketing** to attract potential clients. This helps in displaying your products and services all across the world in a limited time. Above all, you can also get effective social presence and brand awareness with this.
@@ -775,7 +775,7 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
  There are several ways to promote viral videos, and one of them is to collaborate with influencers. Those influencers can share your videos with their followers and help you to create authentic connections.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Which platforms can help you in promoting viral videos?
@@ -803,10 +803,6 @@ DeepArt.io is a widely recognized AI art generator that allows users to transfor
 * Create memories by adding voice to photos for a more vivid memory experience!
 * Your social media shares can become that much more interesting and engaging.
 * Presentations and financial charts and graphs could be made easier to understand.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Where Can You Download Talking Stock Photos For Free?
 
@@ -892,6 +888,10 @@ The talking photo will be saved under My Creations.
 
 [Generate Video Online](https://tools.techidaily.com/wondershare/virbo/download/) [Download APP Now](https://app.adjust.com/11acwaj1%5F11ig9sc4) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Closing Words
 
  Talking photos are the next frontier in digital communication and expression. Harnessing the power of generative artificial intelligence, talking photos present never-before opportunities to not only engage people but engage with people. The education sector can use talking photos to make comprehension easier for children by making interactive, expressive talking photos that can explain complex concepts in a fun new way while corporates and businesses can use the power of talking photos to better engage with their audiences in a new way that captures and retains their interest. Inter-personally, talking photos can be used to have fun with friends and family in a completely new way! No more drab images, talking photos are the fun new way to express!
@@ -906,24 +906,16 @@ The talking photo will be saved under My Creations.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-captivating-conversations-opening-lines-in-audios/"><u>[New] Captivating Conversations Opening Lines in Audios</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/deciding-on-a-flagship-phone-iphone-15-pro-max-versus-galaxy-s24-ultra-explored/"><u>Deciding on a Flagship Phone? IPhone 15 Pro Max Versus Galaxy S24 Ultra Explored</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-infinix-note-30-pro-by-fonelab-android-recover-data/"><u>How to recover lost data from Infinix Note 30 Pro?</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-11-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-y100a-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo Y100A to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-top-free-to-text-on-mac-30-apps-that-deserve-your-notice/"><u>In 2024, Top Free to Text on Mac 30 Apps That Deserve Your Notice</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-viral-video-marketing-techniques-for-big-sellers/"><u>New 2024 Approved Best 5 Viral Video Marketing Techniques For Big Sellers</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-an-ai-presentation-maker/"><u>New 2024 Approved What Is an AI Presentation Maker?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-icloud-photo-stream-discover-7-effective-fixes-for-iphone-sync-problems/"><u>Revive Your iCloud Photo Stream: Discover 7 Effective Fixes for iPhone Sync Problems</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/revolutionizing-online-learning-with-zooms-transformative-tools/"><u>Revolutionizing Online Learning with Zoom's Transformative Tools</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-xcover-7-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy XCover 7 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-list-best-5-tools-for-creating-talking-avatars-for-2024/"><u>Top List Best 5 Tools for Creating Talking Avatars for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/tp-link-wi-fi-usb-drivers-simple-windows-installation/"><u>TP-Link Wi-Fi USB Drivers - Simple Windows Installation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-4-elon-musk-voice-generators-to-make-you-sound-like-the-billionaire/"><u>Updated 2024 Approved Best 4 Elon Musk Voice Generators to Make You Sound Like the Billionaire</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>Updated 2024 Approved Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-amazon-live-for-beginners-features-pro-tips-and-future-trends-for-2024/"><u>Updated Amazon Live for Beginners Features, Pro Tips & Future Trends for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-users-guide-how-to-create-photo-talking-videos-with-the-best-tools-for-2024/"><u>Updated Users Guide How To Create Photo Talking Videos With the Best Tools for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-artist-wondershare-virbo-glossary/"><u>Updated What Is an AI Artist? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-maker-wondershare-virbo-glossary/"><u>Updated What Is an AI Video Maker? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-diversify-referrals-tactics-for-effective-youtube-backlinks/"><u>[New] 2024 Approved Diversify Referrals Tactics for Effective YouTube Backlinks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/defeating-lag-top-strategies-for-optimizing-fallout/"><u>Defeating Lag: Top Strategies for Optimizing Fallout</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fcc-greenlights-enhanced-6ghz-spectrum-use-for-immersive-arvr-experiences-latest-update-from-zdnet/"><u>FCC Greenlights Enhanced 6GHz Spectrum Use for Immersive AR/VR Experiences - Latest Update From ZDNet</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-demystifying-ai-game-generators-from-definition-to-distinction/"><u>In 2024, Demystifying AI Game Generators From Definition to Distinction</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-exclusive-panzoid-blueprint-selections/"><u>In 2024, Exclusive Panzoid Blueprint Selections</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-pro-passcode-4-easy-methods-with-or-without-itunes-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Pro Passcode 4 Easy Methods (With or Without iTunes)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-patience-slowing-down-videos-on-youtube-51-chars/"><u>In 2024, The Art of Patience Slowing Down Videos on YouTube (51 Chars)</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-how-to-make-animated-explainer-videos/"><u>New How to Make Animated Explainer Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-ai-api-wondershare-virbo-glossary/"><u>New What Is AI API? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/ultimate-guide-to-sustainable-visual-effects-equipment-for-2024/"><u>Ultimate Guide to Sustainable Visual Effects Equipment for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online-for-2024/"><u>Updated Create AI Avatar Video with AI Avatar | Wondershare Virbo Online for 2024</u></a></li>
 </ul></div>
 

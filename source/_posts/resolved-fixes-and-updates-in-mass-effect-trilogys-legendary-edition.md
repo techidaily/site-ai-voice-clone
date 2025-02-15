@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2025-01-25T22:06:31.079Z
-updated: 2025-01-31T22:39:24.834Z
+date: 2025-02-12T00:08:18.641Z
+updated: 2025-02-15T00:31:25.996Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes…
 
  You don’t have to try them all; just work your way down the list until you find the one that does the trick!
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
@@ -74,12 +70,12 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -87,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
@@ -106,11 +102,19 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -121,10 +125,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
@@ -152,16 +152,22 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-correcting-muted-voice-in-obs-broadcasts-for-2024/"><u>[New] Correcting Muted Voice in OBS Broadcasts for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-dialing-up-the-excitement-speeding-up-videos-on-stories/"><u>2024 Approved Dialing Up the Excitement Speeding Up Videos on Stories</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-4-eminem-voice-generator-apps-for-pc-mac-mobile-and-online/"><u>2024 Approved Top 4 Eminem Voice Generator Apps for PC, Mac, Mobile, and Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-voice-over-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Voice Over? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-toolbox-to-translate-youtube-videos-to-english-subtitles/"><u>Best Toolbox to Translate YouTube Videos to English Subtitles</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enter-our-photography-competition-and-claim-your-free-2018-oscars-vip-passes/"><u>Enter Our Photography Competition and Claim Your FREE 2018 Oscars VIP Passes!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exclusive-september-bonanza-offering-top-gaming-bargains-final-call-snap-up-savings-of-1kplus-with-limited-time-deals-on-zdnet/"><u>Exclusive September Bonanza Offering Top Gaming Bargains - Final Call! Snap Up Savings of $1K+ with Limited Time Deals on ZDNet</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-the-dell-smbus-controller-driver-step-by-step-tutorial/"><u>How to Update the Dell SMBus Controller Driver: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-acer-chromebook-cb3-15-review-enhancing-your-workflow-on-the-large-display/"><u>In-Depth Acer Chromebook CB3-15 Review - Enhancing Your Workflow on the Large Display</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-exploring-the-magic-of-ai-selfie-generators/"><u>Updated In 2024, Exploring the Magic of AI Selfie Generators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-the-best-text-voice-generators-for-all-platforms/"><u>Updated In 2024, The Best Text Voice Generators for All Platforms</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-a-gamers-guide-to-twisting-videos-on-youtube-2e-for-2024/"><u>[New] A Gamer's Guide to Twisting Videos on YouTube (2E) for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>[New] In 2024, Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[Updated] 2024 Approved A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-best-display-for-your-needs-ultrawide-vs-uhd-4k-guide/"><u>[Updated] The Best Display for Your Needs UltraWide vs UHD 4K Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq5oml5q6144gn44ov44kk44oj44k544kv44oq44o844oz44og44o844ot44o844gl44kj44os44k44o844oc44od44kv44k544k144kk44k644g444gu5asj5oplusb44ks44kk44oj.m88/"><u>効果的な手段でワイドスクリーンムービーからレターボックスサイズへの変換ガイド</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ai-avatar-wondershare-virbo-user-guide-for-2024/"><u>AI Avatar | Wondershare Virbo User Guide for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24-ultra-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24 Ultra Phone Pattern Lock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/master-the-art-of-reviving-all-ipad-versions-with-these-simple-restart-techniques/"><u>Master the Art of Reviving All iPad Versions with These Simple Restart Techniques</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>New 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>New 2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-devicenetworkbrowser-requirements-virbo-ai-live-stream/"><u>New Device/Network/Browser Requirements | Virbo AI Live Stream</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-official-announcement-filmora-x-now-supports-arm/"><u>New In 2024, Official Announcement Filmora X Now Supports ARM</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-in-2024/"><u>Updated What Is AI Voice, In 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/waht-is-ai-pixel-art-generator-wondershare-virbo-glossary-for-2024/"><u>Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
 

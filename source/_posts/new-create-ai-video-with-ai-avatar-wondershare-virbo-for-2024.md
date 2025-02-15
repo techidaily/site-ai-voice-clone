@@ -1,7 +1,7 @@
 ---
 title: New Create AI Video with AI Avatar | Wondershare Virbo for 2024
-date: 2025-01-24T20:43:08.207Z
-updated: 2025-01-31T17:13:02.110Z
+date: 2025-02-11T17:25:34.563Z
+updated: 2025-02-15T00:26:20.616Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde01
 ---
 
 ## Create AI Video with AI Avatar | Wondershare Virbo
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Create AI Avatar Videos
 
@@ -31,10 +35,6 @@ Choose an AI avatar displayed on the homepage that you desire. You can click the
 Place the cursor over the avatar you wish to select and choose the mode of the video.
 
 ![ai avatar](https://images.wondershare.com/virbo/guide/windows/choose-avatar-to-start.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Choose AI Avatar
 
@@ -59,7 +59,7 @@ Once you finished producing the video, click “export” to generate the video.
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Export Video
@@ -111,6 +111,10 @@ Choose Background Music
 Once you finished producing the video, click “export” to generate the video.
 
 ![export video](https://images.wondershare.com/virbo/guide/windows/export-video.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Export Video
 
@@ -213,10 +217,6 @@ In summary, the main difference lies in their primary functions: an AI video mak
 
  Are you eager to know the popular**AI photo video makers** ? In this section, you can read about the top 4 AI tools that can help you create high-resolution videos with your provided images.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1. Steve AI
 
  Steve AI is a powerful tool for making videos using your uploaded photos. It provides more than 100 templates you can explore for artistic ideas for video creation. Once you have chosen the desired template on this tool, you can upload the photos to its editor. After adding all the desired photographs, this AI tool will instantly create a video clip using your photos.
@@ -314,6 +314,10 @@ Before anything else, the **text-to-audio converter-free** software makes everyt
 
 While learning a new language, you can get assistance from **text to audio** tools. With this, learning new languages along with correct pronunciation is also possible. It also plays an essential role in aiding in language acquisition. You can also resolve unfamiliar issues by using this intuitive software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Proofreading and Finalizing
 
 If you have multiple documents which you need to finalize, then it can also help you in this. You can listen to the written content and point out all the mistakes. It also helps in editing the mistakes to improve the quality and professionalism of the overall work.
@@ -399,6 +403,10 @@ With Speakatoo, you can turn text into audio in multiple languages. It supports 
 2. The Advanced Effects of this amazing tool can also upgrade your audio functionality. It may include Angry, cheerful, Newscast, Friendly, and more.
 3. This tool can automatically add breathing pauses in audio to make them more realistic. You can also access 700 plus male and female voices in this.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Speechify
 
 Do you want to read the docs, articles, and other written materials effectively? No worries, because Speechify got you covered. You can access multiple types of AI Voices in this, such as Snoop Dogg, John, and more. In addition, this **text-to-audio converter** can also help you in boosting focus and understanding. You can also get more productive in minimum time with this.
@@ -423,11 +431,19 @@ By using PlayHT, you can turn any text into speech without any issues. This **te
 2. You can create a voice clone of any human using the AI Voice Cloning feature. It has built-in voice clone options for Elon, The Rock, JFK, Tom, and more.
 3. The AI Podcast lets you make podcasts in more than 820 voices and 140 languages. You can also publish your podcast on multiple platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. Kukarella
 
 Kukarella not only lets you do text-to-audio conversion, but you can edit and transcribe text effortlessly. This **text-to-audio tool** also has 900+ voices that upgrade your functionality. You can also use this tool to work with 130+ languages. It also has two AI models for voices which includes Neural and Standard. Moreover, this tool can translate or dub text, audio, or video into 80+ languages.
 
 ![kukarella text to audio converter](https://images.wondershare.com/virbo/features/text-to-speech/text-to-audio-converter-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Key Features
 
@@ -465,6 +481,10 @@ This is one of the most realistic **text-to-audio converters** present on the we
 
 ![speechgen text to audio converter](https://images.wondershare.com/virbo/features/text-to-speech/text-to-audio-converter-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Key Features
 
 1. It lets you manage the speed of the built-in speed options of x0.1, x0.2, x0.3, and so on.
@@ -476,6 +496,10 @@ This is one of the most realistic **text-to-audio converters** present on the we
 In this article, you discovered the top 10 **text-to-audio converter online** tools. With these tools, you can turn any type of text into realistic audio. However, if you wish to know about the tool with the highest recommendation ratio, the answer is Virbo. This innovative AI-powered tool can make all the text-to-speech process smoother and provides more realistic results.
 
 ## Diverse Template | Online
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Diverse Template (Online Version)
 
@@ -514,10 +538,6 @@ Create Video
 * Within the editing interface, feel free to input script text, adjust elements like voiceover and avatar, and explore options like background changes and adding stickers.
 
 ![Edit Video](https://images.wondershare.com/virbo/guide/online-guide/diverse-templates-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Edit Video
 
@@ -559,10 +579,6 @@ Choose Aspect Ratio
 
 ![preview templates](https://images.wondershare.com/virbo/guide/online-guide/diverse-templates-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Create Video
 
 #### Step 3\. Edit Video
@@ -570,10 +586,6 @@ Create Video
 * Within the editing interface, feel free to input script text, adjust elements like voiceover and avatar, and explore options like background changes and adding stickers.
 
 ![Edit Video](https://images.wondershare.com/virbo/guide/online-guide/diverse-templates-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Edit Video
 
@@ -644,7 +656,7 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
  The future has so much in store for both sellers and shoppers. With technology changing fast, brands that evolve quickly will benefit the most from this development. Among the technological advancements affected the world of eCommerce is the integration of artificial intelligence (AI). Brands and influencers can leverage the power of AI to offer more personalized and engaging experiences to shoppers. One such tool is Virbo Live.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 01 Leveraging Virbo AI streaming for sales and shopping
@@ -721,10 +733,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
  If you want to work on docs, webpages, or other written material, TextAloud 4 Ivona can help you. It also has assistive technology that allows visually impaired people to upgrade their capabilities. You can read anything on Windows computers aloud using its pre-installed voicing system.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Pricing Plans of Ivona
 
  This is quite a cost-effective tool through which you can accomplish your task while staying within budget. If you are still curious about the subscription plans of**Ivona** TTS, have a look below:
@@ -753,10 +761,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
  It also supports 120 plus languages and voices, which makes your work easier than ever. All the voices in Virbo are humane, which gives you more assistance in listening to text. It also shows cross-platform compatibility. You can even login with the same account on multiple devices.
 
 ![text to speech](https://images.wondershare.com/virbo/article/best-10-hindi-video-translators-with-step-by-step-guidance-15.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
 
@@ -791,10 +795,6 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 ![press the create video button](https://images.wondershare.com/virbo/features/text-to-speech/ivona-text-to-speech-converter-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
  In a nutshell, it can be said that**Ivona text to speech** is a good tool for converting written text into understandable speech. It also offers you flexibility in selecting the language and voices of your choice. You can use the**Ivona app** on a Windows computer to convert text to speech.
@@ -811,22 +811,21 @@ For personalized avatars on Virbo, you can enjoy the liberty to craft gestures a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-in-2024-steps-for-deleting-discord-on-computermobile/"><u>[New] In 2024, Steps for Deleting Discord on Computer/Mobile</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-enhance-your-shorts-fresh-and-original-thumbnails-with-minimal-effort/"><u>[Updated] Enhance Your Shorts Fresh and Original Thumbnails with Minimal Effort</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversor-online-de-flac-para-mp3-gratuito-site-oficial-do-movavi/"><u>Conversor Online De FLAC Para MP3 Gratuito - Site Oficial Do Movavi</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-hands-on-a-game-changing-deal-the-gigabyte-gs32q-a-quad-hd-fast-32-monitor-at-199/"><u>Get Your Hands on a Game-Changing Deal: The Gigabyte GS32Q – A Quad HD, Fast 32 Monitor at $199</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-a-detailed-and-trustworthy-review-of-murfai-ai-text-to-speech-tool/"><u>In 2024, A Detailed and Trustworthy Review of Murf.ai AI Text-to-Speech Tool</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Tecno Pop 7 Pro | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-talking-photo-feature/"><u>In 2024, Talking Photo Feature</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-the-best-ai-video-makers-from-photos-to-create-captivating-videos-with-pictures/"><u>In 2024, The Best AI Video Makers From Photos to Create Captivating Videos with Pictures</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-depth-review-of-ivona-text-to-speech-converter-for-2024/"><u>In-Depth Review of Ivona Text to Speech Converter for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/navigating-tiktoks-virtual-stage-with-zoom-expertise-for-2024/"><u>Navigating TikTok's Virtual Stage with Zoom Expertise for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/preventing-layer-misalignment-in-3d-printing-tips-and-tricks/"><u>Preventing Layer Misalignment in 3D Printing: Tips & Tricks</u></a></li>
-<li><a href="https://win11.techidaily.com/solutions-to-recycle-bin-glitch-in-win-11/"><u>Solutions to Recycle Bin Glitch in Win 11</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>Updated 2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-handling-exceptions-virbo-ai-live-stream-for-2024/"><u>Updated Handling Exceptions | Virbo AI Live Stream for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>Updated In 2024, Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-live-chat-with-woocommerce-your-gateway-to-successful-live-selling/"><u>Updated In 2024, Live Chat With WooCommerce Your Gateway to Successful Live Selling</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-hello-camera-requirements-explored/"><u>Windows Hello Camera Requirements Explored</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-easytech-snapshot-quick-rundown-for-2024/"><u>[New] EasyTech Snapshot Quick Rundown for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-capture-every-pixel-of-pc-gaming-bliss-6-ways/"><u>[New] In 2024, Capture Every Pixel of PC Gaming Bliss (6 Ways)</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-lenovo-laptop-a-complete-guide-to-recording-screens-for-2024/"><u>[Updated] Lenovo Laptop A Complete Guide to Recording Screens for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tiktok-dominance-on-twitter-the-top-share-list-for-2024/"><u>[Updated] TikTok Dominance on Twitter The Top Share List for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-stylistics-swapping-videos-rightside-up/"><u>2024 Approved Instagram Stylistics Swapping Videos Rightside Up</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/free-online-conversion-transforming-3g2-files-into-flv-format-with-easy-video-downloader/"><u>Free Online Conversion: Transforming 3G2 Files Into FLV Format with Easy Video Downloader</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/heavy-lift-airborne-titans-drone-leaders-guide-for-2024/"><u>Heavy-Lift Airborne Titans - Drone Leaders Guide for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XR, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-video-translator-app-for-pc-you-cannot-miss-for-2024/"><u>New Best Video Translator App for PC You Cannot Miss for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone-for-2024/"><u>New Easy Tutorial How to Record and Send Talking Emoji for iPhone for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-10-ai-subtitle-translators-for-content-creators-that-anyone-can-use/"><u>New Top 10 AI Subtitle Translators for Content Creators That Anyone Can Use</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-templates-wondershare-virbo-online-for-2024/"><u>Updated Diverse Templates | Wondershare Virbo Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>Updated In 2024, Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-text-to-video/"><u>Updated In 2024, What Is AI Text to Video?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-update-6-best-voice-changers-you-cant-miss-for-2024/"><u>Updated Update 6 Best Voice Changers You Cant Miss for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/who-directs-facebook-today/"><u>Who Directs Facebook Today?</u></a></li>
 </ul></div>
 

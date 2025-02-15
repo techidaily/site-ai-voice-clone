@@ -1,7 +1,7 @@
 ---
 title: "Mastering City Skylines 2: PC Optimization Strategies to Stop Frequent Game Crashes"
-date: 2025-01-26T23:32:13.796Z
-updated: 2025-01-31T23:44:17.303Z
+date: 2025-02-14T00:48:55.633Z
+updated: 2025-02-14T20:40:46.514Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/ca38034074275621f4e2db5f63e60466f24745c23
 
 _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing this frustrating issue, take a deep breath and try the solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,10 +33,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 6. **[Launch Arma 3 with the malloc=system command](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the BattlEye service](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
 
@@ -52,10 +52,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 **1)**  On your keyboard, press the **Windows logo**  key and **R** at the same time to invoke the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Type **dxdiag**  and click **OK** .
 
@@ -93,10 +89,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3:**End unnecessary program** s
 
  Running multiple applications at the same time takes up resources and can make Arma 3 crash or freeze. So, you should turn off extraneous software while gaming. Here is how to do it:
@@ -110,19 +102,23 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-763.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try relaunching_Arma 3_ to see if this has resolved your issue. If this didn’t help, try **[Fix4](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -134,10 +130,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
@@ -148,9 +140,17 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -208,17 +208,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -227,10 +219,6 @@ OR
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 6: Launch Arma 3 with the malloc=system** command
 
@@ -241,6 +229,10 @@ OR
 **2)** Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Arma 3**  and select **Properties** .
 
@@ -276,17 +268,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-40.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Paste**C:\\Program Files (x86)\\Steam\\SteamApps\\common\\Arma 3** on the address bar, then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-41.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Delete the**BattlEye folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-43.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Go to the following directories to delete the**BattlEye folder** and the**BEClient.dll** .
 
@@ -334,10 +330,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-49.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Relaunch Steam to download and reinstall_Arma 3_ .
 
  Try launching Arma 3 again. If your problem still exists, try the fix below.
@@ -352,6 +344,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
@@ -359,6 +355,10 @@ OR
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
@@ -399,22 +399,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-breakthrough-tactics-for-capturing-virtual-conferences/"><u>[Updated] In 2024, Breakthrough Tactics for Capturing Virtual Conferences</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/best-12-ai-voice-cloning-tools-online-and-offline-for-2024/"><u>Best 12 AI Voice Cloning Tools Online & Offline for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-vistas-backgrounds-boosting-live-quality-for-2024/"><u>Best Vistas Backgrounds Boosting Live Quality for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/create-video-with-ai-avatar/"><u>Create Video with AI Avatar</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/disabling-facebook-video-ad-pop-ups-quickly/"><u>Disabling Facebook Video Ad Pop-Ups Quickly</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-se-2020-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password From your iPhone SE (2020)</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/expert-tips-on-choosing-leading-photo-recovery-applications/"><u>Expert Tips on Choosing Leading Photo Recovery Applications</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-htc-u23-phone-that-is-locked-by-drfone-android/"><u>How to Reset a HTC U23 Phone that is Locked?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-ai-script-wondershare-virbo-online/"><u>In 2024, AI Script | Wondershare Virbo Online</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-leapfrogging-to-photo-editing-mastery-with-lunapic/"><u>In 2024, Leapfrogging to Photo Editing Mastery with LunaPic</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-best-5-ai-movie-script-generators/"><u>New 2024 Approved Best 5 AI Movie Script Generators</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-12-ai-voice-cloning-tools-online-and-offline/"><u>New In 2024, Best 12 AI Voice Cloning Tools Online & Offline</u></a></li>
-<li><a href="https://win-fantastic.techidaily.com/quick-guide-launching-microsoft-hyper-v-windows-10-in-safe-mode-top-4-strategies-unveiled/"><u>Quick Guide: Launching Microsoft Hyper-V Windows 10 in Safe Mode - Top 4 Strategies Unveiled</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/1720600497033-reclaim-your-digital-assets-now-with-efficiency-and-speed/"><u>Reclaim Your Digital Assets Now with Efficiency & Speed!</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2013-online-add-signature-to-word-2013-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online - Add Signature to Word 2013 for Free</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-5-smart-tips-about-youtube-shorts-to-grow-your-business/"><u>Updated In 2024, 5 Smart Tips About YouTube Shorts to Grow Your Business</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-background-generator/"><u>Updated In 2024, What Is AI Background Generator?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-from-snap-to-share-the-ultimate-guide-to-archiving-photos-for-2024/"><u>[New] From Snap to Share The Ultimate Guide to Archiving Photos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-spruce-up-your-stories-with-effortless-animated-text-techniques/"><u>[New] Spruce Up Your Stories With Effortless Animated Text Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-audio-disruptors-androidios-edition/"><u>[New] Top 10 Audio Disruptors Android/iOS Edition</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-resonance-and-rhythm-guide-to-downloading-vintage-ringtones/"><u>[Updated] In 2024, Resonance and Rhythm Guide to Downloading Vintage Ringtones</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-create-marketing-videos-ultimate-guide/"><u>2024 Approved How to Create Marketing Videos Ultimate Guide</u></a></li>
+<li><a href="https://fox-access.techidaily.com/effortless-voice-personalization-for-competitive-players-for-2024/"><u>Effortless Voice Personalization for Competitive Players for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-creative-with-fcp-x-a-3-step-guide-to-adding-awesome-effects-for-2024/"><u>Get Creative with FCP X A 3-Step Guide to Adding Awesome Effects for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-guide-learning-the-right-ways-to-start-facebook-live-shopping/"><u>New Guide Learning the Right Ways To Start Facebook Live Shopping</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-best-text-to-speech-online-tools-to-use/"><u>The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-voicemod-ai-review-transforming-your-voice-in-real-time-for-2024/"><u>Updated Voicemod AI Review Transforming Your Voice in Real Time for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/why-singer-prefer-not-using-ksr-web-app-for-songs-and-how-you-can-change-that/"><u>Why Singer Prefer NOT Using KSR Web-App for Songs & How You Can Change That!</u></a></li>
 </ul></div>
 

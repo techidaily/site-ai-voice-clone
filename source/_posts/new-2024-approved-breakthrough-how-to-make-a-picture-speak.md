@@ -1,7 +1,7 @@
 ---
 title: New 2024 Approved Breakthrough How to Make A Picture Speak
-date: 2025-01-26T22:04:42.334Z
-updated: 2025-01-31T21:08:40.925Z
+date: 2025-02-08T18:52:24.413Z
+updated: 2025-02-14T20:42:09.618Z
 tags: 
   - ai voice clone
   - voice cloning
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
  With AI-talking photos, storytelling reaches new heights that enable photographs to articulate themselves. By**making your pictures talk** , the stories they tell become more engaging and immersive.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### ● **Customization and Personalization**
 
  Users can now personalize their storytelling experience by narrating the stories behind their AI-generated photos using their voices.
@@ -55,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ![AI talking photo](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2\. Difficulties in Talking Photo Technology
@@ -134,6 +138,10 @@ To create a talking photo on mobile, follow the steps outlined below:
 
 ![export button pc](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-online-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Once uploaded, move your cursor to the Next button. Allow the app to set up your studio.
 
 ![export button pc](https://images.wondershare.com/virbo/article/2024/02/how-to-make-a-picture-speak-online-12.jpg)
@@ -177,6 +185,10 @@ Comparing traditional video editors, an AI video editor can perform various task
 
 It can automatically trim, cut, and arrange video clips to create a cohesive and engaging final video.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Scene detection
 
 It can analyze the video footage and identify different scenes or segments, making it easier to organize and edit the video.
@@ -184,10 +196,6 @@ It can analyze the video footage and identify different scenes or segments, maki
 ### 3\. Object recognition and tracking
 
 It can recognize and track specific objects or elements within the video, allowing for advanced editing techniques like adding effects, text, or annotations.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Automated transitions and effects
 
@@ -211,17 +219,9 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 An AI video editor refers to a software or system that utilizes artificial intelligence techniques to assist in the editing and enhancement of videos. It can analyze video content, automatically detect and track objects, apply visual effects, adjust colors and lighting, and even generate or suggest edits based on learned patterns and user preferences. An AI video editor is characterized by its ability to intelligently automate various aspects of the editing process, saving time and effort while enhancing the overall quality and creativity of the final video production.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. What are the features of an AI video editor?
 
 Comparing traditional video editors, an AI video editor can perform various tasks, including but not limited to:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Automatic video editing
 
@@ -408,6 +408,10 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
 ![veed video language translator](https://images.wondershare.com/virbo/article/video-language-translator-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Features
 
 1. It excels in simplifying the subtitle creation process through its automatic generator, significantly reducing the time and effort required for manual transcription.
@@ -466,10 +470,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 
  As Netflix expands globally, high-quality**translation Netflix** becomes crucial for a seamless viewing experience. To deepen comprehension, here are the complexities inherent in**Netflix subtitle translation** :
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### ●**Preserving Cultural Nuances**
 
  This involves accurately conveying cultural references, humor, and idiomatic expressions while ensuring they resonate with the target audience. It requires translators to understand the cultural context deeply to maintain the authenticity of the content.
@@ -497,10 +497,6 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 ### ●**Adapting to Language Evolution**
 
  Languages evolve over time, and translators need to stay updated with contemporary usage and emerging expressions. This requires ongoing education awareness of linguistic trends to ensure translations remain relevant and accurate.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Translate Netflix Subtitle Using a Dedicated Tool - Wondershare Virbo
 
@@ -557,7 +553,7 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 ![download video button](https://images.wondershare.com/virbo/article/2024/03/netflix-subtitle-translation-guide-12.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: What Are The Methods and Tips for Effective Netflix Subtitle Translation?
@@ -569,6 +565,10 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 ### ●**Maintaining Context, Tone, and Style**
 
  Translating subtitles requires more than just converting words. Translators must grasp the content of each dialogue and scene to accurately convey the intended meaning. They consider factors like character emotions, background information, and narrative flow to ensure the translated subtitles resonate with viewers. Consistency in tone and style across subtitles maintains the immersive experience for the audience to ensure they remain engaged with the content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### ●**Handling Cultural References and Idiomatic Expressions**
 
@@ -605,6 +605,10 @@ Overall, an AI video editor harnesses the power of artificial intelligence to si
 AI voice is an advanced application of AI language technology that utilizes artificial intelligence algorithms to generate or manipulate human-like voices. Powered by machine learning algorithms and deep neural networks, AI voice systems excel in replicating and modifying agents with remarkable precision and an uncanny sense of naturalness.
 
 The application of AI voice is extensive, and one of the latest applications is providing voiceover for AI-generated videos. Wondershare Virbo is a powerful AI video maker that utilizes advanced AI algorithms to enhance your scripts and allows you to select ideal characters from a pool of 150+ digital personas. Furthermore, it offers a library of 120+ AI voices for voiceover, enabling you to quickly generate various marketing, educational, social media, and news videos.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: What are the advantages of using AI voices?
 
@@ -646,6 +650,10 @@ AI voice is an advanced application of AI language technology that utilizes arti
 
 The application of AI voice is extensive, and one of the latest applications is providing voiceover for AI-generated videos. Wondershare Virbo is a powerful AI video maker that utilizes advanced AI algorithms to enhance your scripts and allows you to select ideal characters from a pool of 150+ digital personas. Furthermore, it offers a library of 120+ AI voices for voiceover, enabling you to quickly generate various marketing, educational, social media, and news videos.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: What are the advantages of using AI voices?
 
 #### **Flexibility and Customization**
@@ -661,6 +669,10 @@ AI voiceover services automate the process of narrating videos and audio content
 Free AI voice generators provide a budget-friendly option for individuals and small businesses to access high-quality voice synthesis without investing in expensive recording equipment or professional voice talent.
 
 [Get Started Online](https://tools.techidaily.com/wondershare/virbo/download/) [Free Download](https://tools.techidaily.com/wondershare/virbo/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: What are AI voices used for?
 
@@ -722,10 +734,6 @@ Tap “try now” and upload a portrait you want to use as your talking avatar b
 
 ![talking-photo-app-2.jpg](https://images.wondershare.com/virbo/guide/app/talking-photo-app-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 3\. Edit and export your video
 
 Enter text and choose a voiceover provided below to generate the voiceover of your video. You can also use your own voice by tapping “record audio”. Once you finished editing the video, tap “Generate Video” to export.
@@ -768,15 +776,7 @@ for Android
 
 secure download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2\. Step Guidance to Create a Talking Photo AI Avatar
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1\. Create a new project
 
@@ -894,24 +894,22 @@ Our attitude towards AI tools can vary because they can be influenced by various
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/updated-correcting-user-portrait-errors-in-digital-dialogue-for-2024/"><u>[Updated] Correcting User Portrait Errors in Digital Dialogue for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-iosandroid-tutorial-uploading-audio-to-social-network/"><u>[Updated] IOS/Android Tutorial Uploading Audio to Social Network</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-the-psychology-behind-effective-interviews/"><u>2024 Approved The Psychology Behind Effective Interviews</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-an-ai-tool/"><u>2024 Approved What Is an AI Tool?</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-se-by-name-drfone-by-drfone-virtual-ios/"><u>4 Most-Known Ways to Find Someone on Tinder For Apple iPhone SE by Name | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/beach-pool-bliss-with-innovative-gadgets/"><u>Beach Pool Bliss with Innovative Gadgets</u></a></li>
-<li><a href="https://facebook.techidaily.com/effective-methods-for-social-media-imagery-explanation/"><u>Effective Methods for Social Media Imagery Explanation</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-auto-translate-youtube-videos-into-different-languages/"><u>In 2024, Auto Translate YouTube Videos Into Different Languages</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-6-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 6 In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://fox-within.techidaily.com/in-depth-review-red-mobiles-newest-dj-software-mixnext-with-powerful-cdj-integration/"><u>In-Depth Review: Red Mobile's Newest DJ Software - MixNext with Powerful CDJ Integration</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-ai-face-generators-wondershare-virbo-glossary/"><u>New 2024 Approved Exploring AI Face Generators | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-ai-video-translator-online/"><u>New AI Video Translator | Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online/"><u>New Diverse Template | Online</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/quick-fixes-for-why-is-my-honor-x50i-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My Honor X50i Black and White | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/ultimate-index-downloading-your-preferred-chime-files/"><u>Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-talking-photo-feature/"><u>Updated 2024 Approved Talking Photo Feature</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-create-ai-avatar-videos-wondershare-virbo-for-2024/"><u>Updated Create AI Avatar Videos | Wondershare Virbo for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-template-online-for-2024/"><u>Updated Diverse Template | Online for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-background-generator-wondershare-virbo-glossary/"><u>Updated What Is AI Background Generator? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-initiate-online-interactions-with-this-guide-to-facebook-registration/"><u>[New] Initiate Online Interactions with This Guide to Facebook Registration</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-discover-your-favorite-6-premier-youtube-short-downloaders/"><u>2024 Approved Discover Your Favorite 6 Premier YouTube Short Downloaders</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-newcomers-notebook-navigating-through-pixel-perfect-videos/"><u>2024 Approved The Newcomer’s Notebook Navigating Through Pixel-Perfect Videos</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/a-critique-on-capcoms-latest-quest-hunting-and-defeating-extraordinary-beasts-in-monster-hunter-world/"><u>A Critique on Capcom's Latest Quest: Hunting and Defeating Extraordinary Beasts in Monster Hunter: World</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/ace-your-computer-needs-with-expert-tips-from-toms-hardware/"><u>Ace Your Computer Needs with Expert Tips From Tom's Hardware</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/acemagic-marks-star-wars-day-with-an-exclusive-x-wing-designed-mini-gaming-pc-launch/"><u>AceMagic Marks Star Wars Day with an Exclusive X-Wing Designed Mini Gaming PC Launch</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/expert-analysis-of-ibuypowers-y60-high-performance-gaming-pc/"><u>Expert Analysis of iBUYPOWER's Y60 High-Performance Gaming PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/five-effective-methods-to-correct-memory-integrity-errors-on-windows-11-systems/"><u>Five Effective Methods to Correct Memory Integrity Errors on Windows 11 Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fix-the-too-many-different-cell-formats-error-in-excel-2003-stellar-by-stellar-guide/"><u>Fix the Too many different cell formats Error in Excel 2003? | Stellar</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/innovative-modded-computer-system-integrating-a-built-in-coffee-brewer-complete-bean-roasting-and-grinding-capabilities/"><u>Innovative Modded Computer System Integrating a Built-In Coffee Brewer: Complete Bean Roasting & Grinding Capabilities</u></a></li>
+<li><a href="https://win11.techidaily.com/installation-woes-microsoft-pc-manager-on-windows-xp/"><u>Installation Woes: Microsoft PC Manager on Windows XP</u></a></li>
+<li><a href="https://article-posts.techidaily.com/introduction-to-moving-visual-content-for-2024/"><u>Introduction to Moving Visual Content for 2024</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/iphone-data-syncing-methods-how-to-manually-choose-files-to-move-to-your-windows-11-pc-without-itunes/"><u>IPhone Data Syncing Methods: How To Manually Choose Files to Move to Your Windows 11 PC Without iTunes</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/leading-uninterruptible-power-supply-solutions-reviewed/"><u>Leading Uninterruptible Power Supply Solutions Reviewed</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/mastering-tech-choices-with-guidance-from-toms-gadget-guide/"><u>Mastering Tech Choices With Guidance From Tom's Gadget Guide</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/navigating-the-world-of-electronics-with-toms-hardware-wisdom/"><u>Navigating the World of Electronics with Tom's Hardware Wisdom</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/tiny-thesis-for-film-storyline/"><u>Tiny Thesis for Film Storyline</u></a></li>
 </ul></div>
 
