@@ -1,7 +1,7 @@
 ---
 title: "Avoid Grounding Disaster: Ultimate Tips and Tricks for Stable PC Performance"
-date: 2025-02-09T18:52:28.416Z
-updated: 2025-02-15T00:14:37.263Z
+date: 2025-02-27T09:58:45.520Z
+updated: 2025-03-03T23:55:29.679Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -46,17 +42,9 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
@@ -105,10 +93,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Shut down unnecessary applications
 
  While you may not be aware, applications running in the background will consume much of your system resource and render War Thunder in low FPS. So, to let your game work without interruption, you can close all unneeded applications before you start a game.
@@ -120,10 +104,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **2)** Right-click the application you want to close and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -167,10 +147,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Reinstall War Thunder
 
  If none of the methods above helps you out, you should consider reinstalling the game in case there are some in-depth stubborn issues.
@@ -178,10 +154,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **1)** Launch Steam, and navigate to the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
@@ -194,10 +166,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer. Then, Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)** Click the**War Thunder folder** and press**Delete** .
 
@@ -225,19 +193,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-the-secrets-of-professional-gopro-video-filming/"><u>[New] 2024 Approved Unveiling the Secrets of Professional GoPro Video Filming</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[New] In 2024, Hilarious Highlights Reddit and Twitter's Best Bits</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-capture-and-preserve-windows-11-screens/"><u>[Updated] In 2024, Capture & Preserve Windows 11 Screens</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-maximizing-media-flexibility-in-vlc-through-mp4-conversions/"><u>[Updated] In 2024, Maximizing Media Flexibility in VLC Through MP4 Conversions</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-voice-wondershare-virbo-online/"><u>AI Voice | Wondershare Virbo Online</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/do-i-expect-a-control-panel-shortcut-on-my-windows-taskbar/"><u>Do I Expect a Control Panel Shortcut on My Windows Taskbar?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-an-ultimate-guide-of-best-narrator-voice-generators/"><u>In 2024, An Ultimate Guide of Best Narrator Voice Generators</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-playtime-perfection-the-kiddo-gamer-guide/"><u>In 2024, Playtime Perfection The Kiddo Gamer Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-devicenetworkbrowser-requirements-virbo-ai-live-stream/"><u>New In 2024, Device/Network/Browser Requirements | Virbo AI Live Stream</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-essence-of-insta-bokeh-a-step-by-step-guide/"><u>The Essence of Insta Bokeh - A Step-by-Step Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/to-upgrade-or-not-to-upgrade-the-iphone-16-debate/"><u>To Upgrade or Not to Upgrade: The iPhone 16 Debate</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/top-5-best-tools-to-convert-text-to-audio-online-for-free/"><u>Top 5 Best Tools to Convert Text to Audio Online for Free</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-narakeet-review-convenient-text-to-speech-voice-maker/"><u>Updated 2024 Approved Narakeet Review Convenient Text to Speech Voice Maker</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-what-is-ai-voice-text-to-speech-wondershare-virbo-glossary/"><u>Updated In 2024, What Is AI Voice Text to Speech? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-detailed-review-the-essence-of-hero4-black/"><u>[New] Detailed Review The Essence of Hero4 Black</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-laughs-in-a-click-building-hilarious-memes/"><u>[Updated] Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-action-cams-for-beginners/"><u>2024 Approved Affordable Action Cams for Beginners</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-capture-and-replay-top-tools-to-secure-every-web-moment/"><u>2024 Approved Capture & Replay Top Tools to Secure Every Web Moment</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-descript-ai-voice-enhancing-your-content-through-voice-replication/"><u>2024 Approved Descript AI Voice Enhancing Your Content Through Voice Replication</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-ideal-steadicam-pairings-with-premium-dslr-cameras/"><u>2024 Approved Ideal Steadicam Pairings with Premium DSLR Cameras</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/the-ultimate-guide-on-how-to-promoting-music-videos-on-youtube-for-2024/"><u>The Ultimate Guide on How to Promoting Music Videos on YouTube for 2024</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/understanding-the-complexities-in-organizational-process-management-lessons-from-the-abbyy-blog/"><u>Understanding The Complexities in Organizational Process Management – Lessons From the ABBYY Blog</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated 2024 Approved Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-creating-ai-videos-with-ai-avatars-for-2024/"><u>Updated Creating AI Videos With AI Avatars for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-8-ai-title-generators-for-creating-catchy-titles-for-all-platform/"><u>Updated In 2024, Best 8 AI Title Generators for Creating Catchy Titles For All Platform</u></a></li>
 </ul></div>
 

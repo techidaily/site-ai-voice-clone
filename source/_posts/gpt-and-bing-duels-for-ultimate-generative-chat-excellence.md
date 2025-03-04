@@ -1,7 +1,7 @@
 ---
 title: GPT and Bing Duels for Ultimate Generative Chat Excellence
-date: 2025-02-10T01:00:53.083Z
-updated: 2025-02-14T22:48:33.216Z
+date: 2025-02-25T03:08:39.023Z
+updated: 2025-03-04T05:08:55.058Z
 tags:
   - chatgpt
   - open-ai
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/ec5c93589cbbf4437a85d01509aad074c0824b7a4
 ## Generative AI and Its Potential Role in Propagating Disinformation Tactics
 
  Artificial Intelligence (AI) now plays a role in various aspects of our lives. Specifically, generative AI tools such as ChatGPT and others have grown significantly. This means that there will be an abundance of AI-generated content in the future.However, generative AI also introduces the risk of AI-generated disinformation. Its features make it easier for opportunistic individuals to spread false information. So, let's explore how generative AI is being utilized for disinformation.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Potential Risks of Generative AI to Spread Disinformation
 
@@ -37,17 +33,9 @@ False news can be categorized into three types:
 
  How will the law address the propagation of fake news through generative AI? Who will be held responsible for spreading false information—the users, developers, or the tools themselves?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4 Ways Generative AI Can Be Used to Spread Disinformation
 
  To stay safe online, everyone needs to understand the risks of generative AI in spreading disinformation, as it comes in many different forms. Here are a few ways it can be used to manipulate people.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Generating Fake Content Online
 
@@ -80,10 +68,6 @@ Here's the fictitious article that ChatGPT came up with:
 
  It's crucial, then, to be able to[identify videos created by deepfakes](https://www.makeuseof.com/how-can-you-tell-video-deepfake/) and distinguish them from originals.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. Cloning Human Voices
 
  Generative AI, along with deepfake technology, enables the manipulation of someone's speech. Deepfake technology is advancing rapidly and offers a variety of tools that can replicate anyone's voice. This allows malicious individuals to impersonate others and deceive unsuspecting individuals. One such example is[the use of deepfake music](https://www.makeuseof.com/what-is-deepfake-ai-music/) .
@@ -91,10 +75,6 @@ Here's the fictitious article that ChatGPT came up with:
  You might have come across tools like[Resemble AI](https://www.resemble.ai/) ,[Speechify](https://speechify.com/) ,[FakeYou](https://fakeyou.com/) , and others that can mimic the voices of celebrities. While these AI audio tools can be entertaining, they pose significant risks. Scammers can utilize voice cloning techniques for various fraudulent schemes, resulting in financial losses.
 
  Scammers may use deepfake voices to impersonate your loved ones and call you, pretending to be in distress. With synthetic audio that sounds convincing, they could urge you to send money urgently, leading you to become a victim of their scams. An incident reported by[The Washington Post](https://www.washingtonpost.com/technology/2023/03/05/ai-voice-scam/) in March 2023 exemplifies this issue: scammers used deepfake voices to convince people that their grandsons were in jail and needed money...
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to Spot AI-Spread Disinformation
 
@@ -128,24 +108,20 @@ Here's the fictitious article that ChatGPT came up with:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-assessing-the-value-of-4-second-rapid-subscriptions-on-youtube/"><u>[Updated] 2024 Approved Assessing the Value of 4-Second Rapid Subscriptions on Youtube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-premier-editor-that-works-on-every-device-you-own/"><u>[Updated] The Premier Editor That Works on Every Device You Own</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-seamless-clip-recording-solutions/"><u>2024 Approved Seamless Clip Recording Solutions</u></a></li>
-<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
-<li><a href="https://win-webster.techidaily.com/great-updates-from-southwest-airlines-whats-not-so-great-for-mr-gates-an-in-depth-analysis/"><u>Great Updates From Southwest Airlines: What's Not So Great for Mr. Gates? - An In-Depth Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-camon-20-premier-5g-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Camon 20 Premier 5G.</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-best-7-talking-photo-ai-you-must-try-online-and-download/"><u>In 2024, Best 7 Talking Photo AI You Must Try (Online & Download)</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-iphone-8-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to iPhone 8 iCloud Bypass</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigate-angular-video-transitions-on-android-devices/"><u>In 2024, Navigate Angular Video Transitions on Android Devices</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide/"><u>In 2024, Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-paying-for-chatgpt-plus-subscription-justified-an-in-depth-review/"><u>Is Paying for ChatGPT Plus Subscription Justified? An In-Depth Review</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New 2024 Approved Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-script/"><u>New Create AI Avatar Video with AI Script</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-rtmp-streaming-on-instagram-a-comprehensive-tutorial/"><u>New RTMP Streaming on Instagram A Comprehensive Tutorial</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-nubia-red-magic-9-proplus-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Nubia Red Magic 9 Pro+ Device</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-creating-ai-videos-with-ai-avatars-for-2024/"><u>Updated Creating AI Videos With AI Avatars for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-exploring-the-finest-text-to-speech-male-voice-tools-for-natural-output/"><u>Updated Exploring the Finest Text-to-Speech Male Voice Tools for Natural Output</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-build-your-ai-twitch-streamer-with-animated-avatars/"><u>Updated In 2024, Build Your AI Twitch Streamer with Animated Avatars</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>Updated What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-to-create-a-sports-highlight-video-for-2024/"><u>[New] How to Create a Sports Highlight Video for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-cutting-edge-strategies-for-choosing-best-fpv-drone-blades/"><u>[New] In 2024, Cutting-Edge Strategies for Choosing Best FPV Drone Blades</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-video-textualizer/"><u>[New] In 2024, Video Textualizer</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-video-visibility-victory-strategies-for-hitting-high-view-milestones-on-youtube-for-2024/"><u>[Updated] Video Visibility Victory Strategies for Hitting High-View Milestones on YouTube for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-mastering-facebook-live-your-complete-guide-to-successful-streaming/"><u>2024 Approved Mastering Facebook Live Your Complete Guide to Successful Streaming</u></a></li>
+<li><a href="https://driver-download.techidaily.com/broadcom-bluetooth-software-update-compatible-with-windows-1087/"><u>Broadcom Bluetooth Software Update - Compatible with Windows 10/8/7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Nokia C300? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-configure-streamlabs-on-your-mac-using-obs/"><u>In 2024, Configure Streamlabs on Your Mac Using OBS</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-music-service-streaming-channels/"><u>Leading Music Service Streaming Channels</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-create-ai-avatar-video-with-ai-avatar-wondershare-virbo-online/"><u>New Create AI Avatar Video with AI Avatar | Wondershare Virbo Online</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-for-2024/"><u>New Diverse Template for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-depth-review-of-ivona-text-to-speech-converter-for-2024/"><u>New In-Depth Review of Ivona Text to Speech Converter for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-top-5-ai-voice-generators-online-supports-all-browsers-for-2024/"><u>New Top 5 AI Voice Generators Online (Supports All Browsers) for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-video-editor-wondershare-virbo-glossary-for-2024/"><u>New What Is an AI Video Editor? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-registration-and-login/"><u>Updated Registration and Login</u></a></li>
 </ul></div>
 

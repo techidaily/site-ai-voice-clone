@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Updates in Mass Effect Trilogy's Legendary Edition"
-date: 2025-02-12T00:08:18.641Z
-updated: 2025-02-15T00:31:25.996Z
+date: 2025-02-26T23:42:56.426Z
+updated: 2025-03-03T18:58:15.862Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 [4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Check your Internet connection
 
@@ -73,18 +69,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -102,19 +90,11 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -152,22 +132,16 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-a-gamers-guide-to-twisting-videos-on-youtube-2e-for-2024/"><u>[New] A Gamer's Guide to Twisting Videos on YouTube (2E) for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-chuckle-inducing-snaps-applying-the-cartoon-face-effect-on-snapchat/"><u>[New] In 2024, Chuckle-Inducing Snaps Applying the Cartoon Face Effect on Snapchat</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube/"><u>[Updated] 2024 Approved A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-best-display-for-your-needs-ultrawide-vs-uhd-4k-guide/"><u>[Updated] The Best Display for Your Needs UltraWide vs UHD 4K Guide</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/5yq55p6c55qe44gq5oml5q6144gn44ov44kk44oj44k544kv44oq44o844oz44og44o844ot44o844gl44kj44os44k44o844oc44od44kv44k544k144kk44k644g444gu5asj5oplusb44ks44kk44oj.m88/"><u>効果的な手段でワイドスクリーンムービーからレターボックスサイズへの変換ガイド</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/ai-avatar-wondershare-virbo-user-guide-for-2024/"><u>AI Avatar | Wondershare Virbo User Guide for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s24-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/in-2024-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>In 2024, How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-samsung-galaxy-s24-ultra-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Samsung Galaxy S24 Ultra Phone Pattern Lock</u></a></li>
-<li><a href="https://techtrends.techidaily.com/master-the-art-of-reviving-all-ipad-versions-with-these-simple-restart-techniques/"><u>Master the Art of Reviving All iPad Versions with These Simple Restart Techniques</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-how-to-translate-videos-in-tamil-for-a-wider-reach/"><u>New 2024 Approved How To Translate Videos in Tamil for a Wider Reach</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-top-8-multi-subtitles-translators-you-can-use/"><u>New 2024 Approved Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-devicenetworkbrowser-requirements-virbo-ai-live-stream/"><u>New Device/Network/Browser Requirements | Virbo AI Live Stream</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-official-announcement-filmora-x-now-supports-arm/"><u>New In 2024, Official Announcement Filmora X Now Supports ARM</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-voice-in-2024/"><u>Updated What Is AI Voice, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/waht-is-ai-pixel-art-generator-wondershare-virbo-glossary-for-2024/"><u>Waht Is AI Pixel Art Generator? | Wondershare Virbo Glossary for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/crafting-content-that-captivates-the-square-video-formula-on-fb/"><u>Crafting Content That Captivates The Square Video Formula on FB</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-exploring-ai-face-generators-wondershare-virbo-glossary/"><u>New 2024 Approved Exploring AI Face Generators | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online/"><u>New Diverse Template | Online</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/premium-android-vr3d-player-selection/"><u>Premium Android VR/3D Player Selection</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/showcasing-the-best-of-image-integration-in-frames-for-24-for-2024/"><u>Showcasing the Best of Image Integration in Frames for '24 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-checklist-evaluating-your-ideal-ai-chatbot-platform-with-these-7-features/"><u>The Ultimate Checklist: Evaluating Your Ideal AI Chatbot Platform with These 7 Features</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-talking-photo-feature/"><u>Updated 2024 Approved Talking Photo Feature</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-diverse-template-online-for-2024/"><u>Updated Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-ai-background-generator-wondershare-virbo-glossary/"><u>Updated What Is AI Background Generator? | Wondershare Virbo Glossary</u></a></li>
 </ul></div>
 

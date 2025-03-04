@@ -1,7 +1,7 @@
 ---
 title: "Obscure Crossover Port Uncovered: DisplayPort & HDMI Fusion Inside the Abandoned Steam Machine, Piston Xi3"
-date: 2025-02-14T00:38:03.973Z
-updated: 2025-02-14T21:10:51.956Z
+date: 2025-02-26T08:46:25.804Z
+updated: 2025-03-04T07:36:39.437Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,6 @@ These are the specifications of the two Asus ROG NUC models:
 
  You can now see both devices on the[Asus website](https://clk.tradedoubler.com/click?p=332082&a=2384895&epi=tomshardware-us-6479410811963061514&url=https%3A%2F%2Frog.asus.com%2Fus%2Fdesktops%2Fmini-pc%2Frog-nuc%2F) , but they're marked as 'Temporarily Out of Stock.' Nevertheless, if you're looking for a tiny gaming PC, you can ask Asus to notify you when they become available. You should also prepare your wallet if you want this device with its high starting price. It does come with a discrete GPU, though, unlike other mini-PC designs, where you need an eGPU dock to enjoy high-quality graphics.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Stay On the Cutting Edge: Get the Tom's Hardware Newsletter
 
  Get Tom's Hardware's best news and in-depth reviews, straight to your inbox.
@@ -68,22 +64,19 @@ These are the specifications of the two Asus ROG NUC models:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-instagram-artists-and-intellectual-property-rights/"><u>[New] 2024 Approved Instagram Artists & Intellectual Property Rights</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-advanced-card-selections-uhd-video-perfection/"><u>[New] Advanced Card Selections UHD Video Perfection</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-leading-steadicam-choices-for-improved-dslr-footage/"><u>[New] Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tricks-to-improve-instagram-video-load-speeds-mobile/"><u>[New] Tricks to Improve Instagram Video Load Speeds (Mobile)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210655443-9781454932499-a-little-bit-of-mindfulness/"><u>A Little Bit of Mindfulness | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-call-of-duty-wwiis-black-display-glitch-on-windows-pcs/"><u>Expert Tips to Resolve Call of Duty: WWII's Black Display Glitch on Windows PCs</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722969565829-get-the-edge-in-gaming-secure-your-copy-of-steelseries-engine-for-windows-11-today/"><u>Get the Edge in Gaming: Secure Your Copy of SteelSeries Engine for Windows 11 Today</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-text-to-speech-wondershare-virbo-online/"><u>New 2024 Approved Text To Speech | Wondershare Virbo Online</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-text-to-video-ai-generator-tools-alternative-to-sora/"><u>New 2024 Approved The Best Text-to-Video AI Generator Tools Alternative to Sora</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-authors-recommended-the-best-text-voice-generators-for-all-platforms/"><u>New Authors Recommended The Best Text Voice Generators for All Platforms</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-12plus-5g-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme 12+ 5G Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/top-5-vivo-t2-5g-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Vivo T2 5G Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/translate-videos-like-a-pro-with-subtitle-cat-your-essential-guide-for-2024/"><u>Translate Videos Like a Pro with Subtitle Cat Your Essential Guide for 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-a-comprehensive-guide-for-free-video-translator-downloading/"><u>Updated 2024 Approved A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-installation-and-registration/"><u>Updated In 2024, Installation and Registration</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/updated-what-is-talking-avatar-in-2024/"><u>Updated What Is Talking Avatar, In 2024</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/what-is-talking-avatar-in-2024/"><u>What Is Talking Avatar, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-simplified-screen-capture-methods-for-stories/"><u>[New] 2024 Approved Simplified Screen Capture Methods for Stories</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-iphone-savvy-techniques-for-storing-and-streaming-animated-images/"><u>[Updated] IPhone-Savvy Techniques for Storing and Streaming Animated Images</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-vidas-power-for-film-and-video-professionals/"><u>2024 Approved Unveiling Vida's Power for Film and Video Professionals</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/how-to-lock-in-your-favorite-tiktok-moments-smartly/"><u>How to Lock in Your Favorite TikTok Moments - Smartly</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-poco-c55-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Poco C55 Phone Pattern Lock</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/material-preparation-for-2024/"><u>Material Preparation for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-diverse-template-online-for-2024/"><u>New Diverse Template | Online for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-must-read-learn-from-deepfake-scandals-and-protect-your-stream/"><u>New In 2024, Must-Read Learn From Deepfake Scandals & Protect Your Stream</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-text-to-speech-online/"><u>New In 2024, Text To Speech | Online</u></a></li>
+<li><a href="https://fox-info.techidaily.com/no-cost-endless-chuckles-the-meme-makers-manual-for-2024/"><u>No Cost, Endless Chuckles The Meme Makers' Manual for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/text-on-a-budget-tips-and-tricks-to-reduce-data-plan-costs/"><u>Text On A Budget: Tips and Tricks to Reduce Data Plan Costs</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-video-translator-app-for-pc-you-cannot-miss/"><u>Updated 2024 Approved Best Video Translator App for PC You Cannot Miss</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-youtube-live-selling-boost-your-sales-with-these-tips/"><u>Updated In 2024, YouTube Live Selling Boost Your Sales With These Tips</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-m6-pro-4g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco M6 Pro 4G? Here Is the Answer | Dr.fone</u></a></li>
 </ul></div>
 
